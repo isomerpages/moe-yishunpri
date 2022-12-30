@@ -40,3 +40,5 @@ description: ""
 |                           | Foundation Science                                                                                                                                                                                                      | 0815 – 0930 h                  | 1 h 15 min               |
 |  Wednesday,<br><br>05 October | Higher Chinese Language Paper 1<br><br>Higher Malay Language Paper 1 <br><br>Higher Tamil Language Paper 1                                                                                                                      | 0815 – 0905 h                  | 50 min                   |
 |                           | Higher Chinese Language Paper 2<br><br>Higher Malay Language Paper 2<br><br>Higher Tamil Language Paper 2                                                                                                                       | 1015 – 1135 h                  | 1 h 20 min               |
+
+**Click <a href="" target="_blank">here</a> for approved 2022 Dictionary List for PSLE.**
