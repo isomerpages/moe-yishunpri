@@ -27,7 +27,7 @@ third_nav_title: OUR STAFF
 | 2 Respect        |                                      Mdm Sathiya Kala<br>[sathiya\_kala\_ramasamy@schools.gov.sg](mailto:sathiya_kala_ramasamy@schools.gov.sg)<br><br>Miss Tan Lian Kiah<br>[tan\_lian\_kiah@schools.gov.sg](mailto:tan_lian_kiah@schools.gov.sg)                                |
 | 2 Responsibility |                                           Ms Chew Ching Wen<br>[chew\_ching\_wen@schools.gov.sg](mailto:chew_ching_wen@schools.gov.sg)<br><br>Mrs Lynne Tok<br>[ng\_chai\_hong@schools.gov.sg](mailto:ng_chai_hong@schools.gov.sg)                                        |
 | 2 Integrity      |                                     Miss Lee Linghui, Alcina<br>[lee\_linghui\_alcina@schools.gov.sg](mailto:lee_linghui_alcina@schools.gov.sg)<br><br>Mdm Ling Li Huan<br>[ling\_li\_huan@schools.gov.sg](mailto:ling_li_huan@schools.gov.sg)                                 |
-| 2 Harmony        | Mr Huang Yaohua, David<br>huang_yaohua_david@schools.gov.sg<br><br>Mr Masri Bin Kario<br>masri_kario@schools.gov.sg<br><br>Mdm Roopini D/O Jaya Balan<br>roopini_jaya_balan@schools.gov.sg  |
+| 2 Harmony        | Mr Huang Yaohua, David<br>[huang\_yaohua\_david@schools.gov.sg](mailto:huang_yaohua_david@schools.gov.sg)<br><br>Mr Masri Bin Kario<br>[masri\_kario@schools.gov.sg](mailto:masri_kario@schools.gov.sg)<br><br>Mdm Roopini D/O Jaya Balan<br>[roopini\_jaya\_balan@schools.gov.sg](mailto:roopini_jaya_balan@schools.gov.sg)  |
 
 
 
