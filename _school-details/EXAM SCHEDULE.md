@@ -73,3 +73,13 @@ description: ""
 | Date               | Paper                                | Level  | Time                   |
 |:-------------:|------------|:---------:|----------------|
 | Monday,25 Oct 2021 | P5 End of Year Oral Exam - EL & MTL  |   P5   | After curriculum hours |
+
+**B. Written Examination**
+
+| Date                       | Paper                                                                                                                          | Level                | Time                    |
+|:-------------:|------------|:---------:|----------------|
+|  Wednesday,<br>27 Oct 2021 | End of Year Written Exam - Higher Mother Tongue Paper 1<br><br>End of Year Written Exam - Higher Mother Tongue Paper 2<br>     | P5<br>taking<br>HMTL | During curriculum hours |
+|  Thursday,<br>28 Oct 2021  | End of Year Written Exam - English Paper 1<br><br>End of Year Written Exam - English Paper 2<br>                               |          P5          | During curriculum hours |
+|   Friday,<br>29 Oct 2021   | End of Year Written Exam - Mathematics                                                                                         |          P5          | During curriculum hours |
+|    Monday,<br>1 Nov 2021   | End of Year Written Exam - Mother Tongue Language Paper 1<br><br>End of Year Written Exam - Mother Tongue Language Paper 2<br> |          P5          | During curriculum hours |
+|   Tuesday,<br>2 Nov 2021   | End of Year Written Exam - Science                                                                                             |          P5          | During curriculum hours |
