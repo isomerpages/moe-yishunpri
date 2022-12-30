@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - OUR STAFF/.keep
-      - OUR STAFF.md
       - VISION AND MISSION.md
       - SCHOOL BACKGROUND.md
       - PRINCIPAL'S MESSAGE.md
