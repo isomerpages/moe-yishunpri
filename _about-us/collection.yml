@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - OUR STAFF/OUR STAFF.md
       - OUR STAFF/.keep
       - VISION AND MISSION.md
       - SCHOOL BACKGROUND.md
