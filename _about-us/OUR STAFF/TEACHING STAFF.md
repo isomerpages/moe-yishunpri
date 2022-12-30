@@ -82,9 +82,9 @@ third_nav_title: OUR STAFF
 
 |                                 |                                |
 |:-----------:|:------------------------:|
-|                  Mrs Adelene Hong                |      hong_eng_leong@schools.gov.sg     |
-|                  Mrs Eileen Lee                  |  ong_boon_ching_eileen@schools.gov.sg  |
-|                  Mdm Goh Zi Wei                  |        goh_zi_wei@schools.gov.sg       |
+|                  Mrs Adelene Hong                |     [hong\_eng\_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg)     |
+|                  Mrs Eileen Lee                  |  [ong\_boon\_ching\_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg)  |
+|                  Mdm Goh Zi Wei                  |        [goh\_zi\_wei@schools.gov.sg](mailto:goh_zi_wei@schools.gov.sg)      |
 |  Mdm Ng Mei Ling - Mrs Tan<br>(Lead SEN Officer) |      ng_mei_ling_c@schools.gov.sg      |
 |  Miss Sandra sunarti Sulaiman <br>(SEN Officer)  | sandra_sunarti_sulaiman@schools.gov.sg |
 |       Mr Hamdan Bin Alias<br>(SEN Officer)       |       hamdan_alias@schools.gov.sg      |
