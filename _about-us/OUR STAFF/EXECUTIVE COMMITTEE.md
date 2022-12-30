@@ -59,7 +59,7 @@ third_nav_title: OUR STAFF
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">Head of Department&nbsp;Mathematics</td>
+<td style="text-align: center;"><p>Head of Department Mathematics</p></td>
 <td style="text-align: center;">
 <p>Mrs Mary Chen<br><a href="mailto:tong_mary@schools.gov.sg">tong_mary@schools.gov.sg</a></p>
 </td>
