@@ -168,7 +168,7 @@ third_nav_title: OUR STAFF
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;Subject Head Student Leadership (Internal)</td>
+<td style="text-align: center;"><p>Subject Head Student Leadership (Internal)</p></td>
 <td style="text-align: center;"><p>Ms Joan Kam<br><a href="mailto:joan_kam_see_mun@schools.gov.sg">joan_kam_see_mun@schools.gov.sg</a></p></td>
 </tr>
 <tr>
