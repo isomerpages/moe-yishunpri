@@ -18,18 +18,18 @@ description: ""
 Attire for Pupils
 -----------------
 
-School Uniform
+<u>School Uniform</u>
 
 1\. Pupils are to wear the prescribed school uniform and modification to the uniform IS NOT ALLOWED.   
 2\. School blouse / shirt sleeves should not be rolled up. 
 
-PE Attire
+<u>PE Attire</u>
 
 1\. Pupils are to be attired in their PE T-shirts and brown PE shorts during PE lessons. (P3 to P6 pupils)   
 2\. Name tags must be sewn above the school badge on the PE T-shirts.     
 3\. PE T-shirts must always be neatly tucked in.  
 
-Shoes and Socks
+<u>Shoes and Socks</u>
 
 1\. Only plain black shoes are allowed in school.   
 2\. School’s black socks or plain black socks must be worn at all times.    
@@ -38,7 +38,7 @@ Shoes and Socks
 Appearance for Boys
 -------------------
 
-Hair
+<u>Hair</u>
 
 1\. Hair must be short and neatly combed.   
 2\. Hair must not touch the collar of the uniform.   
@@ -47,7 +47,7 @@ Hair
 5\. No side burns are allowed.    
 6\. No colouring of hair is allowed.   
 
-Nails and Accessories 
+<u>Nails and Accessories </u>
 
 1\. Nails should be clean and short.   
 2\. Piercing of ear is not allowed.      
@@ -58,7 +58,7 @@ Nails and Accessories 
 Appearance for Girls
 --------------------
 
-Hair
+<u>Hair</u>
 
 1\. Short hair should be neatly combed.   
 2\. Hair that reaches beneath the collar should be neatly plaited or tied up in a ponytail.   
