@@ -49,7 +49,7 @@ third_nav_title: OUR STAFF
 |:------------:|:------:|
 | 4 Gratitude      |                         Miss Joan Kam See Mun<br>[joan\_kam\_see\_mun@schools.gov.sg](mailto:joan_kam_see_mun@schools.gov.sg)<br><br>Mdm Nur Hamizah Bte Rosidin<br>[nur\_hamizah\_rosidin@schools.gov.sg](mailto:nur_hamizah_rosidin@schools.gov.sg)                          |
 | 4 Care           | Mr Bahar Ali bin Sakor<br>[bahar\_ali\_sakor@schools.gov.sg](mailto:bahar_ali_sakor@schools.gov.sg)<br><br>Miss Guan Qinqin<br>[guan\_qin\_qin@schools.gov.sg](mailto:guan_qin_qin@schools.gov.sg)<br><br>Mrs Tan Chin Choo, Kelly<br>[tan\_chin\_choo\_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg)  |
-| 4 Resilience     |                                  Mdm Justina<br>justina_alexis_jeraled@schools.gov.sg<br><br>Mr Quek Xiang Jing<br>quek_xiang_jing@schools.gov.sg                                  |
+| 4 Resilience     |                                  Mdm Justina<br>[justina\_alexis\_jeraled@schools.gov.sg](mailto:justina_alexis_jeraled@schools.gov.sg)<br><br>Mr Quek Xiang Jing<br>[quek\_xiang\_jing@schools.gov.sg](mailto:quek_xiang_jing@schools.gov.sg)                                |
 | 4 Respect        |                                Ms Chua Mei Ling<br>chua_mei_ling_b@schools.gov.sg<br><br>Mr Sahir Bin Mohamed Tauhid<br>sahir_abdullah@schools.gov.sg                              |
 | 4 Responsibility |                                Mr Chou Ching Shan<br>chou_ching_shan@schools.gov.sg<br><br>Miss Fam Xinru Winnie<br>fam_xinru_winnie@schools.gov.sg                                |
 
