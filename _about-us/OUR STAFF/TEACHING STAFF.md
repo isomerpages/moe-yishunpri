@@ -19,7 +19,15 @@ third_nav_title: OUR STAFF
 
 ## Primary 2
 
-
+| Class            |                                                                                        Form Teachers                                                                                        |
+|------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2 Gratitude      |                                          Miss Han Ying<br>han_ying_a@schools.gov.sg<br><br>Mdm June Low Mun Ling<br>june_low_mun_ling@schools.gov.sg                                        |
+| 2 Care           |    Mdm Carine Ang<br>ang_chai_lan@schools.gov.sg<br><br>Mdm Noor Faranah Bte Mohamed Yatim<br>noor_faranah_mohamed@schools.gov.sg<br><br>Mdm Wong Pei Fen<br>wong_pei_fen@schools.gov.sg    |
+| 2 Resilience     |                                  Mdm Tong Mun Hwee<br>tong_mun_hwee@schools.gov.sg<br><br>Mrs Ahrunhachelam Shanthi<br>ahrunhachelam_shanthi@schools.gov.sg                                 |
+| 2 Respect        |                                      Mdm Sathiya Kala<br>sathiya_kala_ramasamy@schools.gov.sg<br><br>Miss Tan Lian Kiah<br>tan_lian_kiah@schools.gov.sg                                     |
+| 2 Responsibility |                                           Ms Chew Ching Wen<br>chew_ching_wen@schools.gov.sg<br><br>Mrs Lynne Tok<br>ng_chai_hong@schools.gov.sg                                            |
+| 2 Integrity      |                                     Miss Lee Linghui, Alcina<br>lee_linghui_alcina@schools.gov.sg<br><br>Mdm Ling Li Huan<br>ling_li_huan@schools.gov.sg                                    |
+| 2 Harmony        | Mr Huang Yaohua, David<br>huang_yaohua_david@schools.gov.sg<br><br>Mr Masri Bin Kario<br>masri_kario@schools.gov.sg<br><br>Mdm Roopini D/O Jaya Balan<br>roopini_jaya_balan@schools.gov.sg  |
 
 
 
