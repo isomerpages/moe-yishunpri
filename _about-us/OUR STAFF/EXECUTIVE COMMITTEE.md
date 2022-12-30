@@ -82,7 +82,7 @@ third_nav_title: OUR STAFF
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Head of Department Character &amp; Citizenship Education</p>
+<p>Head of Department Character & Citizenship Education</p>
 </td>
 <td style="text-align: center;">
 <p>Mr Sahir Abdullah <br><a href="mailto:sahir_abdullah@schools.gov.sg">sahir_abdullah@schools.gov.sg</a></p>
@@ -169,7 +169,7 @@ third_nav_title: OUR STAFF
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;Subject Head Student Leadership (Internal)</td>
-<td style="text-align: center;">Ms Joan Kam<br><a href="mailto:joan_kam_see_mun@schools.gov.sg">joan_kam_see_mun@schools.gov.sg</a></td>
+<td style="text-align: center;"><p>Ms Joan Kam<br><a href="mailto:joan_kam_see_mun@schools.gov.sg">joan_kam_see_mun@schools.gov.sg</a></p></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="201">
