@@ -26,7 +26,7 @@ third_nav_title: OUR STAFF
 <p>Principal</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mr Marvin Chan <a href="mailto:Marvin_CHAN@schools.gov.sg">marvin_chan@schools.gov.sg</a></p>
+<p>Mr Marvin Chan <br><a href="mailto:Marvin_CHAN@schools.gov.sg">marvin_chan@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ third_nav_title: OUR STAFF
 <p>Vice-Principal (Academic)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mr Nicholas Tan Yew Lee <a href="mailto:Nicholas_TAN@schools.gov.sg">nicholas_tan@schools.gov.sg</a></p>
+<p>Mr Nicholas Tan Yew Lee <br><a href="mailto:Nicholas_TAN@schools.gov.sg">nicholas_tan@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
