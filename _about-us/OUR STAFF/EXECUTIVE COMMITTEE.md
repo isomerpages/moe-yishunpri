@@ -256,10 +256,10 @@ third_nav_title: OUR STAFF
 </tr>
 <tr>
 <td style="text-align: center;" width="201">
-<p>Administration Manager&nbsp;</p>
+<p>Administration Manager</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mdm Amanda Woo <a href="mailto:Amanda_WOO@schools.gov.sg">amanda_woo@schools.gov.sg</a></p>
+<p>Mdm Amanda Woo <br><a href="mailto:Amanda_WOO@schools.gov.sg">amanda_woo@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ third_nav_title: OUR STAFF
 <p>Operations Manager</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mr Saravanan s/o Sunthiramohan <a href="mailto:saravanan_b@schools.gov.sg">saravanan_b@schools.gov.sg</a></p>
+<p>Mr Saravanan s/o Sunthiramohan <br><a href="mailto:saravanan_b@schools.gov.sg">saravanan_b@schools.gov.sg</a></p>
 </td>
 </tr>
 </tbody>
