@@ -67,8 +67,8 @@ third_nav_title: OUR STAFF
 
 ## Primary 6
 
-| Class             |                                                                                                  Form Teachers                                                                                                |
-|-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Class             |        Form Teachers       |
+|:-----------------:|:---------------------:|
 |    6 Gratitude    | Miss Loh Phieh Hsi, Wanda<br>loh_phieh_hsi_wanda@schools.gov.sg<br><br>Mdm Maisarah Binte Zainal Abiden<br>maisarah_zainal_abiden@schools.gov.sg<br><br>Mr Yamalasamy<br>yamalasamy_shanmugiah@schools.gov.sg |
 | 6 Care            |                   Mrs Mary Chen<br>tong_mary@schools.gov.sg<br><br>Mr Tan Guan Sheng Bronson<br>tan_guan_sheng@schools.gov.sg<br><br>Mrs Valencia Lo<br>valencia_thng_su_ying@schools.gov.sg                  |
 | 6 Resilience      |                     Mr Ang Liang Tien, Terrance<br>ang_liang_tien@schools.gov.sg<br><br>Mrs Ribut<br>ribut_nawi@schools.gov.sg<br><br>Mr Vasudavan<br>vasudavan_s_g_pillai@schools.gov.sg                     |
