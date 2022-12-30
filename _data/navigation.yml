@@ -2,3 +2,5 @@ logo: /images/logo.png
 links:
   - title: ABOUT US
     collection: about-us
+  - title: School Details
+    collection: school-details
