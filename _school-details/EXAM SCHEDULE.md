@@ -22,3 +22,6 @@ description: ""
 |                                                  | Foundation Chinese Language/ Foundation Malay Language/ Foundation Tamil Language                                                                                                                                                   | 0900 – 0940 h \* |
 |                                                  | Bengali Language/ Gujarati Language/ Hindi Language/ Panjabi Language/ Urdu Language<br><br>Foundation Bengali Language/ Foundation Gujarati Language/ Foundation Hindi Language/ Foundation Panjabi Language/ Foundation Urdu Language | 0900 – 0930 h \* |
 |                                                  | English Language /  Foundation English Language                                                                                                                                                                                     | 1115 – 1150 h \* |
+
+\* *Actual duration may differ slightly*
+
