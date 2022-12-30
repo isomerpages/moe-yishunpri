@@ -42,3 +42,5 @@ description: ""
 |                           | Higher Chinese Language Paper 2<br><br>Higher Malay Language Paper 2<br><br>Higher Tamil Language Paper 2                                                                                                                       | 1015 – 1135 h                  | 1 h 20 min               |
 
 **Click <a href="/files/School%20details/list_of_dictionaries_for_examination.pdf" target="_blank">here</a> for approved 2022 Dictionary List for PSLE.**
+
+**2022 P4 & P6 Mid-Year Examination Time-table**
