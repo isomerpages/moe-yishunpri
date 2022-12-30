@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - OUR SCHOOL SONG.md
       - VISION AND MISSION.md
       - SCHOOL BACKGROUND.md
       - PRINCIPAL'S MESSAGE.md
+      - OUR SCHOOL SONG.md
