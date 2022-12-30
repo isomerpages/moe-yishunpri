@@ -47,7 +47,7 @@ third_nav_title: OUR STAFF
 </tr>
 <tr>
 <td style="text-align: center;" colspan="2">
-<p><strong>Head-of-Department (HOD) &amp; Level/Subject Head (LH/SH)</strong></p>
+<p><strong>Head-of-Department (HOD) & Level/Subject Head (LH/SH)</strong></p>
 </td>
 </tr>
 <tr>
