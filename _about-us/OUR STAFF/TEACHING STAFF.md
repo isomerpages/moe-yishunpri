@@ -34,8 +34,8 @@ third_nav_title: OUR STAFF
 ## Primary 3
 
 
-| Class             |                                                                                                        Form Teachers                                                                                                        |
-|-------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Class             |      Form Teachers      |
+|:-----------------:|:---------------------:|
 | 3 Gratitude       |                                                          Mdm Cher Xin Joo<br>cher_xin_joo@schools.gov.sg<br><br>Mr Wu Pom Hin Amos<br>amos_wu_pom_hin@schools.gov.sg                                                        |
 | 3 Care            |                                                         Mr Leong Weng Hong<br>leong_weng_hong@schools.gov.sg<br><br>Mdm Nurhayati<br>nurhayati_nasir@schools.gov.sg                                                         |
 |    3 Resilience   |                                                     Miss Gan Ke Ting<br>gan_ke_ting@schools.gov.sg<br><br>Miss Siti Amalina<br>siti_amalina_mohamed_sai@schools.gov.sg                                                      |
