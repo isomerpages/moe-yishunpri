@@ -38,12 +38,12 @@ third_nav_title: OUR STAFF
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;Vice-Principal (Academic)</td>
-<td style="text-align: center;">Mdm Farlinah Supaah<br /><a href="mailto:farlinah_supaah@schools.gov.sg">farlinah_supaah@schools.gov.sg</a></td>
+<td style="text-align: center;">Vice-Principal (Academic)</td>
+<td style="text-align: center;">Mdm Farlinah Supaah<br><a href="mailto:farlinah_supaah@schools.gov.sg">farlinah_supaah@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;Vice-Principal (Administration)</td>
-<td style="text-align: center;">Mr Lee Han Keong<br /><a href="mailto:lee_han_keong@schools.gov.sg">lee_han_keong@schools.gov.sg&nbsp;</a></td>
+<td style="text-align: center;">Vice-Principal (Administration)</td>
+<td style="text-align: center;">Mr Lee Han Keong<br><a href="mailto:lee_han_keong@schools.gov.sg">lee_han_keong@schools.gov.sg&nbsp;</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="2">
@@ -55,12 +55,12 @@ third_nav_title: OUR STAFF
 <p>Head of Department English</p>
 </td>
 <td style="text-align: center;">
-<p>Mdm Maisarah Binte Zainal Abiden <a href="mailto:maisarah_zainal_abiden@schools.gov.sg">maisarah_zainal_abiden@schools.gov.sg</a></p>
+<p>Mdm Maisarah Binte Zainal Abiden <br><a href="mailto:maisarah_zainal_abiden@schools.gov.sg">maisarah_zainal_abiden@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;Head of Department&nbsp;Mathematics</td>
-<td style="text-align: center;">&nbsp;Mrs Mary Chen
+<td style="text-align: center;">Head of Department&nbsp;Mathematics</td>
+<td style="text-align: center;">Mrs Mary Chen
 <p><a href="mailto:tong_mary@schools.gov.sg">tong_mary@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ third_nav_title: OUR STAFF
 <p>Head of Department Mother Tongue Languages</p>
 </td>
 <td style="text-align: center;">
-<p>Mdm Chiang Te Hui <a href="mailto:chiang_te_hui@schools.gov.sg">chiang_te_hui@schools.gov.sg</a></p>
+<p>Mdm Chiang Te Hui <br><a href="mailto:chiang_te_hui@schools.gov.sg">chiang_te_hui@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ third_nav_title: OUR STAFF
 <p>Head of Department Science</p>
 </td>
 <td style="text-align: center;">
-<p>Mr Tee Han Yun, Joel <a href="mailto:tee_han_yun@schools.gov.sg">tee_han_yun@schools.gov.sg</a></p>
+<p>Mr Tee Han Yun, Joel <br><a href="mailto:tee_han_yun@schools.gov.sg">tee_han_yun@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
