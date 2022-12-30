@@ -66,7 +66,7 @@ Appearance for Girls
 4\. Hair accessories should be in black or dark brown.   
 5\. No colouring of hair is allowed.   
 
-Nails / Accessories / Cosmetics makeup / Jewellery
+<u>Nails / Accessories / Cosmetics makeup / Jewellery</u>
 
 1\. Nails should be clean and short.   
 2\. No nails polish or gloss is allowed.     
@@ -85,13 +85,13 @@ Use of Mobile Devices
 1\. Pupils are not encouraged to bring smartphones or smartwatches to school.   
 2\. If there is a need to bring a mobile device, it must be switched off and kept safely at all times.
 
-Usage of phone within school compound
+<u>Usage of phone within school compound</u>
  
 
 1\. Pupils can make phone calls only during dismissal time to arrange for family members to pick them up from school.    
 2\. Pupils can only make calls with teachers’ permission and supervision.   
 
-Possible consequences if pupils are found using mobile devices
+<u>Possible consequences if pupils are found using mobile devices</u>
 
 1\. Teachers would remind pupils to put away the mobile devices.    
 2\. Teachers to inform parents that pupils are using mobile devices inappropriately.
