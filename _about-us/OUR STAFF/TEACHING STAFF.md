@@ -69,7 +69,7 @@ third_nav_title: OUR STAFF
 
 | Class             |        Form Teachers       |
 |:-----------------:|:---------------------:|
-|    6 Gratitude    | Miss Loh Phieh Hsi, Wanda<br>loh_phieh_hsi_wanda@schools.gov.sg<br><br>Mdm Maisarah Binte Zainal Abiden<br>maisarah_zainal_abiden@schools.gov.sg<br><br>Mr Yamalasamy<br>yamalasamy_shanmugiah@schools.gov.sg |
+|    6 Gratitude    | Miss Loh Phieh Hsi, Wanda<br>[loh\_phieh\_hsi\_wanda@schools.gov.sg](mailto:loh_phieh_hsi_wanda@schools.gov.sg)<br><br>Mdm Maisarah Binte Zainal Abiden<br>[maisarah\_zainal\_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg)<br><br>Mr Yamalasamy<br>[yamalasamy\_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg)|
 | 6 Care            |                   Mrs Mary Chen<br>tong_mary@schools.gov.sg<br><br>Mr Tan Guan Sheng Bronson<br>tan_guan_sheng@schools.gov.sg<br><br>Mrs Valencia Lo<br>valencia_thng_su_ying@schools.gov.sg                  |
 | 6 Resilience      |                     Mr Ang Liang Tien, Terrance<br>ang_liang_tien@schools.gov.sg<br><br>Mrs Ribut<br>ribut_nawi@schools.gov.sg<br><br>Mr Vasudavan<br>vasudavan_s_g_pillai@schools.gov.sg                     |
 | 6 Respect         |                                              Mdm Kuek Ai Hsiang<br>kuek_ai_hsiang@schools.gov.sg<br><br>Miss Kusumawati<br>kusumawati_ahmad_dafir@schools.gov.sg                                              |
