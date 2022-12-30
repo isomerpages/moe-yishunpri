@@ -36,7 +36,7 @@ third_nav_title: OUR STAFF
 
 | Class             |      Form Teachers      |
 |:-----------------:|:---------------------:|
-| 3 Gratitude       |                                                          Mdm Cher Xin Joo<br>cher_xin_joo@schools.gov.sg<br><br>Mr Wu Pom Hin Amos<br>amos_wu_pom_hin@schools.gov.sg                                                        |
+| 3 Gratitude       |                                                          Mdm Cher Xin Joo<br>[cher\_xin\_joo@schools.gov.sg](mailto:cher_xin_joo@schools.gov.sg)<br><br>Mr Wu Pom Hin Amos<br>[amos\_wu\_pom\_hin@schools.gov.sg](mailto:amos_wu_pom_hin@schools.gov.sg)                                                      |
 | 3 Care            |                                                         Mr Leong Weng Hong<br>leong_weng_hong@schools.gov.sg<br><br>Mdm Nurhayati<br>nurhayati_nasir@schools.gov.sg                                                         |
 |    3 Resilience   |                                                     Miss Gan Ke Ting<br>gan_ke_ting@schools.gov.sg<br><br>Miss Siti Amalina<br>siti_amalina_mohamed_sai@schools.gov.sg                                                      |
 | 3 Respect         |                                                  Ms Isnarti Bte Ahmad Sani<br>isnarti_ahmad_sani@schools.gov.sg<br><br>Mr V Ilanchezhiyan<br>v_ilanchezhiyan@schools.gov.sg                                                 |
