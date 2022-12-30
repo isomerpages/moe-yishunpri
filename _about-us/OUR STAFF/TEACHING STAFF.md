@@ -56,6 +56,13 @@ third_nav_title: OUR STAFF
 
 ## Primary 5
 
-
+| Class             |                                                                                            Form Teachers                                                                                          |
+|-------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    5 Gratitude    |                                        Miss Roslyn Foong Pei Li<br>roslyn_foong_pei_li@schools.gov.sg<br><br>Mdm Zhu Shengjie<br>zhu_shengjie@schools.gov.sg                                      |
+| 5 Care            |                                      Mdm Latifah Bte Md Hussain<br>latifah_mohamed_hussain@schools.gov.sg<br><br>Mdm Lee Kim Kim<br>lee_kim_kim@schools.gov.sg                                    |
+| 5 Resilience      |    Mdm Rekha<br>rekha_mogana_sundram@schools.gov.sg<br><br>Mr Ang Liang Tien, Terrance<br>ang_liang_tien@schools.gov.sg<br><br>Mr Sheikh Omar Bin Mohamad<br>sheikh_omar_mohamad@schools.gov.sg   |
+| 5 Respect         |  Mdm Dewi Kartika<br>dewi_kartika_sudirman@schools.gov.sg<br><br>Mdm Fauziah<br>fauziah_alang_mohammad_rom@schools.gov.sg<br><br>Mr Teng Ji Song Lawrence<br>teng_ji_song_lawrence@schools.gov.sg |
+|  5 Responsibility |                                            Mr Lee Oon Kee<br>lee_oon_kee@schools.gov.sg<br><br>Ms Nirmala Arumugam<br>nirmala_arumugam@schools.gov.sg                                             |
+| 5 Integrity       |                                         Mr Anthony Tay Poh Hua<br>anthony_tay_poh_hua@schools.gov.sg<br><br>Mdm Sivakami<br>sivakami_ratha@schools.gov.sg                                         |
 
 ## Primary 6
