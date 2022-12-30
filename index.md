@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Yishun Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -29,5 +29,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
