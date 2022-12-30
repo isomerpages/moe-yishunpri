@@ -7,4 +7,4 @@ description: ""
 
 |   |   |
 |:---:|:---:|
-|   |   |
+| [Executive Committee](/about-us/our-staff/executive-committee)  |  [Teaching Staff](/about-us/our-staff/teaching-staff) |
