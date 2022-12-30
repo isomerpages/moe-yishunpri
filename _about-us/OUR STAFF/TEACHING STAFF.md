@@ -19,8 +19,8 @@ third_nav_title: OUR STAFF
 
 ## Primary 2
 
-| Class            |                                                                                        Form Teachers                                                                                        |
-|------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Class            |     Form Teachers        |
+|:--------------:|:-------:|
 | 2 Gratitude      |                                          Miss Han Ying<br>han_ying_a@schools.gov.sg<br><br>Mdm June Low Mun Ling<br>june_low_mun_ling@schools.gov.sg                                        |
 | 2 Care           |    Mdm Carine Ang<br>ang_chai_lan@schools.gov.sg<br><br>Mdm Noor Faranah Bte Mohamed Yatim<br>noor_faranah_mohamed@schools.gov.sg<br><br>Mdm Wong Pei Fen<br>wong_pei_fen@schools.gov.sg    |
 | 2 Resilience     |                                  Mdm Tong Mun Hwee<br>tong_mun_hwee@schools.gov.sg<br><br>Mrs Ahrunhachelam Shanthi<br>ahrunhachelam_shanthi@schools.gov.sg                                 |
