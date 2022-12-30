@@ -85,7 +85,7 @@ third_nav_title: OUR STAFF
 <p>Head of Department Character &amp; Citizenship Education</p>
 </td>
 <td style="text-align: center;">
-<p>Mr Sahir Abdullah <a href="mailto:sahir_abdullah@schools.gov.sg">sahir_abdullah@schools.gov.sg</a></p>
+<p>Mr Sahir Abdullah <br><a href="mailto:sahir_abdullah@schools.gov.sg">sahir_abdullah@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ third_nav_title: OUR STAFF
 <p>Head of Department Discipline</p>
 </td>
 <td style="text-align: center;">
-<p>Mr Steven Aw Kian Chang <a href="mailto:steven_aw_kian_chang@schools.gov.sg">steven_aw_kian_chang@schools.gov.sg</a></p>
+<p>Mr Steven Aw Kian Chang <br><a href="mailto:steven_aw_kian_chang@schools.gov.sg">steven_aw_kian_chang@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ third_nav_title: OUR STAFF
 <p>Head of Department Information, Communication &amp; Technology</p>
 </td>
 <td style="text-align: center;">
-<p>Mrs Valencia Lo <a href="mailto:valencia_thng_su_ying@schools.gov.sg">valencia_thng_su_ying@schools.gov.sg</a></p>
+<p>Mrs Valencia Lo <br><a href="mailto:valencia_thng_su_ying@schools.gov.sg">valencia_thng_su_ying@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -109,15 +109,15 @@ third_nav_title: OUR STAFF
 <p>Head of Department Physical Education &amp; CCA</p>
 </td>
 <td style="text-align: center;">
-<p>Mr Yamalasamy Shanmugiah <a href="mailto:yamalasamy_shanmugiah@schools.gov.sg">yamalasamy_shanmugiah@schools.gov.sg</a></p>
+<p>Mr Yamalasamy Shanmugiah <br><a href="mailto:yamalasamy_shanmugiah@schools.gov.sg">yamalasamy_shanmugiah@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;" width="201">
-<p>Head of Department Special Education Needs &amp; Educational Support&nbsp;</p>
+<p>Head of Department Special Education Needs &amp; Educational Support</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mdm Kuek Ai Hsiang <a href="mailto:kuek_ai_hsiang@schools.gov.sg">kuek_ai_hsiang@schools.gov.sg</a></p>
+<p>Mdm Kuek Ai Hsiang <br><a href="mailto:kuek_ai_hsiang@schools.gov.sg">kuek_ai_hsiang@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ third_nav_title: OUR STAFF
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;Subject Head Tamil Language</td>
+<td style="text-align: center;">Subject Head Tamil Language</td>
 <td style="text-align: center;">
 <p>Mdm Sivakami d/o Ratha <br><a href="mailto:sivakami_ratha@schools.gov.sg">sivakami_ratha@schools.gov.sg</a></p>
 </td>
