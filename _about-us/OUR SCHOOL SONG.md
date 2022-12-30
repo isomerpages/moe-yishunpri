@@ -5,13 +5,7 @@ description: ""
 ---
 ### <center><span style="color: rgb(11, 83, 148)"> OUR SCHOOL SONG</span></center>
 
-<center>In work or in play, we will strive every day
-
-We will make the best of every little way
-
-We will work as a team to achieve our success
-
-In great strides, we will all progress
+<center>In work or in play, we will strive every day<br>We will make the best of every little way<br>We will work as a team to achieve our success<br>In great strides, we will all progress
 
   
 
