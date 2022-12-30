@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - PRINCIPAL'S MESSAGE.md
       - VISION AND MISSION.md
       - SCHOOL BACKGROUND.md
