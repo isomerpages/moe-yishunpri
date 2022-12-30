@@ -60,8 +60,10 @@ description: ""
 
 | Date                               | Paper                                                   | Level         | Time                     |
 |:-------------:|------------|:---------:|----------------|
-| <br><br>Monday,<br>9 May 2022      | MYE Written Exam –Standard/ Foundation EL Paper 1 & 2   |     P4 & 6    | During curriculum hours  |
+| <br>Monday,<br>9 May 2022      | MYE Written Exam –Standard/ Foundation EL Paper 1 & 2   |     P4 & 6    | During curriculum hours  |
 | <br>Tuesday, <br>10 May 2022       | MYE Written Exam - Standard/ Foundation Mathematics     |     P4 & 6    | During curriculum hours  |
 | <br>Wednesday, <br>11 May 2022     | MYE Written Exam - Standard/ Foundation MTL Paper 1 & 2 |     P4 & 6    | During curriculum hours  |
 |        Thursday, 12 May 2022       | MYE Written Exam - Science                              |     P4 & 6    | During curriculum hours  |
-| <br><br><br>Friday,<br>13 May 2022 | MYE Written Exam - Higher Mother Tongue                 | P6 taking HMT | During curriculum hours  |
+| <br>Friday,<br>13 May 2022 | MYE Written Exam - Higher Mother Tongue                 | P6 taking HMT | During curriculum hours  |
+
+**2021 End of Year Examination Time-table**
