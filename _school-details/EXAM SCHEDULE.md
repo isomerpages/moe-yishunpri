@@ -6,3 +6,6 @@ description: ""
 # EXAM SCHEDULE
 
 **2022 PSLE Examination Time-table (Tentative)**
+
+**A. Oral Examination**
+
