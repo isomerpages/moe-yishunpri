@@ -67,3 +67,9 @@ description: ""
 | <br>Friday,<br>13 May 2022 | MYE Written Exam - Higher Mother Tongue                 | P6 taking HMT | During curriculum hours  |
 
 **2021 End of Year Examination Time-table**
+
+**A. Oral Examination**
+
+| Date               | Paper                                | Level  | Time                   |
+|:-------------:|------------|:---------:|----------------|
+| Monday,25 Oct 2021 | P5 End of Year Oral Exam - EL & MTL  |   P5   | After curriculum hours |
