@@ -39,11 +39,11 @@ third_nav_title: OUR STAFF
 </tr>
 <tr>
 <td style="text-align: center;">Vice-Principal (Academic)</td>
-<td style="text-align: center;">Mdm Farlinah Supaah<br><a href="mailto:farlinah_supaah@schools.gov.sg">farlinah_supaah@schools.gov.sg</a></td>
+<td style="text-align: center;"><p>Mdm Farlinah Supaah<br><a href="mailto:farlinah_supaah@schools.gov.sg">farlinah_supaah@schools.gov.sg</a></p></td>
 </tr>
 <tr>
 <td style="text-align: center;">Vice-Principal (Administration)</td>
-<td style="text-align: center;">Mr Lee Han Keong<br><a href="mailto:lee_han_keong@schools.gov.sg">lee_han_keong@schools.gov.sg&nbsp;</a></td>
+<td style="text-align: center;"><p>Mr Lee Han Keong<br><a href="mailto:lee_han_keong@schools.gov.sg">lee_han_keong@schools.gov.sg</a></p></td>
 </tr>
 <tr>
 <td style="text-align: center;" colspan="2">
