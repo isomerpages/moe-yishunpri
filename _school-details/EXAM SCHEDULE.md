@@ -49,3 +49,9 @@ description: ""
 |:--------------:|-----------|:------:|---------|
 | Thursday,28 Apr 2022 | P4 MYE Oral Exam – EL & MTL  |   P4   | After curriculum hours   |
 |  Friday,29 Apr 2022  | P6 MYE Oral Exam – EL & MTL  |   P6   | After curriculum hours   |
+
+**B. Listening Comprehension Examination**  
+
+| Date        | Paper      | Level    | Time       |
+|:-------------:|------------|:---------:|----------------|
+| Friday, <br>6 May 2022  | MYE Listening Comprehension (LC) Exam – EL & MTL  | P4 & P6  | During curriculum hours |
