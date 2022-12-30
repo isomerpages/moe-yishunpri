@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - SCHOOL BACKGROUND.md
       - VISION AND MISSION.md
+      - SCHOOL BACKGROUND.md
