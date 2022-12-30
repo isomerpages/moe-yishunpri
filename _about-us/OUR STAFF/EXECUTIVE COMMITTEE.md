@@ -125,13 +125,13 @@ third_nav_title: OUR STAFF
 <p>School Staff Developer</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mdm Ang Chai Lan, Carine <a href="mailto:ang_chai_lan@schools.gov.sg">ang_chai_lan@schools.gov.sg</a></p>
+<p>Mdm Ang Chai Lan, Carine <br><a href="mailto:ang_chai_lan@schools.gov.sg">ang_chai_lan@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;Subject Head Tamil Language</td>
 <td style="text-align: center;">
-<p>Mdm Sivakami d/o Ratha <a href="mailto:sivakami_ratha@schools.gov.sg">sivakami_ratha@schools.gov.sg</a>&nbsp;</p>
+<p>Mdm Sivakami d/o Ratha <br><a href="mailto:sivakami_ratha@schools.gov.sg">sivakami_ratha@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ third_nav_title: OUR STAFF
 <p>(Internal)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Miss Lee Linghui Alcina <a href="mailto:lee_linghui_alcina@schools.gov.sg">lee_linghui_alcina@schools.gov.sg</a>&nbsp;</p>
+<p>Miss Lee Linghui Alcina <br><a href="mailto:lee_linghui_alcina@schools.gov.sg">lee_linghui_alcina@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ third_nav_title: OUR STAFF
 <p>Subject Head Student Well-Being (Internal)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mdm Nurhayati Nasir <a href="mailto:nurhayati_nasir@schools.gov.sg">nurhayati_nasir@schools.gov.sg</a></p>
+<p>Mdm Nurhayati Nasir <br><a href="mailto:nurhayati_nasir@schools.gov.sg">nurhayati_nasir@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ third_nav_title: OUR STAFF
 <p>Subject Head Information, Communication &amp; Technology</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Miss Roslyn Foong Pei Li <a href="mailto:roslyn_foong_pei_li@schools.gov.sg">roslyn_foong_pei_li@schools.gov.sg</a></p>
+<p>Miss Roslyn Foong Pei Li <br><a href="mailto:roslyn_foong_pei_li@schools.gov.sg">roslyn_foong_pei_li@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -164,19 +164,19 @@ third_nav_title: OUR STAFF
 <p>Subject Head Character &amp; Citizenship Education</p>
 </td>
 <td style="text-align: center;">
-<p>Mdm&nbsp;Fauziah Alang Mohammad Rom<br /><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg">fauziah_alang_mohammad_rom@schools.gov.sg</a>&nbsp;</p>
+<p>Mdm&nbsp;Fauziah Alang Mohammad Rom<br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg">fauziah_alang_mohammad_rom@schools.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;Subject Head Student Leadership (Internal)</td>
-<td style="text-align: center;">Ms Joan Kam<br /><a href="mailto:joan_kam_see_mun@schools.gov.sg">joan_kam_see_mun@schools.gov.sg</a></td>
+<td style="text-align: center;">Ms Joan Kam<br><a href="mailto:joan_kam_see_mun@schools.gov.sg">joan_kam_see_mun@schools.gov.sg</a></td>
 </tr>
 <tr>
 <td style="text-align: center;" width="201">
 <p>Level Head Mathematics</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Miss Bernice Cheng <a href="mailto:cheng_xinyi_bernice@schools.gov.sg">cheng_xinyi_bernice@schools.gov.sg</a></p>
+<p>Miss Bernice Cheng <br><a href="mailto:cheng_xinyi_bernice@schools.gov.sg">cheng_xinyi_bernice@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ third_nav_title: OUR STAFF
 <p>Level Head Science</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mrs Eileen Lee <a href="mailto:ong_boon_ching_eileen@schools.gov.sg">ong_boon_ching_eileen@schools.gov.sg</a></p>
+<p>Mrs Eileen Lee <br><a href="mailto:ong_boon_ching_eileen@schools.gov.sg">ong_boon_ching_eileen@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -197,7 +197,7 @@ third_nav_title: OUR STAFF
 <p>Year Head (Primary 1 &amp; Primary 2)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mdm Tong Mun Hwee <a href="mailto:tong_mun_hwee@schools.gov.sg">tong_mun_hwee@schools.gov.sg</a></p>
+<p>Mdm Tong Mun Hwee <br><a href="mailto:tong_mun_hwee@schools.gov.sg">tong_mun_hwee@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ third_nav_title: OUR STAFF
 <p>Year Head (Primary 3 &amp; Primary 4)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mrs Tan Chin Choo, Kelly <a href="mailto:tan_chin_choo_a@schools.gov.sg">tan_chin_choo_a@schools.gov.sg</a></p>
+<p>Mrs Tan Chin Choo, Kelly <br><a href="mailto:tan_chin_choo_a@schools.gov.sg">tan_chin_choo_a@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ third_nav_title: OUR STAFF
 <p>Year Head (Primary 5 &amp; Primary 6)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mr Ang Liang Tien, Terrance <a href="mailto:ang_liang_tien@schools.gov.sg">ang_liang_tien@schools.gov.sg</a></p>
+<p>Mr Ang Liang Tien, Terrance<br> <a href="mailto:ang_liang_tien@schools.gov.sg">ang_liang_tien@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -221,7 +221,7 @@ third_nav_title: OUR STAFF
 <p>Assistant Year Head (Primary 1 &amp; Primary 2)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Ms Yong Hui Wen <a href="mailto:yong_hui_wen@schools.gov.sg">yong_hui_wen@schools.gov.sg</a></p>
+<p>Ms Yong Hui Wen <br><a href="mailto:yong_hui_wen@schools.gov.sg">yong_hui_wen@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ third_nav_title: OUR STAFF
 <p>(Internal)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mr V Ilanchezhiyan <a href="mailto:v_ilanchezhiyan@schools.gov.sg">v_ilanchezhiyan@schools.gov.sg</a></p>
+<p>Mr V Ilanchezhiyan<br> <a href="mailto:v_ilanchezhiyan@schools.gov.sg">v_ilanchezhiyan@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ third_nav_title: OUR STAFF
 <p>Assistant Year Head (Primary 5 &amp; Primary 6)</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Ms Nirmala Arumugam <a href="mailto:nirmala_arumugam@schools.gov.sg">nirmala_arumugam@schools.gov.sg</a></p>
+<p>Ms Nirmala Arumugam <br><a href="mailto:nirmala_arumugam@schools.gov.sg">nirmala_arumugam@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
@@ -248,10 +248,10 @@ third_nav_title: OUR STAFF
 </tr>
 <tr>
 <td style="text-align: center;" width="201">
-<p>Administration Manager&nbsp;</p>
+<p>Administration Manager</p>
 </td>
 <td style="text-align: center;" width="374">
-<p>Mr Lee Meng Hoe <a href="mailto:LEE_Meng_Hoe@schools.gov.sg">lee_meng_hoe@schools.gov.sg</a></p>
+<p>Mr Lee Meng Hoe <br><a href="mailto:LEE_Meng_Hoe@schools.gov.sg">lee_meng_hoe@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
