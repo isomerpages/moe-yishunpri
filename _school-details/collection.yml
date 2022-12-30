@@ -2,4 +2,5 @@ collections:
   school-details:
     output: true
     order:
+      - EXAM SCHEDULE.md
       - CALENDAR.md
