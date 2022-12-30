@@ -129,7 +129,7 @@ third_nav_title: OUR STAFF
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">Subject Head Tamil Language</td>
+<td style="text-align: center;"><p>Subject Head Tamil Language</p></td>
 <td style="text-align: center;">
 <p>Mdm Sivakami d/o Ratha <br><a href="mailto:sivakami_ratha@schools.gov.sg">sivakami_ratha@schools.gov.sg</a></p>
 </td>
