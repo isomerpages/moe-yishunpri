@@ -44,3 +44,8 @@ description: ""
 **Click <a href="/files/School%20details/list_of_dictionaries_for_examination.pdf" target="_blank">here</a> for approved 2022 Dictionary List for PSLE.**
 
 **2022 P4 & P6 Mid-Year Examination Time-table**
+
+| Date           | Paper        | Level  | Time               |
+|:--------------:|-----------|:------:|---------|
+| Thursday,28 Apr 2022 | P4 MYE Oral Exam – EL & MTL  |   P4   | After curriculum hours   |
+|  Friday,29 Apr 2022  | P6 MYE Oral Exam – EL & MTL  |   P6   | After curriculum hours   |
