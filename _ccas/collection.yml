@@ -2,10 +2,10 @@ collections:
   ccas:
     output: true
     order:
-      - Sports & Games/FOOTBALL.md
       - Sports & Games/.keep
       - Sports & Games/BASKETBALL.md
       - Sports & Games/FLOORBALL.md
+      - Sports & Games/FOOTBALL.md
       - Clubs/.keep
       - Clubs/ART & CRAFTS.md
       - Clubs/EL, DRAMA & DEBATING.md
