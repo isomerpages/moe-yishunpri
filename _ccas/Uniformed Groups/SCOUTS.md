@@ -14,11 +14,13 @@ third_nav_title: Uniformed Groups
 
 <p style="text-align: justify;">With such exposure, we hope to develop our scouts into motivated, independent and adaptable individuals who are able to maintain gracious relationship with others and be a contributing member of the society.</p>
 
+
+
 <center>Akela Award Recipients Y2019. (Photo taken Pre-Covid)</center>
 
 <center>Congratulations to our Akela Award recipients for Y2019 (Photo taken pre-Covid)</center>
 
-
+![](/images/CCAs/Scouts/CCA_Scout_Founders_Day.jpg)
 
 <center>Yishun Scouts reciting the Scout laws and promises during Annual Scout Founder’s Day Celebration (Photo taken pre-Covid)</center>
 
