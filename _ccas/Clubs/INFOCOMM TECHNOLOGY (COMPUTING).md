@@ -62,3 +62,9 @@ IT Resource Room
 
 
 At the N6 Cluster Media and Design Festival 2019, the team received a Special Mention award for a category.
+
+|   |   |
+|:-:|:-:|
+| ![](/images/CCAs/Infocomm%20Technology/ICT_01_2017.png)  | ![](/images/CCAs/Infocomm%20Technology/ICT_02_2017.png)  |
+
+<center>N6 Cluster Media & Design Festival 2016</center>
