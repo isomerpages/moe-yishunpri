@@ -37,8 +37,14 @@ third_nav_title: Performing Arts
 
 <center>Photos with Mrs Yee, band instructors, teachers and proud parents</center>
 
+<p style="text-align: justify;">30 band pupils participated in the inaugural Adventure Band Camp. Band pupils from different schools interacted in a learning and performing environment. The camp culminated in a concert at the Yong Siew Toh Conservatory of Music, NUS and ended off with a big bang.</p>
 
-<center></center>
+![](/images/CCAs/Concert%20Band/Group-Photo-1.jpg)
+![](/images/CCAs/Concert%20Band/Group-Photo-2.jpg)
+![](/images/CCAs/Concert%20Band/Group-Photo-3.jpg)
 
+<center>Group photo at Yong Siew Toh Conservatory of Music</center>
 
-<center></center>
+![](/images/CCAs/Concert%20Band/2017Band_4.jpg)
+
+<center>Band Exchange Programme with Nan-Yang Elementary School Wing Band (Taiwan)</center>
