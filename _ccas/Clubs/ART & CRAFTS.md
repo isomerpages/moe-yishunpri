@@ -40,6 +40,6 @@ Singapore Youth Festival Exhibition 2021
 Category A - "Dream Space City" (Certificate of Recognition)    
 Category B - "Passport to Imagination" (Certificate of Recognition)
 
-  
-
 Based on the exhibition theme, "Artist and Technology" our student artists created artistic artworks which expressed how technology would impact the various aspects of their lives.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2021_1.jpg)
