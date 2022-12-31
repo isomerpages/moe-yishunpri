@@ -115,6 +115,31 @@ Our Art Club pupils demonstrate their never give up attitude as they persevere t
 
 Peacocks and 3D origami, proudly displayed at the school porch.
 
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub2018_2.jpg)
+
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub2018_3.jpg)
+
+Mural Art and Typography Art outside the Art Room.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub2018_4.jpg)
+
+Combined mosaic art pieces along staircases.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub2018_5.jpg)
+
+Monochrome art and Collage pieces beautifying the walls of the school.
+
+### Upcycling
+
+In line with our school’s Applied Learning Programme (ALP), pupils engage themselves in Upcycling where “unrecyclable” waste is turned into something of value. They learn to create art with items of waste and their final products can be impressive.
+
+Learning Journeys
+
+We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.
+
+
 <center></center>
 
 
