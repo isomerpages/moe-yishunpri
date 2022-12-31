@@ -169,7 +169,7 @@ Pupils’ artworks exhibited in the Art Room.
 
 ### <u>ART is Everywhere!</u>
 
-We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.
+<p style="text-align: justify;">We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.</p>
 
 <center></center>
 
