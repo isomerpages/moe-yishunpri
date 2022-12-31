@@ -14,3 +14,11 @@ description: ""
 ![](/images/School%20Details/Sch_uni.jpg)
 
 <center>P3 to P6 School Attire</center>
+
+### PE Attire
+
+![](/images/School%20Details/sch_pe.jpg)
+
+<center>P3 to P6 PE Attire</center>
+
+![](/images/School%20Details/house%20colors.png)
