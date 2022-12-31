@@ -28,6 +28,12 @@ description: ""
 3\.  Racial Harmony Day   
 4\.  National Day
 
-![](/images/Departments/Cce/CCE1.png)
+![](/images/Departments/Cce/CCE2.png)
 
 **Our National Day Celebration in collaboration with Sree Narayanan Mission Nursing Home through Zoom video.**
+
+
+![](/images/Departments/Cce/CCE3.png)
+
+
+![](/images/Departments/Cce/CCE4.png)
