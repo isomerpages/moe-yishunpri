@@ -196,7 +196,9 @@ It is the mission of the Art Club to stimulate and nurture the spirit of explori
 
 Our pupils went on a learning journey to the Singapore Art Museum on 31 July 2018 as part of Art Club’s experiential learning. The exhibition titled _Imaginarium: Into the Space of Time_, enables our pupils to understand how the past experiences have conditioned the present times and the future. In addition, through the spirit of discovery and exploration, our pupils were motivated to relate their learning to real life experiences as they took a closer look at the concept of time in relation to people of different cultures.
 
+![](/images/CCAs/Art%20&%20Crafts/artclub_LJ1.jpg)
 
+Our pupils spotted the iconic Changi Airport in this detailed and colourful illustration, showcasing Singapore as a vibrant metropolitan city.
 
 <center></center>
 
