@@ -68,7 +68,21 @@ The concept of citizenship is illustrated through the harmonious living of the s
 
 <center>The team's artwork, "Sea-ing Plastic"</center>
 
+### Achievements:
 
+Singapore Youth Festival 2017 (Certificate of Recognition)  
+
+### SYF 2017 – Anything is Possible 
+
+  
+
+The theme for 2017, “Artist and Space”, invited YPS’ young artists to imagine, inquire as well as discover many ways to interpret and express the concept of ‘space’. In the process, they found inspiration from people, places and even objects within their environments. They created artworks that are personal and meaningful to them. 
+
+One of YPS’ SYF Art teams compromising Pineda Maya Emilia Rodriguez (6 Sincerity), Samantha Ashley Parama Sivan (6 Sincerity) and Whitney Zen (6 Nation Loving) was awarded the Certificate of Recognition for their artwork titled “Anything is Possible”.
+
+|   |   |
+|:-:|:-:|
+| ![](/images/CCAs/Art%20&%20Crafts/ArtClub_SYF1_2018.jpg)  | <img src="/images/CCAs/Art%20&%20Crafts/ArtClub_SYF2_2018.jpg" style="width:80%">  |
 
 <center></center>
 
