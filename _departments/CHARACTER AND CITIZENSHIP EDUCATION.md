@@ -52,3 +52,12 @@ description: ""
 ![](/images/Departments/Cce/CCE3.png)
 
 **<center>P3 students’ contribution to community fridge through urban farming</center>**
+
+
+### Self-directed Learning
+
+#### LaunchPad@YPS 
+
+<p style="text-align: justify;">LaunchPad@YPS is a platform where internal and external programmes are advertised to students. Our students are given the liberty to register for the programmes they would like to take part in based on their passion or strengths. Given the opportunity to take charge of their learning, our students will be able to determine the knowledge, skills and experience they would like to gain and in the process, develop greater self-awareness, self-confidence and self-reflection. At the same time, they will learn to make responsible decisions which will help them to develop a greater understanding of themselves, their actions and their choices. Empowering our students with the freedom to make their own decisions responsibly and manage their own learning would help our students grow into sensible adults ready to take on the challenges in the 21st century.</p>
+
+<p style="text-align: justify;">In addition to promoting self-directed learning and responsible decision making, we hope we would be able to inspire passion in learning and also provide an opportunity for our students to gain and deepen their knowledge, skills and experiences.</p>
