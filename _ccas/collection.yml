@@ -2,4 +2,5 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs/ART & CRAFTS.md
       - Clubs/.keep
