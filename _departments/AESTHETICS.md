@@ -34,3 +34,9 @@ To provide opportunities for every student to experience all possibilities in th
 <p style="text-align: justify;">The school believes that every student has the drive for self-improvement with an attitude for excellence towards the Aesthetics. As such, open calls provide opportunities and platforms for pupils to take ownership of their learning. Based on their passion and interests, pupils pursue the Aesthetics field further, acquiring the skills and knowledge to be world-ready youths of the future.</p>
 
 <p style="text-align: justify;">Apart from the skills and knowledge acquisition, LLP equips every student with 21st century competencies and strengthens the inculcation of school and universal values through the two domains.</p>
+
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
