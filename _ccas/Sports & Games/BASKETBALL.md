@@ -29,8 +29,11 @@ third_nav_title: Sports & Games
 
 <center>Leadership development - senior boys took on active roles training with P3 new members and passing their passion and Basketball skills to the juniors.</center>
 
+![](/images/CCAs/Basketball/Basketball_Photo_04.jpg)
 
-<center></center>
+![](/images/CCAs/Basketball/Basketball_Photo_05.jpg)
+
+<center>eCCA via Zoom - We are serious about keeping strong and fit even during the pandemic.</center>
 
 
 
