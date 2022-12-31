@@ -16,19 +16,12 @@ third_nav_title: Clubs
 
 ### Teachers-in-Charge:  
 
-Miss Phang Bi Yun (I/C) (phang\_bi\_yun@schools.gov.sg)
-
-Miss Joan Kam See Mun (joan\_kam\_see\_mun@schools.gov.sg)
-
-Miss Cher Xin Joo (cher\_xin\_joo@schools.gov.sg)
-
-Mdm Debbie Cheong (cheong\_hui\_ting\_debbie@schools.gov.sg)
-
-Mrs Ribut Aziz (ribut\_nawi@schools.gov.sg)
-
-Miss Roopini (roopini\_jaya\_balan@schools.gov.sg)
-
-  
+Miss Phang Bi Yun (I/C) (phang\_bi\_yun@schools.gov.sg)   
+Miss Joan Kam See Mun (joan\_kam\_see\_mun@schools.gov.sg)   
+Miss Cher Xin Joo (cher\_xin\_joo@schools.gov.sg)    
+Mdm Debbie Cheong (cheong\_hui\_ting\_debbie@schools.gov.sg)   
+Mrs Ribut Aziz (ribut\_nawi@schools.gov.sg)   
+Miss Roopini (roopini\_jaya\_balan@schools.gov.sg)     
 
 **Venue:**  
 
