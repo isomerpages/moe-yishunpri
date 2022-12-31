@@ -8,4 +8,7 @@ third_nav_title: Performing Arts
 
 ### Synopsis:
 
-Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The pupils will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
+<p style="text-align: justify;">Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The pupils will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.</p>
+
+
+2016 SYF Arts Presentation - Certificate of Accomplishment
