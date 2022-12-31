@@ -14,11 +14,7 @@ third_nav_title: Clubs
 
 <p style="text-align: justify;">Through meaningful art-making processes, pupils develop their character and grow in our school values such as care, gratitude, responsibility and resilience.</p>
 
-  
-
-Teachers-in-Charge:  
-
-### 
+### Teachers-in-Charge:  
 
 Miss Phang Bi Yun (I/C) (phang\_bi\_yun@schools.gov.sg)
 
