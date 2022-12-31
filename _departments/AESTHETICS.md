@@ -18,3 +18,5 @@ To provide opportunities for every student to experience all possibilities in th
 ## Learning for Life Programme 
 
 **_Viva De Symphonie_** – Championing Values: Living, Learning And Growing Through Music
+
+<img src="/images/Departments/AESTHETICS/AE1.jpg"  style="width:40%">
