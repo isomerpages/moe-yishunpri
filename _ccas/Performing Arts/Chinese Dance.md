@@ -36,37 +36,24 @@ third_nav_title: Performing Arts
 
 <center>Performance at Chong Pang National Day Dinner on 24 August 2019</center>
 
-**Teachers-in-Charge****:**
+### **Teachers-in-Charge****:**
 
-Mdm Lee Kim Kim (I/C) (lee\_kim\_kim@schools.gov.sg)  
-
-Ms Han Ying (2 I/C) (han\_ying\_a@ schools.gov.sg)
-
-Mdm Zhu Shengjie (zhu\_shengjie@ schools.gov.sg)
-
-Ms Guan Qinqin (guan\_qin\_qin@schools.gov.sg)
-
+Mdm Lee Kim Kim (I/C) (lee\_kim\_kim@schools.gov.sg)   
+Ms Han Ying (2 I/C) (han\_ying\_a@ schools.gov.sg)   
+Mdm Zhu Shengjie (zhu\_shengjie@ schools.gov.sg)   
+Ms Guan Qinqin (guan\_qin\_qin@schools.gov.sg)   
 External Instructor
 
-  
+### **Venue:**
 
-**Venue:**
-
-School Hall
-
-PAL Room
-
+School Hall   
+PAL Room   
 Indoor Sports Hall Level 4 (Flexi Room 3)
 
-  
+### **Time and Days:**
 
-**Time and Days:**
-
-2.00pm - 4.00pm, Tuesdays
-
+2.00pm - 4.00pm, Tuesdays   
 2.00pm - 4.00pm, Fridays
-
-  
 
 ### **Achievements:-**
 
