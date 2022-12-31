@@ -32,22 +32,17 @@ description: ""
 
 **Our National Day Celebration in collaboration with Sree Narayanan Mission Nursing Home through Zoom video.**
 
-Character Education  
----------------------
+## Character Education  
 
-The school’s core values are the guiding principles towards the planning of the departmental programmes. It is committed to ensure that students experience diverse programmes which will develop them holistically, anchoring on values and positive characters.
-
-  
+<p style="text-align: justify;">The school’s core values are the guiding principles towards the planning of the departmental programmes. It is committed to ensure that students experience diverse programmes which will develop them holistically, anchoring on values and positive characters.</p>  
 
 ### Celebration of Character 
 
-Celebration of Character (COC) aims to inculcate strong values and build character in our students. The programme specially designed and catered for our students is carried out in an engaging and meaningful manner to bring across different core values of Gratitude, Care, Resilience, Respect, Responsibility and Integrity.   
-
-  
+<p style="text-align: justify;">Celebration of Character (COC) aims to inculcate strong values and build character in our students. The programme specially designed and catered for our students is carried out in an engaging and meaningful manner to bring across different core values of Gratitude, Care, Resilience, Respect, Responsibility and Integrity.   </p>  
 
 ### Values in Action (VIA)
 
-Through the acquisition and application of values, knowledge, and skills, Values in Action (VIA) is a Key Student Development Experience (SDE) that aspires to build socially responsible citizens who contribute meaningfully to the community. VIA in our school is designed to encourage student initiative and ownership to the school and community. Students reflect on their experiences, the principles they have implemented, and how they might continue to contribute meaningfully as part of VIA. Through our partnership with different organisations, our students participated actively in contributing to the community.
+<p style="text-align: justify;">Through the acquisition and application of values, knowledge, and skills, Values in Action (VIA) is a Key Student Development Experience (SDE) that aspires to build socially responsible citizens who contribute meaningfully to the community. VIA in our school is designed to encourage student initiative and ownership to the school and community. Students reflect on their experiences, the principles they have implemented, and how they might continue to contribute meaningfully as part of VIA. Through our partnership with different organisations, our students participated actively in contributing to the community.</p>
 
 ![](/images/Departments/Cce/CCE4.png)
 
