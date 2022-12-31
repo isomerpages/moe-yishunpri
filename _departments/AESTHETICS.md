@@ -38,5 +38,5 @@ To provide opportunities for every student to experience all possibilities in th
 
 |   |   |
 |:-:|:-:|
-|  Through the Music Modular programme, P5 students acquire skills and knowledge in Ukulele. |  A Malay dance performance at a community-based function organised by Grassroots organisation. |
-| Providing exposure to all students on a Chinese Dance performance under the Experience domain  | Under the Empower domain, students come forward to perform with their Music teacher as part of recess performances.  |
+|  ![](/images/Departments/AESTHETICS/Aes_LLP_1.jpg) Through the Music Modular programme, P5 students acquire skills and knowledge in Ukulele. |  ![](/images/Departments/AESTHETICS/Aes_LLP_2.jpg)  A Malay dance performance at a community-based function organised by Grassroots organisation. |
+| ![](/images/Departments/AESTHETICS/Aes_LLP_3.jpg)  Providing exposure to all students on a Chinese Dance performance under the Experience domain  | ![](/images/Departments/AESTHETICS/Aes_LLP_4.jpg)  Under the Empower domain, students come forward to perform with their Music teacher as part of recess performances.  |
