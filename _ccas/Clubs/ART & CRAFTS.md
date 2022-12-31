@@ -8,17 +8,11 @@ third_nav_title: Clubs
 
 ### Synopsis:
 
-### 
+<p style="text-align: justify;">The Art & Crafts CCA serves as a platform for our pupils who have a passion for Visual Arts to showcase their artistic talents. Pupils are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes.</p> 
 
-The Art & Crafts CCA serves as a platform for our pupils who have a passion for Visual Arts to showcase their artistic talents. Pupils are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes.
+<p style="text-align: justify;">To deepen their appreciation for Visual Arts, pupils are exposed to local and international artists’ artworks through learning journeys. To instill a sense of global awareness and gratitude, our pupils also embark on various meaningful projects which connect to the current society.</p>  
 
-  
-
-To deepen their appreciation for Visual Arts, pupils are exposed to local and international artists’ artworks through learning journeys. To instill a sense of global awareness and gratitude, our pupils also embark on various meaningful projects which connect to the current society.
-
-  
-
-Through meaningful art-making processes, pupils develop their character and grow in our school values such as care, gratitude, responsibility and resilience.
+<p style="text-align: justify;">Through meaningful art-making processes, pupils develop their character and grow in our school values such as care, gratitude, responsibility and resilience.</p>
 
   
 
