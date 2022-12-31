@@ -38,5 +38,5 @@ To provide opportunities for every student to experience all possibilities in th
 
 |   |   |
 |:-:|:-:|
-|   |   |
-|   |   |
+|  Through the Music Modular programme, P5 students acquire skills and knowledge in Ukulele. |  A Malay dance performance at a community-based function organised by Grassroots organisation. |
+| Providing exposure to all students on a Chinese Dance performance under the Experience domain  | Under the Empower domain, students come forward to perform with their Music teacher as part of recess performances.  |
