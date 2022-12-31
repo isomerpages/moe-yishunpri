@@ -17,3 +17,25 @@ third_nav_title: Performing Arts
 ![](/images/CCAs/Malay%20Dance/Malay%20Dance_Photo%203_2020.jpeg)
 
 ![](/images/CCAs/Malay%20Dance/Malay%20Dance_Photo%204_2020.jpeg)
+
+### Teachers-in-Charge:
+
+Mdm Nurhayati (I/C) (nurhayati\_nasir@schools.gov.sg)   
+Mdm Siti Nafizah Bte A Bakar (siti\_nafizah\_abu\_bakar@schools.gov.sg)   
+Mdm Dewi Kartika Binte Sudirman (dewi\_kartika\_sudirman@schools.gov.sg)   
+External Instructor
+
+### **Venue:**
+
+Indoor Sports Hall Level 5 (Observation Room)
+
+### **Time and Days:**
+
+2.00pm - 4.00pm, Tuesdays   
+2.00pm - 4.00pm, Fridays
+
+  
+
+### Achievements:
+
+*   SYF Arts Presentation 2018 – Certificate of Accomplishment
