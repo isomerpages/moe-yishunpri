@@ -2,8 +2,8 @@ collections:
   school-details:
     output: true
     order:
-      - SCHOOL BOOKSHOP.md
       - CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
       - SCHOOL ATTIRE.md
+      - SCHOOL BOOKSHOP.md
