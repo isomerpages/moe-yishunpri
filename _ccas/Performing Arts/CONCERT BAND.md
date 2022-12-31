@@ -31,8 +31,11 @@ third_nav_title: Performing Arts
 
 <center>Group photo with Mrs Yee</center>
 
+Yishun Primary Concert Band participated in the Singapore Youth Festival Arts Presentation 2018 on 18 April. They played two pieces of songs, Inspire! – A Journey of A Child’s Dream by Satoshi Yagisawa and Dare to Dream by Johnson Lee. The band proudly achieved the Certificate of Distinction for its wonderful performance.
 
-<center></center>
+![](/images/CCAs/Concert%20Band/Group-Photo-4.jpg)
+
+<center>Photos with Mrs Yee, band instructors, teachers and proud parents</center>
 
 
 <center></center>
