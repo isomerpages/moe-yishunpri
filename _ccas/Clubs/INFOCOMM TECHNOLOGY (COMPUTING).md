@@ -91,5 +91,5 @@ At the N6 Cluster Media and Design Festival 2019, the team received a Special Me
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  ![](/images/CCAs/Infocomm%20Technology/20151111_162134.jpg)  **Overall Champions** 	 |  ![](/images/CCAs/Infocomm%20Technology/20151111_160830.jpg)  **Robotics Category: Champions**  |
 |   |   |
