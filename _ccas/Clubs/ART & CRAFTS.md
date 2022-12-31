@@ -86,6 +86,9 @@ One of YPS’ SYF Art teams compromising Pineda Maya Emilia Rodriguez (6 Sinceri
 
 <p style="text-align: justify;">Participating in the exhibition had enabled the YPS’ SYF Art teams to develop core 21st Century Competencies as they entered the realm of imagination and discovery to express their ideas and dreams through the artwork. They also acquired enduring values such as resilience and strong adaptability that shaped their characters through the shared experiences. This fruitful experience had inspired them towards greater heights.</p>
 
+### <u>Our Art Club pupils and their Artworks</u>
+
+Our Art Club pupils experience pure joy and make wonderful discoveries. They are exposed to various forms and mediums in art such as drawing, painting, mixed media, 3D assemblage, collage as well as craft throughout the art-making processes.
 <center></center>
 
 
