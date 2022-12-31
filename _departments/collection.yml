@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - CHARACTER AND CITIZENSHIP EDUCATION.md
       - AESTHETICS.md
