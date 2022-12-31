@@ -63,7 +63,10 @@ Singapore Youth Festival 2019 (Certificate of Recognition)
 7 of our Primary 2 pupils participated in the SYF Art 2019 (Category A) and the team’s artwork entitled “Sea-ing Plastic” has been awarded a Certificate of Recognition. The artwork will be displayed at the National Museum of Singapore.   
 The concept of citizenship is illustrated through the harmonious living of the sea animals. By reusing plastics, we are creating an awareness of the plastic pollution in the seas. We are committed to champion our school wide and nation’s upcycling efforts. We are confident that we can nurture responsible global citizens.
 
-<center></center>
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2019_1.jpg)
+![](/images/CCAs/Art%20&%20Crafts/Art%20Club_2019_2.jpg)
+
+<center>The team's artwork, "Sea-ing Plastic"</center>
 
 
 
