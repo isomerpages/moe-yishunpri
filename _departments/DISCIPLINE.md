@@ -27,3 +27,8 @@ Leaders who demonstrated more leadership qualities are further developed to the 
 <p style="text-align: justify;">Carella is an initiative proposed by a group of senior prefects to promote the culture of care in our school. They have observed that many students do not bring umbrellas to school. With Singapore regularly experiencing heavy rainfalls, the wet weather during dismissal time causes inconvenience for students returning home.</p>
 
 <p style="text-align: justify;">The Carella project provides umbrellas for loan in the event of inclement weather to keep our students safe and dry on their journey home. Besides exemplifying the value of care, the project also seeks to inculcate the importance of responsibility. Students are required to return the loaned umbrellas after use. Prefects are tasked to loan out the umbrellas to ensure orderliness. They also communicate the importance of responsibility and respect for the school property.</p>
+
+
+#### The Study Room - A home away from home  
+
+<p style="text-align: justify;">The Leading Leaders team initiated a project to provide at-risk students to have a safe and conducive place to study after school. Prefects from the EXCO team carried out peer teaching in Mathematics to support this group of students. With the support from the Parent Support Group, The Study Room was launched in 2022.</p>
