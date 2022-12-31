@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/.keep
       - Clubs/.keep
       - Clubs/ART & CRAFTS.md
       - Clubs/EL, DRAMA & DEBATING.md
