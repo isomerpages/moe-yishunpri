@@ -10,7 +10,7 @@ The School will be working with new bus vendor to provide school bus services fo
 Below is the details of the new bus vendor.
 
 |                 |                            |
-|---------------|-----------|
+|:--------------:|:-----------:|
 |                             **Name of Bus Operator**                            |                   Tong Tar Transport Service Pte Ltd                  |
 |                               **Liaison Officer**                               |                         School Transport Team                         |
 |                            **Tel No / Hand phone No**                           |                          62615537 / 82990038                          |
