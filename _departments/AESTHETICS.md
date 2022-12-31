@@ -52,10 +52,10 @@ To provide opportunities for every student to experience all possibilities in th
 
 |   |   |
 |:-:|:-:|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |
 
 ## Embracing Creativity and Enhancing Character-building through Origami
 
