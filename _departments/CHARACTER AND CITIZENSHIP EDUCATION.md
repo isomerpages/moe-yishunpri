@@ -23,9 +23,11 @@ description: ""
 
 <p style="text-align: justify;">Yishun Primary School observes the 4 NE commemorative events which have been identified as defining moments in Singapore history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation. The 4 NE commemorative events are:</p>
 
-1\.  Total Defence Day
-2\.  International Friendship Day
-3\.  Racial Harmony Day
+1\.  Total Defence Day   
+2\.  International Friendship Day   
+3\.  Racial Harmony Day   
 4\.  National Day
 
 ![](/images/Departments/Cce/CCE1.png)
+
+**Our National Day Celebration in collaboration with Sree Narayanan Mission Nursing Home through Zoom video.**
