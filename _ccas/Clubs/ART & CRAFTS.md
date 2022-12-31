@@ -36,12 +36,8 @@ Classroom C1-01, H2-06, H2-07
 
 ### Achievements:
 
-### 
-
-Singapore Youth Festival Exhibition 2021  
-
-Category A - "Dream Space City" (Certificate of Recognition)
-
+Singapore Youth Festival Exhibition 2021    
+Category A - "Dream Space City" (Certificate of Recognition)    
 Category B - "Passport to Imagination" (Certificate of Recognition)
 
   
