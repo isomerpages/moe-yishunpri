@@ -13,3 +13,6 @@ third_nav_title: Performing Arts
 ### 2019 Activities:
 
 <p style="text-align: justify;">7 YPS band pupils were selected to take part in the annual WBAS Youth Band Festival. This festival gathered young musicians for four days of rehearsal, workshops and team building activities to spur each other on the pursuit of excellence. It was a celebration of Musical Excellence and Friendship.</p>
+
+<center>Our band members participated in the Adventure Band Camp, which was held in September 2019. Band pupils from different schools came together and interacted in a learning and performing environment. The camp culminated in a concert at the Yong Siew Toh Conservatory of Music, NUS.</center>
+
