@@ -23,4 +23,4 @@ Length: A continual education that prepares students for the future.
 
 ### Key Programmes:
 
-#### **STELLAR 2.0**
+### **STELLAR 2.0**
