@@ -28,7 +28,7 @@ third_nav_title: Performing Arts
 <center>15 February 2018 Chinese New Year Performance</center>
 
 
-<center></center>
+<center>2018 SYF Arts Presentation - Certificate of Accomplishment</center>
 
 
 <center></center>
