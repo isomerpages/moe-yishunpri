@@ -88,7 +88,12 @@ One of YPS’ SYF Art teams compromising Pineda Maya Emilia Rodriguez (6 Sinceri
 
 ### <u>Our Art Club pupils and their Artworks</u>
 
-Our Art Club pupils experience pure joy and make wonderful discoveries. They are exposed to various forms and mediums in art such as drawing, painting, mixed media, 3D assemblage, collage as well as craft throughout the art-making processes.
+<p style="text-align: justify;">Our Art Club pupils experience pure joy and make wonderful discoveries. They are exposed to various forms and mediums in art such as drawing, painting, mixed media, 3D assemblage, collage as well as craft throughout the art-making processes.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+
 <center></center>
 
 
