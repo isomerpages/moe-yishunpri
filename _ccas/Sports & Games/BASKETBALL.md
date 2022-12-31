@@ -21,12 +21,13 @@ third_nav_title: Sports & Games
 
 ![](/images/CCAs/Basketball/Basketball_Photo_01.jpg)
 
-<center>Gaining tournament experience - P6 senior boys competed against each other in Primary 6 Intra-CCA Basketball Tournament
-</center>
+<center>Gaining tournament experience - P6 senior boys competed against each other in Primary 6 Intra-CCA Basketball Tournament</center>
 
+![](/images/CCAs/Basketball/Basketball_Photo_02.jpg)
 
+![](/images/CCAs/Basketball/Basketball_Photo_03.jpg)
 
-<center></center>
+<center>Leadership development - senior boys took on active roles training with P3 new members and passing their passion and Basketball skills to the juniors.</center>
 
 
 <center></center>
