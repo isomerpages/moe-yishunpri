@@ -204,11 +204,15 @@ Our pupils spotted the iconic Changi Airport in this detailed and colourful illu
 
 <p style="text-align: justify;">Our pupils constructed knowledge actively as they expressed themselves freely based on their childhood memories via a hands-on session at the museum. Their drawings were put up after that. Affective, behavioural and cognitive engagement were evident during this session.</p>
 
+<img src="/images/CCAs/Art%20&%20Crafts/artclub_lj3.jpg" style="width:50%; float: left"><br clear="left">
 
-![](/images/CCAs/Art%20&%20Crafts/artclub_lj2.jpg)
+One of our pupils was seen cranking the mutoscope to view an immersive installation of the future. Such animation devices make learning meaningful through movement and visual connections and experiences.
 
+![](/images/CCAs/Art%20&%20Crafts/artclub_lj4.jpg)
 
+![](/images/CCAs/Art%20&%20Crafts/artclub_lj5.jpg)
 
+It was an enriching experience for both the teachers and the pupils at the museum. The museum environment encourages varied expression of ideas whilst pupils create meaning and make sense of the world from their creative lens. As supported by the Reggio Emilia approach, the environment is indeed a third teacher. It brings pupils level of engagement and joy of learning to a different level. Ultimately, as the approach envisions, we hope that our pupils will grow to be protagonists of their own learning.
 <center></center>
 
 
