@@ -43,3 +43,9 @@ To provide opportunities for every student to experience all possibilities in th
 
 ## Singapore Youth Festival (SYF) Arts Presentation
 
+
+<p style="text-align: justify;">SYF serves to support nation-building efforts and develops cultural awareness and appreciation through Aesthetics education. It provides the platform for the development of character, 21st Century Competencies and social emotional learning through the Arts.  </p>
+
+<p style="text-align: justify;">In line with the school’s LLP philosophy that every student is talented, has the potential and drive for self-improvement with an attitude of excellence towards the Aesthetics, SYF celebrates youth vitality.</p>
+
+<p style="text-align: justify;">SYF also offers opportunities for continuous learning and improvement through feedback from industry professionals on the showcase of diverse artistic talents and creativity.</p>
