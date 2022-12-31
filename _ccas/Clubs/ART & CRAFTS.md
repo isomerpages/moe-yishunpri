@@ -188,6 +188,16 @@ In April this year, our pupils also went to Orchid Park Secondary School and lea
 
 Our pupils with their completed designs.
 
+### <u>Moving Forward and Values Inculcation through Art Club  </u>
+
+It is the mission of the Art Club to stimulate and nurture the spirit of exploring and love for Art in the pupils. The Art Club provides a nurturing environment where teachers fan pupils’ passion for Art as they are given the space to express themselves creatively. We also aim to inculcate in our pupils the importance of perseverance, excellence and independence as they strive to complete every piece of artwork. They are constantly encouraged to do their best and be the best!
+
+  
+
+Our pupils went on a learning journey to the Singapore Art Museum on 31 July 2018 as part of Art Club’s experiential learning. The exhibition titled _Imaginarium: Into the Space of Time_, enables our pupils to understand how the past experiences have conditioned the present times and the future. In addition, through the spirit of discovery and exploration, our pupils were motivated to relate their learning to real life experiences as they took a closer look at the concept of time in relation to people of different cultures.
+
+
+
 <center></center>
 
 
