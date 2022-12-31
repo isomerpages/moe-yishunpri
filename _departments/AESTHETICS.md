@@ -49,3 +49,8 @@ To provide opportunities for every student to experience all possibilities in th
 <p style="text-align: justify;">In line with the school’s LLP philosophy that every student is talented, has the potential and drive for self-improvement with an attitude of excellence towards the Aesthetics, SYF celebrates youth vitality.</p>
 
 <p style="text-align: justify;">SYF also offers opportunities for continuous learning and improvement through feedback from industry professionals on the showcase of diverse artistic talents and creativity.</p>
+
+
+## Embracing Creativity and Enhancing Character-building through Origami
+
+<p style="text-align: justify;">This programme adopts the art form (Origami) as the school’s key Art programme. This is part of the Aesthetics department’s effort in providing more opportunities for students to uphold the school values such as perseverance and excellence, build on their resilience and enhance their 21st century competencies.</p>
