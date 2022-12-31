@@ -21,8 +21,6 @@ third_nav_title: Sports & Games
 
 
 
-<center></center>
-
 
 <center></center>
 
@@ -36,3 +34,7 @@ third_nav_title: Sports & Games
 
 
 <center></center>
+
+![](/images/CCAs/Basketball/CCA_Basketball_2020_3.jpg)
+
+<center>We love Basketball trainings!</center>
