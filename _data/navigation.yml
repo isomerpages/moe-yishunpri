@@ -6,3 +6,5 @@ links:
     collection: school-details
   - title: CCAS
     collection: ccas
+  - title: Departments
+    collection: departments
