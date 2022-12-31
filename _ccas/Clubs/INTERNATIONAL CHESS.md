@@ -10,7 +10,17 @@ third_nav_title: Clubs
 
 <p style="text-align: justify;">Chess is a fun, creative and challenging strategic board game for all ages. As a game of strategy, Chess promotes cognitive thinking among the players as they analyze each move in the game. We aim to develop the players’ patience and tenacity while playing the game and also inculcate in them our school's core values of responsibility, respect, integrity and resilience.</p>
 
+![](/images/CCAs/International%20Chess/CCA_Chess%20Club_2020_1.jpg)
 
+<center>Active chess strategizing in broad daylight</center>
+
+
+
+![](/images/CCAs/International%20Chess/CCA_Chess%20Club_2020_2.jpg)
+
+
+
+![](/images/CCAs/International%20Chess/CCA_Chess%20Club_2020_3.jpg)
 
 ### Teachers-in-Charge:  
 
