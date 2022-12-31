@@ -5,11 +5,11 @@ description: ""
 ---
 # ENGLISH
 
-### Vision
+### **Vision**
 
 Empathetic and effective communicators of the English Language.
 
-### Mission
+### **Mission**
 
 To foster an enriching and nurturing environment for pupils to be active contributors, discerning readers and proficient users of the English Language.
 
