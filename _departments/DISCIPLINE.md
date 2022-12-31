@@ -28,6 +28,7 @@ Leaders who demonstrated more leadership qualities are further developed to the 
 
 <p style="text-align: justify;">The Carella project provides umbrellas for loan in the event of inclement weather to keep our students safe and dry on their journey home. Besides exemplifying the value of care, the project also seeks to inculcate the importance of responsibility. Students are required to return the loaned umbrellas after use. Prefects are tasked to loan out the umbrellas to ensure orderliness. They also communicate the importance of responsibility and respect for the school property.</p>
 
+<img src="/images/Departments/DISCIPLINE/DM3.jpg" style="width:50%">
 
 #### The Study Room - A home away from home  
 
