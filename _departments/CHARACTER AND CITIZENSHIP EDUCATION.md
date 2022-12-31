@@ -13,15 +13,15 @@ description: ""
 
 ### CCE Lessons 
 
-CCE Lessons in Primary Schools are enacted through CCE Form Teacher Guidance Period (FTGP) and CCE Mother Tongue Language (MTL). At Lower Primary, CCE Lessons also include the Programme for Active Learning (PAL). 30 minutes is allocated per week to allow teachers to equip students with social and emotional competencies. During FTGP, play activities are facilitated by the form and co-form teachers to build a safe classroom environment for students and to enhance the bonding between teachers and students. There will also be teaching of social and emotional learning (SEL) skills, cyber wellness education and enhanced career guidance for the upper primary students. 
+<p style="text-align: justify;">CCE Lessons in Primary Schools are enacted through CCE Form Teacher Guidance Period (FTGP) and CCE Mother Tongue Language (MTL). At Lower Primary, CCE Lessons also include the Programme for Active Learning (PAL). 30 minutes is allocated per week to allow teachers to equip students with social and emotional competencies. During FTGP, play activities are facilitated by the form and co-form teachers to build a safe classroom environment for students and to enhance the bonding between teachers and students. There will also be teaching of social and emotional learning (SEL) skills, cyber wellness education and enhanced career guidance for the upper primary students. </p>
 
 ### Sexuality Education 
 
-Sexuality Education (SEd) is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+<p style="text-align: justify;">Sexuality Education (SEd) is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
 ### National Education (NE) Commemorative Events 
 
-Yishun Primary School observes the 4 NE commemorative events which have been identified as defining moments in Singapore history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation. The 4 NE commemorative events are:
+<p style="text-align: justify;">Yishun Primary School observes the 4 NE commemorative events which have been identified as defining moments in Singapore history. The aim is to entrench these events and the images they evoke in the consciousness of each successive generation. The 4 NE commemorative events are:</p>
 
 1\.  Total Defence Day
 2\.  International Friendship Day
