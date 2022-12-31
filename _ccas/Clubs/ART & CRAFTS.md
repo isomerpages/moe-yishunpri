@@ -109,6 +109,12 @@ Cotton bud paintings done by our very own P4 and 5 Art Club pupils
 
 Our Art Club pupils demonstrate their never give up attitude as they persevere throughout the art-making process.
 
+### <u>Art Displays in School</u>
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub2018_1.jpg)
+
+Peacocks and 3D origami, proudly displayed at the school porch.
+
 <center></center>
 
 
