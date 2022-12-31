@@ -200,6 +200,15 @@ Our pupils went on a learning journey to the Singapore Art Museum on 31 July 201
 
 Our pupils spotted the iconic Changi Airport in this detailed and colourful illustration, showcasing Singapore as a vibrant metropolitan city.
 
+![](/images/CCAs/Art%20&%20Crafts/artclub_lj2.jpg)
+
+<p style="text-align: justify;">Our pupils constructed knowledge actively as they expressed themselves freely based on their childhood memories via a hands-on session at the museum. Their drawings were put up after that. Affective, behavioural and cognitive engagement were evident during this session.</p>
+
+
+![](/images/CCAs/Art%20&%20Crafts/artclub_lj2.jpg)
+
+
+
 <center></center>
 
 
