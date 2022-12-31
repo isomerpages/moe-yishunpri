@@ -92,7 +92,7 @@ One of YPS’ SYF Art teams compromising Pineda Maya Emilia Rodriguez (6 Sinceri
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_4.jpg) |   ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_5.jpg)  |
 
 <center></center>
 
