@@ -50,6 +50,12 @@ To provide opportunities for every student to experience all possibilities in th
 
 <p style="text-align: justify;">SYF also offers opportunities for continuous learning and improvement through feedback from industry professionals on the showcase of diverse artistic talents and creativity.</p>
 
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 
 ## Embracing Creativity and Enhancing Character-building through Origami
 
