@@ -22,7 +22,9 @@ third_nav_title: Performing Arts
 
 <center>Some of our band members participated in an Immersion Programme at Bangkok, Thailand. They had the opportunity to attend a Masterclass at Kasetsart University.</center>
 
-<center></center>
+![](/images/CCAs/Concert%20Band/CCA_Band_2020_3.jpg)
+
+<center>Our Yishun Primary Concert Band members performed the La Famille de Musique concert on 27th November 2019 with Pasir Ris Secondary School Concert Band and Yuying Secondary School.</center>
 
 
 <center></center>
