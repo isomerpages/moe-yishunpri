@@ -35,10 +35,46 @@ third_nav_title: Sports & Games
 
 <center>eCCA via Zoom - We are serious about keeping strong and fit even during the pandemic.</center>
 
-
-
-<center></center>
-
 ![](/images/CCAs/Basketball/CCA_Basketball_2020_3.jpg)
 
 <center>We love Basketball trainings!</center>
+
+### 
+
+Achievements:
+
+National School Games Basketball 2019 (Junior Division) 
+
+Venue: Greenwood Primary School 
+
+Organizer: SPSSC 
+
+Achievement: Tier 3 Team 1st  
+
+  
+
+Invitational 4v4 Basketball Tournament 2019   
+
+Venue: Tampines Primary School 
+
+Organizer: Tampines Secondary School 
+
+Achievement: Champions (Junior Boys), 1st Runner Up (Senior Boys)  
+
+### Teachers-in-Charge:
+
+Miss Fam Xinru Winnie (I/C) (fam\_xinru\_winnie@schools.gov.sg)   
+Ms Tan Lian Kiah (2 I/C) (tan\_lian\_kiah@schools.gov.sg)   
+Miss Nor Ayuni   
+Ms Nirmala (nirmala\_arumugam@schools.gov.sg)   
+External Coach  
+
+
+### **Venue:**
+
+Indoor Sports Hall (ISH Level 1)
+
+### **Time and Days:** 
+
+2.00pm - 4.00pm, Tuesdays   
+2.00pm - 4.00pm, Fridays
