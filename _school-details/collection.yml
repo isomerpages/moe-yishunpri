@@ -2,7 +2,6 @@ collections:
   school-details:
     output: true
     order:
-      - SCHOOL HEALTHY SET MEALS.md
       - CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
@@ -10,3 +9,4 @@ collections:
       - SCHOOL BOOKSHOP.md
       - SCHOOL BUS SERVICE.md
       - SCHOOL DENTAL CLINIC.md
+      - SCHOOL HEALTHY SET MEALS.md
