@@ -45,3 +45,5 @@ Based on the exhibition theme, "Artist and Technology" our student artists creat
 ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2021_1.jpg)
 
 <center>Our creative student artists’ SYF artworks, titled “Dream Space City” and “Passport to Imagination”.</center>
+
+<center></center>
