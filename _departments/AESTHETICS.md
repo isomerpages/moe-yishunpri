@@ -52,9 +52,9 @@ To provide opportunities for every student to experience all possibilities in th
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_2.jpg) |
-|  ![](/images/Departments/AESTHETICS/Aes_SYF_3.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_4.jpg) |
-|  ![](/images/Departments/AESTHETICS/Aes_SYF_5.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_6.jpg) |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_1.jpg) Indian Dance - Certificate of Distinction @ SYF Arts Presentation 2018 |  ![](/images/Departments/AESTHETICS/Aes_SYF_2.jpg)  Malay Dance - Certificate of Accomplishment @ SYF Arts Presentation 2018  |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_3.jpg)  Chinese Dance - Certificate of Accomplishment @ SYF Arts Presentation 2018   |  ![](/images/Departments/AESTHETICS/Aes_SYF_4.jpg) Angklung Kulintang - Certificate of Accomplishment @ SYF Arts Presentation 2018  |
+|  ![](/images/Departments/AESTHETICS/Aes_SYF_5.jpg) Concert Band - Certificate of Distinction @ SYF Arts Presentation 2018   |  ![](/images/Departments/AESTHETICS/Aes_SYF_6.jpg) |
 |  ![](/images/Departments/AESTHETICS/Aes_SYF_7.jpg) |  ![](/images/Departments/AESTHETICS/Aes_SYF_8.jpg) |
 
 ## Embracing Creativity and Enhancing Character-building through Origami
