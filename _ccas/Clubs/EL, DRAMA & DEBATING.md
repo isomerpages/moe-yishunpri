@@ -18,12 +18,8 @@ Ms Chua Mei Ling (I/C) (chua\_mei\_ling\_b@schools.gov.sg)
 Mdm June Low (june\_low\_mun\_ling@schools.gov.sg)    
 Mdm Maisarah (maisarah\_zainal\_abiden@schools.gov.sg)
 
-**Venue:**
-
+### Venue:
 C3-01
 
-  
-
-**Time and Day:**
-
+### Time and Day:
 2.00pm - 4.00pm, Fridays
