@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Sports & Games/FLOORBALL.md
       - Sports & Games/BASKETBALL.md
       - Sports & Games/.keep
       - Clubs/.keep
