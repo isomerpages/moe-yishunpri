@@ -23,16 +23,13 @@ Mdm Debbie Cheong (cheong\_hui\_ting\_debbie@schools.gov.sg)
 Mrs Ribut Aziz (ribut\_nawi@schools.gov.sg)   
 Miss Roopini (roopini\_jaya\_balan@schools.gov.sg)     
 
-**Venue:**  
-
-Art Room 1 & 2  
-
+### Venue:  
+Art Room 1 & 2    
 Classroom C1-01, H2-06, H2-07
 
   
 
-**Time and Day:**
-
+### Time and Day:
 2.00pm - 4.00pm, Tuesdays
 
   
