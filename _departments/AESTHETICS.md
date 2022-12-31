@@ -24,3 +24,13 @@ To provide opportunities for every student to experience all possibilities in th
 <p style="text-align: justify;">Through its LLP, Yishun Primary School is in a unique position as it leverages its Performing Arts to further achieve the school’s vision and mission. The LLP is customised based on the philosophy that every student is talented, has the potential and drive for self-improvement with an attitude of excellence towards the Aesthetics.</p>
 
 <p style="text-align: justify;">This belief is guided by two thrusts: Music for All and Music for Excellence. Putting the beliefs into action, the school planned the LLP according to two domains: Experience and Empower.</p>
+
+**EXPERIENCE**
+
+<p style="text-align: justify;">The school believes that every student is talented. In line with MOE’s Uplift initiative, under the Experience domain, every student is exposed to varied music and performing arts genres. Through the authentic learning experiences, every student will be able to appreciate local, ASEAN and international music and performing arts genre.</p>
+
+**EMPOWER**
+
+<p style="text-align: justify;">The school believes that every student has the drive for self-improvement with an attitude for excellence towards the Aesthetics. As such, open calls provide opportunities and platforms for pupils to take ownership of their learning. Based on their passion and interests, pupils pursue the Aesthetics field further, acquiring the skills and knowledge to be world-ready youths of the future.</p>
+
+<p style="text-align: justify;">Apart from the skills and knowledge acquisition, LLP equips every student with 21st century competencies and strengthens the inculcation of school and universal values through the two domains.</p>
