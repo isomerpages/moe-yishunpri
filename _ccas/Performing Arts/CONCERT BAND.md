@@ -27,7 +27,9 @@ third_nav_title: Performing Arts
 <center>Our Yishun Primary Concert Band members performed the La Famille de Musique concert on 27th November 2019 with Pasir Ris Secondary School Concert Band and Yuying Secondary School.</center>
 
 
-<center></center>
+![](/images/CCAs/Concert%20Band/Group-Photo-5.jpg)
+
+<center>Group photo with Mrs Yee</center>
 
 
 <center></center>
