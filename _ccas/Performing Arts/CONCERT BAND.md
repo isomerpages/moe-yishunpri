@@ -48,3 +48,45 @@ third_nav_title: Performing Arts
 ![](/images/CCAs/Concert%20Band/2017Band_4.jpg)
 
 <center>Band Exchange Programme with Nan-Yang Elementary School Wing Band (Taiwan)</center>
+
+### Teachers-in-Charge:
+
+### 
+
+Miss Yong Hui Wen (I/C) (yong\_hui\_wen@schools.gov.sg)
+
+Mr Lee Oon Kee (2 I/C) (lee\_oon\_kee@schools.gov.sg)
+
+Miss Lee Linghui Alcina (lee\_linghui\_alcina@ schools.gov.sg)
+
+Ms Sim Sze Hua  (sim\_sze\_hua@schools.gov.sg)
+
+Mr Teng Ji Song Lawrence (Teng\_Ji\_Song\_Lawrence@schools.gov.sg)
+
+Ms Valerie Wang (wang\_yunwen\_valerie@schools.gov.sg)
+
+Miss Bernice Cheng (cheng\_xinyi\_bernice@schools.gov.sg)
+
+Band Instructor
+
+  
+
+### **Venue:**
+
+Indoor Sports Hall Level 4 (Band Room)   
+C4-01, C4-04, D4-02 and D4-03 Classrooms
+
+  
+
+### **Time and Days:**
+2.00pm - 5.30pm, Wednesdays   
+2.00pm - 5.00pm, Fridays
+
+
+### Achievements
+
+*   SYF 2018 Arts Presentation - Certificate of Distinction 
+*   SYF 2016 Arts Presentation - Certificate of Distinction 
+*   Singapore International Band Festival 2016 - Silver  
+*   SYF Arts Presentation 2014 – Certificate of Accomplishment   
+*   SYF Central Judging 2012 – Gold with Honours
