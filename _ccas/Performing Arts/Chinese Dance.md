@@ -23,9 +23,9 @@ third_nav_title: Performing Arts
 
 <center>Chong Pang National Day Dinner 2017</center>
 
+![](/images/CCAs/Chinese%20Dance/2018%20CNY2.jpg)
 
-
-<center></center>
+<center>15 February 2018 Chinese New Year Performance</center>
 
 
 <center></center>
