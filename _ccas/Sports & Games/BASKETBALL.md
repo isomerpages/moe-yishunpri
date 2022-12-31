@@ -19,10 +19,10 @@ third_nav_title: Sports & Games
 
 <center>Our Senior & Junior boys -  the top 2 winning teams in TPSS Invitational 4v4 Tournament</center>
 
+![](/images/CCAs/Basketball/Basketball_Photo_01.jpg)
 
-
-
-<center></center>
+<center>Gaining tournament experience - P6 senior boys competed against each other in Primary 6 Intra-CCA Basketball Tournament
+</center>
 
 
 
