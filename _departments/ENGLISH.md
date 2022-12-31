@@ -20,3 +20,7 @@ Yishun Primary School’s English Department believes in providing a holistic cu
 Breadth: A holistic education that develops each student’s potential.    
 Depth: A values-driven education that encapsulates the Singaporean identity.    
 Length: A continual education that prepares students for the future.
+
+### Key Programmes:
+
+#### **STELLAR 2.0**
