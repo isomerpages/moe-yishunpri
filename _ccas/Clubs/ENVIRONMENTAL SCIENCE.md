@@ -51,14 +51,10 @@ Science Lab or PTC Lab
 
   
 
-**Achievements:**
+### Achievements:
 
-**2018** Elementz Science Project Competition and Exhibition - Silver, Certificate of Commendation
-
-**2018** National Youth Upcycling Movement (NYUM) – 3 Silver Awards
-
-**2019** Elementz Science Project Competition and Exhibition - Silver, Certificate of Commendation
-
-**2019** National Youth Upcycling Movement (NYUM) - Gold and Silver Awards
-
+**2018** Elementz Science Project Competition and Exhibition - Silver, Certificate of Commendation   
+**2018** National Youth Upcycling Movement (NYUM) – 3 Silver Awards   
+**2019** Elementz Science Project Competition and Exhibition - Silver, Certificate of Commendation   
+**2019** National Youth Upcycling Movement (NYUM) - Gold and Silver Awards   
 **2021** National Youth Upcycling Movement (NYUM) - Certificate of Accomplishment
