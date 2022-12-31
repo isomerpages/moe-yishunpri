@@ -2,8 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/SCOUTS.md
-      - Uniformed Groups/.keep
       - Clubs/.keep
       - Clubs/ART & CRAFTS.md
       - Clubs/EL, DRAMA & DEBATING.md
@@ -20,3 +18,5 @@ collections:
       - Sports & Games/BASKETBALL.md
       - Sports & Games/FLOORBALL.md
       - Sports & Games/FOOTBALL.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/SCOUTS.md
