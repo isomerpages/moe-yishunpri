@@ -105,6 +105,12 @@ Our pupils with their 3-dimensional geometric models
 
 Cotton bud paintings done by our very own P4 and 5 Art Club pupils
 
+|   |   |
+|:-:|:-:|
+|   |   |
+
+Our Art Club pupils demonstrate their never give up attitude as they persevere throughout the art-making process.
+
 <center></center>
 
 
