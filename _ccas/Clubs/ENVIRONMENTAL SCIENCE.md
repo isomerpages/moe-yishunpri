@@ -32,24 +32,14 @@ Environmental Science aims to develop pupils into environmental champions, where
 
 
 ### Teachers-in-Charge:  
-
-Mrs Lim Zi Wei (I/C) (goh\_zi\_wei@schools.gov.sg)
-
+Mrs Lim Zi Wei (I/C) (goh\_zi\_wei@schools.gov.sg)   
 Mdm Latifah Binte Mohamed Hussain (latifah\_mohamed\_hussain@schools.gov.sg)
 
-  
-
-**Venue:**
-
+### Venue:
 Science Lab or PTC Lab
 
-  
-
-**Time and Day:**
-
+### Time and Day:
 2.00pm - 4.00pm, Fridays
-
-  
 
 ### Achievements:
 
