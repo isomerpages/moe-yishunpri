@@ -14,15 +14,17 @@ Yishun Primary School’s Football CCA aims to develop the right values such as 
 
 <center>Real Madrid Football Academy Invitational Football Clinic 2019</center>
 
-<center></center>
+
+
+<center>Our football players hard at work</center>
 
 
 
-<center></center>
+<center>Annual friendly game with Naval Base Primary School</center>
 
 
 
-<center></center>
+<center>Rain or shine, our football session still goes on</center>
 
 
 ### Teachers-in-Charge:
