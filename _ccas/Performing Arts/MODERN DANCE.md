@@ -18,3 +18,7 @@ third_nav_title: Performing Arts
 ![](/images/CCAs/Modern%20Dance/Dancer%201.jpg)
 
 **_Our beautiful dancers in action_**
+
+![](/images/CCAs/Modern%20Dance/dancer%202.jpg)
+
+**_"Everybody can dance, its the drive and passion that makes you a dancer"_**
