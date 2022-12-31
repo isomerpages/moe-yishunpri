@@ -161,7 +161,7 @@ Pupils’ artworks exhibited in the Art Room.
 
 ### <u>Our Outstanding Budding Artist and Her Masterpiece</u>  
 
-Our P6 Integrity pupil, Frances C.D’s stunning picture of the dandelions was chosen to be the cover page of our 2018 Pupil’s Handbook. She inspires us through her talent and her quest for sheer beauty as illustrated in her masterpiece.
+<p style="text-align: justify;">Our P6 Integrity pupil, Frances C.D’s stunning picture of the dandelions was chosen to be the cover page of our 2018 Pupil’s Handbook. She inspires us through her talent and her quest for sheer beauty as illustrated in her masterpiece.</p>
 
 ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_19.jpg)
 
