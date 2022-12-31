@@ -80,3 +80,16 @@ At the N6 Cluster Media and Design Festival 2019, the team received a Special Me
 # image >5mb
 
 <center>Winning Teams for RoboPreneur 2016</center>
+
+
+**Qihua's Innovation & Entrepreneurship Competition 2015**
+
+*    **I&E Challenge 2015**: 1st Runner-up
+*    **Best Participating Group**: 1st Runner-up
+
+**N6 Cluster Media & Design Festival 2015**
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
