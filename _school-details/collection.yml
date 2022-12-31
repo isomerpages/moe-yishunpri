@@ -2,9 +2,9 @@ collections:
   school-details:
     output: true
     order:
-      - SCHOOL BUS SERVICE.md
       - CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
       - SCHOOL ATTIRE.md
       - SCHOOL BOOKSHOP.md
+      - SCHOOL BUS SERVICE.md
