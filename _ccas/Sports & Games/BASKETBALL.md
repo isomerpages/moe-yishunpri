@@ -39,26 +39,17 @@ third_nav_title: Sports & Games
 
 <center>We love Basketball trainings!</center>
 
-### 
 
-Achievements:
+### Achievements:
 
-National School Games Basketball 2019 (Junior Division) 
-
-Venue: Greenwood Primary School 
-
-Organizer: SPSSC 
-
+National School Games Basketball 2019 (Junior Division)  
+Venue: Greenwood Primary School    
+Organizer: SPSSC   
 Achievement: Tier 3 Team 1st  
 
-  
-
-Invitational 4v4 Basketball Tournament 2019   
-
-Venue: Tampines Primary School 
-
-Organizer: Tampines Secondary School 
-
+Invitational 4v4 Basketball Tournament 2019     
+Venue: Tampines Primary School   
+Organizer: Tampines Secondary School   
 Achievement: Champions (Junior Boys), 1st Runner Up (Senior Boys)  
 
 ### Teachers-in-Charge:
