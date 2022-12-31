@@ -139,8 +139,9 @@ Monochrome art and Collage pieces beautifying the walls of the school.
 
 <p style="text-align: justify;">We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.</p>
 
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2019_5.jpg)
 
-<center></center>
+<center>Learning journey at the National Gallery. (Photo taken pre-Covid)</center>
 
 
 <center></center>
