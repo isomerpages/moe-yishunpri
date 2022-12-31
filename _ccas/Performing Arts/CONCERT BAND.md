@@ -19,3 +19,17 @@ third_nav_title: Performing Arts
 <center>Our band members participated in the Adventure Band Camp, which was held in September 2019. Band pupils from different schools came together and interacted in a learning and performing environment. The camp culminated in a concert at the Yong Siew Toh Conservatory of Music, NUS.</center>
 
 <center></center>
+
+<center></center>
+
+
+<center></center>
+
+
+<center></center>
+
+
+<center></center>
+
+
+<center></center>
