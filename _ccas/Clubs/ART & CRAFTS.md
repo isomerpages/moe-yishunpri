@@ -143,8 +143,29 @@ Monochrome art and Collage pieces beautifying the walls of the school.
 
 <center>Learning journey at the National Gallery. (Photo taken pre-Covid)</center>
 
+### <u>Our Annual Art Exhibition</u>
 
-<center></center>
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_16.jpg)
+
+An annual Art exhibition that celebrate pupils’ successes at the end of the year.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_14.jpg)
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_15.jpg)
+
+Pupils’ artworks exhibited in the Art Room.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2019_3.jpg)
+
+<center>Our art exhibition, themed “Citizenship” at the Yishun Public Library.</center>
+
+### <u>Our Outstanding Budding Artist and Her Masterpiece</u>  
+
+Our P6 Integrity pupil, Frances C.D’s stunning picture of the dandelions was chosen to be the cover page of our 2018 Pupil’s Handbook. She inspires us through her talent and her quest for sheer beauty as illustrated in her masterpiece.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_19.jpg)
+
+
 
 
 
