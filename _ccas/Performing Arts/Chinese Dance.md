@@ -14,8 +14,10 @@ third_nav_title: Performing Arts
 
 <center>2016 SYF Arts Presentation - Certificate of Accomplishment</center>
 
+![](/images/CCAs/Chinese%20Dance/2017ChineseDance_3.jpg)
 
-<center></center>
+
+<center> Aesthetics Night performance on 18 November 2016</center>
 
 
 <center></center>
