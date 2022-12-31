@@ -2,6 +2,7 @@ collections:
   school-details:
     output: true
     order:
+      - SCHOOL DENTAL CLINIC.md
       - CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
