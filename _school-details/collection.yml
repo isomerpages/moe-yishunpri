@@ -2,10 +2,10 @@ collections:
   school-details:
     output: true
     order:
-      - SCHOOL DENTAL CLINIC.md
       - CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
       - SCHOOL ATTIRE.md
       - SCHOOL BOOKSHOP.md
       - SCHOOL BUS SERVICE.md
+      - SCHOOL DENTAL CLINIC.md
