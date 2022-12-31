@@ -54,3 +54,5 @@ To provide opportunities for every student to experience all possibilities in th
 ## Embracing Creativity and Enhancing Character-building through Origami
 
 <p style="text-align: justify;">This programme adopts the art form (Origami) as the school’s key Art programme. This is part of the Aesthetics department’s effort in providing more opportunities for students to uphold the school values such as perseverance and excellence, build on their resilience and enhance their 21st century competencies.</p>
+
+![](/images/Departments/AESTHETICS/Aes_origami.jpg)
