@@ -176,10 +176,17 @@ Pupils’ artworks exhibited in the Art Room.
 <img src="/images/CCAs/Art%20&%20Crafts/ArtClub_2018_22.jpg" style="width:50%; float: left"><br clear="left">
 
 
-|   |   |
-|:-:|:-:|
-|   |   |
-|   |   |
+During one of our learning journeys, our pupils made their first attempts at Urban Sketching. They thoroughly enjoyed practising drawing on location at the Singapore Art Museum.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_23.jpg)
+
+
+In April this year, our pupils also went to Orchid Park Secondary School and learnt about Digital Art and Print-making under the Direct School Admission (DSA) Out Reach Programme.
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_24.jpg)
+
+
+Our pupils with their completed designs.
 
 <center></center>
 
