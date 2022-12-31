@@ -15,12 +15,13 @@ third_nav_title: Clubs
 <center>Active chess strategizing in broad daylight</center>
 
 
-
 ![](/images/CCAs/International%20Chess/CCA_Chess%20Club_2020_2.jpg)
 
-
+<center>Players engaging in Othello playing as part of their repertoire of skills</center>
 
 ![](/images/CCAs/International%20Chess/CCA_Chess%20Club_2020_3.jpg)
+
+<center>Chess playing is actually hard brain exercise!</center>
 
 ### Teachers-in-Charge:  
 
