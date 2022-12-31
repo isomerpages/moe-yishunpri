@@ -7,4 +7,10 @@ description: ""
 
 ### School Uniform
 
-P1 and P2 School Attire
+![](/images/School%20Details/uniform%20pic.jpg)
+
+<center>P1 and P2 School Attire</center>
+
+![](/images/School%20Details/Sch_uni.jpg)
+
+<center>P3 to P6 School Attire</center>
