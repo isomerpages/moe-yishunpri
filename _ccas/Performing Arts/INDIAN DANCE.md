@@ -16,6 +16,9 @@ third_nav_title: Performing Arts
 
 <p style="text-align: justify;">Our dancers perform the choreographed dance items for both internal and external events. They have performed in various external events such as, the International Biology Olympiad 2012, SINDA Excellence Award 2012, National Arts Council’s Award ceremony 2014, International Conference of the world Association of Lesson Studies (WALS) 2012 and National Day celebrations at Chong Pang CC.</p>
 
+![](/images/CCAs/Indian%20Dance/2017IndianDance_1.jpg)
+
+![](/images/CCAs/Indian%20Dance/indian_dance_1.png)
 
 ### Teachers-in-Charge:
 
