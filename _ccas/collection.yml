@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs/ENVIRONMENTAL SCIENCE.md
       - Clubs/.keep
       - Clubs/ART & CRAFTS.md
       - Clubs/EL, DRAMA & DEBATING.md
