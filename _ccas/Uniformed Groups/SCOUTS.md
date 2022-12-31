@@ -14,6 +14,17 @@ third_nav_title: Uniformed Groups
 
 <p style="text-align: justify;">With such exposure, we hope to develop our scouts into motivated, independent and adaptable individuals who are able to maintain gracious relationship with others and be a contributing member of the society.</p>
 
+Akela Award Recipients Y2019. (Photo taken Pre-Covid)
+
+
+Congratulations to our Akela Award recipients for Y2019 (Photo taken pre-Covid)
+
+
+Yishun Scouts reciting the Scout laws and promises during Annual Scout Founder’s Day Celebration (Photo taken pre-Covid)
+
+
+
+
 ### **Teachers-in-Charge:**  
 
 Mr Masri Bin Kario (I/C) (masri\_kario@schools.gov.sg)   
