@@ -29,21 +29,15 @@ External Instructor
 
 ### Venues:
 
-Computer Lab 1  
-
-Computer Lab 2  
-
-Computer Lab 3
-
+Computer Lab 1    
+Computer Lab 2    
+Computer Lab 3  
 IT Resource Room
-
-  
 
 ### Time and Day:
 
 2.00pm - 4.00pm, Fridays  
 
-  
 
 ### Achievements:
 
