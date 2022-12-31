@@ -68,3 +68,15 @@ At the N6 Cluster Media and Design Festival 2019, the team received a Special Me
 | ![](/images/CCAs/Infocomm%20Technology/ICT_01_2017.png)  | ![](/images/CCAs/Infocomm%20Technology/ICT_02_2017.png)  |
 
 <center>N6 Cluster Media & Design Festival 2016</center>
+
+
+![](/images/CCAs/Infocomm%20Technology/ICT_04_2017.png)
+
+**10th National RoboPreneur Carnival 2016**
+
+*   **Best Robotics Technical Presentation** (Primary Category): 2nd Runner-up
+*   **Best Programmable Drone Performance** (Open Category): 1st Runner-up
+
+# image >5mb
+
+<center>Winning Teams for RoboPreneur 2016</center>
