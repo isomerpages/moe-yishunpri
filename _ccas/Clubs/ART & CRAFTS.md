@@ -54,6 +54,14 @@ Based on the exhibition theme, "Artist and Technology" our student artists creat
 
 <center>Healthcare workers with our beautifully made cards.</center>
 
+### Achievements:
+
+Singapore Youth Festival 2019 (Certificate of Recognition)
+
+### SYF 2019 – "Sea-ing Plastic"
+
+7 of our Primary 2 pupils participated in the SYF Art 2019 (Category A) and the team’s artwork entitled “Sea-ing Plastic” has been awarded a Certificate of Recognition. The artwork will be displayed at the National Museum of Singapore.   
+The concept of citizenship is illustrated through the harmonious living of the sea animals. By reusing plastics, we are creating an awareness of the plastic pollution in the seas. We are committed to champion our school wide and nation’s upcycling efforts. We are confident that we can nurture responsible global citizens.
 
 <center></center>
 
