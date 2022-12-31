@@ -165,7 +165,7 @@ Pupils’ artworks exhibited in the Art Room.
 
 ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_19.jpg)
 
-
+<img src="/images/CCAs/Art%20&%20Crafts/ArtClub_2018_20.jpg" style="width:40%; float: left"><br clear="left">
 
 
 
