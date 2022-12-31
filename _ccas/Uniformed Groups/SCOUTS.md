@@ -14,9 +14,13 @@ third_nav_title: Uniformed Groups
 
 <p style="text-align: justify;">With such exposure, we hope to develop our scouts into motivated, independent and adaptable individuals who are able to maintain gracious relationship with others and be a contributing member of the society.</p>
 
+![](/images/CCAs/Scouts/Scouts_Photo_01.jpg)
 
+![](/images/CCAs/Scouts/Scouts_Photo_02.jpg)
 
 <center>Akela Award Recipients Y2019. (Photo taken Pre-Covid)</center>
+
+![](/images/CCAs/Scouts/Scouts_Photo_03.jpg)
 
 <center>Congratulations to our Akela Award recipients for Y2019 (Photo taken pre-Covid)</center>
 
