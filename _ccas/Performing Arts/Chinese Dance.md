@@ -5,3 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 # CHINESE DANCE
+
+### Synopsis:
+
+Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The pupils will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
