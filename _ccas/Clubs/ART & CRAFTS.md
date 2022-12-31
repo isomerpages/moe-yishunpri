@@ -94,6 +94,17 @@ One of YPS’ SYF Art teams compromising Pineda Maya Emilia Rodriguez (6 Sinceri
 |:-:|:-:|
 |  ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_4.jpg) |   ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_5.jpg)  |
 
+Our pupils got creative and had fun making paper bags. They also learnt to create interesting designs such as making the bag handles look like the shoe laces from the shoe graphics on the bag!
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_6.jpg)
+
+Our pupils with their 3-dimensional geometric models
+
+![](/images/CCAs/Art%20&%20Crafts/ArtClub_2018_7.png)
+
+
+Cotton bud paintings done by our very own P4 and 5 Art Club pupils
+
 <center></center>
 
 
