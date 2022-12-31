@@ -19,8 +19,9 @@ third_nav_title: Performing Arts
 
 <center> Aesthetics Night performance on 18 November 2016</center>
 
+![](/images/CCAs/Chinese%20Dance/CL_Dance2017.jpg)
 
-<center></center>
+<center>Chong Pang National Day Dinner 2017</center>
 
 
 
