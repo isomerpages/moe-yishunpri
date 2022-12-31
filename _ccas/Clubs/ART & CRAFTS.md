@@ -167,7 +167,9 @@ Pupils’ artworks exhibited in the Art Room.
 
 <img src="/images/CCAs/Art%20&%20Crafts/ArtClub_2018_20.jpg" style="width:40%; float: left"><br clear="left">
 
+### <u>ART is Everywhere!</u>
 
+We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.
 
 <center></center>
 
