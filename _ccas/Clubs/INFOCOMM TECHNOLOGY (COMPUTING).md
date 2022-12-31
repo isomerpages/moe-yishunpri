@@ -57,3 +57,8 @@ IT Resource Room
 *   Championship in Robotics  
     
 *   1st Runner-up Overall Champion 2016
+
+![](/images/CCAs/Infocomm%20Technology/CCA_ICT%20Club_2020_2.jpg)
+
+
+At the N6 Cluster Media and Design Festival 2019, the team received a Special Mention award for a category.
