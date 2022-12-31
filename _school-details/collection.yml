@@ -2,8 +2,6 @@ collections:
   school-details:
     output: true
     order:
-      - SCHOOL STUDENT CARE CENTRE.md
-      - SCHOOL HOURS.md
       - CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
@@ -12,3 +10,5 @@ collections:
       - SCHOOL BUS SERVICE.md
       - SCHOOL DENTAL CLINIC.md
       - SCHOOL HEALTHY SET MEALS.md
+      - SCHOOL HOURS.md
+      - SCHOOL STUDENT CARE CENTRE.md
