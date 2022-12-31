@@ -14,5 +14,5 @@ Below is the details of the new bus vendor.
 |                             **Name of Bus Operator**                            |                   Tong Tar Transport Service Pte Ltd                  |
 |                               **Liaison Officer**                               |                         School Transport Team                         |
 |                            **Tel No / Hand phone No**                           |                          62615537 / 82990038                          |
-|                                **Email address**                                |                          yishunps@tongtar.com                         |
-| **On Line School Bus Registration<br>(use browser :- Chrome, Firefox or Edge)** | https://www.tongtar.com/schoolbus-registration/yishun-primary-school/ |
+|                                **Email address**                                |                          [yishunps@tongtar.com](mailto:yishunps@tongtar.com)                         |
+| **On Line School Bus Registration<br>(use browser :- Chrome, Firefox or Edge)** | [https://www.tongtar.com/schoolbus-registration/yishun-primary-school/](https://www.tongtar.com/schoolbus-registration/yishun-primary-school/) |
