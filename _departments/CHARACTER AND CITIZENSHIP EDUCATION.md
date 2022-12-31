@@ -51,4 +51,4 @@ description: ""
 
 ![](/images/Departments/Cce/CCE3.png)
 
-**<center>P4 students designed poster to promote awareness and prevention of Dengue to the community in collaboration with NorthWest CDC and Methodist Welfare Society Family Service Centre (Yishun)</center>**
+**<center>P3 students’ contribution to community fridge through urban farming</center>**
