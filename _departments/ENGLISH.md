@@ -60,3 +60,9 @@ We are proud to share that our P3 students have clinched the Silver award for th
 ### EL Bridge Programmes
 
 To ensure that students are well supported in their learning of language skills, the EL Bridge programmes provide extensive support to students who require more support in the acquisition of language skills.
+
+|                   Programme                  | Level |
+|:--------------------------------------------:|:-----:|
+|       Learning Support Programme (LSP)       | P1-P2 |
+|      Reading Remediated Programme (RRP)      | P3-P4 |
+| School Dyslexia Remediation Programme  (SDR) | P3-P4 |
