@@ -47,4 +47,4 @@ To nurture Future Ready and Responsible Digital Learners.
 
 ### Cyber Wellness Programmes
 
-Beyond the Cyber Wellness Lessons, ICT Department also designs programmes and events such as Cyber Wellness Ambassadors programme, Cyber Wellness Week, Recess Activities and workshop for identified pupils. All these programmes and events are aligned with our school’s values and are customised to meet the needs of our pupils.
+<p style="text-align: justify;">Beyond the Cyber Wellness Lessons, ICT Department also designs programmes and events such as Cyber Wellness Ambassadors programme, Cyber Wellness Week, Recess Activities and workshop for identified pupils. All these programmes and events are aligned with our school’s values and are customised to meet the needs of our pupils.</p>
