@@ -43,7 +43,7 @@ To nurture Future Ready and Responsible Digital Learners.
 
 <p style="text-align: justify;">The Cyber Wellness lessons aim to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information and Communication Technology (ICT).  The main platforms for the delivery of the lessons are via Form Teacher Guidance Period (in Primary schools) and assembly talks (in Primary schools), and in the Character and Citizenship Education (CCE) curriculum (in Secondary Schools and Pre-University). </p>  
 
-Key Cyber Wellness topics are also incorporated into the formal curriculum through subjects such as English and Mother Tongue Languages where appropriate. The MOE Sexuality Education, The Growing Years package also has Cyber Wellness-related contexts where relevant.  
+<p style="text-align: justify;">Key Cyber Wellness topics are also incorporated into the formal curriculum through subjects such as English and Mother Tongue Languages where appropriate. The MOE Sexuality Education, The Growing Years package also has Cyber Wellness-related contexts where relevant.  </p>
 
 ### Cyber Wellness Programmes
 
