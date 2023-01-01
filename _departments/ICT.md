@@ -35,3 +35,18 @@ To nurture Future Ready and Responsible Digital Learners.
 ### MOE's Cyber Wellness Framework
 
 ![](/images/Departments/ICT/CW_framework.jpg)
+
+
+MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’ and ‘Safe and Responsible Use’ and 'Positive Peer Influcence' when adhered to will anchor your child’s well-being in cyberspace as they will then be able to make careful and well-considered decisions.   
+
+### Cyber Wellness Lesson
+
+The Cyber Wellness lessons aim to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information and Communication Technology (ICT).  The main platforms for the delivery of the lessons are via Form Teacher Guidance Period (in Primary schools) and assembly talks (in Primary schools), and in the Character and Citizenship Education (CCE) curriculum (in Secondary Schools and Pre-University). 
+
+  
+
+Key Cyber Wellness topics are also incorporated into the formal curriculum through subjects such as English and Mother Tongue Languages where appropriate. The MOE Sexuality Education, The Growing Years package also has Cyber Wellness-related contexts where relevant.  
+
+### Cyber Wellness Programmes
+
+Beyond the Cyber Wellness Lessons, ICT Department also designs programmes and events such as Cyber Wellness Ambassadors programme, Cyber Wellness Week, Recess Activities and workshop for identified pupils. All these programmes and events are aligned with our school’s values and are customised to meet the needs of our pupils.
