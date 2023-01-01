@@ -65,7 +65,7 @@ To instill the joy of learning in our students, the department is constantly tap
 
 ### EL Bloom Programmes
 
-<center>ecognising the talents of our students, the EL Bloom programmes stretch the potential of students who display the flair for the language. students also represent the school in various national competitions where their language skills are put to the test. </center>
+<center>Recognising the talents of our students, the EL Bloom programmes stretch the potential of students who display the flair for the language. students also represent the school in various national competitions where their language skills are put to the test. </center>
 
 We are proud to share that our P3 students have clinched the Silver award for the 2022 Singapore Moo-O Awards!
 
