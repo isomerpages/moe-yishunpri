@@ -9,12 +9,11 @@ description: ""
 
 To nurture Future Ready and Responsible Digital Learners.
 
-**Mission**
+##### **Mission**
 
 *   The ICT Department in Yishun Primary School aims to prepare our pupils for the future, equipping them with the 21st Century Competencies and guide them to be discerning and responsible digital learners, who are rooted in values. 
-    
 
-**Beliefs**
+##### **Beliefs**
 
 1.      Pupils’ learning are empowered by technology.
 
