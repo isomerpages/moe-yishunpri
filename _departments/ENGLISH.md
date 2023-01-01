@@ -3,6 +3,7 @@ title: ENGLISH
 permalink: /departments/english/
 description: ""
 ---
+# # image >5mb
 # ENGLISH
 
 ### **Vision**
@@ -34,6 +35,7 @@ Amongst the many pedagogical strategies incorporated into the STELLAR curriculum
 
 <p style="text-align: justify;">The English Language Festival is an annual event held and organised by the English Language Department to promote the effective use of the language and the love for reading. Students are engaged in recess activities which promote the love for reading. students also have the opportunity to participate in Poetry Recitation, Story-Telling and Readers’ Theatre during the level activities.</p>
 
+# image >5mb
 
 ### Read@YPS
 
