@@ -18,9 +18,8 @@ To nurture Future Ready and Responsible Digital Learners.
 
 1.      Pupils’ learning are empowered by technology.
 
-### 2.      Pupils are responsible and savvy technology users. 
+2.      Pupils are responsible and savvy technology users. 
 
-###   
 
 ### ICT in Total Curriculum 
 
