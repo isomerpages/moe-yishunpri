@@ -3,7 +3,7 @@ title: ENGLISH
 permalink: /departments/english/
 description: ""
 ---
-# # image >5mb
+# # image >5mb, size can be decreased but will lower resolution
 # ENGLISH
 
 ### **Vision**
