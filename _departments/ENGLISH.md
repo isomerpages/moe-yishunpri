@@ -44,7 +44,14 @@ Reading Bugs expose students to a variety of lively and engaging reading activit
 
 The school library welcomes all students, and one library period have been scheduled fortnightly during English lessons for students to browse and borrow books. 
 
-  
+ |              Programme             |  Level |
+|:----------------------------------:|:------:|
+|    We Can Read Phonics Programme   |   P1   |
+|           Mastering Oral           |  P2-P6 |
+|          Mastering Grammar         |  P1-P6 |
+|       Mastering Comprehension      |  P1-P6 |
+|        Mastering Punctuation       | P1-P6  |
+| Mastering Writing (Traits Writing) |  P2-P6 |
 
 ### Mastering English @ YPS
 
