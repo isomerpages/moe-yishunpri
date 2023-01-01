@@ -37,7 +37,7 @@ To nurture Future Ready and Responsible Digital Learners.
 ![](/images/Departments/ICT/CW_framework.jpg)
 
 
-MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’ and ‘Safe and Responsible Use’ and 'Positive Peer Influcence' when adhered to will anchor your child’s well-being in cyberspace as they will then be able to make careful and well-considered decisions.   
+<p style="text-align: justify;">MOE uses the CW framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’ and ‘Safe and Responsible Use’ and 'Positive Peer Influcence' when adhered to will anchor your child’s well-being in cyberspace as they will then be able to make careful and well-considered decisions. </p>  
 
 ### Cyber Wellness Lesson
 
