@@ -49,3 +49,14 @@ The school library welcomes all students, and one library period have been sched
 ### Mastering English @ YPS
 
 To instill the joy of learning in our students, the department is constantly tapping on the spirit of inquiry and innovation amongst the teachers to bring about customised teaching approaches to cater to specific learning needs of our students. These programmes aim to support the students in acquiring and mastering language
+
+
+### EL Bloom Programmes
+
+Recognising the talents of our students, the EL Bloom programmes stretch the potential of students who display the flair for the language. students also represent the school in various national competitions where their language skills are put to the test.   
+
+We are proud to share that our P3 students have clinched the Silver award for the 2022 Singapore Moo-O Awards!
+
+### EL Bridge Programmes
+
+To ensure that students are well supported in their learning of language skills, the EL Bridge programmes provide extensive support to students who require more support in the acquisition of language skills.
