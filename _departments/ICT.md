@@ -33,3 +33,5 @@ To nurture Future Ready and Responsible Digital Learners.
 <p style="text-align: justify;">In this technology-driven world, the cyber world has become part of our daily lives. Hence, it is important to educate our pupils in the navigation of the cyber world. Our Cyber Wellness Curriculum is based on the MOE’s Cyber Wellness (CW) Framework and customized to meet the needs of our pupils. </p>
 
 ### MOE's Cyber Wellness Framework
+
+![](/images/Departments/ICT/CW_framework.jpg)
