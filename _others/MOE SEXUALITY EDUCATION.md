@@ -68,7 +68,7 @@ INFORMATION FOR PARENTS
 
 <p style="text-align: justify;">8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-<p style="text-align: justify;">9. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/YPS%20Opt-Out%20Form%20for%20Sexuality%20Education%202022.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 31/01/2022.</p>
+<p style="text-align: justify;">9. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/YPS%20Opt-Out%20Form%20for%20Sexuality%20Education%202022.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 31/01/2022.</p>
 
 <p style="text-align: justify;">10. Parents can contact the school at 6257 7461 for discussion or to seek clarification about the school's sexuality education programme. </p>
 
