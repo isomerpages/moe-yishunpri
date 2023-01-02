@@ -16,3 +16,10 @@ third_nav_title: MOTHER TONGUE
 ### Mother Tongue Fortnight (P1-P6)
 
 <p style="text-align: justify;">In support of MOE's efforts to promote student learning and appreciation of Mother Tongue Languages and cultures, the YPS Tamil language unit held a wide range of activities for the Primary 1 to Primary 6 levels as part of Mother Tongue Fortnight. These activities are designed to ignite student’s interests in Mother Tongue Languages through exposure to performing arts, handicrafts and games.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
