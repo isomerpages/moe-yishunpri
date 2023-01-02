@@ -82,5 +82,6 @@ description: ""
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Departments/SCIENCE/Sci_Outreach_1.jpg) Upcycling efforts using garden waste |   |
+|  ![](/images/Departments/SCIENCE/Sci_Outreach_1.jpg) Upcycling efforts using garden waste |   ![](/images/Departments/SCIENCE/Sci_Outreach_2.jpg)  Outreach efforts by pupils taking part in the National Youth Upcycling Movement (NYUM) |
 
+ ![](/images/Departments/SCIENCE/Sci_Outreach_3.jpg) 
