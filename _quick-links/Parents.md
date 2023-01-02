@@ -9,4 +9,4 @@ description: ""
 *   [MOE Sexuality Education](/others/moe-sexuality-education)
 *   [Schoolbag](https://www.schoolbag.sg/)
 *   [YPS ICT Helpdesk](https://go.gov.sg/ypshelpdesk)
-*   [YPS in the News](https://yishunpri.moe.edu.sg/others/yps-in-the-news)
+*   [YPS in the News](/others/yps-in-the-news)
