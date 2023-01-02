@@ -22,6 +22,6 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Camp_1.jpg)   Pupils learning to tie the *kain bati*. |   |
 |   |   |
 |   |   |
