@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - PARENT SUPPORT GROUP.md
       - SCHOOL ADVISORY COMMITTEE.md
+      - PARENT SUPPORT GROUP.md
