@@ -73,3 +73,12 @@ P6 –  Chinese Painting
 <p style="text-align: justify;">In the STAR programme, our MTL teachers provide support to build good reading culture in the school. They have designed a “Solar Rewarding System” to record every pupil’s reading progress and give affirmation to the active readers during Celebrate Success session at the school level.</p>
 
 <p style="text-align: justify;">Our MTL teachers have also designed a reading package for different levels which emphasizes on our school /CCE values. Every level starts with a guided reading session and follow by the class activities of the same theme for every level.</p>
+
+|        |   Name of Storybooks  |     School /CCE Values    |
+|:---------:|:---------------------:|:--------------------:|
+| Primary 1 | 《鳄鱼怕怕 牙医怕怕》 |  Perseverance/Resilience  |
+| Primary 2 |     《打鼾的睡鼠》    |        Respect/Care       |
+| Primary 3 |      《雷奥与狗》     |     Independence/Care     |
+| Primary 4 |        《团圆》       |        Respect/Care       |
+| Primary 5 |     《我选我自己》    | Integrity, Responsibility |
+| Primary 6 |   《记忆的项链》      |     Sincerity/ Respect    |
