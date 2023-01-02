@@ -59,5 +59,5 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  Fun with letters | Curated resources  |
 |   |   |
