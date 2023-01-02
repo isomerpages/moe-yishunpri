@@ -7,13 +7,13 @@ description: ""
 
 ### Vision
 
-<p style="text-align: justify;">At YPS, we want to develop in every student a **sense of wonder** and **respect for the world** around us.</p>
+<p style="text-align: justify;">At YPS, we want to develop in every student a <b>sense of wonder</b> and <b>respect for the world</b> around us.</p>
 
 ### Mission
 
-<p style="text-align: justify;">We are committed in providing opportunities for our students to explore and develop their natural sense of **curiosity** in a responsible and conducive environment. As such, the Science Department aims to provide our students with **experiences** which build on their interest in and stimulate their curiosity about their environment.</p>
+<p style="text-align: justify;">We are committed in providing opportunities for our students to explore and develop their natural sense of <b>curiosity</b> in a responsible and conducive environment. As such, the Science Department aims to provide our students with <b>experiences</b> which build on their interest in and stimulate their curiosity about their environment.</p>
 
-<p style="text-align: justify;">Through our engaging and content-rich programmes, we want our students to **appreciate** how Science influences each of us and our environment.</p>
+<p style="text-align: justify;">Through our engaging and content-rich programmes, we want our students to <b>appreciate</b> how Science influences each of us and our environment.</p>
 
 ### Applied Learning Programme: Environmental Science
 
