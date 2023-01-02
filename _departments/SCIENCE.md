@@ -46,3 +46,5 @@ description: ""
 <center>Planting of young orchids</center>
 
 <p style="text-align: justify;">As an extension to the PTC programme, our students also produce hand-crafted glass coasters using orchid flowers as they study the structures of the orchids. On top of that, these glass coasters were used as a source of funding to help the less fortunate.</p>
+
+![](/images/Departments/SCIENCE/SC_08_2018.png)
