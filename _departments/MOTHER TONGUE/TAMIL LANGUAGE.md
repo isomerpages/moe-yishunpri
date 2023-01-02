@@ -39,8 +39,8 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_1.jpg)   LEGO Show & Tell Activity  |   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_2.jpg)   Pupils’ Creations |
-|    ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_3.jpg)   LEGO & Places of Interests |    ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_4.jpg)  Group work during CCE Lesson |
+|  <img src="/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_1.jpg" style="width:307px">   LEGO Show & Tell Activity  |  <img src="/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_2.jpg" style="width:307px">   Pupils’ Creations |
+|   <img src="/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_3.jpg" style="width:307px">  LEGO & Places of Interests |    <img src="/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_4.jpg" style="width:307px">  Group work during CCE Lesson |
 
 
 |   |   |
