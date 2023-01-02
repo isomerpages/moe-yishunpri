@@ -3,9 +3,9 @@ title: Parents
 permalink: /quick-links/parents/
 description: ""
 ---
-*   [2022 Approved MT Dictionary for PSLE]<a href="" target="_blank"></a>(https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
-*   [Cyber Wellness Guide For Parents]<a href="" target="_blank"></a>(https://www.betterinternet.sg/-/media/Resources/PDFs/Parents-Guides/Safe-and-Smart-Online-Parent-Guide.pdf)
-*   [Cyber Wellness Tip Sheet for Parents]<a href="" target="_blank"></a>(https://yishunpri.moe.edu.sg/qql/slot/u542/For%20Parents/Cyber%20Wellness_Tip_Sheet_for_Parents_pdf.pdf)
+*   <a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank">2022 Approved MT Dictionary for PSLE</a>
+*   <a href="/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf" target="_blank">Cyber Wellness Guide For Parents</a>
+*   <a href="/files/Cyber%20Wellness_Tip_Sheet_for_Parents_pdf.pdf" target="_blank">Cyber Wellness Tip Sheet for Parents</a>
 *   [MOE Sexuality Education](/others/moe-sexuality-education)
 *   <a href="https://www.schoolbag.sg/" target="_blank">Schoolbag</a>
 *   <a href="https://go.gov.sg/ypshelpdesk" target="_blank">YPS ICT Helpdesk</a>
