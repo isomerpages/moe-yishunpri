@@ -57,7 +57,7 @@ P6 –  Chinese Painting
 
 |   |   |
 |:-:|:-:|
-|  Festive Cheers by the whole school  |   |
+|  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Concert_1.jpg)   Festive Cheers by the whole school  |    ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Concert_2.jpg)   “Wild Geese heading south” by Chinese Dancers   |
 |   |   |
 |   |   |
 |   |   |
