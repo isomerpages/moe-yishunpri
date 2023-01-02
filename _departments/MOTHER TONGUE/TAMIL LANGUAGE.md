@@ -27,3 +27,8 @@ third_nav_title: MOTHER TONGUE
 ### Thiranai Thedi - Lower Primary Talent Quest  
 
 <p style="text-align: justify;">A customized and differentiated programme for students who show strong inclination towards Tamil Language and literature. We believe that every student has a talent that needs to be nurtured, developed and sustained. Therefore, we start young to expose our pupils to this programme that gives them an opportunity to perform confidently amidst audience.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
