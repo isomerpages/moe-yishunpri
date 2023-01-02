@@ -49,7 +49,7 @@ To equip students with knowledge on social, mental and physical skills and value
 
 One of the events that our P3 to P6 students look forward to is the Annual Sports Day held at Yishun Sports Stadium. However, it has not been held since 2020. To ensure students continued to experience sporting activities, Sports Fiestas were organised for the students with the necessary safe management measures in place. Students challenged themselves to complete the various activities and do their best. Students had a lot of fun while demonstrating sporting excellence.
 
-P5 Outdoor Learning Experience (OLE) Cohort Camp
+### P5 Outdoor Learning Experience (OLE) Cohort Camp
 
 The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills as they interact with one another and forge new bonds and friendships with their peers through their common shared experiences and goals. students were engaged in many interesting activities such as concrete art, longkang fishing and sensory trail.
 
