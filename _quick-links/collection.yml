@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Gallery/.keep
-      - Gallery/GALLERY 2017.md
       - Teachers.md
       - Students.md
