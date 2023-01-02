@@ -38,6 +38,6 @@ Intensive Reading Programme primarily aims to develop and enhance pupils’ abil
 
 The Extensive Reading Programme aims to foster pupils’ interest in reading, stimulates pupils' opinions by observing the material they have read and expanding their vocabulary. The reading activity can take place inside or outside the classroom and during or outside of school hours.
 
-**Collaboration with NLB (READ@School)**
+**<u>Collaboration with NLB (READ@School)</u>**
 
 ML Unit collaborate with NLB on the reading programmes – READ @School. Various activities are conducted for different levels such as book talk and story-telling session based on the books found at the library.
