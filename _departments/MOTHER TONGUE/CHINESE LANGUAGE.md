@@ -89,6 +89,6 @@ P6 –  Chinese Painting
 
 |   |   |
 |:-:|:-:|
-| ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)   Solar Rewarding System  |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)   |
-|   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)   |   |
+| ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)   Solar Rewarding System  |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)  Morning E-book Reading Session |
+|   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)  Guided Reading Session  |   |
 |   |   |
