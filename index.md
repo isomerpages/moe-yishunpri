@@ -14,7 +14,7 @@ sections:
           url: /school-details/calendar
         - title: Quick Links
           description: ""
-          url: /quick-links/gallery/gallery-2019
+          url: /others/gallery-2019
   - infobar:
       title: Changes in School Hours from 2023
       subtitle: Announcement
