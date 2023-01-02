@@ -21,5 +21,5 @@ third_nav_title: MOTHER TONGUE
 |:-:|:-:|
 |   |   |
 |  P1 – P2 (Exposure to our traditional art form Kolam)  | P3 & 5 – Fastest Fingers First (Touch Typing Competition)    |
-|   |   |
-|   |   |
+|   |  P5 – P6 (Motivational talk and public speaking workshop)  |
+|  P4 (Cultural Camp) |   |
