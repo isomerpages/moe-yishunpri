@@ -83,3 +83,10 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 <p style="text-align: justify;">This programme provides the students with an authentic learning experience. During the Learning Journey (LJ) to the Lower Seletar Reservoir, the students have the opportunity to apply vocabulary taught in class and practice their language skills. </p>
 
 <p style="text-align: justify;">They also learn about the importance of Singapore’s water catchment areas. This programme is facilitated by students from Northbrooks Secondary School.</p>
+
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
