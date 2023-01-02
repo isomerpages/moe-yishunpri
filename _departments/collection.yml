@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - SCIENCE.md
       - AESTHETICS.md
       - CHARACTER AND CITIZENSHIP EDUCATION.md
       - DISCIPLINE.md
@@ -14,3 +13,4 @@ collections:
       - MOTHER TONGUE/MALAY LANGUAGE.md
       - MOTHER TONGUE/TAMIL LANGUAGE.md
       - PHYSICAL EDUCATION.md
+      - SCIENCE.md
