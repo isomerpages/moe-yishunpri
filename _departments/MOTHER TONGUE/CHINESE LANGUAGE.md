@@ -5,3 +5,23 @@ description: ""
 third_nav_title: MOTHER TONGUE
 ---
 # CHINESE LANGUAGE
+
+### Vision
+
+A learning community to inspire and develop our pupils to communicate in Chinese Language effectively and confidently
+
+  
+
+### Mission
+
+The Chinese Language Unit aims to use differential approach for our pupils to be engaged and motivated.
+
+  
+
+### Belief  
+
+Every child “Matters”
+
+     – every child can learn and achieve
+
+     – every child has intrinsic worth
