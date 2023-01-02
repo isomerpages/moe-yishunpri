@@ -3,5 +3,5 @@ title: Students
 permalink: /quick-links/students/
 description: ""
 ---
-*   [Student Learning Space](https://learning.moe.edu.sg/)
-*   [Google Dashboard (Student iCON)](https://workspace.google.com/dashboard)
+*   <a href="https://learning.moe.edu.sg/" target="_blank">Student Learning Space</a>
+*   <a href="https://workspace.google.com/dashboard" target="_blank">Google Dashboard (Student iCON)</a>
