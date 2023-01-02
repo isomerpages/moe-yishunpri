@@ -2,6 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Gallery/GALLERY 2018.md
-      - Gallery/GALLERY 2019.md
       - Gallery/.keep
+      - Gallery/GALLERY 2019.md
+      - Gallery/GALLERY 2018.md
