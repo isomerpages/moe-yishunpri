@@ -1,4 +1,5 @@
 collections:
   others:
     output: true
-    order: []
+    order:
+      - GALLERY 2019.md
