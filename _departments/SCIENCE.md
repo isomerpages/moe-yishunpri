@@ -51,4 +51,11 @@ description: ""
 
 <p style="text-align: justify;">As an act to serve the community, we approached Singapore General Hospital (SGH) as a partner to help their needy patients. Our School Advisory Committee supported the school’s efforts in this programme and our students were told of how their creations had meaningfully helped the less fortunate in SGH.</p>
 
-<p style="text-align: justify;">
+![](/images/Departments/SCIENCE/SC_09_2018.png)
+
+
+**Project "Think, Eat, Save" T.E.S**  
+
+_Project T.E.S._ aims to encourage behavioural change to reduce and recycle the amount of food-waste at YPS. Primary 1 to Primary 6 pupils, staff and canteen stall holders are involved in the segregation and recycling of food-waste during the 3 recesses. Through this experiential hands-on closed-loop process to food-waste recycling, our pupils will experience and empathise with the process of food-waste recycling. The school’s on-site food-waste composter machine converts food-waste into compost, which is later used in our school gardens and Science projects.
+
+The daily collection of food-waste is monitored by the Science Department. It is heartening to note that the amount of food-waste collected over time is on a decreasing trend; which is indicative of the pupils’ commitment to reducing food waste by ordering only what they will eat.  This project also contributes to National Environment Agency’s (NEA) national waste management strategy to work towards the goal of Singapore becoming a Zero Waste Nation.
