@@ -41,3 +41,5 @@ description: ""
 ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/FMS_2016_2.jpg)
 
 <center><b>Family Life Programme:<br>Parenting talk and bonding activities</b></center>
+
+![](/images/Partners/FAMILY%20MATTERS@SCHOOL/FLP.jpg)
