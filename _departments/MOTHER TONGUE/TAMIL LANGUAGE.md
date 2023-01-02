@@ -59,5 +59,5 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|  Fun with letters | Curated resources  |
-|   |   |
+| ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Support_Prog_1.jpg)  Fun with letters | Curated resources  |
+|  Alphabet Recognition |   |
