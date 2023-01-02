@@ -47,6 +47,6 @@ description: ""
 |   |   |
 |:-:|:-:|
 |  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture1_orto.png) |   ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture2_otro.png)   |
-|  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture3_orto.png)   |   |
-|   |   |
+|  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture3_orto.png)   | ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture4_orot.png)   |
+|  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture11_clay.png) |   |
 |   |   |
