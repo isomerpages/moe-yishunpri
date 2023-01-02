@@ -73,6 +73,5 @@ description: ""
 
 |   |   |
 |:-:|:-:|
-|   |   |
-|   |   |
+|  Let’s see how the worms respond to light! |  Hmm…which seed is this? |
 |   |   |
