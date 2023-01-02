@@ -87,6 +87,6 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 |   |   |
 |:-:|:-:|
-|   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_1.jpg) Pupils learning about the Malay herbs and spices at the Spice Garden.   |   |
+|   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_1.jpg) Pupils learning about the Malay herbs and spices at the Spice Garden.   |  Learning Journey to Malay Heritage Centre |
 |   |   |
 |   |   |
