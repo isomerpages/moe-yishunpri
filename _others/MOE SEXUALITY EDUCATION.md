@@ -71,7 +71,7 @@ At Yishun Primary School, the following lessons from the Growing Years Programme
 |      |   What is Love?   <br>(30 min)                 |  •  identify the characteristics of love and infatuation<br>• distinguish between the characteristics of love versus infatuation                           |     Term 2 Week 10        |
 |      |     Am I Falling In Love?  <br>(30 min)                |    • identify strong feelings arising from infatuation<br>• manage strong feelings arising from infatuation<br>• identify ways to manage and cope with teasing from peers                          |   Term 2 Week 10         |
 |       |          Main Task  <br> (30 min)            |    Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.                 |      Term 4 Week 9       |
-|      |                    |                             |             |
+|  Friends or Foes?    |     Are You Really My Friend?  <br>(30 min)                |   • identify the pros and cons of forming relationships through social networking websites <br>• know ways to keep themselves safe when using social networking websites                           |       Term 4 Week 10       |
 |      |                    |                             |             |
 |      |                    |                             |             |
 |      |                    |                             |             |
