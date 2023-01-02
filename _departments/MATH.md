@@ -24,7 +24,7 @@ Providing an authentic and engaging learning environment to develop reflective a
 
 ![](/images/Departments/MATH/MA.png)
 
-**E2K (Mathematics)**
+### **E2K (Mathematics)**
 
 The E2K (Mathematics) is an enrichment programme for upper primary students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
 
