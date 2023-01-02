@@ -65,9 +65,9 @@ The P3 students are exposed to Outdoor Education which engages their sense of ad
 
 ### Healthy Lifestyle Week and Fiesta
 
-<p style="text-align: justify;">The aim of Healthy Lifestyle Week and Fiesta is to promote awareness among students and parents on the need to maintain a healthy lifestyle and provide a platform for pupil-parent bonding through participation in healthy lifestyle activities.
+<p style="text-align: justify;">The aim of Healthy Lifestyle Week and Fiesta is to promote awareness among students and parents on the need to maintain a healthy lifestyle and provide a platform for pupil-parent bonding through participation in healthy lifestyle activities.</p>
 
-<p style="text-align: justify;">During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities both in school as well as at home. students also had to answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  
+<p style="text-align: justify;">During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities both in school as well as at home. students also had to answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  </p>
 
 <p style="text-align: justify;">Parents play a critical role in promoting a healthy lifestyle among the students. They participated in certain activities as a family and encouraged their child for other activities that required their endorsement. </p>
 
