@@ -58,3 +58,19 @@ One of the events that our P3 to P6 students look forward to is the Annual Sport
 <p style="text-align: justify;">The P5 OLE would be a memorable experience for all the students for they have strengthened their friendships, cared for and motivated each other throughout the 3 days.</p>
 
 ![](/images/Departments/PHYSICAL%20EDUCATION/P32.png)
+
+### P3 Day Camp  
+
+The P3 students are exposed to Outdoor Education which engages their sense of adventure through the exploration of both natural and urban environments from their immediate surroundings to other unfamiliar locations. Students develop appropriate outdoor skills through physical activities while cultivating an attitude of care and appreciation for the environment, and thoughtful consideration of the risks and safety of self and others. The students’ learning experiences are set in authentic contexts which include a day trip around the neighbourhood, locate the position of self in relation to the landmarks in the school and its neighbourhood using pictorial charts and apply key principles and considerations of packing for a day trip. 
+
+### Healthy Lifestyle Week and Fiesta
+
+The aim of Healthy Lifestyle Week and Fiesta is to promote awareness among students and parents on the need to maintain a healthy lifestyle and provide a platform for pupil-parent bonding through participation in healthy lifestyle activities.
+
+During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities both in school as well as at home. students also had to answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  
+
+Parents play a critical role in promoting a healthy lifestyle among the students. They participated in certain activities as a family and encouraged their child for other activities that required their endorsement. 
+
+For the P5 students, in collaboration with National Health Foundation (NHF), the school also introduced the Blood Pressure (BP) initiative, where every pupil was loaned out with a Blood pressure monitor to bring home for a week. The aim was for students and their family members to take responsibility and monitor their own health.
+
+Staying healthy is a choice. Let’s all work together to maintain a healthy lifestyle!
