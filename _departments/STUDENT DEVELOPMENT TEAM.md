@@ -21,3 +21,11 @@ Growth Mindset
 Key Growth Mindset Messages:
 
 ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/GM1.png)
+
+![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/GM2.png)
+
+CHAT (Connecting Heart And Thoughts)
+------------------------------------
+
+CHAT sessions provide teachers with a platform to meet individual students regularly to get to know them better. These sessions not only helps strengthen teacher-student relationship (TSR) but also helps build mutual respect and trust. Teachers use the CHAT sessions to motivate the students and also reach out to them to provide the necessary support.
+
