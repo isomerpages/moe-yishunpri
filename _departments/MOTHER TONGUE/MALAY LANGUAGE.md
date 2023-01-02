@@ -58,4 +58,4 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 ### **Talent Development Programme**  
 
-The Talent Development Programme is a platform for the students to display their talent. Every level has different competitions for the students to display their strength and potential. The pupils have gained confidence in using the language. They are also given the opportunity to participate at external competitions.
+<p style="text-align: justify;">The Talent Development Programme is a platform for the students to display their talent. Every level has different competitions for the students to display their strength and potential. The pupils have gained confidence in using the language. They are also given the opportunity to participate at external competitions.</p>
