@@ -20,6 +20,6 @@ third_nav_title: MOTHER TONGUE
 |   |   |
 |:-:|:-:|
 |   |   |
-|  P1 – P2 (Exposure to our traditional art form Kolam)  |   |
+|  P1 – P2 (Exposure to our traditional art form Kolam)  | P3 & 5 – Fastest Fingers First (Touch Typing Competition)    |
 |   |   |
 |   |   |
