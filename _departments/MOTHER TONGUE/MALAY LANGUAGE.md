@@ -10,15 +10,12 @@ third_nav_title: MOTHER TONGUE
 
 To inspire and cultivate the pupils’ passion in the learning of Malay Language.
 
-  
-
 ### Mission
 
-To nurture the students into becoming refined citizens with good moral values and have a better appreciation for their language and culture.
-
+<p style="text-align: justify;">To nurture the students into becoming refined citizens with good moral values and have a better appreciation for their language and culture.</p>
 
 ### Highlights of Some Key Programmes
 
 ### **Mother Tongue Language Fortnight & P4 Language & Cultural Camp**
 
-This programme is packed with language and cultural activities to increase the students' interest in the Malay language and culture.  These platforms provided the pupils with an authentic environment to appreciate the culture. This experiential learning has created a joy of learning in them.
+<p style="text-align: justify;">This programme is packed with language and cultural activities to increase the students' interest in the Malay language and culture.  These platforms provided the pupils with an authentic environment to appreciate the culture. This experiential learning has created a joy of learning in them.</p>
