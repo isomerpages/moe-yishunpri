@@ -24,6 +24,10 @@ Providing an authentic and engaging learning environment to develop reflective a
 
 ![](/images/Departments/MATH/MA.png)
 
+### **Math & Science Trail** 
+
+In the effort of making the learning of Mathematics more engaging and exciting, an ICT-infused Math & Science Trail is conducted for all Primary 3 students. During this interdisciplinary trail, students are given the opportunity to apply Mathematics concepts to solve problems outside the classroom. Hence, this learning experience gives them an opportunity to relate knowledge to reality. The trail also helps to build the students' social skills and promote team-building.
+
 ### **E2K (Mathematics)**
 
 The E2K (Mathematics) is an enrichment programme for upper primary students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
