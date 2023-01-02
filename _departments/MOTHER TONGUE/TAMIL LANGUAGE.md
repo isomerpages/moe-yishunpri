@@ -53,7 +53,9 @@ third_nav_title: MOTHER TONGUE
 |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Reading_Prog_3.jpg)  Infusing technology in reading |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Reading_Prog_4.png)  Star readers  |
 
 
+### Mother Tongue Support Programme  
 
+<p style="text-align: justify;">A customized TL Programme to support students in the learning of Mother Tongue language in Primary 3 & 4.</p>
 
 |   |   |
 |:-:|:-:|
