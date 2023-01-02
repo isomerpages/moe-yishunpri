@@ -62,5 +62,5 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 |   |   |
 |:-:|:-:|
-|    A pupil reciting the *Pantun*.  |   |
+|  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Talent_Dev_Prog_1.png)  A pupil reciting the *Pantun*.  |    ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Talent_Dev_Prog_3.jpg) An engaging storytelling from a participant |
 |   |   |
