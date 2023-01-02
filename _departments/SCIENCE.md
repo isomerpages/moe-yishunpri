@@ -73,5 +73,5 @@ description: ""
 
 |   |   |
 |:-:|:-:|
-| ![](/images/Departments/SCIENCE/Sci_LJ_1.jpg)  Let’s see how the worms respond to light! |  ![](/images/Departments/SCIENCE/Sci_LJ_1.jpg) Hmm…which seed is this? |
-|  Learning can be so engaging! |  There are so many types of organisms in a pond community! |
+| ![](/images/Departments/SCIENCE/Sci_LJ_1.jpg)  Let’s see how the worms respond to light! |  ![](/images/Departments/SCIENCE/Sci_LJ_2.jpg) Hmm…which seed is this? |
+|   ![](/images/Departments/SCIENCE/Sci_LJ_3.jpg) Learning can be so engaging! |  ![](/images/Departments/SCIENCE/Sci_LJ_4.jpg)  There are so many types of organisms in a pond community! |
