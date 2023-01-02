@@ -57,6 +57,8 @@ Some examples of specialized programmes organized for specific groups of student
 
 ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT6.png) 
 
-Play Therapy Room
+<center>Play Therapy Room</center>
 
-![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT7.png) 
+![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT7.png)
+
+<center>Horse Therapy</center>
