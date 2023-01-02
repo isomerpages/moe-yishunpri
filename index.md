@@ -19,9 +19,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Changes in School Hours from 2023
+      subtitle: Announcement
+      description: Kindly take note of the changes in school hours with effect from
+        2023. More information can be found under 'School Hours'  Thank you!
+      button: "'School Hours'"
+      url: /school-details/school-hours
 ---
