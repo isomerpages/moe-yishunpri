@@ -30,5 +30,5 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_1.jpg)  Show & Tell Performance |    Winners Fancy Dress Competition and Singing Competition  |
-|   Fancy Dress Competitor  |   |
+|  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_1.jpg)  Show & Tell Performance |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_2.jpg)    Winners Fancy Dress Competition and Singing Competition  |
+|  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_3.jpg)   Fancy Dress Competitor  |   |
