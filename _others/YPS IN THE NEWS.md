@@ -3,6 +3,7 @@ title: YPS IN THE NEWS
 permalink: /others/yps-in-the-news/
 description: ""
 ---
+# Stomp story links both not working
 #  YPS IN THE NEWS
 
 ### Story of our Pupils Who Have Exemplified the Value of Integrity (Featured in STOMP 2017)
