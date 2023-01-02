@@ -8,8 +8,6 @@ description: ""
 MOE SEXUALITY EDUCATION IN SCHOOLS
 ----------------------------------
 
-  
-
 <p style="text-align: justify;">1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
 
 2\.  The goals of Sexuality Education are:
@@ -41,9 +39,9 @@ OVERVIEW OF YISHUN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
 
 <p style="text-align: justify;"><b><u>Sexuality Education</u></b>: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package</p>
 
-6.      The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and            psychological changes in themselves. The implication is that our children are becoming biologically        ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional        maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+6\. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and            psychological changes in themselves. The implication is that our children are becoming biologically        ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional        maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
-7.      The refreshed Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+<p style="text-align: justify;">7. The refreshed Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
 
 At Yishun Primary School, the following lessons from the Growing Years Programme will be taught in 2022:
 --------------------------------------------------------------------------------------------------------
