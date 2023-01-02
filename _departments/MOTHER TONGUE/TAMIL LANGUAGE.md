@@ -32,3 +32,7 @@ third_nav_title: MOTHER TONGUE
 |:-:|:-:|
 |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_1.jpg)  Show & Tell Performance |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_2.jpg)    Winners Fancy Dress Competition and Singing Competition  |
 |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Talent_Quest_3.jpg)   Fancy Dress Competitor  |   |
+
+### TL LEGO Programme  
+
+<p style="text-align: justify;">The Tamil language unit of Yishun Primary School aims to engage and motivate the students to speak in the language confidently and enhance their all-round communication skills. Therefore, the LEGO Programme is designed to encourage the use of Tamil language was the Building on our Knowledge.</p>
