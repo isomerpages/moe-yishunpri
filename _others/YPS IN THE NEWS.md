@@ -25,3 +25,14 @@ We are proud of our pupil, Ashvin Gunasegaran who had selflessly rushed to the a
 |  ![](/images/YPS%20IN%20THE%20NEWS/contact1.jpg) | ![](/images/YPS%20IN%20THE%20NEWS/contact2.jpg)  |
 
 We are proud that our teacher, Mr Vasudavan has been featured in the January Issue of Contact - The Teacher's Digest. Mr Vasudavan shared his experience on how he engages both pupils and parents in his teaching profession.
+
+
+Spelling Bee Launch
+-------------------
+
+
+![](/images/YPS%20IN%20THE%20NEWS/YPS_News_01.png)
+
+![](/images/YPS%20IN%20THE%20NEWS/YPS_News_02.png)
+
+<p style="text-align: justify;">40 P5 pupils participated in the launch of RHB - The Straits Times National Spelling Championship 2015. The pupils put their spelling skills to the test when they spelt words using letter cards given to them. Following the launch, our P5 and P6 spellers will be taking part in the competition. We wish them all the best!</p>
