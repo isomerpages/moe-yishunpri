@@ -82,3 +82,7 @@ P6 –  Chinese Painting
 | Primary 4 |        《团圆》       |        Respect/Care       |
 | Primary 5 |     《我选我自己》    | Integrity, Responsibility |
 | Primary 6 |   《记忆的项链》      |     Sincerity/ Respect    |
+
+In the SHINE programme, our MTL teachers conduct inter-class activities to identify talented pupils and to mentor them to participate at the national events.
+
+In the SHARE programme, we encourage our pupils to write. We share our good stories written by our pupils by publishing our very own Chinese Essay Book named “绽放” and Chinese Newsletter.
