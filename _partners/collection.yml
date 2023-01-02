@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - FAMILY MATTERS@SCHOOL.md
       - SCHOOL ADVISORY COMMITTEE.md
       - PARENT SUPPORT GROUP.md
