@@ -31,6 +31,8 @@ description: ""
 
 <center>Orchid hybrids created by students</center>
 
+<p style="text-align: justify;">PTC is widely used to produce clones of a plant in a method known as micropropagation. It is a collection of techniques used to maintain or grow plant cells, tissues or organs under sterile conditions on a nutrient culture medium of known composition. The PTC programme at YPS is an extension of our Science curriculum on flowering plants. It is designed to train our students on orchid hybridization and the basic skills of aseptic culture using orchid seeds. They gain an insight on how humans can also contribute to creating diversity in living things.</p>
+
 |   |   |
 |:-:|:-:|
-|  |   |
+|     |   |
