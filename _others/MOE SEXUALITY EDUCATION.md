@@ -3,6 +3,8 @@ title: MOE SEXUALITY EDUCATION
 permalink: /others/moe-sexuality-education/
 description: ""
 ---
+# links under item 3 and 4 (moe sexuality education) links broken
+
 # MOE SEXUALITY EDUCATION
 
 MOE SEXUALITY EDUCATION IN SCHOOLS
