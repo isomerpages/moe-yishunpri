@@ -49,7 +49,7 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|  Experiential Reading with Augmented Reality |   Reading Literacy   |
+| ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Reading_Prog_1.jpg) Experiential Reading with Augmented Reality |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Reading_Prog_2.jpg)   Reading Literacy   |
 |  Infusing technology in reading | Star readers  |
 
 
