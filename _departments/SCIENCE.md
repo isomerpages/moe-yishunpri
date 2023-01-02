@@ -20,3 +20,9 @@ description: ""
 <p style="text-align: justify;">Through our ALP at YPS, developed in the area of <b>Environmental Science</b>, we want to connect academic knowledge and skills with our students’ real world. The emphasis is on the application of thinking skills, connecting knowledge across subject disciplines, stretching imagination and applying these into our authentic society and world we live in.</p>
 
 ![](/images/Departments/SCIENCE/ALP_Overview.jpg)
+
+## OUR SIGNATURE PROGRAMMES
+
+### **Plant Tissue Culture (PTC) Programme**
+
+<p style="text-align: justify;">We are proud to be one of the few schools in Singapore to have PTC facilities in the compound. Over the years, we also cultured a few hybrids successfully.</p>
