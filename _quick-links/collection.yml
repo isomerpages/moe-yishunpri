@@ -2,6 +2,5 @@ collections:
   quick-links:
     output: true
     order:
-      - Gallery/.keep
       - Teachers.md
       - Students.md
