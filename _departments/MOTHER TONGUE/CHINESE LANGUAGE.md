@@ -69,3 +69,7 @@ P6 –  Chinese Painting
 3S programme is the signature programme of the Chinese Language unit.
 
 ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/3S_prog.jpg)
+
+<p style="text-align: justify;">In the STAR programme, our MTL teachers provide support to build good reading culture in the school. They have designed a “Solar Rewarding System” to record every pupil’s reading progress and give affirmation to the active readers during Celebrate Success session at the school level.</p>
+
+<p style="text-align: justify;">Our MTL teachers have also designed a reading package for different levels which emphasizes on our school /CCE values. Every level starts with a guided reading session and follow by the class activities of the same theme for every level.</p>
