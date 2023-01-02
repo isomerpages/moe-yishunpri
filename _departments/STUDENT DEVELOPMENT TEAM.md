@@ -36,5 +36,8 @@ TRANSIT (TRANsition Support for InTegration (TRANSIT) Programme
 
 The school has embarked on the TRANSIT programme from this year. TRANSIT provides early targeted intervention required through explicit teaching of self-management skills to identified Primary One students.
 
+|   |   |
+|:-:|:-:|
+|  ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT4.png) | ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT5.png)  |
 
 Transit Classroom
