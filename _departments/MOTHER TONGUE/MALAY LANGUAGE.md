@@ -87,6 +87,6 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 |   |   |
 |:-:|:-:|
-|  <img src="/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_1.jpg" style="width:50%"> Pupils learning about the Malay herbs and spices at the Spice Garden.   |   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_2.jpg)  Learning Journey to Malay Heritage Centre |
+|  <img src="/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_1.jpg" style="width:300px"> Pupils learning about the Malay herbs and spices at the Spice Garden.   |   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_2.jpg)  Learning Journey to Malay Heritage Centre |
 |    ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_4.png)    They making salad using the plants they have gathered.   |    ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_3.jpg) Primary 5 learning journey to *Taman Warisan Melayu*.   |
 |    ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_5.jpg) Pupils listening attentively to the instruction from students leaders from Northbrooks Secondary School  during the Water Learning Programme.  |   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_LJ_6.jpg)  The pupils engaging in the use of mobile technology iPad to solve the interactive quiz at Lower Seletar Reservoir.  |
