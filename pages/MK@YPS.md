@@ -12,4 +12,4 @@ A new MOE Kindergarten will be opening at Yishun Primary School in 2023.
 
 |   |   |
 |:-:|:-:|
-|<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target = "_blank"> <img src="/images/MOE%20Kindergarten%20Logo.jpg"> | You may refer to the links below to know more about MOE Kindergarten.  |
+|<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target = "_blank"> <img src="/images/MOE%20Kindergarten%20Logo.jpg"></a> | You may refer to the links below to know more about MOE Kindergarten. [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten) |
