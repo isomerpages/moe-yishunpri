@@ -66,7 +66,12 @@ At Yishun Primary School, the following lessons from the Growing Years Programme
 
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
 |:----:|:------------------:|:----------------------------------------------------------------------:|:-----------:|
-|      |                    |                                                                        |             |
+|      |                    |                             |             |
+|      |                    |                             |             |
+|      |                    |                             |             |
+|      |                    |                             |             |
+|      |                    |                             |             |
+|      |                    |                             |             |
 
 INFORMATION FOR PARENTS
 -----------------------
@@ -78,3 +83,4 @@ INFORMATION FOR PARENTS
 <p style="text-align: justify;">10. Parents can contact the school at 6257 7461 for discussion or to seek clarification about the school's sexuality education programme. </p>
 
 <p style="text-align: justify;">11. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
+
