@@ -8,7 +8,7 @@ description: ""
 Triple P Publicity Video
 ------------------------
 
-Click this **[link](https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view)** to watch the Triple P publicity video.  
+Click this **<a href="" target="_blank">link</a>(https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view)** to watch the Triple P publicity video.  
 
 Sign-up link for parents to indicate their interest:
 ----------------------------------------------------
@@ -21,7 +21,7 @@ During your children’s growing up years, you may need some strategies to manag
 
   
 
-If you are interested in the programmes, please click on this [**link**](https://tinyurl.com/thrivepspregistration) to register. 
+If you are interested in the programmes, please click on this <a href="https://tinyurl.com/thrivepspregistration" target="_blank"><b>link</b></a> to register. 
 
 Triple 2021 Proposed Workshop
 -----------------------------
