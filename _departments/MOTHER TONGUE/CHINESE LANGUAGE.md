@@ -60,3 +60,12 @@ P6 –  Chinese Painting
 |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Concert_1.jpg)   Festive Cheers by the whole school  |    ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Concert_2.jpg)   “Wild Geese heading south” by Chinese Dancers   |
 |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Concert_3.jpg)  Wu shu performance by one of our talented teachers and lower primary pupils  |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Calligraphy.jpg) Hui Chun - Chinese Calligraphy   |
 |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY%20Fortnight_Puppet.jpeg)  Paper Puppets - 12 Chinese Zodiac signs   |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CNY_Fortnight_Finger_Painting.jpeg)   Chinese Cultural Activity – Finger Painting   |
+
+
+## **3S** 
+
+## **3S Programme (STAR, SHINE, SHARE)**
+
+3S programme is the signature programme of the Chinese Language unit.
+
+![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/3S_prog.jpg)
