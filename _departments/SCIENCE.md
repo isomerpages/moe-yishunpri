@@ -62,5 +62,5 @@ description: ""
 
 |   |   |
 |:-:|:-:|
-|    Briefing on Project T.E.S. by teacher in-charge    | Pupils segregating their food waste into the food waste bin.  |
-|  Food waste collected  |   Food waste Composting machine  |
+|  ![](/images/Departments/SCIENCE/Project_TES_1.jpg)  Briefing on Project T.E.S. by teacher in-charge    |   ![](/images/Departments/SCIENCE/Project_TES_2.jpg)  Pupils segregating their food waste into the food waste bin.  |
+|   ![](/images/Departments/SCIENCE/Project_TES_3.jpg)   Food waste collected  |    ![](/images/Departments/SCIENCE/Project_TES_4.jpg)   Food waste Composting machine  |
