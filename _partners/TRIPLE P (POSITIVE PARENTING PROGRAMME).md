@@ -29,17 +29,17 @@ Triple 2021 Proposed Workshop
 | Triple P Level 2 - Seminar Series |
 |:---------------------------------:|
 |          Run 1 - English          |
-| Date/Time: Tuesday (7.30pm-9pm)   |
+| **Date/Time: Tuesday (7.30pm-9pm)**   |
 | Seminar 1: April 6, 2021          |
 | Seminar 2: April 13, 2021         |
 | Seminar 3: April 20, 2021         |
 |          Run 2 - English          |
-| Date/Time: Wednesday (7.30pm-9pm) |
+| **Date/Time: Wednesday (7.30pm-9pm)** |
 | Seminar 1: June 16, 2021          |
 | Seminar 2: June 23, 2021          |
 | Seminar 3: June 30, 2021          |
-|              Mandarin             |
-| Date/Time: Wednesday (7.30pm-9pm) |
+|              **Mandarin**             |
+| **Date/Time: Wednesday (7.30pm-9pm)** |
 | Seminar 1: April 14, 2021         |
 | Seminar 2: April 21, 2021         |
 | Seminar 3: April 28, 2021         |
