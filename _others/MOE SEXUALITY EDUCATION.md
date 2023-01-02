@@ -69,7 +69,7 @@ At Yishun Primary School, the following lessons from the Growing Years Programme
 |  Are We More Than Friends?    |    Who Are My Friends? <br>(30 min)                |      •  identify the qualities of a healthy friendship <br>•  recognise the importance of making wise choices in friendship                      |     Term 2 Week 10        |
 |      |      Am I A Good Friend?<br>(30 min)              |  •  identify the qualities that they have as a friend<br>•  recognise the importance of developing in oneself the qualities of a good friend                            |      Term 2 Week 10       |
 |      |   What is Love?   <br>(30 min)                 |  •  identify the characteristics of love and infatuation<br>• distinguish between the characteristics of love versus infatuation                           |     Term 2 Week 10        |
-|      |                    |                             |             |
+|      |     Am I Falling In Love?  <br>(30 min)                |    • identify strong feelings arising from infatuation<br>• manage strong feelings arising from infatuation<br>• identify ways to manage and cope with teasing from peers                          |   Term 2 Week 10         |
 |      |                    |                             |             |
 |      |                    |                             |             |
 
