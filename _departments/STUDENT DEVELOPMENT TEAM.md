@@ -29,3 +29,12 @@ CHAT (Connecting Heart And Thoughts)
 
 CHAT sessions provide teachers with a platform to meet individual students regularly to get to know them better. These sessions not only helps strengthen teacher-student relationship (TSR) but also helps build mutual respect and trust. Teachers use the CHAT sessions to motivate the students and also reach out to them to provide the necessary support.
 
+![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT3.png)
+
+TRANSIT (TRANsition Support for InTegration (TRANSIT) Programme
+---------------------------------------------------------------
+
+The school has embarked on the TRANSIT programme from this year. TRANSIT provides early targeted intervention required through explicit teaching of self-management skills to identified Primary One students.
+
+
+Transit Classroom
