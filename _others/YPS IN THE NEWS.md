@@ -27,4 +27,4 @@ We are proud of our pupil, Ashvin Gunasegaran who had selflessly rushed to the a
 
   
 
-[Story OYEA 2016\_Sivakami Ratha (final).pdf](https://yishunpri.moe.edu.sg/qql/slot/u542/YPS%20News/Story%20OYEA%202016_Sivakami%20Ratha%20(final).pdf)
+[Story OYEA 2016\_Sivakami Ratha (final).pdf](files/YPS%20News/Story%20OYEA%202016_Sivakami%20Ratha%20(final).pdf)
