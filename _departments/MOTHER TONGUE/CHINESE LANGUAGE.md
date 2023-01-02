@@ -86,3 +86,9 @@ P6 –  Chinese Painting
 <p style="text-align: justify;">In the SHINE programme, our MTL teachers conduct inter-class activities to identify talented pupils and to mentor them to participate at the national events.</p>
 
 <p style="text-align: justify;">In the SHARE programme, we encourage our pupils to write. We share our good stories written by our pupils by publishing our very own Chinese Essay Book named “绽放” and Chinese Newsletter.</p>
+
+|   |   |
+|:-:|:-:|
+| ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)   Solar Rewarding System  |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)   |
+|   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)   |   |
+|   |   |
