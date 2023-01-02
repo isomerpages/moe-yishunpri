@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Teachers.md
       - Gallery/.keep
       - Gallery/GALLERY 2019.md
       - Gallery/GALLERY 2018.md
