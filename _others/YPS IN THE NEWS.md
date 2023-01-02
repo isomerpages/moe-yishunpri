@@ -19,3 +19,9 @@ We are proud of our pupil, Ashvin Gunasegaran who had selflessly rushed to the a
 [Story OYEA 2016\_Sivakami Ratha (final).pdf](files/YPS%20News/Story%20OYEA%202016_Sivakami%20Ratha%20(final).pdf)
 
 ### Contact Magazine
+
+|   |   |
+|:----:|:-----:|
+|  ![](/images/YPS%20IN%20THE%20NEWS/contact1.jpg) | ![](/images/YPS%20IN%20THE%20NEWS/contact2.jpg)  |
+
+We are proud that our teacher, Mr Vasudavan has been featured in the January Issue of Contact - The Teacher's Digest. Mr Vasudavan shared his experience on how he engages both pupils and parents in his teaching profession.
