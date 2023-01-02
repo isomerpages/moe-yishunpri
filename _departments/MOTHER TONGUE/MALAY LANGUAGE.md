@@ -41,3 +41,9 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 **<u>Collaboration with NLB (READ@School)</u>**
 
 <p style="text-align: justify;">ML Unit collaborate with NLB on the reading programmes – READ @School. Various activities are conducted for different levels such as book talk and story-telling session based on the books found at the library.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
