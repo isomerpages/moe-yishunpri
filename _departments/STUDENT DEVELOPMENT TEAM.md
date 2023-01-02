@@ -62,3 +62,12 @@ Some examples of specialized programmes organized for specific groups of student
 ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT7.png)
 
 <center>Horse Therapy</center>
+
+Engaging Parents
+----------------
+
+To foster strong, meaningful partnership and promote Home-School collaboration, the school organises Parents Engagement sessions. These sessions enable parents to have a better understanding of the curriculum and programmes in the various levels. These sessions also include sharing by Form teachers and Co-Form teachers on classroom matters.  
+
+Meet-The-Parents sessions are also conducted to update parents on the development of their children in school and to offer useful tips on how they can further support their children at home.
+
+![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT8.png)
