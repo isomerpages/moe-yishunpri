@@ -44,6 +44,5 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Reading_Programme_1.png)  Book talk by an officer from the National Library (NLB) |  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Reading_Programme_2.jpg)   |
-|   |   |
+|  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Reading_Programme_1.png)  Book talk by an officer from the National Library (NLB) |  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Reading_Programme_2.jpg)  Pupils using a reading booklet for intensive reading.  |
 |   |   |
