@@ -75,3 +75,7 @@ description: ""
 |:-:|:-:|
 | ![](/images/Departments/SCIENCE/Sci_LJ_1.jpg)  Let’s see how the worms respond to light! |  ![](/images/Departments/SCIENCE/Sci_LJ_2.jpg) Hmm…which seed is this? |
 |   ![](/images/Departments/SCIENCE/Sci_LJ_3.jpg) Learning can be so engaging! |  ![](/images/Departments/SCIENCE/Sci_LJ_4.jpg)  There are so many types of organisms in a pond community! |
+
+### **Outreach to the Community on Food Waste Minimisation (Chong Pang Community Club)**   
+
+<p style="text-align: justify;">As part of Yishun Primary School’s outreach efforts, the Science department conducted an outreach themed upon upcycling, recycling and waste minimization. Using posters, displays and brochures, members of the public were exposed to the purpose and ways they could affect change in their own lives to help support environmental conservation. Pupils were also able to leverage on this platform to showcase Science projects completed over the year to highlight green habits and promote green consumerism.</p>
