@@ -25,3 +25,10 @@ To promote a strong home-school partnership, we would like to invite all parents
 
 **Areas of Involvement**
 ------------------------
+
+| Areas of Involvement                      | Description                                                                                                                      |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Pupil’s Safety                            | To monitor the safety of pupils during Reporting to School / School Dismissal / Learning Journeys                                |
+| Events Management                         | To assist in the preparation and logistic (eg. school decorations, exhibition booth, game corners) for school programmes/events. |
+| Co-curricular Activities - CCA            | To provide assistance or professional coaching for competition or performances.                                                  |
+| Character and Citizenship Education - CCE | To support in character building programmes (eg. conduct career sharing/talk to the pupils)                                      |
