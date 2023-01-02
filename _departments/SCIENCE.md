@@ -69,4 +69,10 @@ description: ""
 
 <p style="text-align: justify;">Science is the study of things around us. To further enrich the learning of science, pupils in Yishun Primary School visit the Science Centre annually to experience real-world applications of Science through the various programmes there. Each of these programmes aims at supporting the learning of Science for our pupils through authentic contexts.  </p>
 
-For example, our P6 pupils have a fun-filled afternoon learning about Science through an amazing outdoor lesson at the Science Center’s Eco-garden. They spend their afternoon looking for various life forms, such as microscopic algae, pond skaters and dragonfly nymphs. The pupils learn field techniques to catch and observe a variety of aquatic organisms which make up the pond community. In the process they also learn about relationships between organisms (e.g. food web) in the pond ecosystem.
+<p style="text-align: justify;">For example, our P6 pupils have a fun-filled afternoon learning about Science through an amazing outdoor lesson at the Science Center’s Eco-garden. They spend their afternoon looking for various life forms, such as microscopic algae, pond skaters and dragonfly nymphs. The pupils learn field techniques to catch and observe a variety of aquatic organisms which make up the pond community. In the process they also learn about relationships between organisms (e.g. food web) in the pond ecosystem.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
