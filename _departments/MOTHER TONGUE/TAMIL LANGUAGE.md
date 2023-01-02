@@ -30,5 +30,5 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  Show & Tell Performance |    Winners Fancy Dress Competition and Singing Competition  |
 |   |   |
