@@ -57,5 +57,7 @@ P6 –  Chinese Painting
 
 |   |   |
 |:-:|:-:|
+|  Festive Cheers by the whole school  |   |
+|   |   |
 |   |   |
 |   |   |
