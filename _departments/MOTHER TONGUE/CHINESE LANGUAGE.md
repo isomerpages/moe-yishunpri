@@ -53,3 +53,9 @@ P3 –  Finger Painting
 P4 –  Chinese Opera Mask Painting   
 P5 –  Fortune Doll Painting   
 P6 –  Chinese Painting
+
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
