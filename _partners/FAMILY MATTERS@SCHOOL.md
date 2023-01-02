@@ -22,3 +22,20 @@ description: ""
 ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/family2.jpg)
 
 <center>Family life programme for Parents.<br>“Managing Transition from K2 to P1”<br>“Terrariums Workshop” </center>
+
+|               FamilyMatters@School /<br>Triple P Programmes              |       Date       |    Status   |
+|:------------------------------------------------------------------------:|:----------------:|:-----------:|
+|                             Transition to P1                             |  3 January 2019  |  Completed  |
+|              Nurturing Your Child<br>Emotional Intelligence              | 23 February 2019 |  Completed  |
+|                         Making Memories that Last                        |   16 March 2019  |  Completed  |
+|       Triple P Level 2<br>Seminar 1<br>Power of Positive Parenting       |   20 July 2019   |  Completed  |
+|  Triple P Level 2<br>Seminar 2<br>Raising Confident, Competent Children  |   3 August 2019  |  Completed  |
+|        Triple P Level 2<br>Seminar 3<br>Raising Resilient Children       |  17 August 2019  |  Completed  |
+|                       Webinar Series (Zoom Workshop)                     |                  |             |
+|       Triple P Level 2<br>Seminar 1<br> Power of Positive Parenting      |   11 July 2020   |  Completed  |
+|  Triple P Level 2<br>Seminar 2<br> Raising Confident, Competent Children |   18 July 2020   |  Completed  |
+|        Triple P Level 2<br>Seminar 3<br> Raising Resilient Children      |   25 July 2020   |   Completed |
+
+![](/images/Partners/FAMILY%20MATTERS@SCHOOL/FMS_2012_1.jpg)
+
+![](/images/Partners/FAMILY%20MATTERS@SCHOOL/FMS_2016_2.jpg)
