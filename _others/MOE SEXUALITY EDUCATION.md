@@ -58,3 +58,18 @@ At Yishun Primary School, the following lessons from the Growing Years Programme
 |                             |      What is My Role?<br>(30 min)       | • know that gender is about being male or female<br>• choose not to stereotype by gender                                                                                                                                                                                                                                                                                        |  Term 4<br>Week 10 |
 |  How Do I Keep Myself Safe? |       What is Safety?<br>(30 min)       | • know what sexual abuse is<br>• know that there are laws in Singapore that can protect them from sexual abuse<br>• know their rights in keeping themselves safe from sexual abuse                                                                                                                                                                                                |  Term 4<br>Week 10 |
 |                             |     Stop It! Run! Tell!<br>(30 min)     | • protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>• know their responsibilities in minimising the risk of sexual harm                                                                                                                                                                                                |  Term 4<br>Week 10 |
+
+
+**PRIMARY 6**
+
+
+INFORMATION FOR PARENTS
+-----------------------
+
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://yishunpri.moe.edu.sg/qql/slot/u542/For%20Parents/YPS%20Opt-Out%20Form%20for%20Sexuality%20Education%202022.pdf.pdf). The completed opt-out form is to be submitted by 31/01/2022.
+
+10\. Parents can contact the school at 6257 7461 for discussion or to seek clarification about the school's sexuality education programme. 
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
