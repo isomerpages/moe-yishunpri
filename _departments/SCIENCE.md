@@ -26,3 +26,9 @@ description: ""
 ### **Plant Tissue Culture (PTC) Programme**
 
 <p style="text-align: justify;">We are proud to be one of the few schools in Singapore to have PTC facilities in the compound. Over the years, we also cultured a few hybrids successfully.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
