@@ -71,3 +71,17 @@ Engaging Parents
 <p style="text-align: justify;">Meet-The-Parents sessions are also conducted to update parents on the development of their children in school and to offer useful tips on how they can further support their children at home.</p>
 
 ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT8.png)
+
+Supporting Teacher Development to Support Students
+--------------------------------------------------
+
+<p style="text-align: justify;">In order to provide the relevant support to cater to the needs of the students, building teacher capacity is crucial. Professional development opportunities are provided to  teachers to  develop their skills so as to better support the students in the various areas.</p>
+
+Working with External Agencies
+------------------------------
+
+The school works with external agencies to look into the needs of students and their families. For instance, the school works closely with social service agencies not only to support the learning of students with needs but also to support underprivileged  families.
+
+  
+
+We also work with external agencies like RSVP, a non-profit organisation of senior volunteers who organise after-school programmes for selected students such as homework supervision, teaching craft work and inculcation of values.
