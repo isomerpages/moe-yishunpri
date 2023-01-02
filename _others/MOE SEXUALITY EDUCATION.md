@@ -62,6 +62,9 @@ At Yishun Primary School, the following lessons from the Growing Years Programme
 
 **PRIMARY 6**
 
+| UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+|:----:|:------------------:|:----------------------------------------------------------------------:|:-----------:|
+|      |                    |                                                                        |             |
 
 INFORMATION FOR PARENTS
 -----------------------
