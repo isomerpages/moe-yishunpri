@@ -39,3 +39,6 @@ description: ""
 
 <center>Seed germination on a nutrient culture medium under sterile condition</center>
 
+|   |   |
+|:-:|:-:|
+|  ![](/images/Departments/SCIENCE/SC_06_2018.png)   | ![](/images/Departments/SCIENCE/SC_07_2018.png)    |
