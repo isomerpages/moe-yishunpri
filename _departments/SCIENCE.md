@@ -48,3 +48,7 @@ description: ""
 <p style="text-align: justify;">As an extension to the PTC programme, our students also produce hand-crafted glass coasters using orchid flowers as they study the structures of the orchids. On top of that, these glass coasters were used as a source of funding to help the less fortunate.</p>
 
 ![](/images/Departments/SCIENCE/SC_08_2018.png)
+
+<p style="text-align: justify;">As an act to serve the community, we approached Singapore General Hospital (SGH) as a partner to help their needy patients. Our School Advisory Committee supported the school’s efforts in this programme and our students were told of how their creations had meaningfully helped the less fortunate in SGH.</p>
+
+<p style="text-align: justify;">
