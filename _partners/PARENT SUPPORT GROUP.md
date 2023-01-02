@@ -34,3 +34,7 @@ To promote a strong home-school partnership, we would like to invite all parents
 | Character and Citizenship Education - CCE | To support in character building programmes (eg. conduct career sharing/talk to the pupils)                                      |
 
 **PSG Involvement in various activities**
+
+![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20sport%20day.png)
+
+<center>Sports Day</center>
