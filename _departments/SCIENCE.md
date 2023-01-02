@@ -35,4 +35,4 @@ description: ""
 
 |   |   |
 |:-:|:-:|
-|     |   |
+|  ![](/images/Departments/SCIENCE/SC_04_2018.png)   | ![](/images/Departments/SCIENCE/SC_05_2018.png)    |
