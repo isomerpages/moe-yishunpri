@@ -40,4 +40,19 @@ The school has embarked on the TRANSIT programme from this year. TRANSIT provide
 |:-:|:-:|
 |  ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT4.png) | ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT5.png)  |
 
+Support Programmes
+------------------
+
+Our school uses the Tiered System of Support Framework to identify and provide the necessary support to cater to the specific needs of students. This ranges from withdrawal sessions to developing specific skills and counselling sessions.  
+
+  
+
+Some examples of specialized programmes organized for specific groups of students include:
+
+1\.  Play Therapy   
+2\.  Speech and Language Therapy   
+3\.  Art Therapy   
+4\.  Colour Therapy   
+5\.  Horse Therapy
+
 Transit Classroom
