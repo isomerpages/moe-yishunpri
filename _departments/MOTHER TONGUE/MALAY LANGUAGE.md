@@ -28,16 +28,16 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 ### **Structured Reading Programmes**
 
-<p style="text-align: justify;">To promote reading, structured reading programmes are designed to cater to the different profiles of the students. The students enjoy a variety of exciting reading programmes that cater to their reading abilities and interests.
+<p style="text-align: justify;">To promote reading, structured reading programmes are designed to cater to the different profiles of the students. The students enjoy a variety of exciting reading programmes that cater to their reading abilities and interests.</p>
 
 **<u>Intensive Reading Programme</u>**
 
-<p style="text-align: justify;">Intensive Reading Programme primarily aims to develop and enhance pupils’ ability to examine, understand and interpret what is read correctly. It usually requires the guidance of a teacher as it starts with guided reading. Students will then progress to read in accordance of their reading ability.
+<p style="text-align: justify;">Intensive Reading Programme primarily aims to develop and enhance pupils’ ability to examine, understand and interpret what is read correctly. It usually requires the guidance of a teacher as it starts with guided reading. Students will then progress to read in accordance of their reading ability.</p>
 
 **<u>Extensive Reading Programme (ERP)</u>**
 
-<p style="text-align: justify;">The Extensive Reading Programme aims to foster pupils’ interest in reading, stimulates pupils' opinions by observing the material they have read and expanding their vocabulary. The reading activity can take place inside or outside the classroom and during or outside of school hours.
+<p style="text-align: justify;">The Extensive Reading Programme aims to foster pupils’ interest in reading, stimulates pupils' opinions by observing the material they have read and expanding their vocabulary. The reading activity can take place inside or outside the classroom and during or outside of school hours.</p>
 
 **<u>Collaboration with NLB (READ@School)</u>**
 
-<p style="text-align: justify;">ML Unit collaborate with NLB on the reading programmes – READ @School. Various activities are conducted for different levels such as book talk and story-telling session based on the books found at the library.
+<p style="text-align: justify;">ML Unit collaborate with NLB on the reading programmes – READ @School. Various activities are conducted for different levels such as book talk and story-telling session based on the books found at the library.</p>
