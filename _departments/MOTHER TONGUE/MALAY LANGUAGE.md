@@ -54,3 +54,8 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 |   |   |
 |:-:|:-:|
 |   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Workshop_1.jpg)  Comprehension workshop on use of strategies to answer the questions |  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Workshop_2.jpg)   Oral workshop to enhance the pupils' oral skills |
+
+
+### **Talent Development Programme**  
+
+The Talent Development Programme is a platform for the students to display their talent. Every level has different competitions for the students to display their strength and potential. The pupils have gained confidence in using the language. They are also given the opportunity to participate at external competitions.
