@@ -62,5 +62,5 @@ description: ""
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|    Briefing on Project T.E.S. by teacher in-charge    | Pupils segregating their food waste into the food waste bin.  |
 |   |   |
