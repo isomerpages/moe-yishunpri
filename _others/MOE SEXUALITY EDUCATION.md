@@ -66,7 +66,7 @@ At Yishun Primary School, the following lessons from the Growing Years Programme
 
 | UNIT | LESSONS / DURATION | LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
 |:----:|:------------------:|-----------|:-----------:|
-|  Are We More Than Friends?    |    Who Are My Friends? <br>(30 min)                |        identify the qualities of a healthy friendship <br>recognise the importance of making wise choices in friendship                      |             |
+|  Are We More Than Friends?    |    Who Are My Friends? <br>(30 min)                |        identify the qualities of a healthy friendship <br>recognise the importance of making wise choices in friendship                      |     Term 2 Week 10        |
 |      |                    |                             |             |
 |      |                    |                             |             |
 |      |                    |                             |             |
