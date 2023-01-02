@@ -91,4 +91,4 @@ P6 –  Chinese Painting
 |:-:|:-:|
 | ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)   Solar Rewarding System  |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)  Morning E-book Reading Session |
 |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)  Guided Reading Session  |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Level_Activity.jpeg)   Level Activity – Poem Recital Competition   |
-|   |   |
+| ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Singing_Competition%202.jpeg)   Level Activity – P6 Singing competition |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Essay_Books.jpeg) Chinese Essay Publication   |
