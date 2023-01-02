@@ -48,5 +48,5 @@ description: ""
 |:-:|:-:|
 |  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture1_orto.png) |   ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture2_otro.png)   |
 |  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture3_orto.png)   | ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture4_orot.png)   |
-|  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture11_clay.png) |   |
-|   |   |
+|  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture11_clay.png) | ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture12_clay.png)   |
+|   ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture13_clay.png) |  ![](/images/Partners/FAMILY%20MATTERS@SCHOOL/Picture15_clay.png)  |
