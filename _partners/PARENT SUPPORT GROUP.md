@@ -42,3 +42,15 @@ To promote a strong home-school partnership, we would like to invite all parents
 ![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20MFD.jpg)
 
 <center>Mother’s Day and Father’s Day Bazaar</center>
+
+![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20RH.jpg)
+
+<center>Racial Harmony Day Recess Activity</center>
+
+![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20TD.jpg)
+
+<center>Teachers’ Day Performance</center>
+
+![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20AD.jpg)
+
+<center>PSG Appreciation Day <br>We warmly welcome parents to join YPS PSG. </center>
