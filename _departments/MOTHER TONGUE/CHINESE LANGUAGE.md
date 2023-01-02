@@ -109,3 +109,7 @@ P6 –  Chinese Painting
 <p style="text-align: justify;">CL unit has been collaboration with cluster schools on this Water Learning Programme to provide our pupils an opportunity to understand the importance of water to Singapore and our reservoirs.    </p>
 
 <p style="text-align: justify;">The objective of this programme is to boost the confidence level of our pupils in speaking Chinese Language through authentic learning experience at the various learning stations set up by the secondary schools who organised this event.</p>
+
+![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Seletar_1.jpeg)
+
+![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Seletar_2.jpeg)
