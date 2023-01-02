@@ -56,3 +56,5 @@ The OLE serves as a platform for our students to develop character, social-emoti
 For many of our students, this may well be their first time stepping out of their comfort zones of their home and familiar environment to one where they were constantly challenged. Cheers to their courage in facing the challenges and completing their 3-Days of outdoor learning.
 
 The P5 OLE would be a memorable experience for all the students for they have strengthened their friendships, cared for and motivated each other throughout the 3 days.
+
+![](/images/Departments/PHYSICAL%20EDUCATION/P32.png)
