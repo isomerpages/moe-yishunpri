@@ -19,3 +19,9 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 ### **Mother Tongue Language Fortnight & P4 Language & Cultural Camp**
 
 <p style="text-align: justify;">This programme is packed with language and cultural activities to increase the students' interest in the Malay language and culture.  These platforms provided the pupils with an authentic environment to appreciate the culture. This experiential learning has created a joy of learning in them.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+|   |   |
