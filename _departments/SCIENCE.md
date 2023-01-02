@@ -18,3 +18,5 @@ description: ""
 ### Applied Learning Programme: Environmental Science
 
 <p style="text-align: justify;">Through our ALP at YPS, developed in the area of <b>Environmental Science</b>, we want to connect academic knowledge and skills with our students’ real world. The emphasis is on the application of thinking skills, connecting knowledge across subject disciplines, stretching imagination and applying these into our authentic society and world we live in.</p>
+
+![](/images/Departments/SCIENCE/ALP_Overview.jpg)
