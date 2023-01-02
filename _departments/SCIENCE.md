@@ -74,4 +74,4 @@ description: ""
 |   |   |
 |:-:|:-:|
 |  Let’s see how the worms respond to light! |  Hmm…which seed is this? |
-|   |   |
+|  Learning can be so engaging! |  There are so many types of organisms in a pond community! |
