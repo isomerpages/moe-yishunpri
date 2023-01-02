@@ -92,3 +92,7 @@ P6 –  Chinese Painting
 | ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)   Solar Rewarding System  |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)  Morning E-book Reading Session |
 |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)  Guided Reading Session  |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Level_Activity.jpeg)   Level Activity – Poem Recital Competition   |
 | ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Singing_Competition%202.jpeg)   Level Activity – P6 Singing competition |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Essay_Books.jpeg) Chinese Essay Publication   |
+
+### **Cultural Performance Exposure Programme**  
+
+Chinese Language Unit has been participating in the Cultural Performance Exposure Scheme (CPES),    (文化随意门) - an initiative by the Committee to Promote Chinese Language Learning (CPCLL). It aims to expose our pupils to Chinese language-related cultural performances by local and foreign performing arts groups, through providing schools with the necessary funding and support. The scheme hopes to allow pupils to enjoy Chinese culture in a relaxed manner.
