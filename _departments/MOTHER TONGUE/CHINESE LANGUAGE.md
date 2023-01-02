@@ -38,3 +38,23 @@ Every child “Matters”
 <p style="text-align: justify;">The first highlight of the year is our School Chinese New Year Celebration. All pupils are provided with authentic cultural appreciation experience with exciting hall performances and subsequent class activities on the eve of Chinese New Year. </p>
 
 <p style="text-align: justify;">Everyone has a joyous time enjoying the show and the hands-on activities as they learn the traditions and customs of the festival.</p>
+
+P1 –  Making of decorative Mandarin oranges and colouring one set of Spring Festival Couplet   
+P2 – Making of CNY Greeting Card   
+P3 – Making of Origami Mouse Corner Bookmark   
+P4 – Making of Origami 3D Mouse    
+P5 & P6 – Chinese Calligraphy “Hui Chun”
+
+<p style="text-align: justify;">The celebration continues with cultural activities during Mother Tongue lessons after the pupils return from the CNY public holidays.</p>
+
+> P1 –  Clay Modelling
+> 
+> P2 –  Paper Puppet
+> 
+> P3 –  Finger Painting
+> 
+> P4 –  Chinese Opera Mask Painting
+> 
+> P5 –  Fortune Doll Painting
+> 
+> ### P6 –  Chinese Painting
