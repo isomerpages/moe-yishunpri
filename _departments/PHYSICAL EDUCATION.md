@@ -32,3 +32,15 @@ To equip students with knowledge on social, mental and physical skills and value
 **Goal 5:** Acquire and maintain health-enhancing fitness through regular participation in physical activities.
 
 **Goal 6:** Enjoy and value the benefits of living a physically active and healthy life.
+
+### **The 7 learning areas that students experience in physical education:**
+
+* Athletics (from Primary 3)
+* Dance
+* Games and Sports
+* Gymnastics
+* Outdoor Education
+* Physical Health and Fitness
+* Swimming (by the end of P6)
+
+### **Highlights of some programmes:**
