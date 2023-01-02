@@ -22,4 +22,4 @@ third_nav_title: MOTHER TONGUE
 |   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_1.jpg)  |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_2.jpg)   |
 |   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_3.jpg)   P1 – P2 (Exposure to our traditional art form Kolam)  |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_4.jpg)   P3 & 5 – Fastest Fingers First (Touch Typing Competition)    |
 |   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_5.jpg)    |   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_6.jpg)   P5 – P6 (Motivational talk and public speaking workshop)  |
-|   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_2.jpg)   P4 (Cultural Camp) |   |
+|   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_7.jpg)   P4 (Cultural Camp) |    ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_8.jpg)   |
