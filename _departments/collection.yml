@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - MOTHER TONGUE/CHINESE LANGUAGE.md
-      - MOTHER TONGUE/.keep
       - AESTHETICS.md
       - CHARACTER AND CITIZENSHIP EDUCATION.md
       - DISCIPLINE.md
       - ENGLISH.md
       - ICT.md
       - MATH.md
+      - MOTHER TONGUE/.keep
+      - MOTHER TONGUE/CHINESE LANGUAGE.md
