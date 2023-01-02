@@ -50,3 +50,7 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 ### **Creative Writing, Comprehension and Oral Workshop**
 
 <p style="text-align: justify;">To help students develop the knowledge, skills and dispositions, ML teachers conduct various workshops on Oral, writing skills and comprehension strategies. Students are received a booklet to guide them on the respective components.</p>
+
+|   |   |
+|:-:|:-:|
+|   ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Workshop_1.jpg)  Comprehension workshop on use of strategies to answer the questions |  ![](/images/Departments/MOTHER%20TONGUE/MALAY%20LANGUAGE/ML_Workshop_2.jpg)   Oral workshop to enhance the pupils' oral skills |
