@@ -47,14 +47,9 @@ P5 & P6 – Chinese Calligraphy “Hui Chun”
 
 <p style="text-align: justify;">The celebration continues with cultural activities during Mother Tongue lessons after the pupils return from the CNY public holidays.</p>
 
-> P1 –  Clay Modelling
-> 
-> P2 –  Paper Puppet
-> 
-> P3 –  Finger Painting
-> 
-> P4 –  Chinese Opera Mask Painting
-> 
-> P5 –  Fortune Doll Painting
-> 
-> ### P6 –  Chinese Painting
+P1 –  Clay Modelling   
+P2 –  Paper Puppet   
+P3 –  Finger Painting   
+P4 –  Chinese Opera Mask Painting   
+P5 –  Fortune Doll Painting   
+P6 –  Chinese Painting
