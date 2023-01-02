@@ -85,3 +85,5 @@ The school works with external agencies to look into the needs of students and t
   
 
 We also work with external agencies like RSVP, a non-profit organisation of senior volunteers who organise after-school programmes for selected students such as homework supervision, teaching craft work and inculcation of values.
+
+![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT9.png)
