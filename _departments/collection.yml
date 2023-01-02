@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - STUDENT DEVELOPMENT TEAM.md
       - AESTHETICS.md
       - CHARACTER AND CITIZENSHIP EDUCATION.md
       - DISCIPLINE.md
@@ -15,3 +14,4 @@ collections:
       - MOTHER TONGUE/TAMIL LANGUAGE.md
       - PHYSICAL EDUCATION.md
       - SCIENCE.md
+      - STUDENT DEVELOPMENT TEAM.md
