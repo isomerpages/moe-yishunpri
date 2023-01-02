@@ -36,3 +36,21 @@ third_nav_title: MOTHER TONGUE
 ### TL LEGO Programme  
 
 <p style="text-align: justify;">The Tamil language unit of Yishun Primary School aims to engage and motivate the students to speak in the language confidently and enhance their all-round communication skills. Therefore, the LEGO Programme is designed to encourage the use of Tamil language was the Building on our Knowledge.</p>
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
+
+
+
+|   |   |
+|:-:|:-:|
+|   |   |
+|   |   |
