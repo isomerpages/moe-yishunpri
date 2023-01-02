@@ -38,3 +38,7 @@ To promote a strong home-school partnership, we would like to invite all parents
 ![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20sport%20day.png)
 
 <center>Sports Day</center>
+
+![](/images/Partners/PARENT%20SUPPORT%20GROUP/PSG%20MFD.jpg)
+
+<center>Mother’s Day and Father’s Day Bazaar</center>
