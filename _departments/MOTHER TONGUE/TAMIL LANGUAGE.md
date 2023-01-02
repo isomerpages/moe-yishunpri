@@ -43,6 +43,10 @@ third_nav_title: MOTHER TONGUE
 |   <img src="/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_3.jpg" style="width:307px">  LEGO & Places of Interests |    <img src="/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_4.jpg" style="width:307px">  Group work during CCE Lesson |
 
 
+### TL Reading Programme  
+
+<p style="text-align: justify;">To promote reading, learning and literacy, the TL unit has a range of reading programmes tailored for Tamil pupils across all age groups. We have incorporated ICT in the reading programme to encourage pupils to read widely.</p>
+
 |   |   |
 |:-:|:-:|
 |   |   |
