@@ -50,7 +50,7 @@ third_nav_title: MOTHER TONGUE
 |   |   |
 |:-:|:-:|
 |  Experiential Reading with Augmented Reality |   Reading Literacy   |
-|   |   |
+|  Infusing technology in reading | Star readers  |
 
 
 
