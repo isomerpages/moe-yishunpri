@@ -19,7 +19,7 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_1.jpg)  |  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_MTF_2.jpg)   |
 |  P1 – P2 (Exposure to our traditional art form Kolam)  | P3 & 5 – Fastest Fingers First (Touch Typing Competition)    |
 |   |  P5 – P6 (Motivational talk and public speaking workshop)  |
 |  P4 (Cultural Camp) |   |
