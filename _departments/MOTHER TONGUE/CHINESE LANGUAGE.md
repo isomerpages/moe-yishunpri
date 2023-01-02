@@ -95,4 +95,7 @@ P6 –  Chinese Painting
 
 ### **Cultural Performance Exposure Programme**  
 
-Chinese Language Unit has been participating in the Cultural Performance Exposure Scheme (CPES),    (文化随意门) - an initiative by the Committee to Promote Chinese Language Learning (CPCLL). It aims to expose our pupils to Chinese language-related cultural performances by local and foreign performing arts groups, through providing schools with the necessary funding and support. The scheme hopes to allow pupils to enjoy Chinese culture in a relaxed manner.
+<p style="text-align: justify;">Chinese Language Unit has been participating in the Cultural Performance Exposure Scheme (CPES),    (文化随意门) - an initiative by the Committee to Promote Chinese Language Learning (CPCLL). It aims to expose our pupils to Chinese language-related cultural performances by local and foreign performing arts groups, through providing schools with the necessary funding and support. The scheme hopes to allow pupils to enjoy Chinese culture in a relaxed manner.</p>
+
+
+Primary 5 pupils watching a Chinese Cross Talk at Singapore Chinese Cultural Centre.
