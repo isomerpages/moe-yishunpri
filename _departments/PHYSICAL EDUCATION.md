@@ -65,12 +65,12 @@ The P3 students are exposed to Outdoor Education which engages their sense of ad
 
 ### Healthy Lifestyle Week and Fiesta
 
-The aim of Healthy Lifestyle Week and Fiesta is to promote awareness among students and parents on the need to maintain a healthy lifestyle and provide a platform for pupil-parent bonding through participation in healthy lifestyle activities.
+<p style="text-align: justify;">The aim of Healthy Lifestyle Week and Fiesta is to promote awareness among students and parents on the need to maintain a healthy lifestyle and provide a platform for pupil-parent bonding through participation in healthy lifestyle activities.
 
-During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities both in school as well as at home. students also had to answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  
+<p style="text-align: justify;">During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities both in school as well as at home. students also had to answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  
 
-Parents play a critical role in promoting a healthy lifestyle among the students. They participated in certain activities as a family and encouraged their child for other activities that required their endorsement. 
+<p style="text-align: justify;">Parents play a critical role in promoting a healthy lifestyle among the students. They participated in certain activities as a family and encouraged their child for other activities that required their endorsement. </p>
 
-For the P5 students, in collaboration with National Health Foundation (NHF), the school also introduced the Blood Pressure (BP) initiative, where every pupil was loaned out with a Blood pressure monitor to bring home for a week. The aim was for students and their family members to take responsibility and monitor their own health.
+<p style="text-align: justify;">For the P5 students, in collaboration with National Health Foundation (NHF), the school also introduced the Blood Pressure (BP) initiative, where every pupil was loaned out with a Blood pressure monitor to bring home for a week. The aim was for students and their family members to take responsibility and monitor their own health.</p>
 
-Staying healthy is a choice. Let’s all work together to maintain a healthy lifestyle!
+<p style="text-align: justify;">Staying healthy is a choice. Let’s all work together to maintain a healthy lifestyle!</p>
