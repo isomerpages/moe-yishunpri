@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - GALLERY 2017.md
-      - GALLERY 2018.md
       - GALLERY 2019.md
+      - GALLERY 2018.md
+      - GALLERY 2017.md
