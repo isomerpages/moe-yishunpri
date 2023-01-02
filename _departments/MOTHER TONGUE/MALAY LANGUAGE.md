@@ -70,11 +70,11 @@ To inspire and cultivate the pupils’ passion in the learning of Malay Language
 
 In alignment to MOE’s policy to make the MTL “living” languages, our ML Unit conducts learning journeys to provide real-world context for classroom learning. Students are provided with an authentic platform to enhance their language use. The visit to Fort Canning Park, Malay Heritage Centre and Lower Seletar Reservoir have increased the students' understanding of the different aspects of their language, history and culture.
 
-**Learning Journey to Fort Canning Park**
+**<u>Learning Journey to Fort Canning Park</u>**
 
 Students learn about the various herbs and spices found at Fort Canning Park. They take a walk and closer look and explore the Spice Garden, discover and understand the world around them in an uninhibited way. 
 
-**Learning Journey to Malay Heritage Centre**
+**<u>Learning Journey to Malay Heritage Centre</u>**
 
 The Malay Heritage Centre provides wonderful cultural exposure and learning opportunities for the students. They are exposed to various artifacts that depicts Malay Language culture. Students also learn about the history of various historical places in Singapore such as Kampong Glam. They also witnessed antique musical instruments as well as watched old Malay Language films dated from the Malay sultanate.  
 
