@@ -45,7 +45,7 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|   LEGO Show & Tell Activity  |   |
 |   |   |
 
 
