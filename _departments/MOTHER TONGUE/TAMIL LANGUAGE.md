@@ -39,8 +39,8 @@ third_nav_title: MOTHER TONGUE
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_1.jpg)   LEGO Show & Tell Activity  |  Pupils’ Creations |
-|   |   |
+|  ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_1.jpg)   LEGO Show & Tell Activity  |   ![](/images/Departments/MOTHER%20TONGUE/TAMIL%20LANGUAGE/TL_Lego_Prog_2.jpg)   Pupils’ Creations |
+|  LEGO & Places of Interests |   |
 
 
 |   |   |
