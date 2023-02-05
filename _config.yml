@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2hv8dge823i3s.amplifyapp.com
 prod: https://master.d2hv8dge823i3s.amplifyapp.com
 shareicon: /images/logo.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
