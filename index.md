@@ -22,4 +22,8 @@ sections:
         2023. More information can be found under 'School Hours'  Thank you!
       button: "'School Hours'"
       url: /school-details/school-hours
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
