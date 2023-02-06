@@ -15,7 +15,7 @@ sections:
           url: /school-details/calendar
         - title: For Students
           description: ""
-          url: ""
+          url: /quick-links/students/
         - title: For Parents
           description: ""
           url: /quick-links/gallery
