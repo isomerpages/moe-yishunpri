@@ -15,15 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/gallery
-  - infobar:
-      title: Changes in School Hours from 2023
-      subtitle: Announcement
-      description: Kindly take note of the changes in school hours with effect from
-        2023. More information can be found under 'School Hours'  Thank you!
-      button: "'School Hours'"
-      url: /school-details/school-hours
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Annoucements
+      button: View Past Annoucments
 ---
