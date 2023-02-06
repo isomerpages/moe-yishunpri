@@ -2,6 +2,6 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - Our MK Staff.md
-      - What's New.md
       - About Us.md
+      - What's New.md
+      - Our MK Staff.md
