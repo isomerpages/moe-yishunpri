@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Annoucements
           description: View All Announcements
-          url: /quick-links/students/
+          url: /Announcements/
         - title: Calendar
           description: All School Events & Holidays
           url: /school-details/calendar
