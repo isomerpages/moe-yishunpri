@@ -16,6 +16,14 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/gallery
+  - infobar:
+      title: Vision
+      description: Caring School, Confident Learners
+  - infobar:
+      title: Mission
+      description: Inspire passion for learning by providing a caring and nurturing
+        environment where leaders of character believe in their abilities to
+        learn and achieve success.
   - resources:
       title: Annoucements
       button: View Past Annoucments
