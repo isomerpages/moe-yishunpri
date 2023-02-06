@@ -21,7 +21,7 @@ sections:
           url: /quick-links/gallery
         - title: For Staff
           description: ""
-          url: ""
+          url: /quick-links/teachers/
       title: Welcome to Yishun Primary School
       subtitle: Do Our Best & Be The Best
   - infobar:
