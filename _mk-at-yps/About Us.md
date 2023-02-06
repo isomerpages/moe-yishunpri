@@ -4,7 +4,7 @@ permalink: /mk-at-yps/About-Us/
 description: ""
 ---
 ### MOE Kindergarten @ Yishun Primary School
-
+![MOE Kindergarten](/images/MK%20YPS/MOE%20Kindergarten%20Logo.jpg)
 We offer 4-hour programme for K1 this Year 2023.
 <br>You can choose from the following options (subject to availability):
 
