@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About Us.md
-      - What's New.md
       - Our MK Staff.md
