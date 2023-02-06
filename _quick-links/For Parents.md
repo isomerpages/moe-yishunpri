@@ -6,6 +6,10 @@ description: ""
 ## Useful Links
 * 2023 Approved MT Dictionary for PSLE (Coming soon)
 * Cyber Wellness Tip Sheet for Parents
+* YPS in the News
+* Cyber Wellness Guide For Parents
+* MOE Sexuality Education
+* YPS ICT Helpdesk
 
 *   <a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank">2022 Approved MT Dictionary for PSLE</a>
 *   <a href="/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf" target="_blank">Cyber Wellness Guide For Parents</a>
