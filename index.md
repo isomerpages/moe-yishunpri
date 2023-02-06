@@ -33,11 +33,6 @@ sections:
         environment where leaders of character believe in their abilities to
         learn and achieve success.
       alt: Image alt text
-  - infobar:
-      title: Mission
-      description: Inspire passion for learning by providing a caring and nurturing
-        environment where leaders of character believe in their abilities to
-        learn and achieve success.
   - infopic:
       title: School Motto
       description: Do Our Best & Be The Best
