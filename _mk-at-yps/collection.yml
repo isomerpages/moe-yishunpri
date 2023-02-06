@@ -2,4 +2,5 @@ collections:
   mk-at-yps:
     output: true
     order:
+      - What's New.md
       - About Us.md
