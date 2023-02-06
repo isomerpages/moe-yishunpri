@@ -18,7 +18,7 @@ sections:
           url: /school-details/calendar
         - title: For Parents & Students
           description: Useful Quick Links
-          url: /quick-links/parents/
+          url: /quick-links/parents-students/
         - title: For School Staffs
           description: Useful Quick Links
           url: /quick-links/teachers/
