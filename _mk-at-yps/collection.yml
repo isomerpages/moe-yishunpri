@@ -2,4 +2,4 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - MK@YPS.md
+      - About Us.md
