@@ -1,4 +1,5 @@
 collections:
   mk-at-yps:
     output: true
-    order: []
+    order:
+      - MK@YPS.md
