@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - For Staff.md
-      - Students.md
+      - For Students.md
       - Parents.md
       - Gallery.md
