@@ -18,7 +18,7 @@ sections:
           url: /quick-links/students/
         - title: For Parents
           description: ""
-          url: /quick-links/gallery
+          url: /quick-links/parents/
         - title: For Staff
           description: ""
           url: /quick-links/teachers/
