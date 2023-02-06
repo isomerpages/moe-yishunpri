@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - Gallery.md
       - Teachers.md
       - Students.md
       - Parents.md
+      - Gallery.md
