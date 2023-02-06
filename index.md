@@ -19,7 +19,7 @@ sections:
         - title: For Parents & Students
           description: Useful Quick Links
           url: /quick-links/parents/
-        - title: For Staffs
+        - title: For School Staffs
           description: Useful Quick Links
           url: /quick-links/teachers/
       title: Welcome to Yishun Primary School
