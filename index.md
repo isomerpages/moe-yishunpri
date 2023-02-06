@@ -43,4 +43,8 @@ sections:
       alt: Image alt text
   - infobar:
       title: Nurturing Confidence Learners
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
