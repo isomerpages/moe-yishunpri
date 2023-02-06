@@ -22,6 +22,8 @@ sections:
         - title: For Staff
           description: ""
           url: ""
+      title: Welcome to Yishun Primary School
+      subtitle: Do Our Best & Be The Best
   - infobar:
       title: Vision
       description: Caring School, Confident Learners
