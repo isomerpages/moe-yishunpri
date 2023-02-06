@@ -10,17 +10,17 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Calendar
-          description: ""
-          url: /school-details/calendar
-        - title: For Students
-          description: ""
+        - title: Annoucements
+          description: View All Announcements
           url: /quick-links/students/
-        - title: For Parents
-          description: ""
+        - title: Calendar
+          description: All School Events & Holidays
+          url: /school-details/calendar
+        - title: For Parents & Students
+          description: Useful Quick Links
           url: /quick-links/parents/
-        - title: For Staff
-          description: ""
+        - title: For Staffs
+          description: Useful Quick Links
           url: /quick-links/teachers/
       title: Welcome to Yishun Primary School
       subtitle: Do Our Best & Be The Best
