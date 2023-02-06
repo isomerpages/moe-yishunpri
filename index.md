@@ -13,9 +13,15 @@ sections:
         - title: Calendar
           description: ""
           url: /school-details/calendar
-        - title: Quick Links
+        - title: For Students
+          description: ""
+          url: ""
+        - title: For Parents
           description: ""
           url: /quick-links/gallery
+        - title: For Staff
+          description: ""
+          url: ""
   - infobar:
       title: Vision
       description: Caring School, Confident Learners
