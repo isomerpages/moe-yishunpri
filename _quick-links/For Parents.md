@@ -5,16 +5,8 @@ description: ""
 ---
 ## Useful Links
 * 2023 Approved MT Dictionary for PSLE (Coming soon)
-* Cyber Wellness Tip Sheet for Parents
-* YPS in the News
-* Cyber Wellness Guide For Parents
-* MOE Sexuality Education
-* YPS ICT Helpdesk
-
-*   <a href="/files/list_of_dictionaries_for_examination.pdf" target="_blank">2022 Approved MT Dictionary for PSLE</a>
-*   <a href="/files/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf" target="_blank">Cyber Wellness Guide For Parents</a>
-*   <a href="/files/Cyber%20Wellness_Tip_Sheet_for_Parents_pdf.pdf" target="_blank">Cyber Wellness Tip Sheet for Parents</a>
-*   [MOE Sexuality Education](/others/moe-sexuality-education)
-*   <a href="https://www.schoolbag.sg/" target="_blank">Schoolbag</a>
-*   <a href="https://go.gov.sg/ypshelpdesk" target="_blank">YPS ICT Helpdesk</a>
-*   [YPS in the News](/others/yps-in-the-news)
+* [Cyber Wellness Guide For Parents](/files/Quick%20Links/For%20Parents/Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
+* [Cyber Wellness Tip Sheet For Parents](/files/Quick%20Links/For%20Parents/Cyber%20Wellness_Tip_Sheet_for_Parents.pdf)
+* [MOE Sexuality Education 2023](/others/moe-sexuality-education)
+* [YPS ICT Helpdesk](https://go.gov.sg/ypshelpdesk)
+* [YPS in the News](/others/yps-in-the-news)
