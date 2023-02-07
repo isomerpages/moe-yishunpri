@@ -4,8 +4,7 @@ title: Yishun Primary School
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: "Notice: We are currently upgrading our school website to serve
-  you better and we apologise for the inconvenience caused."
+notification: "Notice: We are currently upgrading our school website to serve you better."
 sections:
   - hero:
       background: /images/homepage.gif
