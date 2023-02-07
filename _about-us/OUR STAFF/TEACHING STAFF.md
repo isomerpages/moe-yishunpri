@@ -4,10 +4,8 @@ permalink: /about-us/our-staff/teaching-staff/
 description: ""
 third_nav_title: OUR STAFF
 ---
-# TEACHING STAFF
-
-## Primary 1
-
+#### **Primary 1**
+ 
 | Class             |        Form Teachers       |
 |:-----------------:|:------------------:|
 | 1 Gratitude       |                                     Miss Cheng Xinyi, Bernice<br>[cheng\_xinyi\_bernice@schools.gov.sg](mailto:cheng_xinyi_bernice@schools.gov.sg)<br><br>Mdm Siti Nafizah<br>[siti\_nafizah\_abu\_bakar@schools.gov.sg](mailto:siti_nafizah_abu_bakar@schools.gov.sg)                                    |
@@ -17,7 +15,7 @@ third_nav_title: OUR STAFF
 |  1 Responsibility | Mdm Fong Pui Shan - Mrs Liza Ng<br>[fong\_pui\_shan@schools.gov.sg](mailto:fong_pui_shan@schools.gov.sg)<br><br>Miss Phang Bi Yun<br>[phang\_bi\_yun@schools.gov.sg](mailto:phang_bi_yun@schools.gov.sg)<br><br>Miss Praveena D/O Raja Manickam<br>[praveena\_raja\_manickam@schools.gov.sg](mailto:praveena_raja_manickam@schools.gov.sg) |
 |     1 Integrity   |                                                    Mdm Anita Kaur<br>[anita\_kaur@schools.gov.sg](mailto:anita_kaur@schools.gov.sg)<br><br>Miss Sim Sze Hua<br>[sim\_sze\_hua@schools.gov.sg](mailto:sim_sze_hua@schools.gov.sg)                                                     |
 
-## Primary 2
+#### **Primary 2**
 
 | Class            |     Form Teachers        |
 |:--------------:|:-------:|
@@ -31,7 +29,7 @@ third_nav_title: OUR STAFF
 
 
 
-## Primary 3
+#### **Primary 3**
 
 
 | Class             |      Form Teachers      |
@@ -43,7 +41,7 @@ third_nav_title: OUR STAFF
 |  3 Responsibility |  Mr Steven Aw Kian Chang<br>[steven\_aw\_kian\_chang@schools.gov.sg](mailto:steven_aw_kian_chang@schools.gov.sg)<br><br>Mr Thandavamurthy Vasanthavelan<br>[thandavamurthy\_vasanthavelan@schools.gov.sg](mailto:thandavamurthy_vasanthavelan@schools.gov.sg)<br><br>Mdm Wang Yunwen, Valerie<br>[wang\_yunwen\_valerie@schools.gov.sg](mailto:wang_yunwen_valerie@schools.gov.sg) |
 
 
-## Primary 4
+#### **Primary 4**
 
 | Class            |      Form Teachers    |
 |:------------:|:------:|
@@ -54,7 +52,7 @@ third_nav_title: OUR STAFF
 | 4 Responsibility |                                Mr Chou Ching Shan<br>[chou\_ching\_shan@schools.gov.sg](mailto:chou_ching_shan@schools.gov.sg)<br><br>Miss Fam Xinru Winnie<br>[fam\_xinru\_winnie@schools.gov.sg](mailto:fam_xinru_winnie@schools.gov.sg)     |
 
 
-## Primary 5
+#### **Primary 5**
 
 | Class             |       Form Teachers               |
 |:----------------:|:-------------------:|
@@ -65,7 +63,7 @@ third_nav_title: OUR STAFF
 |  5 Responsibility |                                            Mr Lee Oon Kee<br>[lee\_oon\_kee@schools.gov.sg](mailto:lee_oon_kee@schools.gov.sg)<br><br>Ms Nirmala Arumugam<br>[nirmala\_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg)                                            |
 | 5 Integrity       |                                         Mr Anthony Tay Poh Hua<br>[anthony\_tay\_poh\_hua@schools.gov.sg](mailto:anthony_tay_poh_hua@schools.gov.sg)<br><br>Mdm Sivakami<br>[sivakami\_ratha@schools.gov.sg](mailto:sivakami_ratha@schools.gov.sg)                                       |
 
-## Primary 6
+#### **Primary 6**
 
 | Class             |        Form Teachers       |
 |:-----------------:|:---------------------:|
@@ -77,7 +75,7 @@ third_nav_title: OUR STAFF
 | 6 Integrity       |                                            Miss Lee Seow Yen Sandra<br>[lee\_seow\_yen\_sandra@schools.gov.sg](mailto:lee_seow_yen_sandra@schools.gov.sg)<br><br>Mr Tee Han Yun, Joel<br>[tee\_han\_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg)                                        |
 
 
-## Non-Form Teachers
+#### **Non-Form Teachers**
 
 
 |                                 |                                |
