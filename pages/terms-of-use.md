@@ -13,7 +13,7 @@ permalink: /terms-of-use/
 4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Yishun Primary School.
 
 #### Privacy Policy
-5. Click here to reveiw this Web Site Privacy Statement
+5. Click [here](/privacy/) to reveiw this Web Site Privacy Statement
 
 #### Restrictions on Use of Materials
 6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Yishun Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
