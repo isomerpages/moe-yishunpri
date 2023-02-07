@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - For Staff.md
-      - For Students.md
       - For Parents & Students.md
+      - For Staff.md
       - Gallery.md
+      - For Students.md
