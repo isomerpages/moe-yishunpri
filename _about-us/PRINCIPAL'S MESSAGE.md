@@ -3,8 +3,6 @@ title: PRINCIPAL'S MESSAGE
 permalink: /about-us/principals-message/
 description: ""
 ---
-# PRINCIPAL'S MESSAGE
-
 Dear Pupils, Parents and Partners,  
 
 Welcome to Yishun Primary School (YPS)!
