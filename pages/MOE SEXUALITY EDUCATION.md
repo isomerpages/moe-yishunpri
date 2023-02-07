@@ -3,7 +3,7 @@ title: MOE SEXUALITY EDUCATION
 permalink: /moe-sexuality-education/
 description: ""
 ---
-#### What is MOE Sexuality Education?
+#### **What is MOE Sexuality Education?**
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 The **Goals** of Sexuality Education are:
@@ -19,7 +19,7 @@ The Key Messages of Sexuality Education are:
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-#### Overview Of Yishun Primary School's Sexuality Education Programme For 2023
+#### **Overview Of Yishun Primary School's Sexuality Education Programme For 2023**
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 The subjects that incorporate topics sexuality include:
@@ -34,7 +34,7 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 
 At Yishun Primary School, the following lessons from Growing Years Programme will be taught in 2023:
 
-##### Primary 5
+##### **Primary 5**
 |CCE(FTGP) Theme|Lesson Title / Duration|Lesson Overview|Time Period|
 | -------- | -------- | -------- | -------- |
 
@@ -48,7 +48,7 @@ This is a test sentence.
 | |Keeping Myself Safe (60 min)|In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4, Week 10|
 | | | | |
 
-##### Primary 6
+##### **Primary 6**
 | CCE(FTGP) Theme | Lesson Title / Duration | Lesson Overview | Time Period |
 | -------- | -------- | -------- | -------- |
 | Growing Years | Are We More Than Friends?<br>Lesson 1<br>(60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. | Term 2<br>Week 10 |
@@ -59,7 +59,7 @@ This is a test sentence.
 **Please Note**
 <br>* **For <u>2023</u>, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.**
 
-##### Information For Parents
+##### **Information For Parents**
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Others/Annex%20A.pdf). The completed opt-out form is to be submitted by 31/01/2023.
