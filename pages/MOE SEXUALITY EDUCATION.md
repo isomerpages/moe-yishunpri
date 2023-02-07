@@ -35,7 +35,7 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
 At Yishun Primary School, the following lessons from Growing Years Programme will be taught in 2023:
 
 ##### Primary 5
-|CCE(FTGP) Theme|Lesson Title and Duration|Lesson Overview|Time Period|
+|CCE(FTGP) Theme|Lesson Title / Duration|Lesson Overview|Time Period|
 | -------- | -------- | -------- | -------- |
 
 This is a test sentence.
