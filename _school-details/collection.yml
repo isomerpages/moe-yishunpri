@@ -2,7 +2,7 @@ collections:
   school-details:
     output: true
     order:
-      - CALENDAR.md
+      - SCHOOL CALENDAR.md
       - EXAM SCHEDULE.md
       - RULES AND REGULATIONS.md
       - SCHOOL ATTIRE.md
