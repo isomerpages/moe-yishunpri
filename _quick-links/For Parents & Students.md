@@ -13,6 +13,6 @@ description: ""
 * [YPS in the News](/others/yps-in-the-news)
 
 ### Useful Links for Students
+* [My Skills Future Portal](https://www.myskillsfuture.gov.sg/)
 * [Student iCON](https://workspace.google.com/dashboard)
 * [Student Learning Space (SLS)](https://learning.moe.edu.sg/)
-* [My Skills Future Portal](https://www.myskillsfuture.gov.sg/)
