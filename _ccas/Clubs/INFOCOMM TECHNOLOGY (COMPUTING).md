@@ -54,23 +54,19 @@ N6 Cluster Media & Design Festival 2016
 ![](/images/CCAs/Infocomm%20Technology/ICT_04_2017.png)
 
 **10th National RoboPreneur Carnival 2016**
-
-*   **Best Robotics Technical Presentation** (Primary Category): 2nd Runner-up
-*   **Best Programmable Drone Performance** (Open Category): 1st Runner-up
+* **Best Robotics Technical Presentation** (Primary Category): 2nd Runner-up
+* **Best Programmable Drone Performance** (Open Category): 1st Runner-up
 
 # image >5mb
-
-<center>Winning Teams for RoboPreneur 2016</center>
-
+Winning Teams for RoboPreneur 2016
 
 **Qihua's Innovation & Entrepreneurship Competition 2015**
-
-*    **I&E Challenge 2015**: 1st Runner-up
-*    **Best Participating Group**: 1st Runner-up
+* **I&E Challenge 2015**: 1st Runner-up
+* **Best Participating Group**: 1st Runner-up
 
 **N6 Cluster Media & Design Festival 2015**
 
-|   |   |
+| | |
 |:-:|:-:|
-|  ![](/images/CCAs/Infocomm%20Technology/20151111_162134.jpg)  **Overall Champions** 	 |  ![](/images/CCAs/Infocomm%20Technology/20151111_160830.jpg)  **Robotics Category: Champions**  |
-|  ![](/images/CCAs/Infocomm%20Technology/20151111_161256.jpg)  **Videography Category: 1st Runner-Up** 	 |  ![](/images/CCAs/Infocomm%20Technology/20151111_161746.jpg) **3D Animation Category: 1st Runner-Up**  |
+|![](/images/CCAs/Infocomm%20Technology/20151111_162134.jpg)  **Overall Champions**|![](/images/CCAs/Infocomm%20Technology/20151111_160830.jpg)  **Robotics Category: Champions**|
+|![](/images/CCAs/Infocomm%20Technology/20151111_161256.jpg)  **Videography Category: 1st Runner-Up**|![](/images/CCAs/Infocomm%20Technology/20151111_161746.jpg) **3D Animation Category: 1st Runner-Up**|
