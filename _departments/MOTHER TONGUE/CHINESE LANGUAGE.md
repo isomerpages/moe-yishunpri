@@ -71,28 +71,26 @@ In the SHINE programme, our MTL teachers conduct inter-class activities to ident
 
 In the SHARE programme, we encourage our pupils to write. We share our good stories written by our pupils by publishing our very own Chinese Essay Book named “绽放” and Chinese Newsletter.
 
-| |   |
+| | |
 |:-:|:-:|
-| ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)   Solar Rewarding System  |   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)  Morning E-book Reading Session |
-|   ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)  Guided Reading Session  |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Level_Activity.jpeg)   Level Activity – Poem Recital Competition   |
-| ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Singing_Competition%202.jpeg)   Level Activity – P6 Singing competition |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Essay_Books.jpeg) Chinese Essay Publication   |
+|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_1.png)*Solar Rewarding Syste*m|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_2.jpg)*Morning E-book Reading Session*|
+|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Reading_3.jpeg)*Guided Reading Session*|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Level_Activity.jpeg)*Level Activity – Poem Recital Competition*|
+|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Singing_Competition%202.jpeg)*Level Activity – P6 Singing competition*|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Essay_Books.jpeg)*Chinese Essay Publication*|
 
-### **Cultural Performance Exposure Programme**  
+##### **Cultural Performance Exposure Programme**  
+Chinese Language Unit has been participating in the Cultural Performance Exposure Scheme (CPES),    (文化随意门) - an initiative by the Committee to Promote Chinese Language Learning (CPCLL). It aims to expose our pupils to Chinese language-related cultural performances by local and foreign performing arts groups, through providing schools with the necessary funding and support. The scheme hopes to allow pupils to enjoy Chinese culture in a relaxed manner.
 
-<p style="text-align: justify;">Chinese Language Unit has been participating in the Cultural Performance Exposure Scheme (CPES),    (文化随意门) - an initiative by the Committee to Promote Chinese Language Learning (CPCLL). It aims to expose our pupils to Chinese language-related cultural performances by local and foreign performing arts groups, through providing schools with the necessary funding and support. The scheme hopes to allow pupils to enjoy Chinese culture in a relaxed manner.</p>
-
-|   |   |
+| | |
 |:-:|:-:|
-|  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_CPES_1.jpeg) |  ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_CPES_2.jpeg)   |
+|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_CPES_1.jpeg)|![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_CPES_2.jpeg)|
 
-<center>Primary 5 pupils watching a Chinese Cross Talk at Singapore Chinese Cultural Centre.</center>
+*Primary 5 pupils watching a Chinese Cross Talk at Singapore Chinese Cultural Centre.*
 
 
-### **Water Learning Programme at Seletar Reservoir**  
+##### **Water Learning Programme at Seletar Reservoir**  
+CL unit has been collaboration with cluster schools on this Water Learning Programme to provide our pupils an opportunity to understand the importance of water to Singapore and our reservoirs.
 
-<p style="text-align: justify;">CL unit has been collaboration with cluster schools on this Water Learning Programme to provide our pupils an opportunity to understand the importance of water to Singapore and our reservoirs.    </p>
-
-<p style="text-align: justify;">The objective of this programme is to boost the confidence level of our pupils in speaking Chinese Language through authentic learning experience at the various learning stations set up by the secondary schools who organised this event.</p>
+The objective of this programme is to boost the confidence level of our pupils in speaking Chinese Language through authentic learning experience at the various learning stations set up by the secondary schools who organised this event.
 
 ![](/images/Departments/MOTHER%20TONGUE/CHINESE%20LANGUAGE/CL_Seletar_1.jpeg)
 
