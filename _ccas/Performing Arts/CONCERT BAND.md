@@ -18,21 +18,22 @@ Yishun Primary Concert Band provides opportunities for our students to develop a
 * Miss Bernice Cheng (cheng_xinyi_bernice@schools.gov.sg)
 * Band Instructor
 
-
 ##### Venue:
-* Indoor Sports Hall Level 4 (Band Room)   
+* Indoor Sports Hall Level 4 (Band Room)
 * Classrooms C4-01, C4-04, D4-02 and D4-03
 
 ##### Time and Days:
 * Wednesdays, 2.00pm - 5.30pm
 * Fridays, 2.00pm - 5.00pm
 
-### Achievements
-*   **SYF 2018 Arts Presentation** - Certificate of Distinction 
-*   **SYF 2016 Arts Presentation** - Certificate of Distinction 
-*   **Singapore International Band Festival 2016** - Silver  
-*   **SYF Arts Presentation 2014** – Certificate of Accomplishment   
+##### Achievements
+*   **SYF 2018 Arts Presentation** - Certificate of Distinction
+*   **SYF 2016 Arts Presentation** - Certificate of Distinction
+*   **Singapore International Band Festival 2016** - Silver
+*   **SYF Arts Presentation 2014** – Certificate of Accomplishment
 *   **SYF Central Judging 2012** – Gold with Honours
+
+##### Photo Gallery
 
 ##### 2019 Activities:
 7 YPS band pupils were selected to take part in the annual WBAS Youth Band Festival. This festival gathered young musicians for four days of rehearsal, workshops and team building activities to spur each other on the pursuit of excellence. It was a celebration of Musical Excellence and Friendship.
@@ -64,4 +65,3 @@ Yishun Primary Concert Band participated in the Singapore Youth Festival Arts Pr
 
 ![](/images/CCAs/Concert%20Band/2017Band_4.jpg)
 *Band Exchange Programme with Nan-Yang Elementary School Wing Band (Taiwan)*
-
