@@ -3,7 +3,9 @@ title: SCHOOL BOOKSHOP
 permalink: /school-details/school-bookshop/
 description: ""
 ---
-# SCHOOL BOOKSHOP
+**Popular Book Company Pte Ltd**
+Contact Person: Ms Kelly Chua
+Contact No.:
 
 |          Book Store          |    Contact    |        Contact No.       |                            Business Hour                           |
 |:----------------:|:-------------:|:--------:|:---------:|
