@@ -3,7 +3,6 @@ title: OUR SCHOOL HISTORY
 permalink: /about-us/our-school-history/
 description: ""
 ---
-
 <img src="/images/About%20us/Logo.gif" style="width:30%; float: left">
 
 <p style="text-align: justify;">The former Yishun Primary School, situated at Yishun Ring Road, was the first primary school to be built in Yishun New Town in 1982. The school is currently under the stewardship of Mr Marvin Chan, who was appointed as Principal in December 2019. </p>
@@ -20,4 +19,4 @@ description: ""
 
 <p style="text-align: justify;">Yishun Primary School has been a school of choice amongst families in the neighbourhood. Places during the Primary One Registration Exercises, allocated by the ministry, were fully taken up every year. The school will continue to work with the parents, PSG and other stakeholders to excite, engage and inspire our pupils for the future.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xgLMrqhmrGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xgLMrqhmrGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
