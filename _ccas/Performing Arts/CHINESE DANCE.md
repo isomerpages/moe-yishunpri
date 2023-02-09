@@ -7,6 +7,28 @@ third_nav_title: Performing Arts
 ##### Synopsis:
 Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The pupils will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
 
+##### Teachers-in-Charge:
+* Mdm Lee Kim Kim (I/C) (lee_kim_kim@schools.gov.sg)
+* Ms Han Ying (2 I/C) (han_ying_a@ schools.gov.sg)
+* Mdm Zhu Shengjie (zhu_shengjie@ schools.gov.sg)
+* Ms Guan Qinqin (guan_qin_qin@schools.gov.sg)
+* External Instructor
+
+##### Venue:
+* School Hall
+* PAL Rooms
+* Indoor Sports Hall Level 4 (Flexi Room 3)
+
+##### Time and Days:
+* Tuesday, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
+
+##### Achievements:
+* **2018 SYF Arts Presentation** - Certificate of Accomplishment
+* **2016 SYF Arts Presentation** - Certificate of Accomplishment
+* **2014 SYF Arts Presentation** - Certificate of Distinction
+
+##### Photo Gallery
 ![](/images/CCAs/Chinese%20Dance/2017ChineseDance_1.jpg)
 *2016 SYF Arts Presentation - Certificate of Accomplishment*
 
@@ -24,24 +46,3 @@ Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst b
 
 ![](/images/CCAs/Chinese%20Dance/chinese%20dance%20t1%202020.jpg)
 *Performance at Chong Pang National Day Dinner on 24 August 2019*
-
-##### Teachers-in-Charge:
-* Mdm Lee Kim Kim (I/C) (lee_kim_kim@schools.gov.sg)   
-* Ms Han Ying (2 I/C) (han_ying_a@ schools.gov.sg)   
-* Mdm Zhu Shengjie (zhu_shengjie@ schools.gov.sg)   
-* Ms Guan Qinqin (guan_qin_qin@schools.gov.sg)   
-* External Instructor
-
-##### Venue:
-* School Hall   
-* PAL Rooms
-* Indoor Sports Hall Level 4 (Flexi Room 3)
-
-##### Time and Days:
-* Tuesday, 2.00pm - 4.00pm   
-* Fridays, 2.00pm - 4.00pm
-
-##### Achievements:
-* 2018 SYF Arts Presentation - Certificate of Accomplishment   
-* 2016 SYF Arts Presentation - Certificate of Accomplishment   
-* 2014 SYF Arts Presentation - Certificate of Distinction
