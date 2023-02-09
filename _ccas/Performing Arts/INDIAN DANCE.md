@@ -22,8 +22,8 @@ Our dancers perform the choreographed dance items for both internal and external
 * Multi-Purpose Room (Level 3)
 
 ##### Time and Days:
-* 2.00pm - 4.00pm, Tuesdays
-* 2.00pm - 4.00pm, Fridays
+* Tuesday, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### Achievements:
 * Certificate of Distinction for 2018 SYF performance   
