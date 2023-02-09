@@ -3,8 +3,6 @@ title: SCHOOL HEALTHY SET MEALS
 permalink: /school-details/school-healthy-set-meals/
 description: ""
 ---
-# SCHOOL HEALTHY SET MEALS
-
 ![](/images/School%20Details/SCH_HSM_1.png)
 
 Yishun Primary School strongly believes that habits can be cultivated and better shaped in Primary Schools.  
