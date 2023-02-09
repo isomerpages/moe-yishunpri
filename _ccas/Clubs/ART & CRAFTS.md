@@ -12,12 +12,12 @@ To deepen their appreciation for Visual Arts, pupils are exposed to local and in
 Through meaningful art-making processes, pupils develop their character and grow in our school values such as care, gratitude, responsibility and resilience.
 
 ##### Teachers-in-Charge:  
-Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)   
-Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)   
-Miss Cher Xin Joo (cher_xin_joo@schools.gov.sg)    
-Mdm Debbie Cheong (cheong_hui_ting_debbie@schools.gov.sg)   
-Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)   
-Miss Roopini (roopini_jaya_balan@schools.gov.sg)     
+* Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
+* Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)
+* Miss Cher Xin Joo (cher_xin_joo@schools.gov.sg)
+* Mdm Debbie Cheong (cheong_hui_ting_debbie@schools.gov.sg)
+* Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)
+* Miss Roopini (roopini_jaya_balan@schools.gov.sg)
 
 ##### Venue:  
 * Art Rooms 1 & 2    
