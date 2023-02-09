@@ -3,7 +3,7 @@ title: EXAM SCHEDULE
 permalink: /school-details/exam-schedule/
 description: ""
 ---
-**2022 PSLE Examination Time-table**
+##### **2022 PSLE Examination Time-table**
 
 **A. Oral Examination**
 
