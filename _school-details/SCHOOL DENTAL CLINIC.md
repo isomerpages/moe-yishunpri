@@ -3,20 +3,16 @@ title: SCHOOL DENTAL CLINIC
 permalink: /school-details/school-dental-clinic/
 description: ""
 ---
-# SCHOOL DENTAL CLINIC
-
 ### Yishun Primary Dental Clinic
-
 **Open on Alternate Weekly Basis**
 
-**Operating Hours:**   
-**Mon to Thu:** **8.00am - 5.30pm**  
-**Fri:**                 **8.00am - 5.00pm**
-
-**Lunch Time: (Closed) 12.30pm - 1.30pm**  
+**Operating Hours:**
+<br>Monday to Thursday: 8.00am - 5.30pm
+<br>Friday: 8.00am - 5.00pm
+<br>Lunch Time: (Closed) 12.30pm - 1.30pm
  
-**Tel: 8764 5397**   
-**Ms Ada Goh, Dental Therapist**  
+Contact Person: Ms Ada Goh, Dental Therapist
+<br>Contact Number: 8764 5397
 
 In the event that the dental clinic is closed, pupils who require urgent dental treatment can call any of the buddy clinics (see table) for an appointment.
 
