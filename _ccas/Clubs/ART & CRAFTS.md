@@ -33,7 +33,9 @@ Through meaningful art-making processes, pupils develop their character and grow
 * **Singapore Youth Festival 2019** (Certificate of Recognition)
 * **Singapore Youth Festival 2017** (Certificate of Recognition)
 
-#### SYF 2021 - Artist and Technology
+##### Photo Gallery
+
+##### SYF 2021 - Artist and Technology
 Based on the exhibition theme, **"Artist and Technology"** our student artists created artistic artworks which expressed how technology would impact the various aspects of their lives.
 
 ![](/images/CCAs/Art%20&%20Crafts/ArtClub_2021_1.jpg)
