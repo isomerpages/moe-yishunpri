@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - VISION AND MISSION.md
-      - SCHOOL BACKGROUND.md
       - PRINCIPAL'S MESSAGE.md
+      - SCHOOL BACKGROUND.md
       - OUR STAFF/.keep
       - OUR STAFF/EXECUTIVE COMMITTEE.md
       - OUR STAFF/TEACHING STAFF.md
       - OUR SCHOOL SONG.md
+      - VISION AND MISSION.md
