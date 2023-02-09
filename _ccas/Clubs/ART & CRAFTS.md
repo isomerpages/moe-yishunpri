@@ -4,14 +4,14 @@ permalink: /ccas/clubs/art-n-crafts/
 description: ""
 third_nav_title: Clubs
 ---
-##### Synopsis:
+##### **Synopsis**
 The Art & Crafts CCA serves as a platform for our pupils who have a passion for Visual Arts to showcase their artistic talents. Pupils are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes. 
 
 To deepen their appreciation for Visual Arts, pupils are exposed to local and international artists’ artworks through learning journeys. To instill a sense of global awareness and gratitude, our pupils also embark on various meaningful projects which connect to the current society.
 
 Through meaningful art-making processes, pupils develop their character and grow in our school values such as care, gratitude, responsibility and resilience.
 
-##### Teachers-in-Charge:  
+##### **Teachers-in-Charge**
 * Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
 * Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)
 * Miss Cher Xin Joo (cher_xin_joo@schools.gov.sg)
@@ -19,21 +19,21 @@ Through meaningful art-making processes, pupils develop their character and grow
 * Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)
 * Miss Roopini (roopini_jaya_balan@schools.gov.sg)
 
-##### Venue:  
+##### **Venue**
 * Art Rooms 1 & 2    
 * Classrooms C1-01, H2-06, H2-07
 
-##### Time and Day:
+##### **Day and Time**
 * Tuesday, 2.00pm - 4.00pm
 
-##### Achievements:
+##### **Achievements**
 * **Singapore Youth Festival Exhibition 2021**
 <br>Category A - "Dream Space City" (Certificate of Recognition)
 <br>Category B - "Passport to Imagination" (Certificate of Recognition)
 * **Singapore Youth Festival 2019** (Certificate of Recognition)
 * **Singapore Youth Festival 2017** (Certificate of Recognition)
 
-##### Photo Gallery
+##### **Photo Gallery**
 
 ##### SYF 2021 - Artist and Technology
 Based on the exhibition theme, **"Artist and Technology"** our student artists created artistic artworks which expressed how technology would impact the various aspects of their lives.
