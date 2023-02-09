@@ -14,12 +14,12 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 
 
 ##### Teachers-in-Charge:
-* Mr. Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)    
-* Ms. Roslyn Foong Pei Li (2 I/C) (roslyn_foong_pei_li@schools.gov.sg)      
-* Mr. Bronson Tan (tan_guan_sheng@schools.gov.sg)   
-* Miss Noor Faranah (noor_faranah_mohamed@schools.gov.sg)   
-* Mdm Nur Hamizah (Nur_Hamizah_Rosidin@schools.gov.sg)   
-* Mdm Carine Ang (ang_chai_lan@schools.gov.sg)   
+* Mr. Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)
+* Ms. Roslyn Foong Pei Li (2 I/C) (roslyn_foong_pei_li@schools.gov.sg)
+* Mr. Bronson Tan (tan_guan_sheng@schools.gov.sg)
+* Miss Noor Faranah (noor_faranah_mohamed@schools.gov.sg)
+* Mdm Nur Hamizah (Nur_Hamizah_Rosidin@schools.gov.sg)
+* Mdm Carine Ang (ang_chai_lan@schools.gov.sg)
 * External Instructor
 
 ##### Venues:
@@ -50,6 +50,7 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 		*  **Videography Category:** 1st Runner-Up
 		*  **3D Animation Category:** 1st Runner-Up
 
+##### Photo Gallery
 ![](/images/CCAs/Infocomm%20Technology/CCA_ICT%20Club_2020_2.jpg)
 *At the N6 Cluster Media and Design Festival 2019, the team received a Special Mention award for a category.*
 
