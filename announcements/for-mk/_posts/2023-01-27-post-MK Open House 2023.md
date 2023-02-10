@@ -15,4 +15,4 @@ Date : Saturday, 18th February 2023
 <br>*More information on the Open House programme will be updated at a later date.*
 
 Click [here](/files/MK%20YPS/2023/2023%20MK%20OH%20Flyer.pdf) to download the MOE Kindergarten's Open House Flyer.
-<br>For enquires or questions please email us at mk_yishun@moe.edu.sg.
+<br>For enquires or questions please email us at **mk_yishun@moe.edu.sg**.
