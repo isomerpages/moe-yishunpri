@@ -14,12 +14,12 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 
 
 ##### Teachers-in-Charge:
-* Mr. Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)
-* Ms. Roslyn Foong Pei Li (2 I/C) (roslyn_foong_pei_li@schools.gov.sg)
-* Mr. Bronson Tan (tan_guan_sheng@schools.gov.sg)
-* Miss Noor Faranah (noor_faranah_mohamed@schools.gov.sg)
+* Mr Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)
+* Miss Noor Faranah (2 I/C) (noor_faranah_mohamed@schools.gov.sg)
+* Mr Bronson Tan (tan_guan_sheng@schools.gov.sg)
 * Mdm Nur Hamizah (Nur_Hamizah_Rosidin@schools.gov.sg)
-* Mdm Carine Ang (ang_chai_lan@schools.gov.sg)
+* Mr Anthony Tay Poh Hua (anthony_tay_poh_hua@schools.gov.sg)
+* Ms Roslyn Foong Pei Li (roslyn_foong_pei_li@schools.gov.sg)
 * External Instructor
 
 ##### Venues:
@@ -27,7 +27,8 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 * Classroom F4-01
 
 ##### Time and Day:
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm (Primary 3)
+* Fridays, 1.40pm - 3.40pm (Primary 4 to 6)
 
 ##### Achievements:
 * **N6 Cluster Media & Design Festival 2017**
