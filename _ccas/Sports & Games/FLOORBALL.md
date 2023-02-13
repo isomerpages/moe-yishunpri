@@ -10,7 +10,6 @@ Floorball is a fun and fast-paced sport played indoors with floorball sticks 
 ##### Teachers-in-Charge:
 * Miss Siti Amalina (I/C) (siti_amalina_mohamed_sai@schools.gov.sg)
 * Mrs Liza Ng (fong_pui_shan@schools.gov.sg)
-* Mdm Fauziah (fauziah_alang_mohammad_rom@schools.gov.sg)
 * External Coach
 
 ##### Venue:
