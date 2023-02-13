@@ -15,15 +15,14 @@ With such exposure, we hope to develop our scouts into motivated, independent an
 
 ##### Teachers-in-Charge:
 * Mr Masri Bin Kario (I/C) (masri_kario@schools.gov.sg)
-* Mrs Ahrunhachelam Shanthi (ahrunhachelam_shanthi@schools.gov.sg)
-* Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
+* Mrs Ahrunhachelam Shanthi (2 I/C) (ahrunhachelam_shanthi@schools.gov.sg)
 * Miss Kusumawati (kusumawati_ahmad_dafir@schools.gov.sg)
 
 ##### Venue:
 * Indoor Sports Hall Level 4 (Flexi Room 2 & 3)
 
 ##### Time and Day:
-* Tuesdays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
 
 ##### Achievements:
 * Frank Cooper Sands Gold Award since 2002 consecutively
