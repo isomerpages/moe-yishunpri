@@ -4,7 +4,6 @@ permalink: /ccas/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
 ##### Synopsis:
 Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The pupils will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
 
@@ -17,12 +16,11 @@ Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst b
 
 ##### Venue:
 * School Hall
-* PAL Rooms
 * Indoor Sports Hall Level 4 (Flexi Room 3)
 
 ##### Time and Days:
-* Tuesday, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesday, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### Achievements:
 * **2018 SYF Arts Presentation** - Certificate of Accomplishment
