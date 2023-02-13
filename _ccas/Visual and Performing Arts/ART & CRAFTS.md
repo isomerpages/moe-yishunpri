@@ -4,7 +4,6 @@ permalink: /ccas/clubs/art-n-crafts/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
 ##### **Synopsis**
 The Art & Crafts CCA serves as a platform for our pupils who have a passion for Visual Arts to showcase their artistic talents. Pupils are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes. 
 
@@ -14,7 +13,6 @@ Through meaningful art-making processes, pupils develop their character and grow
 
 ##### **Teachers-in-Charge**
 * Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
-* Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)
 * Miss Cher Xin Joo (cher_xin_joo@schools.gov.sg)
 * Mdm Debbie Cheong (cheong_hui_ting_debbie@schools.gov.sg)
 * Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)
@@ -22,10 +20,10 @@ Through meaningful art-making processes, pupils develop their character and grow
 
 ##### **Venue**
 * Art Rooms 1 & 2    
-* Classrooms C1-01, H2-06, H2-07
+* Classrooms H2-06, H2-07
 
 ##### **Day and Time**
-* Tuesday, 2.00pm - 4.00pm
+* Tuesday, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **Singapore Youth Festival Exhibition 2021**
