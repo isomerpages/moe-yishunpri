@@ -10,8 +10,10 @@ Yishun Primary School’s Football CCA aims to develop the right values such as 
 ##### Teachers-in-Charge:
 
 * Mr Sheikh Omar (I/C) (sheikh_omar_mohamad@schools.gov.sg)
-* Mr Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * Mr Leong Weng Hong (leong_weng_hong@schools.gov.sg)
+* Mr Bahar Ali Bin Sakor (bahar_ali_sakor@schools.gov.sg)
+* Mdm Isnarti Bte Ahmad Sani (isnarti_ahmad_sani@schools.gov.sg)
+* Mr Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * External Coach 1
 * External Coach 2
 
@@ -19,8 +21,8 @@ Yishun Primary School’s Football CCA aims to develop the right values such as 
 * School Field
 
 ##### Time and Days:
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 <br>Note: School players will train on both Tuesdays and Fridays
 
 ##### Photo Gallery
