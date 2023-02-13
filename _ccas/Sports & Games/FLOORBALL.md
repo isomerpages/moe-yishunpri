@@ -16,8 +16,8 @@ Floorball is a fun and fast-paced sport played indoors with floorball sticks 
 * Indoor Sports Hall (ISH Level 6)
 
 ##### Time and Days:
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### Photo Gallery
 
