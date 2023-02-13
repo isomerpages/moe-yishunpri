@@ -22,7 +22,7 @@ description: ""
 <iframe
   id="iframe"
   src="https://form.gov.sg/5efd62ba6c04960012cf139c"
-  style="width: 110%; height: 720px"
+  style="width: 105%; height: 720px"
 ></iframe>
 
 <div
