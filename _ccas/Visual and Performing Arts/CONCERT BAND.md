@@ -4,19 +4,18 @@ permalink: /ccas/performing-arts/concert-band/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
 ##### Synopsis:
 Yishun Primary Concert Band provides opportunities for our students to develop an appreciation of music. We also aim to enrich their lives through music. The band provides a supportive environment for our members to participate in a variety of local and international musical activities and competitions. Over the years, the band has been invited to perform at events such as the MOE Work Plan Seminar and National Day Observance Ceremony organised by MOE. To develop build global awareness and cross-cultural skills in our band members, there are also opportunities for them to participate in immersion programmes at countries such as Hong Kong and Thailand.
 
 ##### Teachers-in-Charge:
-
-* Miss Yong Hui Wen (I/C) (yong_hui_wen@schools.gov.sg)
-* Mr Lee Oon Kee (2 I/C) (lee_oon_kee@schools.gov.sg)
-* Miss Lee Linghui Alcina (lee_linghui_alcina@schools.gov.sg)
-* Ms Sim Sze Hua  (sim_sze_hua@schools.gov.sg)
+* Mr Lee Oon Kee (I/C) (lee_oon_kee@schools.gov.sg)
+* Ms Sim Sze Hua  (2 I/C) (sim_sze_hua@schools.gov.sg)
 * Mr Teng Ji Song Lawrence (Teng\_Ji\_Song\_Lawrence@schools.gov.sg)
-* Ms Valerie Wang (wang_yunwen_valerie@schools.gov.sg)
+* Miss Gan Ke Ting (gan_ke_ting@schools.gov.sg)
+* Ms Wong Pei Fen (wong_pei_fen@schools.gov.sg)
 * Miss Bernice Cheng (cheng_xinyi_bernice@schools.gov.sg)
+* Miss Lee Linghui Alcina (lee_linghui_alcina@schools.gov.sg)
+* Miss Yong Hui Wen (yong_hui_wen@schools.gov.sg)
 * Band Instructor
 
 ##### Venue:
@@ -25,7 +24,7 @@ Yishun Primary Concert Band provides opportunities for our students to develop a
 
 ##### Time and Days:
 * Wednesdays, 2.00pm - 5.30pm
-* Fridays, 2.00pm - 5.00pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### Achievements
 *   **SYF 2018 Arts Presentation** - Certificate of Distinction
