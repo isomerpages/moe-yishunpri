@@ -3,7 +3,6 @@ title: YPS ICT Helpdesk
 permalink: /yps-ict-helpdesk/
 description: ""
 ---
-<center>
 <div
   style="
     font-family: Sans-Serif;
@@ -34,6 +33,5 @@ description: ""
     padding-top: 5px;
   "
 >
-  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
+  Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a>
 </div>
-</center>
