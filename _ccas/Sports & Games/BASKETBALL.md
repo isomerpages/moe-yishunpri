@@ -10,15 +10,18 @@ Yishun Primary Basketball CCA aims to equip our boys and girls with basketball s
 ##### Teachers-in-Charge:
 * Miss Fam Xinru Winnie (I/C) (fam_xinru_winnie@schools.gov.sg)
 * Ms Tan Lian Kiah (2 I/C) (tan_lian_kiah@schools.gov.sg)
-* Ms Nirmala (nirmala_arumugam@schools.gov.sg)
-* External Coach
+* Mdm Valerie Wang (wang_yunwen_valerie@schools.gov.sg)
+* Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
+* Mdm Fauziah Alang (fauziah_alang_mohammad_rom@schools.gov.sg)
+* External Coach 1
+* External Coach 2
 
 ##### Venue:
 * Indoor Sports Hall (ISH Level 1)
 
 ##### Time and Days:
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### Achievements:
 * **National School Games Basketball 2019 (Junior Division)**
