@@ -17,7 +17,7 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 * External Instructor
 
 ##### **Venues**
-* Computer Rooms 2 &amp; 3    
+* Computer Rooms 2 and 3    
 * Classroom F4-01
 
 ##### **Time and Day**
@@ -25,51 +25,20 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 * Fridays, 1.40pm - 3.40pm (Primary 4 to 6)
 
 ##### **Achievements**
-* **N6 Cluster Media &amp; Design Festival 2017**
-  * 1st&nbsp;Runner-up&nbsp;Award&nbsp;for Videography
-  * 2nd&nbsp;Runner-up Award for 3D Animation
-* **N6 Cluster Media &amp; Design Festival 2016**
-  * Commendation Award for Videography  
-  * 2nd&nbsp;Runner-up Award for 3D Animation  
-  * Championship in Robotics  
-  * 1st&nbsp;Runner-up Overall Champion 2016
-* **10th&nbsp;National RoboPreneur Carnival 2016**
-  * **Best Robotics Technical Presentation**&nbsp;(Primary Category):&nbsp;2nd&nbsp;Runner-up
-  * **Best Programmable Drone Performance**&nbsp;(Open Category):&nbsp;1st&nbsp;Runner-up
-* **Qihua's Innovation &amp; Entrepreneurship Competition 2015**
-  * **I&amp;E Challenge 2015**:&nbsp;1st&nbsp;Runner-up
-  * **Best Participating Group**:&nbsp;1st&nbsp;Runner-up
-* **N6 Cluster Media &amp; Design Festival 2015**
-		* Overall Champion
-		* **Robotics Category:** Champion
-		*  **Videography Category:** 1st Runner-Up
-		*  **3D Animation Category:** 1st Runner-Up
+* **Swift Explorers Singapore (SES) 2022**
+<br>Two teams consisting of 9members (Infocomm Technology CCA ) participated in the Swift Explorers Singapore (SES) 2022. They used resources from Apple and were supported by training from Tinkercademy, an Apple Professional Learning Partner. The trainer had designed the National Digital Explorer learning experience, which was aligned to the Ministry of Education’s EdTech Plan.
+<br>Hosted on SLS, the lesson package enables students to learn at their own pace. To further enrich their learning experience, students attended a virtual coding workshop to learn how to create their own virtual world.
+
+* **Pei Hwa Virtual Hackathon 2022**
+<br>Yishun Primary School was shortlisted for the Finals and the Team emerged and received the ‘Best in Presentation’ title  in Pei Hwa Virtual Hackathon, 2022!
+<br>Congratulations to Anggun Shaista Binte Ahmad (6 RE), Ethan Yeo Jun Wei (6 RE), Jayabalan Narain Ram (6 RT) and Lim Chun Kiat, Elliot (6 RE) for winning the ‘Best in Presentation’ Title, under the guidance of Mr Vasanthavelan and Ms Roslyn Foong.
+<br>The theme for this year is ‘Embrace Mental Fortitude: Strengthening Mental Wellness of Individuals in Schools’. Participants are to develop and showcase their Micro:bit innovations that could support schools in managing/tackling mental health issues. YPS Team decided to design a Mental Wellness Band, which aimed to help students to cope with stress during the pandemic. The Mental Wellness Band is programmed to provide timely reminders for students to take breaks from work, and encourage them to move around to maintain physical health through game play features on the band.
+
+* **Pei Hwa Virtual Hackathon 2021**
+<br>Yishun Primary School’s Team emerged as **Champions** in Pei Hwa Virtual Hackathon, 2021!
+<br>Congratulations to Raveendar Prasanna (6 RY), Kuah Yi Ru (6 RY), Arulalan Devanarayanan (6 RY) and Alice Lee Jia Ming (6 RE) for winning the Championships, under the guidance of Mr Vasanthavelan and Ms Roslyn Foong.
+<br>The theme for this year was "Covid-ence: Confidently Living Life Fighting COVID-19". Students have to develop and showcase their Micro:bit innovations that could support societies in managing / tackling a pandemic. YPS Team decided to design an automated mask dispenser because it is beneficial for the community during the pandemic. The competition was conducted online and via Zoom with participants and their Teachers-in-Charge from their respective schools.
 
 ##### **Photo Gallery**
 
 <iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD-OqC_l6TwQL-Wvhz694DVpIcNLDU6b9QKOMMQFx66NpOVdyH0nrMsevZCYhZPNXGEoQDiDAmjHIf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-
-# images &gt;5mb
-*Pupils engaged in hands-on explorations and exchange of ideas with the mBot robotics kit*
-
-![](/images/CCAs/Infocomm%20Technology/CCA_ICT%20Club_2020_2.jpg)
-*At the N6 Cluster Media and Design Festival 2019, the team received a Special Mention award for a category.*
-
-| | |
-|:-:|:-:|
-|![](/images/CCAs/Infocomm%20Technology/ICT_01_2017.png)|![](/images/CCAs/Infocomm%20Technology/ICT_02_2017.png)|
-
-*N6 Cluster Media &amp; Design Festival 2016*
-
-![](/images/CCAs/Infocomm%20Technology/ICT_04_2017.png)
-
-# image &gt;5mb
-*Winning Teams for RoboPreneur 2016*
-
-**N6 Cluster Media &amp; Design Festival 2015**
-
-| | |
-|:-:|:-:|
-|![](/images/CCAs/Infocomm%20Technology/20151111_162134.jpg)  *Overall Champions*|![](/images/CCAs/Infocomm%20Technology/20151111_160830.jpg)  *Robotics Category: Champions*|
-|![](/images/CCAs/Infocomm%20Technology/20151111_161256.jpg)  *Videography Category: 1st Runner-Up*|![](/images/CCAs/Infocomm%20Technology/20151111_161746.jpg) *3D Animation Category: 1st Runner-Up*|
