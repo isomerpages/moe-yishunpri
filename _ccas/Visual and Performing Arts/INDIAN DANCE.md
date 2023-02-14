@@ -4,13 +4,14 @@ permalink: /ccas/performing-arts/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-![](/images/CCAs/Indian%20Dance/2017IndianDance_1.jpg)
 ##### **Synopsis**
-The Indian Dance CCA in Yishun Primary school aims to develop an appreciation for Indian classical dance in our pupils.
+The Indian Dance CCA in Yishun Primary school aims to develop an appreciation for Indian classical dance in our students.     
 
-Our dancers undergo an intensive training session each week under the guidance of Mrs Balakrishan who is an established choreographer cum dancer. During these training sessions, pupils build their foundation in learning the basic steps of the Indian classical dance, <i>Bharathanatyam</i>.
 
-Our dancers perform the choreographed dance items for both internal and external events. They have performed in various external events such as, the International Biology Olympiad 2012, SINDA Excellence Award 2012, National Arts Council’s Award ceremony 2014, International Conference of the world Association of Lesson Studies (WALS) 2012 and National Day celebrations at Chong Pang CC.
+Through the practice sessions, students learn the basic steps of the Indian classical dance, *Bharathanatyam*, building a strong dance foundation in every student.
+
+
+Our dancers have performed in various external events such as, the International Biology Olympiad 2012, SINDA Excellence Award 2012, National Arts Council’s Award ceremony 2014, International Conference of the world Association of Lesson Studies (WALS) 2012, National Day celebrations at Chong Pang CC and Singapore Youth Festival. 
 
 ##### **Teachers-in-Charge**
 * Mdm Sathiya Kala (I/C) (sathiya_kala_ramasamy@schools.gov.sg)
@@ -30,5 +31,7 @@ Our dancers perform the choreographed dance items for both internal and external
 * Certificate of Accomplishment for 2016 SYF performance
 
 ##### **Photo Gallery**
+
+![](/images/CCAs/Indian%20Dance/2017IndianDance_1.jpg)
 
 ![](/images/CCAs/Indian%20Dance/indian_dance_1.png)
