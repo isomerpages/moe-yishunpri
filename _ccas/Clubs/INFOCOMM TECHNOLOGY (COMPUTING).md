@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs
 ---
 ##### **Synopsis**
-At Yishun Primary School ICT Club, we aim to engage our pupils in fun and interactive activities. Our pupils also the opportunity to learn basic coding, programming robots, developing games and computational skills to make them more future-ready. Our pupils also learn the ability to be critical thinkers and problem-solvers.
+At Yishun Primary School ICT Club, we aim to develop future ready learners through fun and interactive activities. Through a variety of activities, our members learn basic coding and programming skills, and gaining computational and critical thinking skills during the process.
 
 ##### **Teachers-in-Charge**
 * Mr Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)
