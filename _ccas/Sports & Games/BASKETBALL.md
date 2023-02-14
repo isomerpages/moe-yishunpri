@@ -4,10 +4,10 @@ permalink: /ccas/sports-n-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
-##### **Synopsis:**
+##### **Synopsis**
 Yishun Primary Basketball CCA aims to equip our boys and girls with basketball skills and develop sportsmanship through the rigour of sports training and participation in competitions. Through the Basketball trainings, friendly matches and zonal competitions, our members have developed Basketball skills and core values such as Respect, Resilience & Teamwork.
 
-##### **Teachers-in-Charge:**
+##### **Teachers-in-Charge**
 * Miss Fam Xinru Winnie (I/C) (fam_xinru_winnie@schools.gov.sg)
 * Ms Tan Lian Kiah (2 I/C) (tan_lian_kiah@schools.gov.sg)
 * Mdm Valerie Wang (wang_yunwen_valerie@schools.gov.sg)
@@ -16,14 +16,14 @@ Yishun Primary Basketball CCA aims to equip our boys and girls with basketball s
 * External Coach 1
 * External Coach 2
 
-##### **Venue:**
+##### **Venue**
 * Indoor Sports Hall (ISH Level 1)
 
-##### **Time and Days:**
+##### **Time and Days**
 * Tuesdays, 1.40pm - 3.40pm
 * Fridays, 1.40pm - 3.40pm
 
-##### **Achievements:**
+##### **Achievements**
 * **National School Games Basketball 2019 (Junior Division)**
 <br>Venue: Greenwood Primary School
 <br>Organizer: SPSSC
@@ -33,7 +33,7 @@ Yishun Primary Basketball CCA aims to equip our boys and girls with basketball s
 <br>Organizer: Tampines Secondary School
 <br>Achievement: Champions (Junior Boys), 1st Runner Up (Senior Boys)
 
-##### Photo Gallery
+##### **Photo Gallery**
 
 ![](/images/CCAs/Basketball/CCA_Basketball_2020_1.jpg)
 *Our Junior boys with parents and pupils supporters at the National School Games Basketball prize presentation ceremony*
