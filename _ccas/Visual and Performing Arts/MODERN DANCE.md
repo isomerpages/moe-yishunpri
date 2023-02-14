@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 ##### **Synopsis**
-In Yishun Primary Modern Dance CCA, our students who come from diverse backgrounds always work together to present a beautiful and synchronised performance through good teamwork and self-discipline. In 2018, we achieved Certificate of Accomplishment in the SYF Arts Presentation. We were honoured to be invited by the Odyssey Dance Theatre Ltd to perform in the 8th DanzINC Festival at the Victoria Theatre. In 2019, we had the privilege to perform at the Istana Open House on Labour Day. Despite the COVID-19 pandemic, our members are engaged through online sessions in the form of e-CCA. We will continue to provide opportunities for our pupils to develop their passion and talent in dance.
+Yishun Primary Modern Dance CCA aims to bring students who come from diverse backgrounds to work together to present a beautiful and synchronised performance. Through the practice sessions, students will learn contemporary dance and movement techniques, develop good teamwork and self-discipline. 
+Our dancers have performed at various external events such as Istana Open House on Labour Day (2019) and Singapore Youth Festival Arts Presentation (2022). 
+We hope that talented and interested young dancers can join us in our dance journey.
 
 ##### **Teachers-in-Charge**
 * Mrs Chloe Huang (I/C) (chloe_huang@schools.gov.sg)
