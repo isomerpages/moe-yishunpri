@@ -27,7 +27,7 @@ Environmental Science aims to develop pupils into environmental champions, where
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPnkjizGLw-9FSHyljtDoySbR0tPBFen89fE62JayMmE4Y0JJryyW_a8fLXu_ITiRuaOk5IFSKgwYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPnkjizGLw-9FSHyljtDoySbR0tPBFen89fE62JayMmE4Y0JJryyW_a8fLXu_ITiRuaOk5IFSKgwYC/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 
