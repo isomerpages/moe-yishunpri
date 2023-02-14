@@ -4,11 +4,10 @@ permalink: /ccas/sports-n-games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
-##### Synopsis:  
+##### **Synopsis**
 Yishun Primary School’s Football CCA aims to develop the right values such as discipline and work ethics in our players. Football is one of the sports that enhance physical skills and mental health. Our players also learn about sportsmanship and teamwork together.
 
-##### Teachers-in-Charge:
-
+##### **Teachers-in-Charge**
 * Mr Sheikh Omar (I/C) (sheikh_omar_mohamad@schools.gov.sg)
 * Mr Leong Weng Hong (leong_weng_hong@schools.gov.sg)
 * Mr Bahar Ali Bin Sakor (bahar_ali_sakor@schools.gov.sg)
@@ -17,15 +16,15 @@ Yishun Primary School’s Football CCA aims to develop the right values such as 
 * External Coach 1
 * External Coach 2
 
-##### Venue:
+##### **Venue**
 * School Field
 
-##### Time and Days:
+##### **Time and Days**
 * Tuesdays, 1.40pm - 3.40pm
 * Fridays, 1.40pm - 3.40pm
 <br>Note: School players will train on both Tuesdays and Fridays
 
-##### Photo Gallery
+##### **Photo Gallery**
 
 ![](/images/CCAs/Football/CCA_Football_2020_1.jpg)
 *Real Madrid Football Academy Invitational Football Clinic 2019*
