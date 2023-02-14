@@ -9,7 +9,6 @@ Environmental Science aims to develop pupils into environmental champions, where
 
 ##### **Teachers-in-Charge**
 * Mrs Lim Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
-* Ms Soh Whee Kheng (2 I/C)
 * Mdm Latifah Binte Mohamed Hussain (latifah_mohamed_hussain@schools.gov.sg)
 
 ##### **Venue**
