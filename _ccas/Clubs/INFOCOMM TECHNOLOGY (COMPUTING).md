@@ -4,14 +4,8 @@ permalink: /ccas/clubs/infocomm-technology-computing/
 description: ""
 third_nav_title: Clubs
 ---
-# 3 images here are &gt;5mb, size can be decreased but will lower resolution
-
 ##### **Synopsis**
 At Yishun Primary School ICT Club, we aim to engage our pupils in fun and interactive activities. Our pupils also the opportunity to learn basic coding, programming robots, developing games and computational skills to make them more future-ready. Our pupils also learn the ability to be critical thinkers and problem-solvers.
-
-# images &gt;5mb
-*Pupils engaged in hands-on explorations and exchange of ideas with the mBot robotics kit*
-
 
 ##### **Teachers-in-Charge**
 * Mr Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)
@@ -56,6 +50,8 @@ At Yishun Primary School ICT Club, we aim to engage our pupils in fun and intera
 <iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD-OqC_l6TwQL-Wvhz694DVpIcNLDU6b9QKOMMQFx66NpOVdyH0nrMsevZCYhZPNXGEoQDiDAmjHIf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
+# images &gt;5mb
+*Pupils engaged in hands-on explorations and exchange of ideas with the mBot robotics kit*
 
 ![](/images/CCAs/Infocomm%20Technology/CCA_ICT%20Club_2020_2.jpg)
 *At the N6 Cluster Media and Design Festival 2019, the team received a Special Mention award for a category.*
