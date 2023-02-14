@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 ##### **Synopsis**
-The Malay Dance CCA aims to develop the pupils' appreciation and passion for the traditional Malay dance. Pupils are exposed to the rich assortment of Malay music, cultivating their love and interest in the Malay culture and heritage. The pupils would learn the fundamental dance movements of different genres and develop poise, flexibility and coordination skills. The dance gives opportunities for pupils to develop their leadership qualities when communicating and collaborating as a group. Through performances at various platforms, pupils would gain self-confidence and develop their self-discipline.
+The Malay Dance CCA aims to develop students’ appreciation and passion for the traditional Malay dance. Through the exposure of various Malay music and different dance genres, students will be able to cultivate their love and interest for the Malay culture and heritage. Students also develop poise, flexibility and coordination skills by learning the fundamental dance movements. 
+
+Our dancers are given opportunities to perform at various platforms such as school events and competitions. 
 
 ##### **Teachers-in-Charge**
 * Mdm Nurhayati (I/C) (nurhayati_nasir@schools.gov.sg)
