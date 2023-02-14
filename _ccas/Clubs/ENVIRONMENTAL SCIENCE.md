@@ -4,28 +4,28 @@ permalink: /ccas/clubs/environmental-science/
 description: ""
 third_nav_title: Clubs
 ---
-##### **Synopsis:**
+##### **Synopsis**
 Environmental Science aims to develop pupils into environmental champions, where they gain a global awareness of environmental issues, passionately encourage others to adopt environmentally-conscious practices and create solutions to real world environmental problems at a micro-level. Pupils will also get opportunities to go for field trips, take part in competitions and participate in school outreach activities through Green Ambassadors training.
 
-##### **Teachers-in-Charge:**
+##### **Teachers-in-Charge**
 * Mrs Lim Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
 * Ms Soh Whee Kheng (2 I/C)
 * Mdm Latifah Binte Mohamed Hussain (latifah_mohamed_hussain@schools.gov.sg)
 
-##### **Venue:**
+##### **Venue**
 * Science Labs
 
-##### **Time and Day:**
+##### **Time and Day**
 * Fridays, 1.40pm - 3.40pm
 
-##### **Achievements:**
+##### **Achievements**
 * **2021 National Youth Upcycling Movement (NYUM)** - Certificate of Accomplishment
 * **2019 Elementz Science Project Competition and Exhibition** - Silver, Certificate of Commendation
 * **2019 National Youth Upcycling Movement (NYUM)** - Gold and Silver Awards
 * **2018 Elementz Science Project Competition and Exhibition** - Silver, Certificate of Commendation
 * **2018 National Youth Upcycling Movement (NYUM)** – 3 Silver Awards
 
-##### Photo Gallery
+##### **Photo Gallery**
 ![](/images/CCAs/Environmental%20Science/Environmental%20Science_2021_1_Closer%20to%20Nature.jpeg)
 *Closer to Nature*
 
