@@ -10,9 +10,3 @@ The teaching and learning philosophy of our MK educators are guided by the Visio
 
 
 <center><img src="/images/MK%20YPS/Vision%20Mission%20Values/MK_Vision.jpg" alt="MK Brochure" style="float:left;margin-right:10px;width:256px;height:362px;"><img src="/images/MK%20YPS/Vision%20Mission%20Values/MK_Mission.jpg" alt="MK Brochure" style="float:left;margin-right:10px;width:256px;height:362px;"><img src="/images/MK%20YPS/Vision%20Mission%20Values/MK_Values.jpg" alt="MK Brochure" style="float:left;margin-right:10px;width:256px;height:362px;"></center>
-<br>
-
-| | | |
-| -------- | -------- | -------- |
-| ![](/images/MK%20YPS/Vision%20Mission%20Values/MK_Vision.jpg) | ![](/images/MK%20YPS/Vision%20Mission%20Values/MK_Mission.jpg) | ![](/images/MK%20YPS/Vision%20Mission%20Values/MK_Values.jpg) |
-| | | |
