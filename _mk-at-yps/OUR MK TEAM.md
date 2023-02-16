@@ -14,4 +14,5 @@ description: ""
 | Picture | ***“Teaching is not about answering questions but about raising questions – opening doors for them in places that they could not imagine.” - Yawar Baig*** <br>[lin_jin@moe.edu.sg](mailto:lin_jin@moe.edu.sg) |
 | Picture | ***“Keep what you say and carry out what you do.”  - Confucius*** <br>[zhang_yufen@moe.edu.sg](mailto:zhang_yufen@moe.edu.sg) |
 | Picture | ***“Play builds the kind of free-and-easy, try-it-out, do-it-yourself character that our future needs.” - James L. Hymes, Jr.*** <br>[liu_hongmei@moe.edu.sg](mailto:liu_hongmei@moe.edu.sg) |
-| Picture | ***“Tell me and I forget. Teach me and I remember. Involve me and I learn” – Benjamin Franklin*** <br>nadiah_liyana_rohim@moe.edu.sg |
+| Picture | ***“Tell me and I forget. Teach me and I remember. Involve me and I learn” – Benjamin Franklin*** <br>[nadiah_liyana_rohim@moe.edu.sg](mailto:nadiah_liyana_rohim@moe.edu.sg) |
+| | |
