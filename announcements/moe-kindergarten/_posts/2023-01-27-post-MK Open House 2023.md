@@ -18,4 +18,4 @@ Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-r
 
 If you have missed the online registration exercise, please contact us directly or fill in our [MK@Yishun waitlist form](https://form.gov.sg/61c3c7951c62de001219aa38).
 
-For enquires or questions please email us at **mk_yishun@moe.edu.sg**.
+For enquires or questions please email us at [mk_yishun@moe.edu.sg](mailto:mk_yishun@moe.edu.sg).
