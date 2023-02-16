@@ -40,3 +40,20 @@ Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-
 <br> [Chinese](https://file.for.edu.sg/mk-brochure-chinese.pdf)
 <br> [Malay](https://file.for.edu.sg/mk-brochure-malay.pdf)
 <br> [Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
+
+<br>
+
+##### **Want to find out more about our MK experience? Click on the videos below to watch!**
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R636jFF7S28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mghZCHtKNXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
