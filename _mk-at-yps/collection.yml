@@ -2,6 +2,6 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - Our Vision, Mission And Values.md
       - About Us.md
+      - Our Vision, Mission And Values.md
       - Our MK Staff.md
