@@ -42,6 +42,8 @@ Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-
 <br> [Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
 
 <br>
+<br>
+<br>
 
 ##### **Want to find out more about our MK experience? Click on the videos below to watch!**
 <center>
