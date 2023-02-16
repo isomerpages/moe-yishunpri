@@ -2,7 +2,7 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - THE MK EXPERIENCE.md
       - ABOUT US.md
       - OUR VISION, MISSION AND VALUES.md
+      - THE MK EXPERIENCE.md
       - OUR MK TEAM.md
