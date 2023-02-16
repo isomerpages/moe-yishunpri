@@ -39,4 +39,4 @@ Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-
 * [English](https://for.edu.sg/mk-brochure-english)
 * [Chinese](https://for.edu.sg/mk-brochure-chinese)
 * [Malay](https://for.edu.sg/mk-brochure-malay)
-* [Tamil](https://for.edu.sg/mk-brochure-tamil)
+* [Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
