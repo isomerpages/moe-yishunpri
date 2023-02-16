@@ -14,13 +14,13 @@ It comprises of 2 flagship programmes, the **HI-Light Programme** and **Starligh
 
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light) to know more about Hi-light programme!
 
-### Picture here
+![](/images/MK%20YPS/The%20MK%20Experience/MK_Experience_01.jpg)
 
 ##### **Starlight Programme**
 The Starlight Literacy Programme aims to nurture early childhood bilingualism. It is offered in English and the three Mother Tongue Languages, providing opportunities for children to enjoy English and their Mother Tongue Language, communicate with confidence and be aware of local traditions and customs. 
 Language learning is made fun for children through the use of a rich variety of resources such as Big Books, songs and games set in the local context.
 
-### Picture here
+![](/images/MK%20YPS/The%20MK%20Experience/MK_Experience_02.jpg)
 
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight) to find out more about the Starlight programmes.
 
