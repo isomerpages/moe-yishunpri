@@ -36,7 +36,7 @@ Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-
 
 ##### **MOE KINDERGARTEN BROCHURES**
 <img src="/images/MK%20YPS/The%20MK%20Experience/MK_Brochure.png" alt="MK Brochure" style="float:left;margin-right:25px;width:250px;height:353px;">Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!
-* [English](https://file.for.edu.sg/mk-brochure-english.pdf)
-* [Chinese](https://file.for.edu.sg/mk-brochure-chinese.pdf)
-* [Malay](https://file.for.edu.sg/mk-brochure-malay.pdf)
-* [Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
+<br> [English](https://file.for.edu.sg/mk-brochure-english.pdf)
+<br> [Chinese](https://file.for.edu.sg/mk-brochure-chinese.pdf)
+<br> [Malay](https://file.for.edu.sg/mk-brochure-malay.pdf)
+<br> [Tamil](https://file.for.edu.sg/mk-brochure-tamil.pdf)
