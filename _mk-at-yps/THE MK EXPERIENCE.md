@@ -35,7 +35,7 @@ These experiences seek to:
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder) to find out more about the WOW project!
 
 ##### **MOE KINDERGARTEN BROCHURES**
-![](/images/MK%20YPS/The%20MK%20Experience/MK_Brochure.jpg) Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!
+<img src="/images/MK%20YPS/The%20MK%20Experience/MK_Brochure.jpg" width="250" height="353">Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!
 * [English](https://for.edu.sg/mk-brochure-english)
 * [Chinese](https://for.edu.sg/mk-brochure-chinese)
 * [Malay](https://for.edu.sg/mk-brochure-malay)
