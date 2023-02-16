@@ -33,3 +33,5 @@ These experiences seek to:
 * Promote communication skills as children carry out WoW projects in English and their Mother Tongue Languages.
 
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder) to find out more about the WOW project!
+
+##### **MOE KINDERGARTEN BROCHURES**
