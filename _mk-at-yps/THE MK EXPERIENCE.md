@@ -31,3 +31,5 @@ These experiences seek to:
 * Encourage collaboration as children work together to investigate a topic of their interest;
 * Develop process skills as children gather information from different sources and communicate their findings; and
 * Promote communication skills as children carry out WoW projects in English and their Mother Tongue Languages.
+
+Click here to find out more about the WOW project!
