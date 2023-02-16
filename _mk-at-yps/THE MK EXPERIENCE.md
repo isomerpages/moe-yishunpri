@@ -25,3 +25,9 @@ Language learning is made fun for children through the use of a rich variety of 
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight) to find out more about the Starlight programmes.
 
 ##### **Weeks of Wonder (WoW) projects!**
+To deepen children’s learning, each term culminates in a WoW project. Children work together with their friends and teachers to investigate topics of their interest. Through the WoW projects, children experience the joy of self-motivated learning and find answers to their questions.
+
+These experiences seek to:
+* Encourage collaboration as children work together to investigate a topic of their interest;
+* Develop process skills as children gather information from different sources and communicate their findings; and
+* Promote communication skills as children carry out WoW projects in English and their Mother Tongue Languages.
