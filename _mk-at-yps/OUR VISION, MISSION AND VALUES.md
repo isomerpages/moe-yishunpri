@@ -9,6 +9,6 @@ At MOE Kindergarten, we believe that children are curious, active, and competent
 The teaching and learning philosophy of our MK educators are guided by the Vision mission and values of MOE Kindergarten.
 
 | | | |
-| -------- | -------- | -------- | -------- |
-| picture | picture | picture | picture |
+| -------- | -------- | -------- |
+| <center>![](/images/MK%20YPS/Vision%20Mission%20Values/MK_Vision.jpg)</center> | <center>![](/images/MK%20YPS/Vision%20Mission%20Values/MK_Mission.jpg)</center> | <center>![](/images/MK%20YPS/Vision%20Mission%20Values/MK_Values.jpg)</center> |
 | | | |
