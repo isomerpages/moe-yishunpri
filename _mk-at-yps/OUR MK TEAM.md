@@ -14,9 +14,9 @@ description: ""
 
 | | |
 | -------- | -------- |
-| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Hamizah.jpg) | <br><br><br>***“It takes a big heart to shape little minds” - Unknown*** <br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
-| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Vishnu.jpg) | <br><br><br>***“Children learn as they play. Most importantly, in play children learn how to learn” – O Fred Donaldson*** <br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
-| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Nikki.jpg) | <br><br><br>***“Education is not the filling of a pail, but the lighting of a fire”. – W.B. Yeats*** <br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
+| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Hamizah.jpg) | <br><br>***“It takes a big heart to shape little minds”<br>- Unknown*** <br><br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
+| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Vishnu.jpg) | <br><br>***“Children learn as they play. Most importantly, in play children learn how to learn”<br>– O Fred Donaldson*** <br><br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
+| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Nikki.jpg) | <br><br>***“Education is not the filling of a pail, but the lighting of a fire”.<br>– W.B. Yeats*** <br><br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
 | Picture | <br><br><br>***“When one teaches, two learn.” - Robert Heinlein*** <br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
 | | |
 
