@@ -7,7 +7,7 @@ description: ""
 
 | | |
 | -------- | -------- |
-| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Mayuri.jpg) | **Deputy Centre Head**<br><br>***When we follow our curiosity, we discover new possibilities.*** <br>[mayuri_loganathan@moe.edu.sg](mailto:mayuri_loganathan@moe.edu.sg) |
+| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Mayuri.jpg) | <br><br>**Deputy Centre Head**<br><br>***When we follow our curiosity, we discover new possibilities.*** <br><br>[mayuri_loganathan@moe.edu.sg](mailto:mayuri_loganathan@moe.edu.sg) |
 | | |
 
 ##### **English MK Teachers**
