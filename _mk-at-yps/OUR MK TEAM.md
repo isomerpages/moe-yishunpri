@@ -14,10 +14,10 @@ description: ""
 
 | | |
 | -------- | -------- |
-| <img src="/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Hamizah.jpg" alt="MK Brochure" style="float:left;width:175px;height:210px;"> | ***“It takes a big heart to shape little minds” - Unknown*** <br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
-| <img src="/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Vishnu.jpg" alt="MK Brochure" style="float:left;width:170px;height:211px;"> | ***“Children learn as they play. Most importantly, in play children learn how to learn” – O Fred Donaldson*** <br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
-| ![](/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Nikki.jpg) | ***“Education is not the filling of a pail, but the lighting of a fire”. – W.B. Yeats*** <br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
-| Picture | ***“When one teaches, two learn.” - Robert Heinlein*** <br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
+| <img src="/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Hamizah.jpg" alt="MK Brochure" style="float:left;width:175px;height:210px;"> | <br><br><br>***“It takes a big heart to shape little minds” - Unknown*** <br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
+| <img src="/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Vishnu.jpg" alt="MK Brochure" style="float:left;width:170px;height:211px;"> | <br><br><br>***“Children learn as they play. Most importantly, in play children learn how to learn” – O Fred Donaldson*** <br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
+| <img src="/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Nikki.jpg" alt="MK Brochure" style="float:left;width:172px;height:200px;"> | <br><br><br>***“Education is not the filling of a pail, but the lighting of a fire”. – W.B. Yeats*** <br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
+| Picture | <br><br><br>***“When one teaches, two learn.” - Robert Heinlein*** <br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
 | | |
 
 ##### **Mother Tongue Language MK Teachers**
