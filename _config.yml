@@ -15,7 +15,7 @@ colors:
       color: "#4399cc"
     - title: media-color-five
       color: "#3d6b6b"
-description: ""
+description: Do Our Best & Be The Best
 permalink: none
 baseurl: ""
 exclude:
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2hv8dge823i3s.amplifyapp.com
 prod: https://master.d2hv8dge823i3s.amplifyapp.com
 shareicon: /images/logo.png
-is_government: true
+is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
