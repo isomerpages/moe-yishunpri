@@ -20,7 +20,7 @@ sections:
           url: /quick-links/parents-students/
         - title: For School Staffs
           description: Useful Quick Links
-          url: /quick-links/teachers/
+          url: /quick-links/staff/
       title: Welcome to Yishun Primary School
   - infopic:
       title: Vision
@@ -43,4 +43,3 @@ sections:
   - infobar:
       title: Nurturing Confidence Learners
 ---
-
