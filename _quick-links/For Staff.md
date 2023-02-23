@@ -7,7 +7,7 @@ description: ""
 * [All Ears](https://forms.moe.edu.sg/)
 * [Department Internal Quick Links](https://go.gov.sg/ypsdept) (Requires iCON Login)
 * [FormSG](https://form.gov.sg/)
-* [GoSG](https://go.gov.sg/)
+* [ForEduSG](https://for.edu.sg) (URL Link Shortener Tool for Education Institutes)
 * [HR & Payroll Portal (HRP)](https://www.hrp.gov.sg/)
 * [HR Online](https://intranet.moe.gov.sg/hr_online/Pages/backup/redirect.aspx)
 * [iEXAMS 2.0](https://iexams.seab.gov.sg/login)
