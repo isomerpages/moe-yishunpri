@@ -3,8 +3,6 @@ title: For Staff
 permalink: /quick-links/staff/
 description: ""
 ---
-
-
 ##### **Useful Links (Internet)**
 * [All Ears](https://forms.moe.edu.sg/)
 * [Department Internal Quick Links](https://go.gov.sg/ypsdept) (Requires iCON Login)
