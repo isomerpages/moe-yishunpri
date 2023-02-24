@@ -3,10 +3,7 @@ title: TRIPLE P (POSITIVE PARENTING PROGRAMME)
 permalink: /partners/triple-p-positive-parenting-programme/
 description: ""
 ---
-# TRIPLE P (POSITIVE PARENTING PROGRAMME)
-
-Triple P Publicity Video
-------------------------
+##### **Triple P Publicity Video**
 
 Click this **<a href="https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view" target="_blank">link</a>** to watch the Triple P publicity video.  
 
