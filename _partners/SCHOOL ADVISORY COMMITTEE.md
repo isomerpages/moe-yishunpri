@@ -3,15 +3,13 @@ title: SCHOOL ADVISORY COMMITTEE
 permalink: /partners/school-advisory-committee/
 description: ""
 ---
-# SCHOOL ADVISORY COMMITTEE
+##### **SCHOOL ADVISORY COMMITTEE**
 
 **Chairman**   
 Mr Toh Ban Choon
   
 **Vice-Chairman**   
 Mr Lim Wah Onn Marcus
-
-  
 
 **Members**   
 Mr Tan Yueh Phern   
