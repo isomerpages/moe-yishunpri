@@ -3,7 +3,6 @@ title: ABOUT US
 permalink: /mk-at-yps/About-Us/
 description: ""
 ---
-
 ![MOE Kindergarten](/images/MK%20YPS/MOE%20Kindergarten%20Logo.jpg)
 We offer 4-hour programme for K1 this Year 2023.
 <br>You can choose from the following options (subject to availability):
@@ -17,7 +16,7 @@ We offer 4-hour programme for K1 this Year 2023.
 MOE kindergarten follows MOE’s calendar of school term and school holidays.
 <br>*K2 programme will be available from Year 2024 onwards.
 
-### KCare
+##### **KCare**
 Kindergarten Care (KCare), provided by Neighbourhood Care Services (NCS) is available for parents who require a **full-day service** for your child enrolled in MOE Kindergarten (MK).
 
 KCare operates from Monday to Friday, 7am to 7pm, including school holidays. It is closed on public holidays and up to 6 additional days each year.
