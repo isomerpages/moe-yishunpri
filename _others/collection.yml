@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - 2018.md
       - Gallery.md
       - For Students.md
       - GALLERY 2019.md
