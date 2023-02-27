@@ -2,8 +2,8 @@ title: Yishun Primary School
 url: https://yishunpri.moe.edu.sg
 favicon: /images/faveicon.png
 colors:
-  primary-color: "#4399cc"
-  secondary-color: "#ed6623"
+  primary-color: "#ed6623"
+  secondary-color: "#4399cc"
   media-colors:
     - title: media-color-one
       color: "#3a6c72"
