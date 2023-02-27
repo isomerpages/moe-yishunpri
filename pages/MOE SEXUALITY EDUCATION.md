@@ -3,7 +3,7 @@ title: MOE SEXUALITY EDUCATION
 permalink: /moe-sexuality-education/
 description: ""
 ---
-#### **What is MOE Sexuality Education?**
+##### **What is MOE Sexuality Education?**
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 The **Goals** of Sexuality Education are:
@@ -19,7 +19,7 @@ The Key Messages of Sexuality Education are:
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-#### **Overview Of Yishun Primary School's Sexuality Education Programme For 2023**
+##### **Overview Of Yishun Primary School's Sexuality Education Programme For 2023**
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
 The subjects that incorporate topics sexuality include:
