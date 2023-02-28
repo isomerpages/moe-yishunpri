@@ -3,14 +3,14 @@ title: OUR MK TEAM
 permalink: /mk-at-yps/our-mk-team/
 description: ""
 ---
-##### **<center>Centre Leader</center>**
+### **<center>Centre Leader</center>**
 
 | | |
 | -------- | -------- |
 | <img src="/images/MK%20YPS/Our%20MK%20Staff/MK_Staff_Mayuri.jpg" alt="" style="float:left;width:170px;height:234px;"> | <br><br>**Deputy Centre Head**<br><br>***When we follow our curiosity, we discover new possibilities.*** <br><br>[mayuri_loganathan@moe.edu.sg](mailto:mayuri_loganathan@moe.edu.sg) |
 | | |
 
-##### **<center>English MK Teachers</center>**
+### **<center>English MK Teachers</center>**
 
 | | |
 | -------- | -------- |
@@ -20,7 +20,7 @@ description: ""
 | Picture | <br><br>***“When one teaches, two learn.”*** <br>*- Robert Heinlein* <br><br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
 | | |
 
-##### **<center>Mother Tongue Language MK Teachers</center>**
+### **<center>Mother Tongue Language MK Teachers</center>**
 
 | | |
 | -------- | -------- |
