@@ -14,6 +14,16 @@ third_nav_title: OUR STAFF
 | Vice-Principal<br>(Administration) | Mr Lee Han Keong<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
 | | |
 
+##### **<center>Head of Department (HOD) & Level/Subject Head (LH/SH)</center>**
+
+| Designation | Name |
+| :--------: | :--------: |
+| Head of Department<br>English | Mdm Maisarah Binte Zainal Abiden<br>[maisarah_zainal_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg) |
+| Head of Department<br>Mathematics | Mrs Mary Chen<br>[tong_mary@schools.gov.sg](mailto:tong_mary@schools.gov.sg) |
+| Head of Department<br>Mother Tongue Languages | Mdm Chiang Te Hui<br>[chiang_te_hui@schools.gov.sg](mailto:chiang_te_hui@schools.gov.sg) |
+
+
+
 
 
 
