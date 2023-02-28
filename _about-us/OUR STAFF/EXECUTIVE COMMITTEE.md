@@ -6,6 +6,12 @@ third_nav_title: OUR STAFF
 ---
 ### **<center>School Leaders</center>**
 
+| | |
+| :--------: | :--------: |
+| ![]() 
+
+
+
 | Designation | Name |
 | :--------: | :--------: |
 | Principal | Mr Mavin Chan<br>[marvin_chan@schools.gov.sg](mailto:marvin_chan@schools.gov.sg) |
