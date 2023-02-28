@@ -4,7 +4,7 @@ permalink: /about-us/our-staff/executive-committee/
 description: ""
 third_nav_title: OUR STAFF
 ---
-##### <center>**School Leaders**</center>
+##### **<center>School Leaders</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
