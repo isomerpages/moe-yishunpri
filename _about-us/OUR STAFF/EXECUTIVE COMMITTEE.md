@@ -12,7 +12,7 @@ third_nav_title: OUR STAFF
 
 | | | |
 | :--------: | :--------: | :--------: |
-| ![](/images/About%20us/EXCO/Nicholas_Tan_3.png)Mr Nicholas Tan Yew Lee<br>**Vice-Principal (Academic)**<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) | Farlinah Picture<br>Mdm Farlinah Supaah<br>**Vice-Principal (Academic)**<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) | ![](/images/About%20us/EXCO/Johnny_Lee_3.jpg)Mr Lee Han Keong<br>**Vice-Principal(Academic)**<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
+| ![](/images/About%20us/EXCO/Nicholas_Tan_3.png)Mr Nicholas Tan Yew Lee<br>**Vice-Principal (Academic)**<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) | ![](/images/About%20us/EXCO/Farlinah_2.jpg)Mdm Farlinah Supaah<br>**Vice-Principal (Academic)**<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) | ![](/images/About%20us/EXCO/Johnny_Lee_3.jpg)Mr Lee Han Keong<br>**Vice-Principal(Academic)**<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
 
 
 | Designation | Name |
