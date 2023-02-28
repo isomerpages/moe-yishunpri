@@ -32,6 +32,10 @@ third_nav_title: OUR STAFF
 | Subject Head<br>Aesthetics (Internal) | Miss Lee Linghui Alcina<br>[lee_linghui_alcina@schools.gov.sg](mailto:lee_linghui_alcina@schools.gov.sg) |
 | Subject Head<br>Student Well-Being (Internal) | Mdm Nurhayati Nasir<br>[nurhayati_nasir@schools.gov.sg](mailto:nurhayati_nasir@schools.gov.sg) |
 |Subject Head<br>Information, Communication & Technology | Miss Roslyn Foong Pei Li<br>[roslyn_foong_pei_li@schools.gov.sg](mailto:roslyn_foong_pei_li@schools.gov.sg) |
+| Subject Head<br>Character & Citizenship Education | Mdm Fauziah Alang Mohammad Rom<br>[fauziah_alang_mohammad_rom@schools.gov.sg](mailto:fauziah_alang_mohammad_rom@schools.gov.sg) |
+| Subject Head<br>Student Leadership (Internal) | Ms Joan Kam<br>[joan_kam_see_mun@schools.gov.sg](mailto:joan_kam_see_mun@schools.gov.sg) |
+| Level Head<br>Mathematics | Miss Bernice Cheng<br>[cheng_xinyi_bernice@schools.gov.sg](mailto:cheng_xinyi_bernice@schools.gov.sg) |
+| Level Head<br>Science | Mrs Eileen Lee<br>[ong_boon_ching_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
 
 
 
