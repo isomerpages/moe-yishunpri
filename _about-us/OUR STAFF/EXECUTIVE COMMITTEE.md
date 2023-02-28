@@ -14,13 +14,21 @@ third_nav_title: OUR STAFF
 | Vice-Principal<br>(Administration) | Mr Lee Han Keong<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
 | | |
 
-##### **<center>Head of Department (HOD) & Level/Subject Head (LH/SH)</center>**
+### **<center>Head of Department (HOD) & Level/Subject Head (LH/SH)</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
 | Head of Department<br>English | Mdm Maisarah Binte Zainal Abiden<br>[maisarah_zainal_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg) |
 | Head of Department<br>Mathematics | Mrs Mary Chen<br>[tong_mary@schools.gov.sg](mailto:tong_mary@schools.gov.sg) |
 | Head of Department<br>Mother Tongue Languages | Mdm Chiang Te Hui<br>[chiang_te_hui@schools.gov.sg](mailto:chiang_te_hui@schools.gov.sg) |
+| Head of Department<br>Science | Mr Tee Han Yun, Joel<br>[tee_han_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg) |
+| Head of Department<br>Character & Citizenship Education | Mr Sahir Abdullah<br>[sahir_abdullah@schools.gov.sg](mailto:sahir_abdullah@schools.gov.sg) |
+| Head of Department<br>Discipline | Mr Steven Aw Kian Chang<br>[steven_aw_kian_chang@schools.gov.sg](mailto:steven_aw_kian_chang@schools.gov.sg) |
+| Head of Department<br>Information, Communication & Technology | Mrs Valencia Lo<br>[valencia_thng_su_ying@schools.gov.sg](mailto:valencia_thng_su_ying@schools.gov.sg) |
+| Head of Department<br>Physical Education & CCA | Mr Yamalasamy Shanmugiah<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) |
+| Head of Department<br>Special Education Needs & Educational Support | Mdm Kuek Ai Hsiang<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) |
+| School Staff Developer | Mdm Ang Chai Lan, Carine<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
+| Subject Head<br>Tamil Language | Mdm Sivakami d/o Ratha<br>[sivakami_ratha@schools.gov.sg](mailto:sivakami_ratha@schools.gov.sg) |
 
 
 
