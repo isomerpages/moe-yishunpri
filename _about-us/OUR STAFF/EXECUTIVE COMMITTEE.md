@@ -37,6 +37,18 @@ third_nav_title: OUR STAFF
 | Level Head<br>Mathematics | Miss Bernice Cheng<br>[cheng_xinyi_bernice@schools.gov.sg](mailto:cheng_xinyi_bernice@schools.gov.sg) |
 | Level Head<br>Science | Mrs Eileen Lee<br>[ong_boon_ching_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
 
+### **<center>Year Head & Assistant Year Head</center>**
+
+| Designation | Name |
+| :--------: | :--------: |
+| Year Head<br>(Primary 1 & Primary 2) | Mdm Tong Mun Hwee<br>[tong_mun_hwee@schools.gov.sg](mailto:tong_mun_hwee@schools.gov.sg) |
+|Year Head<br>(Primary 3 & Primary 4) | Mrs Tan Chin Choo, Kelly<br>[tan_chin_choo_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg) |
+| Year Head<br>(Primary 5 & Primary 6) |Mr Ang Liang Tien, Terrance<br>[ang_liang_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg) |
+| Assistant Year Head<br>(Primary 1 & Primary 2) | Ms Yong Hui Wen<br>[yong_hui_wen@schools.gov.sg](mailto:yong_hui_wen@schools.gov.sg) |
+| Assistant Year Head<br>(Primary 3 & Primary 4)<br>(Internal) | Mr V Ilanchezhiyan<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
+| Assistant Year Head<br>(Primary 5 & Primary 6) | Ms Nirmala Arumugam<br>[nirmala_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg) |
+
+
 
 
 
