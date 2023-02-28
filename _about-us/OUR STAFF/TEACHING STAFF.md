@@ -76,18 +76,16 @@ third_nav_title: OUR STAFF
 | **6 Integrity** | Miss Lee Seow Yen Sandra<br>[lee_seow_yen_sandra@schools.gov.sg](mailto:lee_seow_yen_sandra@schools.gov.sg)<br><br>Mr Tee Han Yun, Joel<br>[tee_han_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg) |
 | | |
 
+### **<center>Non-Form Teachers</center>**
 
-##### **Non-Form Teachers**
-
-
-|                                 |                                |
-|:-----------:|:------------------------:|
-|                  Mrs Adelene Hong                |     [hong\_eng\_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg)     |
-|                  Mrs Eileen Lee                  |  [ong\_boon\_ching\_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg)  |
-|                  Mdm Goh Zi Wei                  |        [goh\_zi\_wei@schools.gov.sg](mailto:goh_zi_wei@schools.gov.sg)      |
-|  Mdm Ng Mei Ling - Mrs Tan<br>(Lead SEN Officer) |      [ng\_mei\_ling\_c@schools.gov.sg](mailto:ng_mei_ling_c@schools.gov.sg)    |
-|  Miss Sandra sunarti Sulaiman <br>(SEN Officer)  | [sandra\_sunarti\_sulaiman@schools.gov.sg](mailto:sandra_sunarti_sulaiman@schools.gov.sg) |
-|       Mr Hamdan Bin Alias<br>(SEN Officer)       |       [hamdan\_alias@schools.gov.sg](mailto:hamdan_alias@moe.edu.sg)      |
-|       Ms Betty Chia Lee Lee<br>(SEN Officer)     |      [chia\_lee\_lee@schools.gov.sg](mailto:chia_lee_lee@schools.gov.sg)      |
-|       Ms Alissa Goh Yoke En<br>(SEN Officer)     |   [goh\_yoke\_en\_alissa@schools.gov.sg](mailto:goh_yoke_en_alissa@schools.gov.sg)    |
-| Mdm Loo Kailing Kathleen <br>(School Counsellor) |  [loo\_kailing\_kathleen@schools.gov.sg](mailto:loo_kailing_kathleen@schools.gov.sg)   |
+| | |
+|:-----------------:|:------------------:|
+| Mrs Adelene Hong | [hong\_eng\_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg) |
+| Mrs Eileen Lee | [ong\_boon\_ching\_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
+| Mdm Goh Zi Wei | [goh\_zi\_wei@schools.gov.sg](mailto:goh_zi_wei@schools.gov.sg) |
+| Mdm Ng Mei Ling - Mrs Tan<br>(Lead SEN Officer) | [ng\_mei\_ling\_c@schools.gov.sg](mailto:ng_mei_ling_c@schools.gov.sg) |
+| Miss Sandra sunarti Sulaiman <br>(SEN Officer) | [sandra\_sunarti\_sulaiman@schools.gov.sg](mailto:sandra_sunarti_sulaiman@schools.gov.sg) |
+| Mr Hamdan Bin Alias<br>(SEN Officer) | [hamdan\_alias@schools.gov.sg](mailto:hamdan_alias@moe.edu.sg) |
+| Ms Betty Chia Lee Lee<br>(SEN Officer) | [chia\_lee\_lee@schools.gov.sg](mailto:chia_lee_lee@schools.gov.sg) |
+| Ms Alissa Goh Yoke En<br>(SEN Officer) | [goh\_yoke\_en\_alissa@schools.gov.sg](mailto:goh_yoke_en_alissa@schools.gov.sg) |
+| Mdm Loo Kailing Kathleen <br>(School Counsellor) |[loo\_kailing\_kathleen@schools.gov.sg](mailto:loo_kailing_kathleen@schools.gov.sg) |
