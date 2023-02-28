@@ -4,6 +4,21 @@ permalink: /about-us/our-staff/executive-committee/
 description: ""
 third_nav_title: OUR STAFF
 ---
+##### <center>**School Leaders**</center>
+
+| Designation | Name |
+| :--------: | :--------: |
+| Principal | Mr Mavin Chan<br>[marvin_chan@schools.gov.sg](mailto:marvin_chan@schools.gov.sg) |
+| Vice-Principal<br>(Academic) | Mr Nicholas Tan Yew Lee<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) |
+| Vice-Principal<br>(Academic) | Mdm Farlinah Supaah<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) |
+| Vice-Principal<br>(Administration) | Mr Lee Han Keong<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
+| | |
+
+
+
+
+
+
 <table width="0">
 <tbody>
 <tr>
