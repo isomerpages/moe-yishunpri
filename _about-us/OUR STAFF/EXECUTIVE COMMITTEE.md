@@ -29,6 +29,9 @@ third_nav_title: OUR STAFF
 | Head of Department<br>Special Education Needs & Educational Support | Mdm Kuek Ai Hsiang<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) |
 | School Staff Developer | Mdm Ang Chai Lan, Carine<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
 | Subject Head<br>Tamil Language | Mdm Sivakami d/o Ratha<br>[sivakami_ratha@schools.gov.sg](mailto:sivakami_ratha@schools.gov.sg) |
+| Subject Head<br>Aesthetics (Internal) | Miss Lee Linghui Alcina<br>[lee_linghui_alcina@schools.gov.sg](mailto:lee_linghui_alcina@schools.gov.sg) |
+| Subject Head<br>Student Well-Being (Internal) | Mdm Nurhayati Nasir<br>[nurhayati_nasir@schools.gov.sg](mailto:nurhayati_nasir@schools.gov.sg) |
+|Subject Head<br>Information, Communication & Technology | Miss Roslyn Foong Pei Li<br>[roslyn_foong_pei_li@schools.gov.sg](mailto:roslyn_foong_pei_li@schools.gov.sg) |
 
 
 
