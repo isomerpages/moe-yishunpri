@@ -64,16 +64,17 @@ third_nav_title: OUR STAFF
 | **5 Integrity** | Mr Anthony Tay Poh Hua<br>[anthony_tay_poh_hua@schools.gov.sg](mailto:anthony_tay_poh_hua@schools.gov.sg)<br><br>Mdm Sivakami<br>[sivakami_ratha@schools.gov.sg](mailto:sivakami_ratha@schools.gov.sg) |
 | | |
 
-##### **Primary 6**
+### **<center>Primary 6</center>**
 
-| Class             |        Form Teachers       |
-|:-----------------:|:---------------------:|
-|    6 Gratitude    | Miss Loh Phieh Hsi, Wanda<br>[loh\_phieh\_hsi\_wanda@schools.gov.sg](mailto:loh_phieh_hsi_wanda@schools.gov.sg)<br><br>Mdm Maisarah Binte Zainal Abiden<br>[maisarah\_zainal\_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg)<br><br>Mr Yamalasamy<br>[yamalasamy\_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg)|
-| 6 Care            |                   Mrs Mary Chen<br>[tong\_mary@schools.gov.sg](mailto:tong_mary@schools.gov.sg)<br><br>Mr Tan Guan Sheng Bronson<br>[tan\_guan\_sheng@schools.gov.s](mailto:tan_guan_sheng@schools.gov.sg)<br><br>Mrs Valencia Lo<br>[valencia\_thng\_su\_ying@schools.gov.sg](mailto:valencia_thng_su_ying@schools.gov.sg)                  |
-| 6 Resilience      |                     Mr Ang Liang Tien, Terrance<br>[ang\_liang\_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg)<br><br>Mrs Ribut<br>[ribut\_nawi@schools.gov.sg](mailto:ribut_nawi@schools.gov.sg)<br><br>Mr Vasudavan<br>[vasudavan\_s\_g\_pillai@schools.gov.sg](mailto:vasudavan_s_g_pillai@schools.gov.sg)               |
-| 6 Respect         |                                              Mdm Kuek Ai Hsiang<br>[kuek\_ai\_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg)<br><br>Miss Kusumawati<br>[kusumawati\_ahmad\_dafir@schools.gov.sg](mailto:kusumawati_ahmad_dafir@schools.gov.sg)                                       |
-|  6 Responsibility |                                                     Mdm Chiang Te Hui<br>[chiang\_te\_hui@schools.gov.sg](mailto:chiang_te_hui@schools.gov.sg)<br><br>Mrs Chloe Huang<br>[chloe\_huang@schools.gov.sg](mailto:chloe_huang@schools.gov.sg)                                             |
-| 6 Integrity       |                                            Miss Lee Seow Yen Sandra<br>[lee\_seow\_yen\_sandra@schools.gov.sg](mailto:lee_seow_yen_sandra@schools.gov.sg)<br><br>Mr Tee Han Yun, Joel<br>[tee\_han\_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg)                                        |
+| Class | Form Teachers |
+|:-----------------:|:------------------:|
+| **6 Gratitude** | Miss Loh Phieh Hsi, Wanda<br>[loh_phieh_hsi_wanda@schools.gov.sg](mailto:loh_phieh_hsi_wanda@schools.gov.sg)<br><br>Mdm Maisarah Binte Zainal Abiden<br>[maisarah_zainal_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg)<br><br>Mr Yamalasamy<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) |
+| **6 Care** | Mrs Mary Chen<br>[tong_mary@schools.gov.sg](mailto:tong_mary@schools.gov.sg)<br><br>Mr Tan Guan Sheng Bronson<br>[tan_guan_sheng@schools.gov.s](mailto:tan_guan_sheng@schools.gov.sg)<br><br>Mrs Valencia Lo<br>[valencia_thng_su_ying@schools.gov.sg](mailto:valencia_thng_su_ying@schools.gov.sg) |
+| **6 Resilience** | Mr Ang Liang Tien, Terrance<br>[ang_liang_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg)<br><br>Mrs Ribut<br>[ribut_nawi@schools.gov.sg](mailto:ribut_nawi@schools.gov.sg)<br><br>Mr Vasudavan<br>[vasudavan_s_g_pillai@schools.gov.sg](mailto:vasudavan_s_g_pillai@schools.gov.sg) |
+| **6 Respect** | Mdm Kuek Ai Hsiang<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg)<br><br>Miss Kusumawati<br>[kusumawati_ahmad_dafir@schools.gov.sg](mailto:kusumawati_ahmad_dafir@schools.gov.sg) |
+| **6 Responsibility** | Mdm Chiang Te Hui<br>[chiang_te_hui@schools.gov.sg](mailto:chiang_te_hui@schools.gov.sg)<br><br>Mrs Chloe Huang<br>[chloe_huang@schools.gov.sg](mailto:chloe_huang@schools.gov.sg) |
+| **6 Integrity** | Miss Lee Seow Yen Sandra<br>[lee_seow_yen_sandra@schools.gov.sg](mailto:lee_seow_yen_sandra@schools.gov.sg)<br><br>Mr Tee Han Yun, Joel<br>[tee_han_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg) |
+| | |
 
 
 ##### **Non-Form Teachers**
