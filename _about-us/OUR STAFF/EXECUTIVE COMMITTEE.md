@@ -8,7 +8,7 @@ third_nav_title: OUR STAFF
 
 | |
 | :--------: |
-| ![](/images/About%20us/EXCO/Marvin_Chan_3.png)Mr Marvin Chan<br>**Principal**<br>[marvin_chan@schools.gov.sg](mailto:marvin_chan@schools.gov.sg) |
+| <img src="/images/About%20us/EXCO/Marvin_Chan_3.png" alt="" style="width:400px;height:399px;">Mr Marvin Chan<br>**Principal**<br>[marvin_chan@schools.gov.sg](mailto:marvin_chan@schools.gov.sg) |
 
 | | | |
 | :--------: | :--------: | :--------: |
