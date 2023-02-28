@@ -89,3 +89,4 @@ third_nav_title: OUR STAFF
 | Ms Betty Chia Lee Lee<br>(SEN Officer) | [chia\_lee\_lee@schools.gov.sg](mailto:chia_lee_lee@schools.gov.sg) |
 | Ms Alissa Goh Yoke En<br>(SEN Officer) | [goh\_yoke\_en\_alissa@schools.gov.sg](mailto:goh_yoke_en_alissa@schools.gov.sg) |
 | Mdm Loo Kailing Kathleen <br>(School Counsellor) |[loo\_kailing\_kathleen@schools.gov.sg](mailto:loo_kailing_kathleen@schools.gov.sg) |
+| | |
