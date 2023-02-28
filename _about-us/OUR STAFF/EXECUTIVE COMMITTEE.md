@@ -47,3 +47,11 @@ third_nav_title: OUR STAFF
 | Assistant Year Head<br>(Primary 1 & Primary 2) | Ms Yong Hui Wen<br>[yong_hui_wen@schools.gov.sg](mailto:yong_hui_wen@schools.gov.sg) |
 | Assistant Year Head<br>(Primary 3 & Primary 4)<br>(Internal) | Mr V Ilanchezhiyan<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
 | Assistant Year Head<br>(Primary 5 & Primary 6) | Ms Nirmala Arumugam<br>[nirmala_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg) |
+
+### **<center>School Admin Team</center>**
+
+| Designation | Name |
+| :--------: | :--------: |
+| Administration Manager | Mr Lee Meng Hoe<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
+| Administration Manager | Mdm Amanda Woo<br>[Amanda_WOO@schools.gov.sg](mailto:Amanda_WOO@schools.gov.sg) |
+| Operations Manager | Mr Saravanan s/o Sunthiramohan<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
