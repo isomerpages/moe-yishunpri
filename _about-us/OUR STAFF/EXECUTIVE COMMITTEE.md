@@ -6,6 +6,12 @@ third_nav_title: OUR STAFF
 ---
 ### **<center>School Leaders</center>**
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | |
 | :--------: |
 | <img src="/images/About%20us/EXCO/Marvin_Chan_3.png" alt="" style="width:300px;height:299px;">Mr Marvin Chan<br>**Principal**<br>[marvin_chan@schools.gov.sg](mailto:marvin_chan@schools.gov.sg) |
