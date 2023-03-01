@@ -24,7 +24,7 @@ td, th {
 
 | | | | |
 | :--------: | :--------: | :--------: | :--------: |
-
+| <img src="/images/About%20us/EXCO/Maisarah_3.png" alt="" style="width:200px;height:200px;">Mdm Maisarah Binte Zainal<br>**Head of Department<br>English**<br>[maisarah_zainal_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg) | <img src="/images/About%20us/EXCO/Mary_Chen_3.png" alt="" style="width:200px;height:200px;">Mrs Mary Chen<br>**Head of Department<br>Mathematics**<br>[tong_mary@schools.gov.sg](mailto:tong_mary@schools.gov.sg) | <img src="/images/About%20us/EXCO/Chiang_Te_Hui_3.png" alt="" style="width:200px;height:200px;">Mdm Chiang Te Hui<br>**Head of Department<br>Mother Tongue Languages**<br>[chiang_te_hui@schools.gov.sg](mailto:chiang_te_hui@schools.gov.sg) | <img src="/images/About%20us/EXCO/Joel_Tee_Han_Yun_3.png" alt="" style="width:200px;height:200px;">Mr Tee Han Yun, Joel<br>**Head of Department<br>Science**<br>[tee_han_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg) |
 
 
 | Designation | Name |
