@@ -20,7 +20,7 @@ td, th {
 | :--------: | :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Nicholas_Tan_3.png" alt="" style="width:200px;height:200px;">Mr Nicholas Tan Yew Lee<br>**Vice-Principal (Academic)**<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) | <img src="/images/About%20us/EXCO/Farlinah_2.jpg" alt="" style="width:200px;height:201px;">Mdm Farlinah Supaah<br>**Vice-Principal (Academic)**<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) | <img src="/images/About%20us/EXCO/Johnny_Lee_3.jpg" alt="" style="width:200px;height:200px;">Mr Lee Han Keong<br>**Vice-Principal(Academic)**<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
 
-### **<center>Head of Department (HOD) & Level/Subject Head (LH/SH)</center>**
+### **<center>Heads of Department (HOD)</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
@@ -34,6 +34,11 @@ td, th {
 | Head of Department<br>Physical Education & CCA | Mr Yamalasamy Shanmugiah<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) |
 | Head of Department<br>Special Education Needs & Educational Support | Mdm Kuek Ai Hsiang<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) |
 | School Staff Developer | Mdm Ang Chai Lan, Carine<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
+
+### **<center>Level & Subject Heads (LH/SH)</center>**
+
+| Designation | Name |
+| :--------: | :--------: |
 | Subject Head<br>Tamil Language | Mdm Sivakami d/o Ratha<br>[sivakami_ratha@schools.gov.sg](mailto:sivakami_ratha@schools.gov.sg) |
 | Subject Head<br>Aesthetics (Internal) | Miss Lee Linghui Alcina<br>[lee_linghui_alcina@schools.gov.sg](mailto:lee_linghui_alcina@schools.gov.sg) |
 | Subject Head<br>Student Well-Being (Internal) | Mdm Nurhayati Nasir<br>[nurhayati_nasir@schools.gov.sg](mailto:nurhayati_nasir@schools.gov.sg) |
@@ -43,7 +48,7 @@ td, th {
 | Level Head<br>Mathematics | Miss Bernice Cheng<br>[cheng_xinyi_bernice@schools.gov.sg](mailto:cheng_xinyi_bernice@schools.gov.sg) |
 | Level Head<br>Science | Mrs Eileen Lee<br>[ong_boon_ching_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
 
-### **<center>Year Head & Assistant Year Head</center>**
+### **<center>Year Heads & Assistant Year Heads</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
