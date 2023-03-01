@@ -20,7 +20,7 @@ td, th {
 | :--------: | :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Nicholas_Tan_3.png" alt="" style="width:200px;height:200px;">Mr Nicholas Tan Yew Lee<br>**Vice-Principal (Academic)**<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) | <img src="/images/About%20us/EXCO/Farlinah_2.jpg" alt="" style="width:200px;height:201px;">Mdm Farlinah Supaah<br>**Vice-Principal (Academic)**<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) | <img src="/images/About%20us/EXCO/Johnny_Lee_3.jpg" alt="" style="width:200px;height:200px;">Mr Lee Han Keong<br>**Vice-Principal(Academic)**<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
 
-### **<center>Heads of Department (HOD)</center>**
+### **<center>Heads of Department</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
@@ -35,7 +35,7 @@ td, th {
 | Head of Department<br>Special Education Needs & Educational Support | Mdm Kuek Ai Hsiang<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) |
 | School Staff Developer | Mdm Ang Chai Lan, Carine<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
 
-### **<center>Level & Subject Heads (LH/SH)</center>**
+### **<center>Level & Subject Heads</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
