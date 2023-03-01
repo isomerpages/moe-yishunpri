@@ -25,18 +25,15 @@ td, th {
 | | | |
 | :--------: | :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Maisarah_3.png" alt="" style="width:200px;height:200px;">Mdm Maisarah Binte Zainal<br>**Head of Department<br>English**<br>[maisarah_zainal_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg) | <img src="/images/About%20us/EXCO/Mary_Chen_3.png" alt="" style="width:200px;height:200px;">Mrs Mary Chen<br>**Head of Department<br>Mathematics**<br>[tong_mary@schools.gov.sg](mailto:tong_mary@schools.gov.sg) | <img src="/images/About%20us/EXCO/Chiang_Te_Hui_3.png" alt="" style="width:200px;height:200px;">Mdm Chiang Te Hui<br>**Head of Department<br>Mother Tongue Languages**<br>[chiang_te_hui@schools.gov.sg](mailto:chiang_te_hui@schools.gov.sg) |
-
-| | | |
-| :--------: | :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Joel_Tee_Han_Yun_3.png" alt="" style="width:200px;height:200px;">Mr Tee Han Yun, Joel<br>**Head of Department<br>Science**<br>[tee_han_yun@schools.gov.sg](mailto:tee_han_yun@schools.gov.sg) | <img src="/images/About%20us/EXCO/Sahir_3.png" alt="" style="width:200px;height:200px;">Mr Sahir Abdullah<br>**Head of Department<br>Character & Citizenship Education**<br>[sahir_abdullah@schools.gov.sg](mailto:sahir_abdullah@schools.gov.sg) | <img src="/images/About%20us/EXCO/Steven_Aw_Kian_Chang_3.png" alt="" style="width:200px;height:200px;">Mr Steven Aw Kian Chang<br>**Head of Department<br>Discipline**<br>[steven_aw_kian_chang@schools.gov.sg](mailto:steven_aw_kian_chang@schools.gov.sg) |
 
-| | | |
-| :--------: | :--------: | :--------: |
-| [<img src="/images/About%20us/EXCO/Valencia_Thng_Su_Ying_3.png" alt="" style="width:200px;height:200px;">](mailto:valencia_thng_su_ying@schools.gov.sg)Mrs Valencia Lo<br>**Head of Department<br>Information, Communication & Technology**<br>[valencia_thng_su_ying@schools.gov.sg](mailto:valencia_thng_su_ying@schools.gov.sg) | <img src="/images/About%20us/EXCO/Yamalasamy_3.png" alt="" style="width:200px;height:200px;">Mr Yamalasamy Shanmugiah<br>**Head of Department<br>Physical Education & CCA**<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) | <img src="/images/About%20us/EXCO/Kuek_Ai_Hsiang_3.png" alt="" style="width:200px;height:200px;">Mdm Kuek Ai Hsiang<br>**Head of Department<br>Special Education Needs & Educational Support**<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) |
+| | |
+| :--------: | :--------: |
+| <img src="/images/About%20us/EXCO/Valencia_Thng_Su_Ying_3.png" alt="" style="width:200px;height:200px;">Mrs Valencia Lo<br>**Head of Department<br>Information, Communication & Technology**<br>[valencia_thng_su_ying@schools.gov.sg](mailto:valencia_thng_su_ying@schools.gov.sg) | <img src="/images/About%20us/EXCO/Yamalasamy_3.png" alt="" style="width:200px;height:200px;">Mr Yamalasamy Shanmugiah<br>**Head of Department<br>Physical Education & CCA**<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) | 
 
-| |
-| :--------: |
-| <img src="/images/About%20us/EXCO/Carine_Ang_Chai_Lan_3.png" alt="" style="width:200px;height:200px;">Mdm Ang Chai Lan, Carine<br>**School Staff Developer**<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
+| | |
+| :--------: | :--------: |
+| <img src="/images/About%20us/EXCO/Kuek_Ai_Hsiang_3.png" alt="" style="width:200px;height:200px;">Mdm Kuek Ai Hsiang<br>**Head of Department<br>Special Education Needs & Educational Support**<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) | <img src="/images/About%20us/EXCO/Carine_Ang_Chai_Lan_3.png" alt="" style="width:200px;height:200px;">Mdm Ang Chai Lan, Carine<br>**School Staff Developer**<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
 
 ### **<center>Level & Subject Heads</center>**
 
