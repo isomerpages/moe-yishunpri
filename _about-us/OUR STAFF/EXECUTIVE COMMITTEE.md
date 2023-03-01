@@ -30,9 +30,6 @@ td, th {
 | | |
 | :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Valencia_Thng_Su_Ying_3.png" alt="" style="width:200px;height:200px;">Mrs Valencia Lo<br>**Head of Department<br>Information, Communication & Technology**<br>[valencia_thng_su_ying@schools.gov.sg](mailto:valencia_thng_su_ying@schools.gov.sg) | <img src="/images/About%20us/EXCO/Yamalasamy_3.png" alt="" style="width:200px;height:200px;">Mr Yamalasamy Shanmugiah<br>**Head of Department<br>Physical Education & CCA**<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) | 
-
-| | |
-| :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Kuek_Ai_Hsiang_3.png" alt="" style="width:200px;height:200px;">Mdm Kuek Ai Hsiang<br>**Head of Department<br>Special Education Needs & Educational Support**<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) | <img src="/images/About%20us/EXCO/Carine_Ang_Chai_Lan_3.png" alt="" style="width:200px;height:200px;">Mdm Ang Chai Lan, Carine<br>**School Staff Developer**<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
 
 ### **<center>Level & Subject Heads</center>**
