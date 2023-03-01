@@ -20,15 +20,6 @@ td, th {
 | :--------: | :--------: | :--------: |
 | <img src="/images/About%20us/EXCO/Nicholas_Tan_3.png" alt="" style="width:200px;height:200px;">Mr Nicholas Tan Yew Lee<br>**Vice-Principal (Academic)**<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) | <img src="/images/About%20us/EXCO/Farlinah_2.jpg" alt="" style="width:200px;height:201px;">Mdm Farlinah Supaah<br>**Vice-Principal (Academic)**<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) | <img src="/images/About%20us/EXCO/Johnny_Lee_3.jpg" alt="" style="width:200px;height:200px;">Mr Lee Han Keong<br>**Vice-Principal(Academic)**<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
 
-
-| Designation | Name |
-| :--------: | :--------: |
-| Principal | Mr Mavin Chan<br>[marvin_chan@schools.gov.sg](mailto:marvin_chan@schools.gov.sg) |
-| Vice-Principal<br>(Academic) | Mr Nicholas Tan Yew Lee<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) |
-| Vice-Principal<br>(Academic) | Mdm Farlinah Supaah<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) |
-| Vice-Principal<br>(Administration) | Mr Lee Han Keong<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
-| | |
-
 ### **<center>Head of Department (HOD) & Level/Subject Head (LH/SH)</center>**
 
 | Designation | Name |
