@@ -22,6 +22,11 @@ td, th {
 
 ### **<center>Heads of Department</center>**
 
+| | | | |
+| :--------: | :--------: | :--------: | :--------: |
+
+
+
 | Designation | Name |
 | :--------: | :--------: |
 | Head of Department<br>English | Mdm Maisarah Binte Zainal Abiden<br>[maisarah_zainal_abiden@schools.gov.sg](mailto:maisarah_zainal_abiden@schools.gov.sg) |
