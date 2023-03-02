@@ -49,8 +49,6 @@ td, th {
 
 ### **<center>School Admin Team</center>**
 
-| Designation | Name |
-| :--------: | :--------: |
-| Administration Manager | Mr Lee Meng Hoe<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
-| Administration Manager | Mdm Amanda Woo<br>[Amanda_WOO@schools.gov.sg](mailto:Amanda_WOO@schools.gov.sg) |
-| Operations Manager | Mr Saravanan s/o Sunthiramohan<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
+| | | |
+| :--------: | :--------: | :--------: |
+| <img src="/images/About%20us/EXCO/Lee_Meng_Hoe_3.png" alt="" style="width:200px;height:200px;">Mr Lee Meng Hoe<br>**Administration Manager**<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) | <img src="/images/About%20us/EXCO/Amanda_Woo_3.png" alt="" style="width:200px;height:200px;">Mdm Amanda Woo<br>**Administration Manager**<br>[Amanda_WOO@schools.gov.sg](mailto:Amanda_WOO@schools.gov.sg) | <img src="/images/About%20us/EXCO/Saravanan_3.png" alt="" style="width:200px;height:200px;">Mr Saravanan s/o Sunthiramohan<br>**Operations Manager**<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
