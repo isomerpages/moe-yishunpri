@@ -41,14 +41,11 @@ td, th {
 
 ### **<center>Year Heads & Assistant Year Heads</center>**
 
-| Designation | Name |
+| | |
 | :--------: | :--------: |
-| Year Head<br>(Primary 1 & Primary 2) | Mdm Tong Mun Hwee<br>[tong_mun_hwee@schools.gov.sg](mailto:tong_mun_hwee@schools.gov.sg) |
-|Year Head<br>(Primary 3 & Primary 4) | Mrs Tan Chin Choo, Kelly<br>[tan_chin_choo_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg) |
-| Year Head<br>(Primary 5 & Primary 6) |Mr Ang Liang Tien, Terrance<br>[ang_liang_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg) |
-| Assistant Year Head<br>(Primary 1 & Primary 2) | Ms Yong Hui Wen<br>[yong_hui_wen@schools.gov.sg](mailto:yong_hui_wen@schools.gov.sg) |
-| Assistant Year Head<br>(Primary 3 & Primary 4)<br>(Internal) | Mr V Ilanchezhiyan<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
-| Assistant Year Head<br>(Primary 5 & Primary 6) | Ms Nirmala Arumugam<br>[nirmala_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg) |
+| <img src="/images/About%20us/EXCO/Tong_Mun_Hwee_3.png" alt="" style="width:200px;height:200px;">Mdm Tong Mun Hwee<br>**Year Head<br>(Primary 1 & Primary 2)**<br>[tong_mun_hwee@schools.gov.sg](mailto:tong_mun_hwee@schools.gov.sg) | <img src="/images/About%20us/EXCO/Yong_Hui_Wen_3.png" alt="" style="width:200px;height:200px;">Ms Yong Hui Wen<br>**Assistant Year Head<br>(Primary 1 & Primary 2)**<br>[yong_hui_wen@schools.gov.sg](mailto:yong_hui_wen@schools.gov.sg) |
+| <img src="/images/About%20us/EXCO/Kelly_Tan_3.png" alt="" style="width:200px;height:200px;">Mrs Tan Chin Choo, Kelly<br>**Year Head<br>(Primary 3 & Primary 4)**<br>[tan_chin_choo_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg) | <img src="/images/About%20us/EXCO/V_Ilanchezhiyan_3.png" alt="" style="width:200px;height:200px;">Mr V Ilanchezhiyan<br>**Assistant Year Head<br>(Primary 3 & Primary 4) (Internal)**<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
+| <img src="/images/About%20us/EXCO/Terrance_Ang_3.png" alt="" style="width:200px;height:200px;">Mr Ang Liang Tien, Terrance<br>**Year Head<br>(Primary 5 & Primary 6)**<br>[ang_liang_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg) | <img src="/images/About%20us/EXCO/Nirmala_3.png" alt="" style="width:200px;height:200px;">Ms Nirmala Arumugam<br>**Assistant Year Head<br>(Primary 5 & Primary 6)**<br>[nirmala_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg) |
 
 ### **<center>School Admin Team</center>**
 
