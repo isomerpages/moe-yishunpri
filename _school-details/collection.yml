@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SCHOOL ACTIVITIES/.keep
-      - SCHOOL ACTIVITIES/SCHOOL CALENDAR.md
+      - SCHOOL ACTIVITIES/CALENDAR OF EVENTS.md
       - SCHOOL ACTIVITIES/EXAM SCHEDULE.md
       - SCHOOL RULES AND REGULATIONS.md
       - SCHOOL ATTIRE.md
