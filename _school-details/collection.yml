@@ -2,6 +2,7 @@ collections:
   school-details:
     output: true
     order:
+      - SCHOOL ACTIVITIES/EXAM SCHEDULE.md
       - SCHOOL ACTIVITIES/SCHOOL CALENDAR.md
       - SCHOOL ACTIVITIES/.keep
       - RULES AND REGULATIONS.md
