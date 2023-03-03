@@ -2,6 +2,7 @@ collections:
   school-details:
     output: true
     order:
+      - SCHOOL SERVICES/SCHOOL STUDENT CARE CENTRE.md
       - SCHOOL SERVICES/SCHOOL HEALTHY SET MEALS.md
       - SCHOOL SERVICES/SCHOOL DENTAL CLINIC.md
       - SCHOOL SERVICES/SCHOOL BUS SERVICE.md
