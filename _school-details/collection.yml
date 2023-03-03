@@ -2,6 +2,7 @@ collections:
   school-details:
     output: true
     order:
+      - SCHOOL SERVICES/SCHOOL DENTAL CLINIC.md
       - SCHOOL SERVICES/SCHOOL BUS SERVICE.md
       - SCHOOL SERVICES/SCHOOL BOOKSHOP.md
       - SCHOOL SERVICES/.keep
