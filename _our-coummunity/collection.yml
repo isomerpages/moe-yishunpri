@@ -2,5 +2,6 @@ collections:
   our-coummunity:
     output: true
     order:
+      - SCHOOL ADVISORY COMMITTEE.md
       - EXECUTIVE COMMITTEE.md
       - TEACHING STAFF.md
