@@ -15,10 +15,10 @@ sections:
         - title: School Calendar
           description: All School Events & Holidays
           url: /school-details/school-calendar/
-        - title: For Parents & Students
+        - title: Quick Links
           description: Useful Quick Links
           url: /quick-links/parents-students/
-        - title: For School Staffs
+        - title: Contact us
           description: Useful Quick Links
           url: /quick-links/staff/
   - infopic:
