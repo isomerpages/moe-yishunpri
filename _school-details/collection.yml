@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - SCHOOL ACTIVITIES/.keep
-      - SERVICES IN SCHOOL/SCHOOL ATTIRE.md
       - SERVICES IN SCHOOL/.keep
