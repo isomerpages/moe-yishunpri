@@ -1,4 +1,5 @@
 collections:
   our-staff:
     output: true
-    order: []
+    order:
+      - TEACHING STAFF.md
