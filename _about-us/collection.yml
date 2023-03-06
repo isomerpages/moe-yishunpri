@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - SERVICES IN SCHOOL/.keep
       - SCHOOL ACTIVITIES/.keep
       - VISION MISSION & VALUES.md
       - PRINCIPAL'S MESSAGE.md
