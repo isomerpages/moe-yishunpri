@@ -2,14 +2,14 @@ logo: /images/logo.png
 links:
   - title: ABOUT US
     collection: about-us
-  - title: School Details
-    collection: school-details
-  - title: CCAS
-    collection: ccas
   - title: Departments
     collection: departments
+  - title: CCAS
+    collection: ccas
   - title: Achievements
     collection: achievements
+  - title: School Details
+    collection: school-details
   - title: Partners
     collection: partners
   - title: MK@YPS
