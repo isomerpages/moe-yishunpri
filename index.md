@@ -17,7 +17,7 @@ sections:
           url: /school-details/school-calendar/
         - title: Quick Links
           description: Useful Quick Links
-          url: /quick-links/parents-students/
+          url: /quick-links/
         - title: Contact us
           description: For General Enquiries
           url: /contact-us/
