@@ -21,7 +21,6 @@ sections:
         - title: For School Staffs
           description: Useful Quick Links
           url: /quick-links/staff/
-      title: Welcome to Yishun Primary School
   - infopic:
       title: Vision
       description: Caring School, Confident Learners
