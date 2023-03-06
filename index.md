@@ -19,26 +19,6 @@ sections:
           description: Useful Quick Links
           url: /quick-links/parents-students/
         - title: Contact us
-          description: Useful Quick Links
-          url: /quick-links/staff/
-  - infopic:
-      title: Vision
-      description: Caring School, Confident Learners
-      alt: Image alt text
-  - infopic:
-      title: Mission
-      description: Inspire passion for learning by providing a caring and nurturing
-        environment where leaders of character believe in their abilities to
-        learn and achieve success.
-      alt: Image alt text
-  - infopic:
-      title: School Motto
-      description: Do Our Best & Be The Best
-      alt: Image alt text
-  - infopic:
-      title: Our Core Values
-      description: Gratitude, Care, Resilience, Respect, Responsibility & Integrity
-      alt: Image alt text
-  - infobar:
-      title: Nurturing Confidence Learners
+          description: For General Enquiries
+          url: /contact-us/
 ---
