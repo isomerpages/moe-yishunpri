@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - SCHOOL ACHIEVEMENTS/.keep
       - VISION MISSION & VALUES.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
+      - SCHOOL ACHIEVEMENTS/.keep
       - SCHOOL HOURS.md
       - SCHOOL RULES.md
       - SCHOOL SONG.md
