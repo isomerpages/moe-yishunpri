@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - FAMILY MATTERS@SCHOOL.md
       - VISION AND MISSION.md
       - 2020.md
       - 2019.md
