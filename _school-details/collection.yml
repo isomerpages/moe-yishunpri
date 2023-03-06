@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SCHOOL ACTIVITIES/.keep
-      - SCHOOL ACTIVITIES/EXAM SCHEDULE.md
       - SERVICES IN SCHOOL/SCHOOL ATTIRE.md
       - SERVICES IN SCHOOL/.keep
       - SERVICES IN SCHOOL/SCHOOL BOOKSHOP.md
