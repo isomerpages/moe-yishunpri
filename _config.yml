@@ -3,7 +3,7 @@ url: https://yishunpri.moe.edu.sg
 favicon: /images/faveicon.png
 colors:
   primary-color: "#4399cc"
-  secondary-color: "#4399cc"
+  secondary-color: "#3a6c72"
   media-colors:
     - title: media-color-one
       color: "#3a6c72"
