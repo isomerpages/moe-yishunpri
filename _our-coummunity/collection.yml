@@ -2,9 +2,9 @@ collections:
   our-coummunity:
     output: true
     order:
+      - EXECUTIVE COMMITTEE.md
+      - TEACHING STAFF.md
+      - Partners/.keep
       - Partners/TRIPLE P (POSITIVE PARENTING PROGRAMME).md
       - Partners/PARENT SUPPORT GROUP.md
       - Partners/SCHOOL ADVISORY COMMITTEE.md
-      - Partners/.keep
-      - EXECUTIVE COMMITTEE.md
-      - TEACHING STAFF.md
