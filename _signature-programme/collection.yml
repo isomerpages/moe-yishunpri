@@ -2,5 +2,5 @@ collections:
   signature-programme:
     output: true
     order:
-      - LEARNING FOR LIFE PROGRAMME.md
+      - LEARNING FOR LIFE PROGRAMME (ALP).md
       - APPLIED LEARNING PROGRAMME.md
