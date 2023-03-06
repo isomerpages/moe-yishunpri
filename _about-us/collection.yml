@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - SCHOOL RULES.md
       - VISION MISSION & VALUES.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
