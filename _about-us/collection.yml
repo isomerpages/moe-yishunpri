@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - SERVICES IN SCHOOL/.keep
-      - SCHOOL ACTIVITIES/.keep
       - VISION MISSION & VALUES.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
+      - SCHOOL ACHIEVEMENTS/.keep
       - SCHOOL ACHIEVEMENTS/2023.md
       - SCHOOL ACHIEVEMENTS/2022.md
       - SCHOOL ACHIEVEMENTS/2021.md
-      - SCHOOL ACHIEVEMENTS/.keep
+      - SCHOOL ACTIVITIES/.keep
       - SCHOOL HOURS.md
       - SCHOOL RULES.md
       - SCHOOL SONG.md
+      - SERVICES IN SCHOOL/.keep
