@@ -2,6 +2,7 @@ collections:
   our-coummunity:
     output: true
     order:
+      - PARENT SUPPORT GROUP.md
       - SCHOOL ADVISORY COMMITTEE.md
       - EXECUTIVE COMMITTEE.md
       - TEACHING STAFF.md
