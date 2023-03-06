@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - OUR STAFF/.keep
       - SCHOOL HOURS.md
       - SCHOOL RULES.md
       - VISION MISSION & VALUES.md
