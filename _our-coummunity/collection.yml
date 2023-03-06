@@ -1,5 +1,5 @@
 collections:
-  our-staff:
+  our-coummunity:
     output: true
     order:
       - EXECUTIVE COMMITTEE.md
