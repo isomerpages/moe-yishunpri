@@ -2,6 +2,5 @@ collections:
   our-partners:
     output: true
     order:
-      - SCHOOL ADVISORY COMMITTEE.md
       - PARENT SUPPORT GROUP.md
       - TRIPLE P (POSITIVE PARENTING PROGRAMME).md
