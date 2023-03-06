@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - OUR STAFF/TEACHING STAFF.md
       - OUR STAFF/EXECUTIVE COMMITTEE.md
       - OUR STAFF/.keep
       - SCHOOL HOURS.md
