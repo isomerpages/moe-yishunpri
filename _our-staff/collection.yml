@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - TEACHING STAFF.md
       - EXECUTIVE COMMITTEE.md
