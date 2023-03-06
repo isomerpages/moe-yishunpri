@@ -2,6 +2,7 @@ collections:
   school-details:
     output: true
     order:
+      - SIGNATURE PROGRAMME/.keep
       - SCHOOL ACTIVITIES/.keep
       - SCHOOL ACTIVITIES/CALENDAR OF EVENTS.md
       - SCHOOL ACTIVITIES/EXAM SCHEDULE.md
