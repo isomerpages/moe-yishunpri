@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - OUR STAFF/TEACHING STAFF.md
-      - OUR STAFF/EXECUTIVE COMMITTEE.md
-      - OUR STAFF/.keep
-      - SCHOOL HOURS.md
-      - SCHOOL RULES.md
       - VISION MISSION & VALUES.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
+      - SCHOOL HOURS.md
+      - SCHOOL RULES.md
       - SCHOOL SONG.md
+      - OUR STAFF/.keep
+      - OUR STAFF/TEACHING STAFF.md
+      - OUR STAFF/EXECUTIVE COMMITTEE.md
