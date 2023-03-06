@@ -2,6 +2,6 @@ collections:
   signature-programme:
     output: true
     order:
-      - ELAUNCHPAD.md
-      - LEARNING FOR LIFE PROGRAMME (LLP).md
       - APPLIED LEARNING PROGRAMME (ALP).md
+      - LEARNING FOR LIFE PROGRAMME (LLP).md
+      - ELAUNCHPAD.md
