@@ -1,5 +1,4 @@
 collections:
   school-details:
     output: true
-    order:
-      - SCHOOL ACTIVITIES/.keep
+    order: []
