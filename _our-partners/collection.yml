@@ -1,5 +1,4 @@
 collections:
   our-partners:
     output: true
-    order:
-      - TRIPLE P (POSITIVE PARENTING PROGRAMME).md
+    order: []
