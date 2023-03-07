@@ -4,11 +4,6 @@ permalink: /our-community/partners/psg/
 description: ""
 third_nav_title: Partners
 ---
-
-
-
-
-
 ##### **Our Partners in Education**
 Our PSG plays a key role in supporting many of our school’s programmes and events. They devote quality time to give support to the teachers, all for the betterment of our children’s education journey.
 
@@ -30,4 +25,4 @@ To promote a strong home-school partnership, we would like to invite all parents
 | Co-curricular Activities (CCA) | To provide assistance or professional coaching for competition or performances. |
 | Character and Citizenship Education (CCE) | To support in character building programmes (eg. conduct career sharing/talk to the students) |
 
-![](/images/Partners/PARENT%20SUPPORT%20GROUP/psg.jpg)
+![](/images/Our%20Community/PSG/psg.jpg)
