@@ -1,14 +1,14 @@
 logo: /images/logo.png
 links:
-  - title: ABOUT US
+  - title: About Us
     collection: about-us
   - title: Our Coummunity
     collection: our-coummunity
   - title: Departments
     collection: departments
-  - title: CCAS
+  - title: Co-Curricular Activities
     collection: ccas
-  - title: SIGNATURE PROGRAMME
+  - title: Signature Programme
     collection: signature-programme
   - title: MK@YPS
     collection: mk-at-yps
