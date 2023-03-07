@@ -4,12 +4,7 @@ permalink: /about-us/Services-In-School/school-healthy-set-meals/
 description: ""
 third_nav_title: Services In School
 ---
-
-
-
-
-
-![](/images/School%20Details/SCH_HSM_1.png)
+![](/images/About%20us/Services/Canteen/SCH_HSM_1.png)
 
 Yishun Primary School strongly believes that habits can be cultivated and better shaped in Primary Schools.  
   
@@ -17,4 +12,4 @@ This year, we have launched the Healthy Set Meal Programme in our school canteen
   
 With the introduction of the Healthy Set Meals, pupils will be able to consume a well-balanced meal with the required nutrition intake.
 
-![](/images/School%20Details/SCH_HSM_2.png)
+![](/images/About%20us/Services/Canteen/SCH_HSM_2.png)
