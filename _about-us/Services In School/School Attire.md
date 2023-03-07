@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Services In School
 ---
 ##### **School Uniform**
-<center><img src="/images/About%20us/Services/Attire/uniform_pic.jpg" alt="" style="width:594px;height:673px;">
-*P1 and P2 School Attire*</center>
+<img src="/images/About%20us/Services/Attire/uniform_pic.jpg" alt="" style="width:413px;height:468px;">
+*P1 and P2 School Attire*
 
-![](/images/School%20Details/Sch_uni.jpg)
+<center><img src="/images/About%20us/Services/Attire/Sch_uni.jpg" alt="" style="width:413px;height:283px;">
 *P3 to P6 School Attire*
 
 ##### **PE Attire**
