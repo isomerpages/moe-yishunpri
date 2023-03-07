@@ -4,9 +4,8 @@ permalink: /about-us/Services-In-School/school-attire/
 description: ""
 third_nav_title: Services In School
 ---
-
-
 ##### **School Uniform**
+<img src="/images/About%20Us/Services/Attire/uniform%20pic.jpg" alt="" style="width:300px;height:299px;">
 ![](/images/School%20Details/uniform%20pic.jpg)
 *P1 and P2 School Attire*
 
