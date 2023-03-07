@@ -2,5 +2,4 @@ collections:
   others:
     output: true
     order:
-      - FAMILY MATTERS@SCHOOL.md
       - YPS IN THE NEWS.md
