@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - AESTHETICS.md
+      - Aesthetics.md
       - CHARACTER AND CITIZENSHIP EDUCATION.md
       - DISCIPLINE.md
       - ENGLISH.md
