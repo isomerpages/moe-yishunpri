@@ -2,7 +2,7 @@ collections:
   our-coummunity:
     output: true
     order:
-      - EXECUTIVE COMMITTEE.md
+      - Executive Committee.md
       - PARTNERS/.keep
       - PARTNERS/SCHOOL ADVISORY COMMITTEE.md
       - PARTNERS/PARENT SUPPORT GROUP.md
