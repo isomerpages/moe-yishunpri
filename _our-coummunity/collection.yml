@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Executive Committee.md
-      - PARTNERS/.keep
-      - PARTNERS/SCHOOL ADVISORY COMMITTEE.md
-      - PARTNERS/PARENT SUPPORT GROUP.md
-      - PARTNERS/TRIPLE P (POSITIVE PARENTING PROGRAMME).md
+      - Partners/.keep
+      - Partners/SCHOOL ADVISORY COMMITTEE.md
+      - Partners/PARENT SUPPORT GROUP.md
+      - Partners/TRIPLE P (POSITIVE PARENTING PROGRAMME).md
       - TEACHING STAFF.md
