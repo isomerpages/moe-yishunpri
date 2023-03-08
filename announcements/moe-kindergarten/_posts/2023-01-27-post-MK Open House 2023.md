@@ -6,10 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-![](/images/MK%20YPS/MK%20Open%20House%202023/OH_2023.png)
+![](/images/Announcements/mk/Open_House_2023.png)
 
 Date : Saturday, 18th February 2023
 <br>Time : 9.00am to 1.00pm (Last walk-in @ 12.45pm)
