@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 ---
 ##### **Synopsis**
-Yishun Primary Basketball CCA aims to equip our boys and girls with basketball skills and develop sportsmanship through the rigour of sports training and participation in competitions. Through the Basketball trainings, friendly matches and zonal competitions, our members have developed Basketball skills and core values such as Respect, Resilience &amp; Teamwork.
+Yishun Primary Basketball CCA aims to equip our members with basketball skills and develop sportsmanship through the rigour of sports training and participation in competitions. Through training sessions, friendly matches and zonal competitions, our members picked up Basketball skills and developed the values of Respect and Resilience, and learned to collaborate and work in team.
 
 ##### **Teachers-in-Charge**
 * Miss Fam Xinru Winnie (I/C) (fam_xinru_winnie@schools.gov.sg)
