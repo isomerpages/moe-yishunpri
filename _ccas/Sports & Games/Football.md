@@ -26,16 +26,4 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 
 ##### **Photo Gallery**
 
-
-
-![](/images/CCAs/Football/CCA_Football_2020_1.jpg)
-*Real Madrid Football Academy Invitational Football Clinic 2019*
-
-![](/images/CCAs/Football/CCA_Football_2020_2.jpg)
-*Our football players hard at work*
-
-![](/images/CCAs/Football/CCA_Football_2020_3.jpg)
-*Annual friendly game with Naval Base Primary School*
-
-![](/images/CCAs/Football/CCA_Football_2020_4.jpg)
-*Rain or shine, our football session still goes on*
+<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrS8fExK-elqLODDT78TxKeiJBKsB4vOvpLmxr3OcVSiVqER5smAMWaH-SiACXa4HZWwah2imZ1L1j/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
