@@ -36,26 +36,26 @@ Through meaningful art-making processes, pupils develop their character and grow
 
 <iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtRDfv4taA1-TFMECt88eaUpM5M508CxY2YzWotQxIHZHwCYtiBEfwfUkG7WMH4I5Po0Cfm27xeuXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-##### Our Art Club pupils and their Artworks
+##### **Our Art Club pupils and their Artworks**
 Our Art Club pupils experience pure joy and make wonderful discoveries. They are exposed to various forms and mediums in art such as drawing, painting, mixed media, 3D assemblage, collage as well as craft throughout the art-making processes.
 
 Our pupils got creative and had fun making paper bags. They also learnt to create interesting designs such as making the bag handles look like the shoe laces from the shoe graphics on the bag!
 
-##### Upcycling
+##### **Upcycling**
 In line with our school’s Applied Learning Programme (ALP), pupils engage themselves in Upcycling where “unrecyclable” waste is turned into something of value. They learn to create art with items of waste and their final products can be impressive.
 
-##### Learning Journeys
+##### **Learning Journeys**
 
 We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.
 
-##### ART is Everywhere!
+##### **ART is Everywhere!**
 We believe that Art is everywhere. Therefore, our Art club experiences are not confined to the classroom context per se. Our pupils have the opportunities to go on learning journeys to understand and gain greater awareness of the importance of the role of art in our environment and society.
 
 During one of our learning journeys, our pupils made their first attempts at Urban Sketching. They thoroughly enjoyed practising drawing on location at the Singapore Art Museum.
 
 In April this year, our pupils also went to Orchid Park Secondary School and learnt about Digital Art and Print-making under the Direct School Admission (DSA) Out Reach Programme.
 
-##### Moving Forward and Values Inculcation through Art Club
+##### **Moving Forward and Values Inculcation through Art Club**
 
 It is the mission of the Art Club to stimulate and nurture the spirit of exploring and love for Art in the pupils. The Art Club provides a nurturing environment where teachers fan pupils’ passion for Art as they are given the space to express themselves creatively. We also aim to inculcate in our pupils the importance of perseverance, excellence and independence as they strive to complete every piece of artwork. They are constantly encouraged to do their best and be the best!
 
