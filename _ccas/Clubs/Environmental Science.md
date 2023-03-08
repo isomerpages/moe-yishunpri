@@ -24,6 +24,6 @@ Environmental Science aims to develop students into environmental champions, whe
 * **2018 Elementz Science Project Competition and Exhibition** - Silver, Certificate of Commendation
 * **2018 National Youth Upcycling Movement (NYUM)** – 3 Silver Awards
 
-##### **<center>Photo Gallery</center>**
+##### **Photo Gallery**
 
 <iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPnkjizGLw-9FSHyljtDoySbR0tPBFen89fE62JayMmE4Y0JJryyW_a8fLXu_ITiRuaOk5IFSKgwYC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
