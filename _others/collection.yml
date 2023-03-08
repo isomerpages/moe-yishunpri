@@ -1,5 +1,4 @@
 collections:
   others:
     output: true
-    order:
-      - YPS IN THE NEWS.md
+    order: []
