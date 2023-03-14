@@ -7,7 +7,7 @@ permalink: /
 notification: "Notice: We are currently upgrading our school website to serve you better."
 sections:
   - hero:
-      background: /images/Homepage/Test_HeroPic_4.gif
+      background: /images/homepage.gif
       key_highlights:
         - title: Annoucements
           description: View All Announcements
