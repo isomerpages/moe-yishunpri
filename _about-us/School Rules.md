@@ -3,11 +3,7 @@ title: School Rules
 permalink: /about-us/school-rules/
 description: ""
 ---
-
-
-
-
-##### **General Rules**
+### **<center>General Rules</center>**
 1. Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the pledge with the right fist placed over the heart.
 2. Pupils are to wear the prescribed school uniform.
 3. Male pupils must be neat in appearance, clean-shaven and **<u>no facial hair is allowed.</u>**
@@ -18,7 +14,7 @@ description: ""
 8. Pupils must be punctual and courteous at all times.
 9. Pupils must be well-behaved both within and outside the school.
 
-##### **Attire for Pupils**
+### **<center>Attire for Pupils</center>**
 ##### **School Uniform**
 1. Pupils are to wear the prescribed school uniform and modification to the uniform IS NOT ALLOWED.
 2. School blouse / shirt sleeves should not be rolled up.
@@ -33,7 +29,7 @@ description: ""
 2. School’s black socks or plain black socks must be worn at all times.
 3. No ankle socks or long socks are allowed.
 
-##### **Appearance for Boys**
+### **<center>Appearance for Boys</center>**
 ##### **Hair**
 1. Hair must be short and neatly combed.
 2. Hair must not touch the collar of the uniform.
@@ -49,7 +45,7 @@ description: ""
 4. Only simple watches and spectacles frame (without fanciful designs) are allowed
 5. Tinted or coloured spectacle lenses are not allowed.
 
-##### **Appearance for Girls**
+### **<center>Appearance for Girls</center>**
 ##### **Hair**
 1. Short hair should be neatly combed.
 2. Hair that reaches beneath the collar should be neatly plaited or tied up in a ponytail.
@@ -68,14 +64,14 @@ description: ""
 8. Ear studs must be identical.
 9. Any other jewellery is not to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
 
-##### **Use of Mobile Devices**
+### **<center>Use of Mobile Devices</center>**
 1. Pupils are not encouraged to bring smartphones or smartwatches to school.
 2. If there is a need to bring a mobile device, it must be switched off and kept safely at all times.
 
-##### **Usage of phone within school compound**
+### **<center>Usage of phone within school compound</center>**
 1. Pupils can make phone calls only during dismissal time to arrange for family members to pick them up from school.
 2. Pupils can only make calls with teachers’ permission and supervision.
 
-##### **Possible consequences if pupils are found using mobile devices**
+### **<center>Possible consequences if pupils are found using mobile devices</center>**
 1. Teachers would remind pupils to put away the mobile devices.
 2. Teachers to inform parents that pupils are using mobile devices inappropriately.
