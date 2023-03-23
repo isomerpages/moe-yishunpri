@@ -19,4 +19,4 @@ description: ""
 
 <p style="text-align: justify;">Yishun Primary School has been a school of choice amongst families in the neighbourhood. Places during the Primary One Registration Exercises, allocated by the ministry, were fully taken up every year. The school will continue to work with the parents, PSG and other stakeholders to excite, engage and inspire our pupils for the future.</p>
 
-<center><iframe width="686" height="386" src="https://www.youtube.com/embed/xgLMrqhmrGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="792" height="445" src="https://www.youtube.com/embed/xgLMrqhmrGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
