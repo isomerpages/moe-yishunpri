@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Calendar.md
       - Vision Mission & Values.md
       - School History.md
       - School Song.md
@@ -15,4 +14,5 @@ collections:
       - Services In School/School Dental Clinic.md
       - Services In School/School Healthy Set Meals.md
       - Services In School/School Student Care Centre.md
+      - Calendar.md
       - School Activities/.keep
