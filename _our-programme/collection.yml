@@ -2,8 +2,8 @@ collections:
   our-programme:
     output: true
     order:
-      - Co Curricular Activites (CCA).md
-      - Signature Programme/.keep
-      - Student Development.md
-      - Curriculum.md
       - YPS Experience.md
+      - Curriculum.md
+      - Student Development.md
+      - Signature Programme/.keep
+      - Co Curricular Activites (CCA).md
