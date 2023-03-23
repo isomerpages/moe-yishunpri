@@ -14,7 +14,7 @@ sections:
           url: /announcements/
         - title: School Calendar
           description: All School Events & Holidays
-          url: /about-us/School-Activities/calendar-of-events/
+          url: /about-us/calendar/
         - title: Quick Links
           description: Useful Quick Links
           url: /quick-links/parents-students/
