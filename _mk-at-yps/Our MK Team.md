@@ -22,8 +22,8 @@ td, th {
 | -------- | -------- |
 | <img src="/images/MK%20YPS/MK%20Staff/Ms_Hazimah.png" alt="" style="width:200px;height:235px;"> | <br><br>Ms Siti Nurhazimah Binte Mohd Ebrahim<br><br>***“It takes a big heart to shape little minds”*** <br>*- Unknown* <br><br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
 | <img src="/images/MK%20YPS/MK%20Staff/Mr_Vishnu.png" alt="" style="width:200px;height:235px;"> | <br><br>Mr Vishnu Ram Poobalasingam<br><br>***“Children learn as they play. Most importantly, in play children learn how to learn”*** <br>*– O Fred Donaldson* <br><br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
-| Picture | <br><br>***“Education is not the filling of a pail, but the lighting of a fire”.*** <br>*– W.B. Yeats* <br><br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
-| Picture | <br><br>***“When one teaches, two learn.”*** <br>*- Robert Heinlein* <br><br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
+| <img src="/images/MK%20YPS/MK%20Staff/Ms_Nikki.png" alt="" style="width:200px;height:235px;"> | <br><br>Ms Nikki Sabrina Binte Jamaluddin<br><br>***“Education is not the filling of a pail, but the lighting of a fire”.*** <br>*– W.B. Yeats* <br><br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
+| <img src="/images/MK%20YPS/MK%20Staff/Ms_Aqilah.png" alt="" style="width:200px;height:235px;"> | <br><br>Ms Aqilah Sharafanah Binte Samsudin<br><br>***“When one teaches, two learn.”*** <br>*- Robert Heinlein* <br><br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
 | | |
 
 ### **<center>Mother Tongue Language MK Teachers</center>**
