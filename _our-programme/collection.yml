@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - Signature Programme/.keep
       - Student Development.md
       - Curriculum.md
       - YPS Experience.md
