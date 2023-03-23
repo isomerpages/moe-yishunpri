@@ -3,13 +3,11 @@ title: School Advisory Committee
 permalink: /our-community/sac/
 description: ""
 ---
-
-
-
-
-
-
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | **Chairman** |
 | :--------: |
