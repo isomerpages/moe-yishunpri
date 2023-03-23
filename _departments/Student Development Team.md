@@ -3,8 +3,6 @@ title: Student Development Team
 permalink: /departments/sdt/
 description: ""
 ---
-
-
 ##### **Belief**
 Every Child Matters
 
@@ -37,17 +35,11 @@ The school has embarked on the TRANSIT programme from this year. TRANSIT provide
 Our school uses the Tiered System of Support Framework to identify and provide the necessary support to cater to the specific needs of students. This ranges from withdrawal sessions to developing specific skills and counselling sessions.  
 
 Some examples of specialized programmes organized for specific groups of students include:
-* Play Therapy
 * Speech and Language Therapy
-* Art Therapy
-* Colour Therapy
 * Horse Therapy
 
-![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT6.png) 
-*Play Therapy Room*
-
 ![](/images/Departments/STUDENT%20DEVELOPMENT%20TEAM/SDT7.png)
-*Horse Therapy*
+*<center>Horse Therapy</center>*
 
 ##### **Engaging Parents**
 To foster strong, meaningful partnership and promote Home-School collaboration, the school organises Parents Engagement sessions. These sessions enable parents to have a better understanding of the curriculum and programmes in the various levels. These sessions also include sharing by Form teachers and Co-Form teachers on classroom matters.
