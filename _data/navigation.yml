@@ -4,11 +4,9 @@ links:
     collection: about-us
   - title: Our Coummunity
     collection: our-coummunity
-  - title: Departments
-    collection: departments
-  - title: Co-Curricular Activities
-    collection: ccas
-  - title: Signature Programme
-    collection: signature-programme
+  - title: Our Programme
+    collection: our-programme
+  - title: Our Achievements
+    collection: our-achievements
   - title: MK@YPS
     collection: mk-at-yps
