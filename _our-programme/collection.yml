@@ -2,4 +2,5 @@ collections:
   our-programme:
     output: true
     order:
+      - Curriculum.md
       - YPS Experience.md
