@@ -13,7 +13,7 @@ td, th {
 
 | | |
 | -------- | -------- |
-| <img src="/images/MK%20Staff/EXCO/2023/Mr_Marvin_Chan.jpg" alt="" style="width:250px;height:294px;"> | <br><br>**Deputy Centre Head**<br><br>***When we follow our curiosity, we discover new possibilities.*** <br><br>[mayuri_loganathan@moe.edu.sg](mailto:mayuri_loganathan@moe.edu.sg) |
+| <img src="/images/MK%20YPS/MK%20Staff/Ms_Mayuri.png" alt="" style="width:250px;height:294px;"> | <br><br>**Deputy Centre Head**<br><br>***When we follow our curiosity, we discover new possibilities.*** <br><br>[mayuri_loganathan@moe.edu.sg](mailto:mayuri_loganathan@moe.edu.sg) |
 | | |
 
 ### **<center>English MK Teachers</center>**
