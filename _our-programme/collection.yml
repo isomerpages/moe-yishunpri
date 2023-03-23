@@ -2,6 +2,7 @@ collections:
   our-programme:
     output: true
     order:
+      - Co Curricular Activites (CCA).md
       - Signature Programme/.keep
       - Student Development.md
       - Curriculum.md
