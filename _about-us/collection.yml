@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Vision Mission & Values.md
-      - Our History.md
+      - School History.md
       - School Activities/.keep
       - School Activities/Calendar Of Events.md
       - School Hours.md
