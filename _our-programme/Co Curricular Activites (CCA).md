@@ -20,7 +20,7 @@ Writing up in progress...
 ### **Uniformed Groups**
 * [Scouts](/ccas/Uniformed-Groups/scouts)
 
-### **Visual & Performing Arts
+### **Visual & Performing Arts**
 * [Art & Crafts](/ccas/Visual-and-Performing-Arts/art-and-crafts)
 * [Chinese Dance](/ccas/Visual-and-Performing-Arts/chinese-dance)
 * [Concert Band](/ccas/Visual-and-Performing-Arts/concert-band)
