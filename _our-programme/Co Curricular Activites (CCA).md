@@ -3,8 +3,7 @@ title: Co Curricular Activites (CCA)
 permalink: /our-programme/cca/
 description: ""
 ---
-# Write-up for CCA in overall
-Writing up in progress...
+Updating in progress for write-up
 
 ### **Clubs & Societies**
 * [English, Drama & Debating](/ccas/clubs/el-club)
