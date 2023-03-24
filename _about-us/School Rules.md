@@ -4,23 +4,26 @@ permalink: /about-us/school-rules/
 description: ""
 ---
 ### **<center>General Rules</center>**
-1. Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the pledge with the right fist placed over the heart.
-2. Pupils are to wear the prescribed school uniform.
-3. Male pupils must be neat in appearance, clean-shaven and **<u>no facial hair is allowed.</u>**
-4. Pupils must always be properly and neatly attired at all times.
-5. All pupils are not allowed to have in their possession any weapon. They are also not allowed to bring weapon-like item which is used or intended to be used to cause harm to others.
-6. Pupils are to take care of school property.
-7. Pupils are not allowed to leave the school during school hours without permission.
-8. Pupils must be punctual and courteous at all times.
-9. Pupils must be well-behaved both within and outside the school.
+1. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the pledge with the right fist placed over the heart.
+2. Students are to wear the prescribed school uniform and modification to the uniform **<u>is not allowed</u>**.
+3. Male students must be neat in appearance, clean-shaven and **<u>no facial hair is allowed</u>**.
+4. All students are not allowed to have in their possession of any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+5. Students must always be properly and neatly attired at all times.
+6. Students must be punctual and courteous at all times.
+7. Students are to take care of school property.
+8. Students must be well-behaved both within and outside the school.
+9. Students are not allowed to leave the school during school hours without permission.
+10. To avoid distractions from mobile devices, students are not encouraged to bring devices such as smartphones or smartwatches to school. If there is a need to bring such devices, they must be switched off and kept safely at all times. Students should only make urgent calls with their teachers' permission or supervision. All mobile devices should be kept before tests/examinations.
 
 ### **<center>Attire for Pupils</center>**
 ##### **School Uniform**
-1. Pupils are to wear the prescribed school uniform and modification to the uniform IS NOT ALLOWED.
-2. School blouse / shirt sleeves should not be rolled up.
+1. School blouse/shirt sleeves should not be rolled up.
+2. Students are to wear the prescribed school uniform and any modification to the uniform **<u>is not allowed</u>**.
+3. Name tags must be sewn above the school badge on the school uniforms.
+4. Girls' culottes are to be at least knee-length long.
 
 ##### **PE Attire**
-1. Pupils are to be attired in their PE T-shirts and brown PE shorts during PE lessons. (P3 to P6 pupils)
+1. Students are to be attired in their PE T-shirts and brown PE shorts during PE lessons. (P3 to P6 pupils)
 2. Name tags must be sewn above the school badge on the PE T-shirts.
 3. PE T-shirts must always be neatly tucked in.
 
