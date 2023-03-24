@@ -29,9 +29,8 @@ description: ""
 4. PE T-shirts must always be neatly tucked in.
 
 ##### **Shoes and Socks**
-1. Only plain black shoes are allowed in school.
-2. School’s black socks or plain black socks must be worn at all times.
-3. No ankle socks or long socks are allowed.
+1. Only plain black shoes with laces or velcro strap are allowed in school.
+2. Only black socks must be worn at all times.
 
 ### **<center>Appearance for Boys</center>**
 ##### **Hair**
