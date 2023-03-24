@@ -24,8 +24,9 @@ description: ""
 
 ##### **PE Attire**
 1. Students are to be attired in their PE T-shirts and brown PE shorts during PE lessons. (P3 to P6 pupils)
-2. Name tags must be sewn above the school badge on the PE T-shirts.
-3. PE T-shirts must always be neatly tucked in.
+2. P1 and P2 students are allowed to be in their PE attire on days when they have PE lessons.
+3. Name tags must be sewn above the school badge on the PE T-shirts.
+4. PE T-shirts must always be neatly tucked in.
 
 ##### **Shoes and Socks**
 1. Only plain black shoes are allowed in school.
