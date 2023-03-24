@@ -3,7 +3,6 @@ title: The MK Experience
 permalink: /mk-at-yps/the-mk-experience/
 description: ""
 ---
-
 ##### **Our Curriculum**
 Our curriculum is specially designed based on [MOE’s Nurturing Early Learners (NEL) Framework](https://www.nel.moe.edu.sg/).
 
@@ -48,15 +47,15 @@ Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-
 
 ##### **Want to find out more about our MK experience? Click on the videos below to watch!**
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R636jFF7S28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="792" height="445" src="https://www.youtube.com/embed/R636jFF7S28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mghZCHtKNXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="792" height="445" src="https://www.youtube.com/embed/mghZCHtKNXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LockyOmaNB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="792" height="445" src="https://www.youtube.com/embed/LockyOmaNB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
