@@ -44,13 +44,13 @@ description: ""
 ##### **Nails and Accessories**
 1. Nails should be clean and short.
 2. Piercing of ear is not allowed.
-3. No jewellery is to be worn. (eg. Necklace, ring, anklet, bracelet etc.
+3. No jewellery is to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
 4. Only simple watches and spectacles frame (without fanciful designs) are allowed
 5. Tinted or coloured spectacle lenses are not allowed.
 
 ### **<center>Appearance for Girls</center>**
 ##### **Hair**
-1. Short hair should be neatly combed.
+1. Hair must be short and neatly combed.
 2. Hair that reaches beneath the collar should be neatly plaited or tied up in a ponytail.
 3. Fringe should be above the eyebrows and should be secured with a flat hairclip or a hairband.
 4. Hair accessories should be in black or dark brown.
@@ -59,13 +59,12 @@ description: ""
 ##### **Nails / Accessories / Cosmetics makeup / Jewellery**
 1. Nails should be clean and short.
 2. No nails polish or gloss is allowed.
-3. No makeup should be put on.
-4. Only simple watches and spectacles frame (without fanciful designs) are allowed.
-5. Tinted or coloured spectacle lenses are not allowed.
-6. Only one ear stud on each ear is allowed.
-7. Ear studs worn must be of simple design.
-8. Ear studs must be identical.
-9. Any other jewellery is not to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
+3. Only one ear stud on each ear is allowed.
+4. Ear studs worn must be of simple design.
+5. Ear studs must be identical.
+6. Any other jewellery is not to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
+8. Only simple watches and spectacles frame (without fanciful designs) are allowed.
+9. Tinted or coloured spectacle lenses are not allowed.
 
 ### **<center>Use of Mobile Devices</center>**
 1. Pupils are not encouraged to bring smartphones or smartwatches to school.
