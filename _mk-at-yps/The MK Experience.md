@@ -4,9 +4,7 @@ permalink: /mk-at-yps/the-mk-experience/
 description: ""
 ---
 ##### **Our Curriculum**
-Our curriculum is specially designed based on <a href="https://www.nel.moe.edu.sg/" target="_blank">MOE’s Nurturing Early Learners (NEL) Framework</a>
-
-[MOE’s Nurturing Early Learners (NEL) Framework](https://www.nel.moe.edu.sg/).
+Our curriculum is specially designed based on <a href="https://www.nel.moe.edu.sg/" target="_blank">MOE’s Nurturing Early Learners (NEL) Framework</a>.
 
 It comprises of 2 flagship programmes, the **HI-Light Programme** and **Starlight Literacy Programme for English and MTL**. In addition, each term at MK will conclude in a **Weeks of Wonder project**.
 
@@ -14,7 +12,7 @@ It comprises of 2 flagship programmes, the **HI-Light Programme** and **Starligh
 **<u>Holistic development through an Integrated approach to learning</u>**
 <br>The HI-Light Programme supports the holistic development of children through an integrated approach to learning. It ignites the joy of learning in children. As children learn holistically from their experiences and do not compartmentalise what they learn, the learning experiences in the HI-Light Programme are planned as a whole to help children make sense of the world around them.
 
-Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light) to know more about Hi-light programme!
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light" target="_blank">here</a> to know more about Hi-light programme!
 
 ![](/images/MK%20YPS/The%20MK%20Experience/MK_Experience_01.jpg)
 
