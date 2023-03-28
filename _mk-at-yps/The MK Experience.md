@@ -22,7 +22,7 @@ Language learning is made fun for children through the use of a rich variety of 
 
 ![](/images/MK%20YPS/The%20MK%20Experience/MK_Experience_02.jpg)
 
-Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight) to find out more about the Starlight programmes.
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank">here</a> to find out more about the Starlight programmes.
 
 ##### **Weeks of Wonder (WoW) projects!**
 To deepen children’s learning, each term culminates in a WoW project. Children work together with their friends and teachers to investigate topics of their interest. Through the WoW projects, children experience the joy of self-motivated learning and find answers to their questions.
@@ -32,7 +32,7 @@ These experiences seek to:
 * Develop process skills as children gather information from different sources and communicate their findings; and
 * Promote communication skills as children carry out WoW projects in English and their Mother Tongue Languages.
 
-Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder) to find out more about the WOW project!
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">here</a> to find out more about the WOW project!
 
 ##### **MOE KINDERGARTEN BROCHURES**
 <img src="/images/MK%20YPS/The%20MK%20Experience/MK_Brochure.png" alt="MK Brochure" style="float:left;margin-right:25px;width:250px;height:353px;">Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!
