@@ -3,7 +3,6 @@ title: About Us
 permalink: /mk-at-yps/About-Us/
 description: ""
 ---
-
 ![MOE Kindergarten](/images/MK%20YPS/MOE%20Kindergarten%20Logo.jpg)
 We offer 4-hour programme for K1 this Year 2023.
 <br>You can choose from the following options (subject to availability):
@@ -37,8 +36,8 @@ Full day MK & KCare programme:
 |5.00 pm to 7.00 pm|KCare|
 | | |
 
-For more information on MOE Kindergarten and our curriculum, you may wish to visit the [MOE kindergarten website](https://www.moe.gov.sg/preschool/moe-kindergarten) to find out more.
+For more information on MOE Kindergarten and our curriculum, you may wish to visit the <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" target="_blank">MOE kindergarten website</a> to find out more.
 
-For registration, fill in our [MK@Yishun waitlist form](https://form.gov.sg/61c3c7951c62de001219aa38).
+For registration, fill in our <a href="https://form.gov.sg/61c3c7951c62de001219aa38" target="_blank">MK@Yishun waitlist form</a>.
 
 For enquiries or questions please email us at [mk_yishun@moe.edu.sg](mailto:mk_yishun@moe.edu.sg).
