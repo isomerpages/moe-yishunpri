@@ -2,9 +2,9 @@ collections:
   our-coummunity:
     output: true
     order:
-      - Support Staff.md
       - Executive Committee.md
       - Teaching Staff.md
+      - Support Staff.md
       - Parents/.keep
       - Parents/Parent Support Group.md
       - Parents/Triple P (Positive Parenting Programme).md
