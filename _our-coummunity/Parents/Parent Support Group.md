@@ -4,8 +4,6 @@ permalink: /our-community/parents/psg/
 description: ""
 third_nav_title: Parents
 ---
-
-
 ##### **Our Partners in Education**
 Our PSG plays a key role in supporting many of our school’s programmes and events. They devote quality time to give support to the teachers, all for the betterment of our children’s education journey.
 
@@ -16,7 +14,7 @@ Our PSG plays a key role in supporting many of our school’s programmes and eve
 *   Promotes well-being and good values in our pupils
 *   Encourages other parents to join the PSG to ensure sustainability of home-school partnership
 
-To promote a strong home-school partnership, we would like to invite all parents to join our Parents Support Group (PSG). Please complete [this application](https://form.gov.sg/5ff29766d9174700125b68d6) by **12 January 2023** to register your interest. 
+To promote a strong home-school partnership, we would like to invite all parents to join our Parents Support Group (PSG). Please complete <a href="https://form.gov.sg/5ff29766d9174700125b68d6" target="_blank">this application</a> by **12 January 2023** to register your interest. 
 
 ##### **Areas of Involvement**
 
