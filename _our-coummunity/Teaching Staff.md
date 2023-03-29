@@ -3,10 +3,6 @@ title: Teaching Staff
 permalink: /our-community/teaching-staff/
 description: ""
 ---
-
-
-
-
 ### **<center>Primary 1</center>**
  
 | Class | Form Teachers |
@@ -81,7 +77,7 @@ description: ""
 
 ### **<center>Non-Form Teachers</center>**
 
-| | |
+| Name | Email |
 |:-----------------:|:------------------:|
 | Mrs Adelene Hong | [hong\_eng\_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg) |
 | Mrs Eileen Lee | [ong\_boon\_ching\_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
