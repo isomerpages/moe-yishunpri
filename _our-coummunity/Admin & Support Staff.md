@@ -3,7 +3,6 @@ title: Admin & Support Staff
 permalink: /our-coummunity/admin-staff/
 description: ""
 ---
-
 ### **<center>School Admin Team</center>**
 
 | Name | Designation | Email |
@@ -20,3 +19,11 @@ description: ""
 | | |
 
 ### **<center>Support Staff</center>**
+
+| Name | Designation |
+| ----------------- | :------------------: |
+| Ms Zahirah Binte Zulkefli | Librarian |
+| Mdm Lui Lee Lian | Science Lab Technician |
+| Ms Cynthia Tan | Office Receptionist |
+| Mr Pek Jian Jie Jeffery | Desktop Engineer |
+| Mdm Nagalakshmi | Desktop Engineer |
