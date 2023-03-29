@@ -3,6 +3,9 @@ title: Support Staff
 permalink: /our-coummunity/support-staff/
 description: ""
 ---
-Updating in progress
+### **<center>School Admin Team</center>**
 
-For consideration
+| Name | Designation | Email |
+| ----------------- | :------------------: | :-----------------: |
+| Mr Lee Meng Hoe | Administration Manager | [LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
+| Mdm Amanda Woo | Administration Manager | [Amanda_WOO@schools.gov.sg](mailto:Amanda_WOO@schools.gov.sg) |
