@@ -21,9 +21,14 @@ description: ""
 ### **<center>Support Staff</center>**
 
 | Name | Designation |
-| ----------------- | :------------------: |
+| :-----------------: | :------------------: |
 | Ms Zahirah Binte Zulkefli | Librarian |
 | Mdm Lui Lee Lian | Science Lab Technician |
 | Ms Cynthia Tan | Office Receptionist |
 | Mr Pek Jian Jie Jeffery | Desktop Engineer |
 | Mdm Nagalakshmi | Desktop Engineer |
+| Mr Chow Yew Meng | Operation Support |
+| Mdm Mariam Bee Bee | Operation Support Officer |
+| Mdm Rabiah Makmor | Operation Support Officer |
+| Mdm Wong Kwee Fong | Operation Support Officer |
+| Mr Lim Jiew Wang | Operation Support Officer |
