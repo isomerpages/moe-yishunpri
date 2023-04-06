@@ -2,6 +2,7 @@ collections:
   yps-experience:
     output: true
     order:
+      - Curriculum/Mathematics.md
       - Curriculum/English.md
       - Curriculum/.keep
       - Student Development/.keep
