@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Curriculum.md
-      - Student Development/Character and Citizenship Education (CCE).md
-      - Student Development/.keep
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme (ALP).md
       - Signature Programme/Learning For Life Programme (LLP).md
