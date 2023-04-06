@@ -30,5 +30,3 @@ td, th {
 <br>Contact number : 6753 1489
 <br>Address : 604 Sembawang Road Sembawang Shopping Centre #02-13
 <br>Business Hour : 11.30am – 8pm (Daily)
-
-Click [here](/files/Others/sch_uniforms.pdf) to download Price List
