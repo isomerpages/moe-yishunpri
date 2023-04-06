@@ -2,6 +2,7 @@ collections:
   yps-experience:
     output: true
     order:
+      - Curriculum.md
       - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/.keep
       - Signature Programme/.keep
