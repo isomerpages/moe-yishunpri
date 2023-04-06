@@ -2,8 +2,8 @@ collections:
   yps-experience:
     output: true
     order:
-      - Student Development.md
       - Curriculum.md
+      - Student Development.md
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme (ALP).md
       - Signature Programme/Learning For Life Programme (LLP).md
