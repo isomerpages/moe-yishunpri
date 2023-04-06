@@ -2,14 +2,14 @@ collections:
   yps-experience:
     output: true
     order:
-      - Curriculum/Programme for Active Learning (PAL).md
-      - Curriculum/Aesthetics.md
-      - Curriculum/Physical Education (PE).md
-      - Curriculum/Mother Tongue.md
-      - Curriculum/Science.md
-      - Curriculum/Mathematics.md
-      - Curriculum/English.md
       - Curriculum/.keep
+      - Curriculum/English.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Mother Tongue.md
+      - Curriculum/Physical Education (PE).md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Programme for Active Learning (PAL).md
       - Student Development/.keep
       - Signature Programme/.keep
       - Signature Programme/Applied Learning Programme (ALP).md
