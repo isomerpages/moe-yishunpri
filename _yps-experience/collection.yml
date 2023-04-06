@@ -2,7 +2,6 @@ collections:
   yps-experience:
     output: true
     order:
-      - YPS Experience.md
       - Curriculum.md
       - Student Development.md
       - Signature Programme/.keep
