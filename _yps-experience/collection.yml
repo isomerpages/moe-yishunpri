@@ -2,14 +2,6 @@ collections:
   yps-experience:
     output: true
     order:
-      - Curriculum/.keep
-      - Curriculum/English.md
-      - Curriculum/Mathematics.md
-      - Curriculum/Science.md
-      - Curriculum/Mother Tongue.md
-      - Curriculum/Physical Education (PE).md
-      - Curriculum/Aesthetics.md
-      - Curriculum/Programme for Active Learning (PAL).md
       - Student Development/Character and Citizenship Education (CCE).md
       - Student Development/.keep
       - Signature Programme/.keep
