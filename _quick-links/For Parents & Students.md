@@ -5,7 +5,7 @@ description: ""
 ---
 ##### **Useful Links For Parents**
 
-* 2023 Approved MT Dictionary for PSLE 
+* [List of Approved Dictionaries for use in 2023 PSLE](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
 * [Cyber Wellness Guide For Parents](https://file.for.edu.sg/yps-cw-safe-smart-online.pdf)
 * [Cyber Wellness Tip Sheet For Parents](https://file.for.edu.sg/yps-cw-tip-sheet.pdf)
 * [MOE Sexuality Education 2023](/moe-sexuality-education)
