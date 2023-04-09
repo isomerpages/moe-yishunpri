@@ -1,5 +1,5 @@
 ---
-title: Vision Mission & Values
+title: Vision Mission &amp; Values
 permalink: /about-us/vision-mission-and-values/
 description: ""
 ---
@@ -21,10 +21,10 @@ description: ""
 <center>Our students are resilient when they have emotional strength and persevere in the face of challenges. They have manifest courage, optimism, adaptability and resourcefulness.</center>
 
 #### **<center>Respect</center>**
-<center>Our Students are respectful when they appreciate diversity, believing in their self-worth and the intrinsic worth of people.</center>
+<center>Our students are respectful when they appreciate diversity, believing in their self-worth and the intrinsic worth of people.</center>
 
 #### **<center>Responsibility</center>**
-<center>Our Students are responsible when they recognize they have a duty to themselves, their family, school, community, nation and the world, and fulfill their responsibilities love and commitment.</center>
+<center>Our students are responsible when they recognize they have a duty to themselves, their family, school, community, nation and the world, and fulfill their responsibilities love and commitment.</center>
 
 #### **<center>Integrity</center>**
 <center>Our students are persons of integrity when they uphold ethical principles and have the moral courage to do what is right; even when no one is watching.</center>
