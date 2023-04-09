@@ -3,7 +3,7 @@ title: Co Curricular Activites (CCA)
 permalink: /yps-experience/cca/
 description: ""
 ---
-Updating in progress for write-up
+Updating in progress for write-up.
 
 ### **Clubs & Societies**
 * [English, Drama & Debating](/ccas/clubs/el-club)
