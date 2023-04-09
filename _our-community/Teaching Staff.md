@@ -80,8 +80,9 @@ description: ""
 | Name | Email |
 |:-----------------:|:------------------:|
 | Mrs Adelene Hong | [hong\_eng\_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg) |
+| Ms Chua Mei Ling | [chua_mei_ling_b@schools.gov.sg](mailto:chua_mei_ling_b@schools.gov.sg) |
 | Mrs Eileen Lee | [ong\_boon\_ching\_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
-| Mdm Goh Zi Wei | [goh\_zi\_wei@schools.gov.sg](mailto:goh_zi_wei@schools.gov.sg) |
+|  ||
 | Mdm Ng Mei Ling - Mrs Tan<br>(Lead SEN Officer) | [ng\_mei\_ling\_c@schools.gov.sg](mailto:ng_mei_ling_c@schools.gov.sg) |
 | Miss Sandra sunarti Sulaiman <br>(SEN Officer) | [sandra\_sunarti\_sulaiman@schools.gov.sg](mailto:sandra_sunarti_sulaiman@schools.gov.sg) |
 | Mr Hamdan Bin Alias<br>(SEN Officer) | [hamdan\_alias@schools.gov.sg](mailto:hamdan_alias@moe.edu.sg) |
