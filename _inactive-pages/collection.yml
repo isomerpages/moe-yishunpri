@@ -1,4 +1,5 @@
 collections:
   inactive-pages:
     output: true
-    order: []
+    order:
+      - Exam Schedule.md
