@@ -1,5 +1,5 @@
 collections:
-  our-coummunity:
+  our-community:
     output: true
     order:
       - Executive Committee.md
