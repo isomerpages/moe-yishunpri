@@ -2,9 +2,8 @@
 title: Indian Dance
 permalink: /ccas/Visual-and-Performing-Arts/indian-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-##### **Synopsis**
 The Indian Dance CCA in Yishun Primary school aims to develop an appreciation for Indian classical dance in our students.     
 
 Through the practice sessions, students learn the basic steps of the Indian classical dance, Bharathanatyam, building a strong dance foundation in every student.
