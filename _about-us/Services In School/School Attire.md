@@ -22,7 +22,7 @@ td, th {
 | |
 | :--------: |
 | <img src="/images/About%20us/Services/Attire/sch_pe.jpg" alt="" style="width:292px;height:389px;">*P3 to P6 PE Attire* |
-| <img src="/images/About%20us/Services/Attire/house_colors.png" alt="" style="width:374px;height:317px;"> |
+| <img src="/images/About%20us/Services/Attire/house_colors_v2.png" alt="" style="width:374px;height:317px;"> |
 
 ##### **<center>Uniform Store</center>**
 
