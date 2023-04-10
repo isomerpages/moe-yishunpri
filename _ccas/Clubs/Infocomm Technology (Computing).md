@@ -4,7 +4,6 @@ permalink: /ccas/clubs/ict-club/
 description: ""
 third_nav_title: Clubs
 ---
-##### **Synopsis**
 At Yishun Primary School ICT Club, we aim to develop future ready learners through fun and interactive activities. Through a variety of activities, our members learn basic coding and programming skills, and gaining computational and critical thinking skills during the process.
 
 ##### **Teachers-in-Charge**
