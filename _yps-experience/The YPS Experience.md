@@ -9,9 +9,9 @@ To deliver our holistic learning experience, we have a broad range of platforms 
 
 To prepare our students for life-long learning, we place great emphasis on empowering our students with the Growth Mindset. Our Growth Mindset curriculum is framed by the following 3 key messages:
 
-1.  I can learn and improve through hard work.
-2.   I become better by learning from mistake and challenges.
-3.   I think positively and will always do my best.
+1. I can learn and improve through hard work.
+2. I become better by learning from mistake and challenges.
+3. I think positively and will always do my best.
 
 The Growth Mindset is instilled in our students through holistic learning experiences in school. We encourage our students to view challenges as opportunities for growth, embrace failure as a natural part of the learning process and to persevere even when faced with setbacks. We believe with the Growth Mindset, all students can learn and grow regardless of their starting points.
 
