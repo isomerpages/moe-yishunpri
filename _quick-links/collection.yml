@@ -1,0 +1,6 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Parents & Students.md
+      - For Staff.md

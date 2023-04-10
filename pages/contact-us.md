@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Yishun Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 500, Yishun Ring Road
+      - Singapore 768679
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com/maps/place/Yishun+Primary+School/@1.4334926,103.831624,17z/data=!4m14!1m7!3m6!1s0x31da1464ba4fb46b:0x252b1d78aa507588!2sYishun+Primary+School!8m2!3d1.4334926!4d103.8338127!16s%2Fg%2F1vmqzx9m!3m5!1s0x31da1464ba4fb46b:0x252b1d78aa507588!8m2!3d1.4334926!4d103.8338127!16s%2Fg%2F1vmqzx9m?hl=en
+    title: " Yishun Primary School"
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6257 7461
+      - email: yps@moe.edu.sg
+      - other: ""
+    title: Phone / Email
+  - content:
+      - phone: +65 6567 5541
+      - email: ""
+      - other: ""
+    title: Fax
 ---

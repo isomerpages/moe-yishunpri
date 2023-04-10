@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Yishun Primary School
+description: Do Our Best & Be The Best
+image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Notice: We are currently upgrading our school website to serve you better."
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Homepage/hero_banner_main_v9.gif
+      key_highlights:
+        - title: Annoucements
+          description: View All Announcements
+          url: /announcements/
+        - title: School Calendar
+          description: All School Events & Holidays
+          url: /about-us/calendar/
+        - title: Quick Links
+          description: Useful Quick Links
+          url: /quick-links/parents-students/
+        - title: Contact us
+          description: For General Enquiries
+          url: /contact-us/
 ---
-

@@ -1,0 +1,8 @@
+collections:
+  mk-at-yps:
+    output: true
+    order:
+      - About Us.md
+      - Our Vision Mission & Values.md
+      - Our MK Team.md
+      - The MK Experience.md
