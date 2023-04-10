@@ -2,9 +2,8 @@
 title: Floorball
 permalink: /ccas/Sports-and-Games/floorball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
-##### **Synopsis**
 Floorball is a fun and fast-paced sport played indoors with floorball sticks and a ball. We seek to build character in our students, develop teamwork, promote responsibility and foster a sense of camaraderie among our members during our weekly training sessions. Through our termly social-emotional learning (SEL) lessons, we work with our students to support them as they grow into leaders of character.
 	
 ##### **Teachers-in-Charge**
