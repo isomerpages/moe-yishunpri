@@ -1,10 +1,9 @@
 ---
-title: Art & Crafts
+title: Art &amp; Crafts
 permalink: /ccas/Visual-and-Performing-Arts/art-and-crafts/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-##### **Synopsis**
 The Art &amp; Crafts CCA serves as a platform for our pupils who have a passion for Visual Arts to showcase their artistic talents. Pupils are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes.
 
 To deepen their appreciation for Visual Arts, pupils are exposed to local and international artists’ artworks through learning journeys. To instill a sense of global awareness and gratitude, our pupils also embark on various meaningful projects which connect to the current society.
