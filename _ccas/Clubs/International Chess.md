@@ -4,7 +4,6 @@ permalink: /ccas/clubs/chess-club/
 description: ""
 third_nav_title: Clubs
 ---
-##### **Synopsis**
 Chess is a fun, creative and challenging strategic board game for all ages. As a game of strategy, Chess promotes cognitive and critical thinking among the players as they analyze each move in the game. We aim to develop the players’ patience and tenacity while playing the game and also inculcate in them our school's core values of gratitude, care, resilience, respect, responsibility and integrity. gratitude, care, resilience, respect, responsibility and integrity.
 
 ##### **Teachers-in-Charge**
