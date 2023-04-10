@@ -4,7 +4,6 @@ permalink: /ccas/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-##### **Synopsis**
 Yishun Primary Scouts CCA provides a platform for self-development and self-discovery for our scouts. We aim to create a closely–knit group environment, which is engaging and developing Scouts holistically. We provide opportunities through games and activities for Scouts to develop their character and leadership skills. Our Scouts participate in community services, camps and competitions to interact and bond with Scouts from different schools.
 
 There is a progress and proficiency badge system for all three levels (Bronze, Silver and Gold Arrow) of Scouting to prepare them to take on the challenge of attaining the highest award of Scouting – the Akela Award. Our comprehensive scouting programmes have attributed the attainment of the Frank Cooper Sands Gold Award for the last 18 years consecutively and Honours Penant back in 2009.
