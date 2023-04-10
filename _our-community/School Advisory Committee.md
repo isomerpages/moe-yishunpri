@@ -23,5 +23,5 @@ td, th {
 | :--------: |
 | Mr Tan Yueh Phern |
 | Mr S Devendran |
-| Mr Lau Yoot Moey |
+| Ms Lau Yoot Moey |
 | |
