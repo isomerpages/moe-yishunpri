@@ -2,9 +2,8 @@
 title: Chinese Dance
 permalink: /ccas/Visual-and-Performing-Arts/chinese-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-##### **Synopsis**
 Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The pupils will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
 
 Our dancers have performed in various external events such as, Singapore Youth Festival Arts Presentation, Chong Pang CC National Day Dinner.
