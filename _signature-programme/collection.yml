@@ -1,4 +1,5 @@
 collections:
   signature-programme:
     output: true
-    order: []
+    order:
+      - ELaunchPad.md
