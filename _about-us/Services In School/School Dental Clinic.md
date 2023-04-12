@@ -7,9 +7,8 @@ third_nav_title: Services In School
 **Open on Alternate Weekly Basis**
 
 **Operating Hours:**
-<br>Monday to Thursday: 8.00am - 5.30pm
-<br>Friday: 8.00am - 5.00pm
-<br>Lunch Time: (Closed) 12.30pm - 1.30pm
+<br>Monday to Thursday: 8.00am - 12.30pm, 1.30pm - 5.30pm
+<br>Friday: 8.00am - 12.30pm, 1.30pm - 5.00pm
  
 Contact Person: Ms Ada Goh, Dental Therapist
 <br>Contact Number: 8764 5397
