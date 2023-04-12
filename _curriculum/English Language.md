@@ -52,6 +52,3 @@ Selected Primary 4 and 5 students will attend the Creative Writing programme to 
 Celebrated annually, this festival aims to promote effective language use and foster a love for reading. Students are engaged in a range of activities that develop their knowledge of language features, receptive skills, and productive skills. Activities are designed to encourage a growth mindset in our students.**
 
 <img src="/images/Experience/Curriculum/english_01_v1.jpg" style="width:700px;height:319px">
-
-
-)
