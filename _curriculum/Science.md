@@ -15,7 +15,7 @@ To provide engaging and informative programs that help students understand the i
     
 *   Nurture scientific literacy in students and to provide them with a strong foundation in science to pursue STEM learning and work.
   
-![](https://lh5.googleusercontent.com/SeKZBd1ntMJ6-8buIW3IWqI1pd5Qbh8iPOFQsIlpsXOSzM9q3WV6gLwEE3oNWxrLwVF4ce_bx4SekahSmbHn-3sb3HUY0x7-CZGDJh_dckgoc5nxx6qz3kojnc6YgobQBlR9YRt52ug0JinCAWtII1o)
+![](/images/Experience/Curriculum/science_01_v1.jpg)
 
 The Science Curriculum Framework at Yishun Primary is based on scientific inquiry, which encourages students to develop an open and inquisitive mind, aligning with 21st century competencies. The goal is to prepare students to be effective citizens who can contribute to a technologically driven world by providing them with a sound foundation in science, the spirit of scientific inquiry, and the ability to engage confidently in the Practices of Science.
 
