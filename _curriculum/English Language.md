@@ -3,7 +3,6 @@ title: English Language
 permalink: /curriculum/english/
 description: ""
 ---
-
 **Vision**
 
 To develop empathetic communicators, discerning readers, and creative inquirers.&nbsp;
