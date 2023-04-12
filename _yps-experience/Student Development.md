@@ -52,3 +52,5 @@ Yishun Primary School believes that every student has leadership potential, and 
 **Level 1 – Leading Self (All Students)**
 <br>
 The first level, Leading Self, is designed for all students and focuses on teaching them the essential Practices of Exemplary Leadership. All students undergo explicit teaching of the leadership practices over their 6 years to learn to manage themselves in a responsible way before they can lead and help others.
+
+*<center><img src="/images/Experience/Student%20Development/studentleader_02_v1.jpg" style="width:500px;height:371px">Students engaged in talks on leadership practices.</center>*
