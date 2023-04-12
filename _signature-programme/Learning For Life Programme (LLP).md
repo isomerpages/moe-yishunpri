@@ -16,6 +16,6 @@ Our goal is to instil a life-long passion and involvement in the Performing Arts
 
 *<center><img src="/images/Experience/Signature%20Programme/llp_02_v1.jpg" style="width:450px;height:339px">Through the Music Modular programme, Primary 5 students acquire skills and knowledge in Ukulele.</center>*
 
-*<center><img src="/images/Experience/Signature%20Programme/llp_03_v1.jpg" style="width:700px;height:319px">*Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
+*<center><img src="/images/Experience/Signature%20Programme/llp_03_v1.jpg" style="width:700px;height:319px">Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
 
 *<center><img src="/images/Experience/Signature%20Programme/llp_04_v1.jpg">Providing authentic learning experiences through learning journeys.</center>*
