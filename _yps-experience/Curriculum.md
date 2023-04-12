@@ -11,4 +11,10 @@ Yishun Primary is committed to providing a caring and nurturing environment for 
 
 Click on the links below for more details.
 
-* English
+* [English Language](/curriculum/english/)
+* [Mathematics](/curriculum/maths/)
+* [Science](/curriculum/science/)
+* [Mother Tongue Languages](/curriculum/mother-tongue/)
+* [Physical Education (PE)](/curriculum/physical-education/)
+* [Aesthetics](/curriculum/aesthetics/)
+* [Programme for Active Learning (PAL)](/curriculum/pal/)
