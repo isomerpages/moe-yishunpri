@@ -8,7 +8,6 @@ CCAs are critical in providing our students with a holistic education. Our CCAs 
 CCAs are learning experiences beyond the classroom that are essential to our students' overall development. 
 
 They provide diverse and authentic opportunities for our students to learn, apply, and demonstrate values, good character, social-emotional competencies, and citizenship dispositions. ![](https://lh3.googleusercontent.com/SUsjVbSIHVd4TXApt1F4rh88t-7qLb4dlraHygJAahyu4a5ADQVOey-0PX4wWtJJg1BPmQ5GCItj2Rs4k2SsEll865wx6e2sph1Tmvvd1Hw96IGfHFFjZwys1u0V09n31b4ZrmOWxYOiQocISij4kCE)
-**
 
 Whether students are volunteering in the community, supporting a school event, competing in sports, or performing on stage, these authentic experiences provide rich opportunities for our students to reinforce, internalize, and deepen their learning.
 
