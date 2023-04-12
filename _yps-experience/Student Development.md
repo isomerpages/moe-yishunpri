@@ -42,3 +42,13 @@ Yishun Primary School observes the 4 NE commemorative events which have been ide
 * International Friendship Day
 * Racial Harmony Day
 * National Day
+
+**<u>Student Leadership</u>**
+<br>
+Yishun Primary School believes that every student has leadership potential, and has implemented a three-level leadership programme to develop their leadership competencies.
+
+<img src="/images/Experience/Student%20Development/studentleader_01_v1.jpg" style="width:600px;height:308px">
+
+**Level 1 – Leading Self (All Students)**
+<br>
+The first level, Leading Self, is designed for all students and focuses on teaching them the essential Practices of Exemplary Leadership. All students undergo explicit teaching of the leadership practices over their 6 years to learn to manage themselves in a responsible way before they can lead and help others.
