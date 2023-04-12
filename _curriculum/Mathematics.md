@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /curriculum/maths/
 description: ""
 ---
-**Vision **
+**Vision**
 
 To provide an engaging and authentic learning environment that cultivates resilient learners and confident problem solvers.
 
