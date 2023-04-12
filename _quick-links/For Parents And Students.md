@@ -14,4 +14,4 @@ description: ""
 ##### **Useful Links for Students**
 * <a href="https://www.myskillsfuture.gov.sg/" target="_blank">My Skills Future Portal</a>
 * <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON (Google Workspace)</a>
-* <a href="https://learning.moe.edu.sg/" target="_blank">Student Learning Space (SLS)</a>
+* <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
