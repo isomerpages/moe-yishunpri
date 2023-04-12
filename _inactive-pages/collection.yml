@@ -1,5 +1,4 @@
 collections:
   inactive-pages:
     output: true
-    order:
-      - Principal's Message.md
+    order: []
