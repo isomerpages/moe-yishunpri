@@ -34,3 +34,11 @@ Our school partners with various organisations to provide opportunities for stud
 *<center><img src="/images/Experience/Student%20Development/sdt_05_v1.jpg" style="width:500px;height:375px">Primary 5 students performed virtually for the All Saints Home</center>*
 
 *<center><img src="/images/Experience/Student%20Development/sdt_06_v1.jpg" style="width:500px;height:657px">Primary 6 students involved in the Clean Singapore Learning Trail at East Coast Park</center>*
+
+**<u>National Education (NE) Commemorative Events</u>**
+<br>
+Yishun Primary School observes the 4 NE commemorative events which have been identified as defining moments in Singapore history. These events aim to instill a strong sense of national identity and pride in each generation. The four NE commemorative events are:
+* Total Defence Day
+* International Friendship Day
+* Racial Harmony Day
+* National Day
