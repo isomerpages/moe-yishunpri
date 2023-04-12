@@ -3,11 +3,15 @@ title: Co Curricular Activites (CCA)
 permalink: /yps-experience/cca/
 description: ""
 ---
-CCAs are critical in providing our students with a holistic education. Our CCAs strive to bring out the best in each student in order to develop them into caring, confident learners and leaders of character.![](https://lh6.googleusercontent.com/lvTrj-R2M0lKaTjDR_soLNTT9vGqnxP9B45vZnHr5HJ0C_kKc1f8f6uoCwUaEVi3UtD8H6x2ZLUq-q9iGkrUECPQFW-OLiX6lz-neyyuWXiA2GKiR_iQPqSFJFz4BY76kbgHiupxn8o0U5FgM4XFwmA)
+CCAs are critical in providing our students with a holistic education. Our CCAs strive to bring out the best in each student in order to develop them into caring, confident learners and leaders of character.
+
+![](/images/Experience/Cca/cca_01_v1.jpg)
 
 CCAs are learning experiences beyond the classroom that are essential to our students' overall development. 
 
-They provide diverse and authentic opportunities for our students to learn, apply, and demonstrate values, good character, social-emotional competencies, and citizenship dispositions. ![](https://lh3.googleusercontent.com/SUsjVbSIHVd4TXApt1F4rh88t-7qLb4dlraHygJAahyu4a5ADQVOey-0PX4wWtJJg1BPmQ5GCItj2Rs4k2SsEll865wx6e2sph1Tmvvd1Hw96IGfHFFjZwys1u0V09n31b4ZrmOWxYOiQocISij4kCE)
+They provide diverse and authentic opportunities for our students to learn, apply, and demonstrate values, good character, social-emotional competencies, and citizenship dispositions.
+
+![](/images/Experience/Cca/cca_02_v1.jpg)
 
 Whether students are volunteering in the community, supporting a school event, competing in sports, or performing on stage, these authentic experiences provide rich opportunities for our students to reinforce, internalize, and deepen their learning.
 
@@ -29,21 +33,21 @@ The CCAs offered in Yishun Primary School can be classified into the following c
 
 Click on the links below to find out more about our CCAs.
 
-### **Clubs & Societies**
+#### **Clubs & Societies**
 * [English, Drama & Debating](/ccas/clubs/el-club)
 * [Environmental Science](/ccas/clubs/science-club)
 * [Infocomm Technology (Computing)](/ccas/clubs/ict-club)
 * [International Chess](/ccas/clubs/chess-club)
 
-### **Sports & Games**
+#### **Sports & Games**
 * [Basketball](/ccas/Sports-and-Games/basketball)
 * [Floorball](/ccas/Sports-and-Games/floorball)
 * [Football](/ccas/Sports-and-Games/football)
 
-### **Uniformed Groups**
+#### **Uniformed Groups**
 * [Scouts](/ccas/Uniformed-Groups/scouts)
 
-### **Visual & Performing Arts**
+#### **Visual & Performing Arts**
 * [Art & Crafts](/ccas/Visual-and-Performing-Arts/art-and-crafts)
 * [Chinese Dance](/ccas/Visual-and-Performing-Arts/chinese-dance)
 * [Concert Band](/ccas/Visual-and-Performing-Arts/concert-band)
