@@ -23,6 +23,4 @@ For example, in the ’Much-room for Investigation’ programme, the school inte
 
 **<u>Curriculum</u>**
 <br>
-<img src="/images/About%20us/Logo.gif" style="width:30%; float: right">By aligning the programme to the Primary Three science and social studies syllabus, students were engaged with meaningful learning experiences. Their learning was deepened as they were allowed the opportunity to apply concepts learnt to authentic real-life context.
-
-![](/images/Experience/Signature%20Programme/alp_03_v1.jpg)
+<img src="/images/Experience/Signature%20Programme/alp_03_v1.jpg" style="width:350px;height:233px; float: right">By aligning the programme to the Primary Three science and social studies syllabus, students were engaged with meaningful learning experiences. Their learning was deepened as they were allowed the opportunity to apply concepts learnt to authentic real-life context.
