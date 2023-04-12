@@ -3,13 +3,14 @@ title: English Language
 permalink: /curriculum/english/
 description: ""
 ---
-**Vision **
 
-To develop empathetic communicators, discerning readers, and creative inquirers. 
+**Vision**
+
+To develop empathetic communicators, discerning readers, and creative inquirers.&nbsp;
 
 **Objectives**
 
-*   Instill an appreciation and love for the English Language 
+*   Instill an appreciation and love for the English Language&nbsp;
     
 *   Nurture multiliteracies, metacognition and inquiry through dialogue
     
@@ -27,7 +28,7 @@ Our programmes are organised to:
 
 **Build Programmes**
 
-To instill the joy of learning in our students, the department brings about customised teaching approaches to cater to specific learning needs of all our students. The Build programmes aim to support our students in acquiring and mastering language through lesson packages designed by our teachers. 
+To instill the joy of learning in our students, the department brings about customised teaching approaches to cater to specific learning needs of all our students. The Build programmes aim to support our students in acquiring and mastering language through lesson packages designed by our teachers.&nbsp;
 
 These come in the form of SLS Packages for Oracy, Punctuation and Grammar which are assigned periodically to all students to build on their language skills learned in the classroom.
 
@@ -39,19 +40,19 @@ To ensure that students are well-supported in their learning of language skills,
 
 The Bloom programmes were designed with pedagogical emphasis on Multiliteracies, Metacognition, and Inquiry through Dialogue to develop our students’ knowledge and meaningful application of the English language.
 
-**Journalism & Broadcasting **
+**Journalism &amp; Broadcasting&nbsp;**
 
-Aimed at developing the talents of students who display the flair for the language, this programme provides students with the opportunities to explore journalism; while developing their writing and critical thinking skills. 
+Aimed at developing the talents of students who display the flair for the language, this programme provides students with the opportunities to explore journalism; while developing their writing and critical thinking skills.&nbsp;
 
 **Creative Writing Programme**
 
-Selected Primary 4 and 5 students will attend the Creative Writing programme to sharpen their writing skills  Students also represent the school in various national competitions where their language skills are put to the test. We are proud to share that our P3 students have clinched the Silver award for the 2022 Singapore Moo-O Awards!
+Selected Primary 4 and 5 students will attend the Creative Writing programme to sharpen their writing skills&nbsp; Students also represent the school in various national competitions where their language skills are put to the test. We are proud to share that our P3 students have clinched the Silver award for the 2022 Singapore Moo-O Awards!
 
 **English Language Festival**
 
 Celebrated annually, this festival aims to promote effective language use and foster a love for reading. Students are engaged in a range of activities that develop their knowledge of language features, receptive skills, and productive skills. Activities are designed to encourage a growth mindset in our students.**
 
-![](/images/Experience/Curriculum/english_01_v1.jpg)
+<img src="/images/Experience/Curriculum/english_01_v1.jpg" style="width:700px;height:319px">
 
 
-
+)
