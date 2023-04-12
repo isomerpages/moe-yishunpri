@@ -30,16 +30,16 @@ The Math Carnival offers our Primary 1 and Primary 2 students the opportunity to
 Students develop an appreciation for Mathematics beyond the classroom and textbooks and apply various thinking skills and heuristics to solve non-routine Mathematics problems and get their hands on concrete objects and pictorial representations to illustrate Mathematical concepts.
 
 <img src="/images/Experience/Curriculum/maths_02_v2.jpg" style="width:600px;height:450px">
+
+*<center><img src="/images/Experience/Curriculum/maths_03_v1.jpg" style="width:500px;height:667px">Students working collaboratively</center>*
+
+
+**<u>Math &amp; Science Trail</u>**
 <br>
-<img src="/images/Experience/Curriculum/maths_03_v1.jpg" style="width:500px;height:667px">
-
-
-**Math &amp; Science Trail**
-
 Primary 3 students take part in an interdisciplinary Math and Science trail to take the application of Mathematics word problems and Science concepts outside of the classroom.&nbsp; This ICT-infused trail not only provides an opportunity for our students to relate knowledge gained in class to real-world phenomen. It also develops our students' social skills and promotes team-building.
 
-**E2K (Mathematics)**
-
+**<u>E2K (Mathematics)</u>**
+<br>
 The E2K (Mathematics) is an enrichment programme for selected Primary 5 and 6 students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
 
 During the programme, students are given opportunities to collaborate with their peers through activities such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess and to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
