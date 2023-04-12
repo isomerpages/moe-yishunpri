@@ -19,7 +19,7 @@ The Mother Tongue Languages department has developed the 3C approach, which equi
 
  **Key Approaches and Programmes**
 
-1. **Mother Tongue Language Fortnight Programme**
+**Mother Tongue Language Fortnight Programme**
 
 The Mother Tongue Language (MTL) Fortnight Programme aims to provide opportunities for our students to learn MTL and understand their own culture through active participation. A series of different ethnic activities during each festive period are planned to ignite the joy of learning MTL.
 
@@ -27,7 +27,7 @@ The Mother Tongue Language (MTL) Fortnight Programme aims to provide opportuniti
 
 The first highlight of the year is the Chinese New Year celebration. All students are provided with authentic cultural appreciation experiences through exciting hall performances and subsequent class activities on the eve of Chinese New Year as well as during MTL lessons. 
 
-**2. READ@YPS**
+**READ@YPS**
 **3S Programme (STAR, SHINE, SHARE)**
 
 The 3S programme is the signature programme of the Chinese Language unit. 
