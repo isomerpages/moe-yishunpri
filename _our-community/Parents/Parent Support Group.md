@@ -11,7 +11,7 @@ Our PSG plays a key role in supporting many of our school’s programmes and eve
 *   Facilitates communication among school and parents/community
 *   Serves as a communication channel for parents to provide constructive feedback on school programmes
 *   Supports school's programme and initiatives
-*   Promotes well-being and good values in our pupils
+*   Promotes well-being and good values in our students
 *   Encourages other parents to join the PSG to ensure sustainability of home-school partnership
 
 To promote a strong home-school partnership, we would like to invite all parents to join our Parents Support Group (PSG). Please complete <a href="https://form.gov.sg/5ff29766d9174700125b68d6" target="_blank">this application</a> to register your interest.
