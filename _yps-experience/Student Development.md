@@ -68,3 +68,5 @@ The third level, Leading Leaders, is aimed at enhancing leadership competencies 
 Student leaders go through additional training on Practices of Exemplary Leadership. They are given scenario-based questions to develop critical thinking and problem-solving skills in real-world situations. With the knowledge and skills taught, they learn to apply them during group work, CCA sessions and school events.
 
 Student leaders are als offered various opportunities to showcase and develop their leadership skills by assisting in school events and activities.
+
+*<center><img src="/images/Experience/Student%20Development/studentleader_04_v1.jpg" style="width:700px;height:303px">Student Leaders support school activities such as Sports Fiesta (left) and P3 Day Camp (right)</center>*
