@@ -21,7 +21,7 @@ In the learning of Mathematics, students engage in activities to explore and lea
 
 We believe that when students can recognise the relevance of Mathematics in the real world, they are better able to appreciate and relate to the value of Mathematics and Mathematical concepts to real-world applications. We use everyday examples to deepen their learning of Mathematics. Solving real-world problems contributes to the students’ metacognitive awareness as they discuss solutions, think aloud and reflect on what they are doing. 
 
-<img src="![](/images/Experience/Curriculum/maths_01.jpg)" style="width:700px;height:319px">
+<img src="/images/Experience/Curriculum/maths_01.jpg" style="width:700px;height:319px">
 
 **Math Carnival**
 
