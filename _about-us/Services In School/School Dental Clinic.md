@@ -13,7 +13,7 @@ third_nav_title: Services In School
 Contact Person: Ms Ada Goh, Dental Therapist
 <br>Contact Number: 8764 5397
 
-In the event that the dental clinic is closed, pupils who require urgent dental treatment can call any of the buddy clinics (see table) for an appointment.
+In the event that the dental clinic is closed, students who require urgent dental treatment can call any of the buddy clinics (see table) for an appointment.
 
 | Dental Clinic | Telephone | Address |
 |--------|----------|----------------|
