@@ -28,3 +28,9 @@ Our school partners with various organisations to provide opportunities for stud
 *<center><img src="/images/Experience/Student%20Development/sdt_02_v1.jpg" style="width:500px;height:373px">Primary 3 students engaging in transplanting and harvesting of vegetables for donation to needy families in Yishun, in partnership with NorthWest CDC.</center>*
 
 *<center><img src="/images/Experience/Student%20Development/sdt_03_v1.jpg" style="width:500px;height:372px">Students donating items to Sree Narayana Mission (Singapore)</center>*
+
+*<center><img src="/images/Experience/Student%20Development/sdt_04_v1.jpg" style="width:500px;height:377px">Primary 4 Students involved in Community Litter Picking around the neighbourhood.</center>*
+
+*<center><img src="/images/Experience/Student%20Development/sdt_05_v1.jpg" style="width:500px;height:375px">Primary 5 students performed virtually for the All Saints Home</center>*
+
+*<center><img src="/images/Experience/Student%20Development/sdt_06_v1.jpg" style="width:500px;height:657px">Primary 6 students involved in the Clean Singapore Learning Trail at East Coast Park</center>*
