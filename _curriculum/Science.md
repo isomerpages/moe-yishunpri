@@ -35,7 +35,7 @@ Such experiences allow students to actively engage with the material, which can 
     
 4.  **Plant Tissue Culture (PTC) Programme** Unique to Yishun Primary is our Plant Tissue Culture Programme. Plant tissue culture is a collection of techniques used to maintain or grow plant cells, tissues or organs under sterile conditions. We are proud to be one of the few schools in Singapore to have PTC facilities in our school. At Primary 3, students learn to cultivate edible mushroom using compost generated from the school’s food waste programme. At Primary 4, they learn about the Science and art of Orchid Hybridization. In fact,  Dedrobium Yishun Primary School was a hybrid that was created by our very own students.
 
-**Science Enrichment Program **
+**Science Enrichment Programme**
 
 This program aims to develop students' interest and ability in Science through engaging activities that go beyond the standard curriculum, while fostering scientific thinking skills such as observation, experimentation, analysis, and critical thinking. It also provides opportunities for students to explore Science in greater depth, promoting a deeper understanding of concepts and encouraging creativity and innovation to solve scientific problems.
 
@@ -44,7 +44,4 @@ This program aims to develop students' interest and ability in Science through e
 2.  **E2K Science Programme** Adapted from Israel's E2K Programme, this programme aims to instill a love for Science and foster the development of scientific inquiry process skills among participants. It seeks to nurture important 21st century competencies such as resilience, resourcefulness, critical thinking, and effective communication skills. Students learn Science by going through the same process that scientists use to generate knowledge, developing scientific thinking and reasoning, confidence, independence, scientific habits, attitudes, and dispositions.
     
 3.  **Science Competitions and Outreach** Science competitions and outreach programs are platforms for students to explore their interest in the subject by providing opportunities for them to demonstrate their knowledge and skills. It also provides students with the opportunity to collaborate and work in teams in hands-on learning activities.
-      
-
-
  **
