@@ -8,3 +8,13 @@ Our curriculum aims to develop students holistically. The school recognises that
 Each subject in our curriculum adopts a range of distinct teaching approaches to support our students in developing specific knowledge, skills and values within the subject discipline. Learning experiences are supported by educational technology platforms and tools such as the MOE Student Learning Space and Student iCON (Google Workspace).
 
 Yishun Primary is committed to providing a caring and nurturing environment for our students to learn and grow. With a strong foundation of learning anchored in sound values, our students will be ready to face the challenges of tomorrow.
+
+Click on the links below for more details.
+
+* [English Language](/curriculum/english/)
+* [Mathematics](/curriculum/maths/)
+* [Science](/curriculum/science/)
+* [Mother Tongue Languages](/curriculum/mother-tongue/)
+* [Physical Education (PE)](/curriculum/physical-education/)
+* [Aesthetics](/curriculum/aesthetics/)
+* [Programme for Active Learning (PAL)](/curriculum/pal/)
