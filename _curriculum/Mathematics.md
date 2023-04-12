@@ -21,7 +21,7 @@ In the learning of Mathematics, students engage in activities to explore and lea
 
 We believe that when students can recognise the relevance of Mathematics in the real world, they are better able to appreciate and relate to the value of Mathematics and Mathematical concepts to real-world applications. We use everyday examples to deepen their learning of Mathematics. Solving real-world problems contributes to the students’ metacognitive awareness as they discuss solutions, think aloud and reflect on what they are doing. 
 
-![](/images/Experience/Curriculum/maths_01.jpg)
+<img src="![](/images/Experience/Curriculum/maths_01.jpg)" style="width:700px;height:319px">
 
 **Math Carnival**
 
@@ -29,14 +29,14 @@ The Math Carnival offers our Primary 1 and Primary 2 students the opportunity to
 
 Students develop an appreciation for Mathematics beyond the classroom and textbooks and apply various thinking skills and heuristics to solve non-routine Mathematics problems and get their hands on concrete objects and pictorial representations to illustrate Mathematical concepts.
 
-![](/images/Experience/Curriculum/maths_02_v1.jpg)
+<img src="![](/images/Experience/Curriculum/maths_02_v1.jpg)" style="width:700px;height:319px">
 
-![](/images/Experience/Curriculum/ma1_p1p2.png)
+<img src="![](/images/Experience/Curriculum/ma1_p1p2.png)" style="width:700px;height:319px">
 
 
-**Math & Science Trail**
+**Math &amp; Science Trail**
 
-Primary 3 students take part in an interdisciplinary Math and Science trail to take the application of Mathematics word problems and Science concepts outside of the classroom.  This ICT-infused trail not only provides an opportunity for our students to relate knowledge gained in class to real-world phenomen. It also develops our students' social skills and promotes team-building.
+Primary 3 students take part in an interdisciplinary Math and Science trail to take the application of Mathematics word problems and Science concepts outside of the classroom.&nbsp; This ICT-infused trail not only provides an opportunity for our students to relate knowledge gained in class to real-world phenomen. It also develops our students' social skills and promotes team-building.
 
 **E2K (Mathematics)**
 
