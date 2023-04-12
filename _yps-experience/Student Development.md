@@ -5,4 +5,5 @@ description: ""
 ---
 ### **Our Belief and Guiding Principles**
 
-![](/images/Experience/Student%20Development/sdt_01_v1.jpg)
+*<center><img src="/images/Experience/Student%20Development/sdt_01_v1.jpg">Yishun Primary School Character Education Framework</center>*
+
