@@ -4,7 +4,7 @@ permalink: /about-us/Services-In-School/school-bus-service/
 description: ""
 third_nav_title: Services In School
 ---
-With effect from year 2021, the School will be working with new bus vendor to provide school bus services for our pupils.
+With effect from year 2021, the School will be working with new bus vendor to provide school bus services for our students.
 
 **Tong Tar Transport Service Pte Ltd**
 <br>Liaison Officer: School Transport Team
