@@ -28,3 +28,13 @@ For example, in the ’Much-room for Investigation’ programme, the school inte
 **<u>Campus</u>**
 <br>
 <img src="/images/Experience/Signature%20Programme/alp_04_v1.jpg" style="width:350px;height:226px; float: right">Tapping on existing infrastructure allowed for effective use of existing resources. Compost generated from food waste was used to grow edible mushroom in the PTC lab. During social studies, the students made use of the Aeroponics farming system to experience first hand how vegetables can be grown effectively and efficiently within a short span of time.
+
+**<u>Culture</u>**
+<br>
+<img src="/images/Experience/Signature%20Programme/alp_05_v1.jpg" style="width:350px;height:246px; float: right">The programme serves as an opportunity for students to explore how compost generated via the school’s established food waste programme can be converted into something functional. The IBL also helps demonstrate the concept of circular economy, which is key to sustainability.
+<br>
+<br>
+
+**<u>Community</u>**
+<br>
+<img src="/images/Experience/Signature%20Programme/alp_06_v1.jpg" style="width:350px;height:238px; float: right">To extend the IBL to include elements of service learning, students grew spinach during social studies lessons via the Aeroponics system and donated the vegetables to the community fridge located at a neighbouring HDB block. This provide students with an opportunity to give back to the community.
