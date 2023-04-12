@@ -76,3 +76,9 @@ Student leaders are als offered various opportunities to showcase and develop th
 The Student Leaders’ Investiture is held annually to recognise and affirm the efforts of our student leaders, and to formally introduce them to the school community. During the investiture, student leaders recite the Student Leaders’ Pledge as a promise to uphold the school values and commit to serving the school.
 
 *<center><img src="/images/Experience/Student%20Development/studentleader_05_v1.jpg" style="width:800px;height:532px">Student Leaders’ Investiture 2023</center>*
+
+**Prefectorial Executive Committee (EXCO)**
+<br>
+The Prefectorial EXCO consists of senior student leaders who have been identified to lead in organising and executing events.
+
+As an EXCO, the team gathers suggestions from the student population via the student’s suggestion platform, Our Yishun Voices, which acts as a voice of the student body. Through this platform, students are encourage to play a more active role in serving the school community by initiating projects or planning activities for their peers.
