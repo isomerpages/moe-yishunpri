@@ -21,7 +21,7 @@ The Mother Tongue Languages department has developed the 3C approach, which equi
 
 **<u>Mother Tongue Language Fortnight Programme</u>**
 <br>
-<img src="/images/Experience/Curriculum/mtl_02_v1.jpg" style="width:300px;height:278px; float: right">The Mother Tongue Language (MTL) Fortnight Programme aims to provide opportunities for our students to learn MTL and understand their own culture through active participation. A series of different ethnic activities during each festive period are planned to ignite the joy of learning MTL.
+<img src="/images/Experience/Curriculum/mtl_02_v1.jpg" style="width:450px;height:416px; float: right">The Mother Tongue Language (MTL) Fortnight Programme aims to provide opportunities for our students to learn MTL and understand their own culture through active participation. A series of different ethnic activities during each festive period are planned to ignite the joy of learning MTL.
 
 The first highlight of the year is the Chinese New Year celebration. All students are provided with authentic cultural appreciation experiences through exciting hall performances and subsequent class activities on the eve of Chinese New Year as well as during MTL lessons. 
 
@@ -30,7 +30,7 @@ The first highlight of the year is the Chinese New Year celebration. All student
 <br>
 The 3S programme is the signature programme of the Chinese Language unit. 
 
-<img src="/images/Experience/Curriculum/mtl_03_v1.jpg" style="width:300px;height:213px; float: right">In STAR, we want to affirm our students’ efforts. In order to build a good reading culture in the school, customised reading packages are designed to emphasise our school’s values. Reading booklets are used to capture the progress of every student and their efforts are affirmed during ‘Celebrate Success’ sessions at the school level. Each session will normally commence with a guided reading session using an e-book followed by class activities bearing the same theme.
+<img src="/images/Experience/Curriculum/mtl_03_v1.jpg" style="width:450px;height:320px; float: right">In STAR, we want to affirm our students’ efforts. In order to build a good reading culture in the school, customised reading packages are designed to emphasise our school’s values. Reading booklets are used to capture the progress of every student and their efforts are affirmed during ‘Celebrate Success’ sessions at the school level. Each session will normally commence with a guided reading session using an e-book followed by class activities bearing the same theme.
 
 In SHINE, our teachers conduct inter-class activities to identify talented students and to mentor them to participate at the national events. 
 
