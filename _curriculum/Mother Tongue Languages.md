@@ -41,4 +41,3 @@ In SHARE, we encourage our students to write. We share our good stories written 
 The Mother Tongue Language department partners with schools in China, Brunei, and India to promotes cross-cultural communication and understanding equips students with the knowledge and skills they need to thrive in a globalized world, preparing them to be responsible, engaged, and respectful global citizens.
 
 ![](/images/Experience/Curriculum/mtl_04_v1.jpg)
-**
