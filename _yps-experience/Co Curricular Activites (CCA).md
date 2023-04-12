@@ -27,8 +27,8 @@ The CCAs offered in Yishun Primary School can be classified into the following c
 *   Uniformed Group
     
 *   Visual & Performing Arts
-    
 
+Click on the links below to find out more about our CCAs.
 
 ### **Clubs & Societies**
 * [English, Drama & Debating](/ccas/clubs/el-club)
