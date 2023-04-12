@@ -27,7 +27,7 @@ Our Primary 4 to Primary 6 students look forward to the Sports Fiesta where stud
 
 **<u>P5 Outdoor Learning Experience (OLE) Cohort Camp</u>**
 <br>
-<img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:400px;height:409px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills as they interact with one another and forge new bonds and friendships with their peers through their common shared experiences and goals. 
+<img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:450px;height:460px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills as they interact with one another and forge new bonds and friendships with their peers through their common shared experiences and goals. 
 
 Students engage in many interesting activities such as concrete art, longkang fishing and sensory trail.
 For many of our students, this may well be their first time stepping out of their comfort zones of their home and familiar environment to one where they were constantly challenged. The P5 OLE would be a memorable experience for all the students as they strengthen their friendships, care for and motivate each other throughout the camp.
