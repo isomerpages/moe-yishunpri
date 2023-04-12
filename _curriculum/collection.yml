@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics.md
       - Physical Education (PE).md
       - Mother Tongue Languages.md
       - Science.md
