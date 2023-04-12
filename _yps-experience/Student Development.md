@@ -70,3 +70,9 @@ Student leaders go through additional training on Practices of Exemplary Leaders
 Student leaders are als offered various opportunities to showcase and develop their leadership skills by assisting in school events and activities.
 
 *<center><img src="/images/Experience/Student%20Development/studentleader_04_v1.jpg" style="width:700px;height:303px">Student Leaders support school activities such as Sports Fiesta (left) and P3 Day Camp (right)</center>*
+
+**Student Leaders’ Investiture**
+<br>
+The Student Leaders’ Investiture is held annually to recognise and affirm the efforts of our student leaders, and to formally introduce them to the school community. During the investiture, student leaders recite the Student Leaders’ Pledge as a promise to uphold the school values and commit to serving the school.
+
+*<center><img src="/images/Experience/Student%20Development/studentleader_05_v1.jpg" style="width:800px;height:532px">Student Leaders’ Investiture 2023</center>*
