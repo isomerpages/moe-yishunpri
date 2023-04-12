@@ -38,6 +38,10 @@ Students develop an appreciation for Mathematics beyond the classroom and textbo
 <br>
 Primary 3 students take part in an interdisciplinary Math and Science trail to take the application of Mathematics word problems and Science concepts outside of the classroom.&nbsp; This ICT-infused trail not only provides an opportunity for our students to relate knowledge gained in class to real-world phenomen. It also develops our students' social skills and promotes team-building.
 
+<img src="/images/Experience/Curriculum/maths_04_v1.jpg" style="width:380px;height:556px">
+
+*<center><img src="/images/Experience/Curriculum/maths_05_v1.jpg" style="width:500px;height:370px">Team-building through the Trail</center>*
+
 **<u>E2K (Mathematics)</u>**
 <br>
 The E2K (Mathematics) is an enrichment programme for selected Primary 5 and 6 students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
