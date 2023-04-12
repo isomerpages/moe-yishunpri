@@ -26,3 +26,5 @@ Values in Action (VIA) is a key Student Development Experience (SDE) that aims t
 Our school partners with various organisations to provide opportunities for students to participate in meaningful community work and gain exposure to different cultures and perspectives. These experiences help student build a sense of social awareness and appreciation of diversity from a young age, preparing them to become active citizens and contributors to society.
 
 *<center><img src="/images/Experience/Student%20Development/sdt_02_v1.jpg" style="width:500px;height:373px">Primary 3 students engaging in transplanting and harvesting of vegetables for donation to needy families in Yishun, in partnership with NorthWest CDC.</center>*
+
+*<center><img src="/images/Experience/Student%20Development/sdt_03_v1.jpg" style="width:500px;height:372px">Students donating items to Sree Narayana Mission (Singapore)</center>*
