@@ -3,29 +3,28 @@ title: For Staff
 permalink: /quick-links/staff/
 description: ""
 ---
-
 ##### **Useful Links (Internet)**
-* [All Ears](https://forms.moe.edu.sg/)
-* [Department Internal Quick Links](https://go.gov.sg/ypsdept) (Requires iCON Login)
-* [FormSG](https://form.gov.sg/)
-* [ForEduSG](https://for.edu.sg) (URL Link Shortener Tool for Education Institutes)
-* [HR & Payroll Portal (HRP)](https://www.hrp.gov.sg/)
-* [Microsoft Office 365](https://www.office.com/) (Requires MIMS login)
-* [MOE Identity Management System (MIMS)](https://portal.mims.moe.gov.sg/)
-* [Opal 2.0](http://opal2.moe.edu.sg/)
-* [Parents Gateway (PG)](https://pg.moe.edu.sg/)
-* [Registration and Engagement Management System (REMS 2.0)](https://rems.moe.edu.sg/)
-* [Resource Booking System (RBS)](https://go.gov.sg/ypsrbs)
-* [SC Mobile](https://scmobile.moe.edu.sg/login)
-* [Staff iCON Email](https://workspace.google.com/dashboard)
-* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+* <a href="https://forms.moe.edu.sg/" target="_blank">All Ears</a>
+* <a href="https://go.gov.sg/ypsdept" target="_blank">Department Internal Quick Links</a> (Requires iCON Login)
+* <a href="https://form.gov.sg/" target="_blank">FormSG</a>
+* <a href="https://for.edu.sg" target="_blank">ForEduSG</a> (URL Link Shortener Tool for Education Institutes)
+* <a href="https://www.hrp.gov.sg/" target="_blank">HR &amp; Payroll Portal (HRP)</a>
+* <a href="https://www.office.com/" target="_blank">Microsoft Office 365</a> (Requires MIMS login)
+* <a href="https://portal.mims.moe.gov.sg/" target="_blank">MOE Identity Management System (MIMS)</a>
+* <a href="https://opal2.moe.edu.sg/" target="_blank">Opal 2.0</a>
+* <a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway (PG)</a>
+* <a href="https://rems.moe.edu.sg/" target="_blank">Registration and Engagement Management System (REMS 2.0)</a>
+* <a href="https://go.gov.sg/ypsrbs" target="_blank">Resource Booking System (RBS)</a>
+* <a href="https://scmobile.moe.edu.sg/login" target="_blank">SC Mobile</a>
+* <a href="https://workspace.google.com/dashboard" target="_blank">Staff iCON (Google Workspace)</a>
+* <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
 
 ##### **Useful Links (Intranet)**
-* [CES Outlook Webmail (Web Version)](https://schools.gov.sg/owa)
-* [HR Online](https://intranet.moe.gov.sg/hr_online/Pages/backup/redirect.aspx)
-* [iBENs](https://ibens.moe.gov.sg/rm)
-* [iEXAMS 2.0](https://iexams.seab.gov.sg/login)
-* [iFAAS2](https://ifaas2.moe.gov.sg/)
-* [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
-* [School Cockpit](http://schoolcockpit.moe.gov.sg/)
-* [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
+* <a href="https://schools.gov.sg/owa" target="_blank">CES Outlook Webmail (Web Version)</a>
+* <a href="https://intranet.moe.gov.sg/hr_online/Pages/backup/redirect.aspx" target="_blank">HR Online</a>
+* <a href="https://ibens.moe.gov.sg/rm" target="_blank">iBENs</a>
+* <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS 2.0</a>
+* <a href="https://ifaas2.moe.gov.sg/" target="_blank">iFAAS2</a>
+* <a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank">MOE Intranet</a>
+* <a href="http://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a>
+* <a href="https://ssoe2.moe.edu.sg/" target="_blank">SSOE2 Portal</a>

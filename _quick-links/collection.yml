@@ -2,5 +2,5 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents & Students.md
+      - For Parents And Students.md
       - For Staff.md

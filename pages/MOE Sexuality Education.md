@@ -17,10 +17,10 @@ The Key Messages of Sexuality Education are:
 * Make responsible decisions for yourself, your family and society; and
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on MOE Sexuality Education.
 
 ##### **Overview Of Yishun Primary School's Sexuality Education Programme For 2023**
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for&nbsp;Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope) for&nbsp;more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for&nbsp;Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 
 The subjects that incorporate topics&nbsp;sexuality include:
 * Science
@@ -58,7 +58,7 @@ At Yishun Primary School, the following lessons from Growing Years Programme wil
 ##### **Information For Parents**
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Forms/2023/SEd%20Annex%20A.pdf). The completed opt-out form is to be submitted by 31/01/2023.
+Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Forms/2023/SEd%20Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 31/01/2023.
 
 Parents can contact the school at 6257 7461 for discussion or to seek clarification about the school's sexuality education programme.
 

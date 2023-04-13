@@ -29,6 +29,6 @@ td, th {
 **Chop Kong Chong (CKC)**
 <br>Contact number : 6753 1489
 <br>Address : 604 Sembawang Road Sembawang Shopping Centre #02-13
-<br>Business Hour : 11.30am – 8pm (Daily)
+<br>Opearating Hours : 11.30am – 8pm (Daily)
 
 Click <a href="/files/Others/uniform_pricelist.pdf" target="_blank">here</a> to download Price List
