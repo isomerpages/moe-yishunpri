@@ -47,7 +47,7 @@ Yishun Primary School observes the 4 NE commemorative events which have been ide
 <br>
 Yishun Primary School believes that every student has leadership potential, and has implemented a three-level leadership programme to develop their leadership competencies.
 
-<img src="/images/Experience/Student%20Development/studentleader_01_v1.jpg" style="width:600px;height:308px">
+<img src="/images/Experience/Student%20Development/studentleader_01_v2.jpg" style="width:600px;height:308px">
 
 **Level 1 – Leading Self (All Students)**
 <br>
