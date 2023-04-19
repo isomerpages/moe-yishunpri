@@ -81,6 +81,6 @@ The Student Leaders’ Investiture is held annually to recognise and affirm the 
 <br>
 The Prefectorial EXCO consists of senior student leaders who have been identified to lead in organising and executing events.
 
-As an EXCO, the team gathers suggestions from the student population via the student’s suggestion platform, Our Yishun Voices, which acts as a voice of the student body. Through this platform, students are encourage to play a more active role in serving the school community by initiating projects or planning activities for their peers.
+As an EXCO, the team gathers suggestions from the student population via the student’s suggestion platform, Our Yishun Voices, which acts as a voice of the student body. Through this platform, students are encouraged to play a more active role in serving the school community by initiating projects or planning activities for their peers.
 
 *<center><img src="/images/Experience/Student%20Development/studentleader_06_v1.jpg" style="width:500px;height:355px">Prefectorial EXCO members look through and discuss the feasibility of implementing student suggestions to improve the school learning environment.</center>*
