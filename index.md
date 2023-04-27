@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/hero_banner_main_v9.gif
       key_highlights:
-        - title: Annoucements
+        - title: Announcements
           description: View All Announcements
           url: /announcements/
         - title: School Calendar
