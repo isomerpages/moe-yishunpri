@@ -24,7 +24,7 @@ description: ""
 | :-----------------: | :------------------: |
 | Ms Zahirah Binte Zulkefli | Librarian |
 | Mdm Lui Lee Lian | Science Lab Technician |
-| Ms Cynthia Tan | Office Receptionist |
+| Mdm Atikah Binte Ismail | Office Receptionist |
 | Mr Pek Jian Jie Jeffery | Desktop Engineer |
 | Mdm Nagalakshmi | Desktop Engineer |
 | Mr Chow Yew Meng | Operation Support |
