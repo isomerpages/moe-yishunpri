@@ -2,6 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Vendors.md
       - For Parents And Students.md
       - For Staff.md
+      - For Vendors.md
