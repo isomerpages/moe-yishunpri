@@ -32,7 +32,7 @@ These experiences seek to:
 * Develop process skills as children gather information from different sources and communicate their findings; and
 * Promote communication skills as children carry out WoW projects in English and their Mother Tongue Languages.
 
-# Temp image placeholder for WOW
+![](/images/MK%20YPS/The%20MK%20Experience/mk_experience_wow.jpg)
 
 Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">here</a> to find out more about the WOW project!
 
