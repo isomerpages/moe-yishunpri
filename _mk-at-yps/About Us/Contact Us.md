@@ -15,4 +15,4 @@ third_nav_title: About Us
 
 #### **Locate Us**
 
-# Temp image placeholder for map
+![](/images/MK%20YPS/About%20Us/mk_map.jpg)
