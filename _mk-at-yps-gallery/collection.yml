@@ -1,4 +1,5 @@
 collections:
   mk-at-yps-gallery:
     output: true
-    order: []
+    order:
+      - Open House 2023.md
