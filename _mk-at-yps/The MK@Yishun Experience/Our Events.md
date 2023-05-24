@@ -5,3 +5,5 @@ description: ""
 third_nav_title: The MK@Yishun Experience
 ---
 # Temp placeholder for Events using Google Slide
+
+[Open House 2023](/mk-at-yps-gallery/open-house-2023/)
