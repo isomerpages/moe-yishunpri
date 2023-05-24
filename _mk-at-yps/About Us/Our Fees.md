@@ -40,3 +40,13 @@ Upon successful enrolment to KCare, the fees payable upfront are as follows,
 # Temp image placeholder for the Eligibility calculator
 
 #### **MK Uniform**
+You can purchase the MK uniform from either <a href="https://beauvoix.com/preschool/" target="_blank">Beau Voix Uniform</a> or <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" target="_blank">Jeep Sing Fashion</a> at the following prices:
+
+| Description | Cost per piece<br>Beau Voix | Cost per piece<br>Jeep Sing |
+| :--------: | :--------: | :--------: |
+| (TOP) **Polo T-Shirt** | $7.00 | $7.00 |
+| (BOTTOM) **Shorts for Boys** | $7.00 | $8.00 |
+| (BOTTOM) **Skorts for Girls** | $7.00 | $8.00 |
+| | | |
+
+We recommend that each child has at least three sets of uniform.
