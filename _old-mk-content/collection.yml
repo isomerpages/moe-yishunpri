@@ -2,6 +2,7 @@ collections:
   old-mk-content:
     output: true
     order:
+      - The MK Experience.md
       - Our Vision Mission & Values.md
       - Our MK Team.md
       - About Us.md
