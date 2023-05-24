@@ -11,4 +11,8 @@ third_nav_title: About Us
 #### **Contact Us**
 **<u>MK-Related Matters</u>**
 <br>Tel: 6311 9526 (Mondays to Fridays, 8.00 am to 5.00 pm)
-<br>Email: mk_yishun@moe.edu.sg
+<br>Email: [mk_yishun@moe.edu.sg](mailto:mk_yishun@moe.edu.sg)
+
+#### **Locate Us**
+
+# Temp image placeholder for map
