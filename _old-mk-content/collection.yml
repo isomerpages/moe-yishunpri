@@ -1,4 +1,5 @@
 collections:
   old-mk-content:
     output: true
-    order: []
+    order:
+      - About Us.md
