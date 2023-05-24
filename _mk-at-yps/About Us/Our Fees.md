@@ -34,4 +34,5 @@ KCare fees are:
 Upon successful enrolment to KCare, the fees payable upfront are as follows,
 * One month deposit fee of $350 and first-month Fee.
 
-
+**<u>Additional KCare Subsidy</u>**
+<br>Additional subsidy is also provided for Singapore Citizens, and this is tiered according to income levels. You may use the KCare Eligibility Calculator on the MOE Internet to check whether your child is eligible for the additional KCare subsidy.
