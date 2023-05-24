@@ -15,7 +15,7 @@ The monthly fee for MK in 2023/2024 is:
 MK Fees are also payable during the June and December holidays. There are no additional out-of-pocket expenses for complimentary programmes such as field trips.
 
 **<u>MK financial assistance</u>**
-<br>If your child is a Singapore Citizen, they may qualify for financial assistance under the Kindergarten Fee Assistance Scheme (KiFAS). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
+<br>If your child is a Singapore Citizen, they may qualify for financial assistance under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>. KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
 
 # Temp image placeholder for KIFAS
 
