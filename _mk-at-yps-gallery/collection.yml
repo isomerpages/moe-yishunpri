@@ -2,5 +2,6 @@ collections:
   mk-at-yps-gallery:
     output: true
     order:
+      - Our Events/.keep
       - World Water Day 2023.md
       - Open House 2023.md
