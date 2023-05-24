@@ -5,7 +5,7 @@ description: ""
 ---
 # Temp image placeholder for MK Org chart image
 
-### **<center>Centre Leader &amp; Admin</center>**
+#### **<center>Centre Leader &amp; Admin</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
@@ -13,7 +13,7 @@ description: ""
 | Administrative Executive | Miss Nurhidayu Bte Mustafa<br>[nurhidayu_mustafa@schools.gov.sg](mailto:nurhidayu_mustafa@schools.gov.sg) |
 | | |
 
-### **<center>Teaching Staff<br>(English Language)</center>**
+#### **<center>Teaching Staff<br>(English Language)</center>**
 
 | Class | Name |
 | :--------: | :--------: |
@@ -23,7 +23,7 @@ description: ""
 | **Love**<br>(PM) | Ms Aqilah Sharafanah Binte Samsudin<br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
 | | |
 
-### **<center>Teaching Staff<br>(Chinese Language)</center>**
+#### **<center>Teaching Staff<br>(Chinese Language)</center>**
 
 | Class | Name |
 | :--------: | :--------: |
@@ -31,11 +31,16 @@ description: ""
 | **Joy/Love**<br>(PM) | Mdm Zhang Yufen<br>[zhang_yufen@moe.edu.sg](mailto:zhang_yufen@moe.edu.sg)<br><br>Mdm Liu Hongmei<br>[liu_hongmei@moe.edu.sg](mailto:liu_hongmei@moe.edu.sg) |
 | | |
 
-### **<center>Teaching Staff<br>(Tamil Language)</center>**
+#### **<center>Teaching Staff<br>(Tamil Language)</center>**
 
 | Class | Name |
 | :--------: | :--------: |
 | **Love &amp; Joy**<br>(AM/PM) | Ms Shamani Devi d/o Sangaran<br>[shamani_devi_sangaran@moe.edu.sg](mailto:shamani_devi_sangaran@moe.edu.sg) |
 | | |
 
-### **<center>Teaching Staff<br>(Malay Language)</center>**
+#### **<center>Teaching Staff<br>(Malay Language)</center>**
+
+| Class | Name |
+| :--------: | :--------: |
+| **Love &amp; Joy**<br>(AM/PM) | Ms Nadiah Liyana Binte Rohim<br>[nadiah_liyana_rohim@moe.edu.sg](mailto:nadiah_liyana_rohim@moe.edu.sg) |
+| | |
