@@ -3,9 +3,9 @@ title: Our Staff
 permalink: /mk-at-yps/mk-staff/
 description: ""
 ---
-# Temp image placeholder for MK Org chart image
+![](/images/MK%20YPS/MK%20Staff/mk_staff_2023.png)
 
-### **<center>Centre Leader &amp; Admin</center>**
+### **<center>Centre Leader &amp; Admin Staff</center>**
 
 | Designation | Name |
 | :--------: | :--------: |
