@@ -2,6 +2,7 @@ collections:
   mk-at-yps:
     output: true
     order:
+      - About Us/Our EYC Partner.md
       - About Us/What MK Offers.md
       - About Us/.keep
       - Home.md
