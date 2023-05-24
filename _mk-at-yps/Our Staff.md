@@ -32,3 +32,9 @@ description: ""
 | | |
 
 ### **<center>Teaching Staff<br>(Tamil Language)</center>**
+
+| Class | Name |
+| :--------: | :--------: |
+| **Love &amp; Joy**<br>(AM/PM) | Mdm Lin Jin<br>[lin_jin@moe.edu.sg](mailto:lin_jin@moe.edu.sg) |
+| **Joy/Love**<br>(PM) | Mdm Zhang Yufen<br>[zhang_yufen@moe.edu.sg](mailto:zhang_yufen@moe.edu.sg)<br><br>Mdm Liu Hongmei<br>[liu_hongmei@moe.edu.sg](mailto:liu_hongmei@moe.edu.sg) |
+| | |
