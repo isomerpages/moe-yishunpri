@@ -37,7 +37,7 @@ Upon successful enrolment to KCare, the fees payable upfront are as follows,
 **<u>Additional KCare Subsidy</u>**
 <br>Additional subsidy is also provided for Singapore Citizens, and this is tiered according to income levels. You may use the <a href="https://moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" target="_blank">KCare Eligibility Calculator</a> on the MOE Internet to check whether your child is eligible for the additional KCare subsidy.
 
-# Temp image placeholder for the Eligibility calculator
+![](/images/MK%20YPS/About%20Us/mk_kcare_subsidy.jpg)
 
 #### **MK Uniform**
 You can purchase the MK uniform from either <a href="https://beauvoix.com/preschool/" target="_blank">Beau Voix Uniform</a> or <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" target="_blank">Jeep Sing Fashion</a> at the following prices:
