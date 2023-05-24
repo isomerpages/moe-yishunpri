@@ -12,7 +12,7 @@ MK@Yishun collaborates with the following EYC centre which provide infant care a
 Children who attend the above EYC will be offered a K1 place at MK@Yishun when they turn 5.
 
 **<u>Criteria and Conditions</u>**
-* Child must be enrolled in the EYC by 31 January of the year the turn 4 or earlier.
+* Child must be enrolled in the EYC by 31 January of the year they turn 4 or earlier.
 * Child must remain in the same EYC till 31 December.
 * Child must be Singaporean or Permanent Resident on the day of enrolment in the MK.
 
