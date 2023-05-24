@@ -2,4 +2,5 @@ collections:
   old-mk-content:
     output: true
     order:
+      - Our MK Team.md
       - About Us.md
