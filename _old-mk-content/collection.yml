@@ -1,0 +1,4 @@
+collections:
+  old-mk-content:
+    output: true
+    order: []
