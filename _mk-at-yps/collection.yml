@@ -2,19 +2,19 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - Our Staff.md
       - Home.md
       - About Us/.keep
       - About Us/What MK Offers.md
       - About Us/Our EYC Partner.md
       - About Us/Our Fees.md
       - About Us/Contact Us.md
-      - Our MK Team.md
+      - Our Staff.md
       - The MK@Yishun Experience/.keep
       - The MK@Yishun Experience/MK@Yishun.md
       - The MK@Yishun Experience/Our Curriculum.md
       - The MK@Yishun Experience/Our Environment.md
       - The MK@Yishun Experience/Our Events.md
-      - The MK Experience.md
       - About Us.md
+      - Our MK Team.md
       - Our Vision Mission & Values.md
+      - The MK Experience.md
