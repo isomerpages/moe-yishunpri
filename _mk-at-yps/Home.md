@@ -3,7 +3,7 @@ title: Home
 permalink: /mk-at-yps/mk-home/
 description: ""
 ---
-### Temp Placeholder for MK YPS Logo
+<img src="/images/MK%20YPS/mkys_logo.jpg" style="width:560px;height:411px;" align="center">
 
 We are delighted to share with you that MOE Kindergarten at Yishun (MK@YS) has commenced operation from January 2023!
 
