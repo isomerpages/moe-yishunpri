@@ -4,7 +4,7 @@ permalink: /mk-at-yps/about-us/mk-eyc/
 description: ""
 third_nav_title: About Us
 ---
-#### **Early Years centre (EYC)**
+#### **Early Years Centre (EYC)**
 
 MK@Yishun collaborates with the following EYC centre which provide infant care and childcare services for children aged two months to four years:
 * **PCF Sparkletots Preschool @ Nee Soon East Blk 223**<br>Blk 223 Yishun Street 21, #01-473, Singapore 760223
