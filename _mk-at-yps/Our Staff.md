@@ -35,6 +35,7 @@ description: ""
 
 | Class | Name |
 | :--------: | :--------: |
-| **Love &amp; Joy**<br>(AM/PM) | Mdm Lin Jin<br>[lin_jin@moe.edu.sg](mailto:lin_jin@moe.edu.sg) |
-| **Joy/Love**<br>(PM) | Mdm Zhang Yufen<br>[zhang_yufen@moe.edu.sg](mailto:zhang_yufen@moe.edu.sg)<br><br>Mdm Liu Hongmei<br>[liu_hongmei@moe.edu.sg](mailto:liu_hongmei@moe.edu.sg) |
+| **Love &amp; Joy**<br>(AM/PM) | Ms Shamani Devi d/o Sangaran<br>[shamani_devi_sangaran@moe.edu.sg](mailto:shamani_devi_sangaran@moe.edu.sg) |
 | | |
+
+### **<center>Teaching Staff<br>(Malay Language)</center>**
