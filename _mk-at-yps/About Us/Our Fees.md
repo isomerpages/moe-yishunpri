@@ -17,7 +17,7 @@ MK Fees are also payable during the June and December holidays. There are no add
 **<u>MK financial assistance</u>**
 <br>If your child is a Singapore Citizen, they may qualify for financial assistance under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>. KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
 
-# Temp image placeholder for KIFAS
+![](/images/MK%20YPS/About%20Us/mk_kifas.png)
 
 #### **Kindergarten Care (KCare) fees**
 The monthly fee for KCare @Yishun (2023) under Neighbourhood Care Services (NCS) is:
