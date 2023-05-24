@@ -18,5 +18,9 @@ description: ""
 | Class | Name |
 | :--------: | :--------: |
 | **Joy**<br>(AM) | Ms Siti Nurhazimah Binte Mohd Ebrahim<br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
-| Administrative Executive | Miss Nurhidayu Bte Mustafa<br>[nurhidayu_mustafa@schools.gov.sg](mailto:nurhidayu_mustafa@schools.gov.sg) |
+| **Love**<br>(AM) | Mr Vishnu Ram Poobalasingam<br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
+| **Joy**<br>(PM) | Ms Nikki Sabrina Binte Jamaluddin<br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
+| **Love**<br>(PM) | Ms Aqilah Sharafanah Binte Samsudin<br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
 | | |
+
+### **<center>Teaching Staff<br>(Chinese Language)</center>**
