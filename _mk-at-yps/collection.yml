@@ -2,7 +2,6 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - Our KCare Experience.md
       - Home.md
       - About Us/.keep
       - About Us/What MK Offers.md
@@ -16,3 +15,4 @@ collections:
       - The MK@Yishun Experience/Our Environment.md
       - The MK@Yishun Experience/Our Events.md
       - The MK@Yishun Experience/Our Collaborations.md
+      - Our KCare Experience.md
