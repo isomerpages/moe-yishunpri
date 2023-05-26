@@ -15,7 +15,7 @@ To develop empathetic communicators, discerning readers, and creative inquirers.
     
 The department incorporates STELLAR 2.0 pedagogical strategies, including the Shared Book Approach, Modified Language Experience Approach, and Reading for Pleasure. Differentiated instructions are provided to meet the specific learning needs of each student, inspiring and motivating them to take ownership of their learning and develop a lifelong love for English.
 
-#### **Key Approaches and Programmes**
+### **Key Approaches and Programmes**
 
 Our programmes are organised to:
 
