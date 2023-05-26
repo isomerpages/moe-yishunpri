@@ -29,7 +29,7 @@ KCare provides care services, and **time** and **space** for children to **play,
 #### **A Typical Day**
 This is a sample timetable on what your child will do in a day if he/she takes up our Full Day Programme.
 
-# Image placeholder for typical day
+![](/images/MK%20YPS/KCare%20Experience/kcare-timetable.png)
 
 #### **Contact Us**
 
