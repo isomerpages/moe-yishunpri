@@ -44,6 +44,6 @@ Primary 3 students take part in an interdisciplinary Math and Science trail to t
 
 **<u>E2K (Mathematics)</u>**
 <br>
-The E2K (Mathematics) is an enrichment programme for selected Primary 5 and 6 students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
+The E2K (Mathematics) is an enrichment programme for selected Primary 4 and 5 students who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
 
 During the programme, students are given opportunities to collaborate with their peers through activities such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess and to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
