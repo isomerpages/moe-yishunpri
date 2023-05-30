@@ -1,5 +1,0 @@
-collections:
-  for-vendors:
-    output: true
-    order:
-      - School Bus Advertisement.md
