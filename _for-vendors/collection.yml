@@ -2,4 +2,4 @@ collections:
   for-vendors:
     output: true
     order:
-      - School Bus.md
+      - School Bus Advertisement.md
