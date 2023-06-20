@@ -3,12 +3,4 @@ title: Calendar
 permalink: /about-us/calendar/
 description: ""
 ---
-
-
-
-
-
-
-
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSingapore&showTabs=0&src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showNav=1&amp;showDate=1&amp;showTabs=0&amp;showCalendars=0&amp;src=Y19iYWNmNDYxZDI0MzBiZGU5ODQ1N2Q2N2RlNTVhMjBkOWNjYTM0N2EwMWE5YjM2ODg3ODI4NDNiMGRiZmJjZTNlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237CB342&amp;color=%23F09300"></iframe>
