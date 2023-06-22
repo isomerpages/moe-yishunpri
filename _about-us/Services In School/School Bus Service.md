@@ -1,6 +1,6 @@
 ---
 title: School Bus Service
-permalink: /about-us/Services-In-School/school-bus-service/
+permalink: /about-us/services-in-school/school-bus-service/
 description: ""
 third_nav_title: Services In School
 ---

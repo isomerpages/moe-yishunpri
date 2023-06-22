@@ -1,6 +1,6 @@
 ---
 title: School Healthy Set Meals
-permalink: /about-us/Services-In-School/school-healthy-set-meals/
+permalink: /about-us/services-in-dchool/school-healthy-set-meals/
 description: ""
 third_nav_title: Services In School
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Student Care Centre
-permalink: /about-us/Services-In-School/school-student-care-centre/
+permalink: /about-us/services-in-school/school-student-care-centre/
 description: ""
 third_nav_title: Services In School
 ---

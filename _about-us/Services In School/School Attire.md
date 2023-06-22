@@ -1,6 +1,6 @@
 ---
 title: School Attire
-permalink: /about-us/Services-In-School/school-attire/
+permalink: /about-us/services-in-school/school-attire/
 description: ""
 third_nav_title: Services In School
 ---

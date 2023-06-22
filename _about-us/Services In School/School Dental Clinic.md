@@ -1,6 +1,6 @@
 ---
 title: School Dental Clinic
-permalink: /about-us/Services-In-School/school-dental-clinic/
+permalink: /about-us/services-in-school/school-dental-clinic/
 description: ""
 third_nav_title: Services In School
 ---
