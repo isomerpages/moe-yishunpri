@@ -9,7 +9,7 @@ description: ""
 * <a href="https://file.for.edu.sg/yps-cw-safe-smart-online.pdf" target="_blank">Cyber Wellness Guide For Parents</a>
 * <a href="https://file.for.edu.sg/yps-cw-tip-sheet.pdf" target="_blank">Cyber Wellness Tip Sheet For Parents</a>
 * [MOE Sexuality Education 2023](/moe-sexuality-education)
-* [Services In School](/about-us/Services-In-School/school-attire/)
+* [Services In School](/about-us/services-in-school/school-attire/)
 * <a href="https://go.gov.sg/ypshelpdesk" target="_blank">YPS ICT Helpdesk</a>
 
 ##### **Useful Links for Students**
