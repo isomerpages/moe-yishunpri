@@ -13,6 +13,7 @@ description: ""
 * <a href="https://go.gov.sg/ypshelpdesk" target="_blank">YPS ICT Helpdesk</a>
 
 ##### **Useful Links for Students**
+* [LaunchPad@YPS](/announcements/yishun-primary-school/launchpad/)
 * <a href="https://www.myskillsfuture.gov.sg/" target="_blank">My Skills Future Portal</a>
 * <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON (Google Workspace)</a>
 * <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
