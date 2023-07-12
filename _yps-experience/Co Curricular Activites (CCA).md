@@ -21,7 +21,7 @@ Every student from Primary 3 to Primary 6 is strongly encouraged to participate 
 
 The school organises a CCA Open House, where students will have the opportunity to explore the various types of CCAs and select the CCA which interests them and which they may have an aptitude for. To promote responsible decision-making, the ‘Choose the Right CCA’ Booklet has been crafted by the school to teach students to identify their interest and make an informed choice among the many CCAs they would like to join. Parents further support this process by discussing the CCA choices with the student and guide them to choose a CCA that they will enjoy and stay committed to.
 
-The CCAs offered in Yishun Primary School can be classified into the following categories shown below. Click on the links below to find out more about our CCAs.
+The CCAs offered in Yishun Primary School can be classified into the following categories shown below. Click on the links to find out more about our CCAs.
 
 #### **Clubs & Societies**
 * [English, Drama & Debating](/ccas/clubs/el-club)
