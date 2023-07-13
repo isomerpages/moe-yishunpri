@@ -4,7 +4,7 @@ permalink: /mk-at-yps/our-mk-experience/mk-achievements/
 description: ""
 third_nav_title: Our MK Experience
 ---
-#### **Pre-School Chinese Language Storytelling Aids Competition**
+#### **Pre-School Chinese Language Storytelling Aids Competition 2023**
 
 The Committee to Promote Chinese Language Learning (CPCLL) organised a competition to spur pre-school educators to use creative teaching aids to teach Chinese Language in the classrooms. 
 
