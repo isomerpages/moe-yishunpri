@@ -10,3 +10,6 @@ The Committee to Promote Chinese Language Learning (CPCLL) organised a competiti
 
 Congratulations to our Chinese Language team in attaining the top 10 Merit award amongst 220 submissions!
 
+![](/images/MK%20YPS/The%20MK%20Experience/mk_achievements_01.PNG)
+
+![](/images/MK%20YPS/The%20MK%20Experience/mk_achievements_02.jpeg)
