@@ -11,12 +11,13 @@ To apply, please refer to the Service Requirements and the Application Procedure
 Click on the below links to view the following requirements, forms and sample requests.
 
 * <a href="/files/Forms/2023/School%20bus%20ad/call_for_proposals_-_school_requirement.pdf" target="_blank">Call For Proposals - School Requirements</a>
+* <a href="/files/Forms/2023/School%20bus%20ad/call_for_proposals_-_annex_a.pdf" target="_blank">Call For Proposals - Annex A</a>
 * <a href="/files/Forms/2023/School%20bus%20ad/sample_request_for_school_bus_services_-_annex_b.pdf" target="_blank">Sample Request for School Bus Services - Annex B</a>
 * <a href="/files/Forms/2023/School%20bus%20ad/sample_agreement_for_appointment.pdf" target="_blank">Sample Agreement for Appointment of School Bus Operator</a>
 
 **Application Procedure**
 
-* Complete the <a href="/files/Forms/2023/School%20bus%20ad/call_for_proposals_-_annex_a.pdf" target="_blank">Call For Proposals - Annex A</a> form.
+* Download and complete the Call for Proposals - Annex A form.
 * Submit the form by closing date, **11th August 2023**, to the School’s General Office.
 <br><br>Address: 500, Yishun Ring Road, Singapore 768679
 <br>Contact No.: 6257 7461
