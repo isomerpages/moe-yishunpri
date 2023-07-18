@@ -17,7 +17,7 @@ Click on the below links to view the following requirements, forms and sample re
 
 **Application Procedure**
 
-* Download and complete the Call for Proposals - Annex A form.
+* Download and complete the **Call for Proposals - Annex A** form.
 * Submit the form by closing date, **11th August 2023**, to the School’s General Office.
 <br><br>Address: 500, Yishun Ring Road, Singapore 768679
 <br>Contact No.: 6257 7461
