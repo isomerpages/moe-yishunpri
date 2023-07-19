@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+We are pleased to announce the official launch of AskGov@YPS!
+
+Click here to view our Frequent Asked Questions (FAQs) or ask a question.
