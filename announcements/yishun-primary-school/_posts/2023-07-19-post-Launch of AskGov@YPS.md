@@ -8,4 +8,4 @@ image: ""
 ---
 We are pleased to announce the official launch of AskGov@YPS!
 
-Click here to view our Frequent Asked Questions (FAQs) or ask a question.
+Click <a href="https://ask.gov.sg/yps" target="_blank">here</a> to view our Frequent Asked Questions (FAQs) or ask a question.
