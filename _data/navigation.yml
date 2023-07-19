@@ -10,3 +10,8 @@ links:
     collection: our-achievements
   - title: MK@YPS
     collection: mk-at-yps
+  - title: AskGov@YPS
+    url: https://ask.gov.sg/yps
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
