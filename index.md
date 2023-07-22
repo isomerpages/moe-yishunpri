@@ -27,4 +27,5 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/yps
       alt: Image alt text
+      image: /images/yps-askgov.png
 ---
