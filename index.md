@@ -21,4 +21,11 @@ sections:
         - title: Contact us
           description: For General Enquiries
           url: /contact-us/
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: Have A question?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/yps
+      alt: Image alt text
+      image: /images/yps-askgov.png
 ---
