@@ -6,10 +6,10 @@ description: ""
 ##### **What is MOE Sexuality Education?**
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-The&nbsp;**Goals**&nbsp;of Sexuality Education are:
-* To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;
-* To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-* To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.
+The **Goals** of Sexuality Education are:
+* To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+* To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+* To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
 The Key Messages of Sexuality Education are:
 * Love and respect yourself as you love and respect others;
@@ -20,15 +20,14 @@ The Key Messages of Sexuality Education are:
 You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a> for more information on MOE Sexuality Education.
 
 ##### **Overview Of Yishun Primary School's Sexuality Education Programme For 2023**
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for&nbsp;Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 
-The subjects that incorporate topics&nbsp;sexuality include:
+The subjects that incorporate topics on sexuality include:
 * Science
 * Character &amp; Citizenship Education (CCE)
 
-**<u>Sexuality Education</u>**: “Curious Minds (2nd Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package
-
-The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
+**<u>Sexuality Education</u>**:
+<br>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
@@ -39,7 +38,7 @@ At Yishun Primary School, the following lessons from Growing Years Programme wil
 |CCE(FTGP) Theme|Lesson Title and Duration|Lesson Overview|Time Period|
 | -------- | -------- | -------- | -------- |
 |Growing Years|The Changes in Me<br>(30 min)|This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 1<br>Week 10|
-| |Did You Know?<br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4<br>Week 10|
+| |Did You Know?<br>(60 min)|This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’**.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4<br>Week 10|
 | |Keeping Myself Safe<br>(60 min)|In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4<br>Week 10|
 | | | | |
 
@@ -47,19 +46,17 @@ At Yishun Primary School, the following lessons from Growing Years Programme wil
  
 |CCE(FTGP) Theme|Lesson Title / Duration|Lesson Overview|Time Period|
 | -------- | -------- | -------- | -------- |
-|Growing Years|Are We More Than Friends?<br>Lesson 1<br>(60 min)|In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.|Term 2<br>Week 10|
+|Growing Years|Are We More Than Friends?<br>Lesson 1<br>(60 min)|In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.|Term 2<br>Week 10|
 | |Are We More Than Friends?<br>Lesson 2<br>(60 min)|In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.|Term 4<br>Week 10|
-| |Did You Know?* <br>(60min)|This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4<br>Week 10|
+| |Did You Know?* <br>(60min)|This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’**.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4<br>Week 10|
 | | | | |
 
 **Please Note**
 <br>* **For <u>2023</u>, the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort.**
 
 ##### **Information For Parents**
-Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Forms/2023/SEd%20Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 31/01/2023.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Forms/2023/SEd%20Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 31/01/2023.
 
-Parents can contact the school at 6257 7461 for discussion or to seek clarification about the school's sexuality education programme.
-
-Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary&nbsp;arrangements.
+Parents can contact the school at 6257 7461 or email to [yps@moe.edu.sg](mailto:yps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
