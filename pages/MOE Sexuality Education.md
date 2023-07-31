@@ -59,4 +59,4 @@ Parents may opt their children out of Sexuality Education lessons, and/or supple
 
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Forms/2023/SEd%20Annex%20A.pdf" target="_blank">here</a>. The completed opt-out form is to be submitted by 31/01/2023.
 
-Parents can contact the school at 6257 7461 for discussion or to seek clarification about the school’s Sexuality Education programme.
+Parents can contact the school at 6257 7461 or email to [yps@moe.edu.sg](mailto:yps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
