@@ -60,6 +60,5 @@ description: ""
 | Designation | Name |
 | :--------: | :--------: |
 | Administration Manager | Mr Lee Meng Hoe<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
-| Administration Manager | Mdm Amanda Woo<br>[Amanda_WOO@schools.gov.sg](mailto:Amanda_WOO@schools.gov.sg) |
 | Operations Manager | Mr Saravanan s/o Sunthiramohan<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
 | | |
