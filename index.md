@@ -4,7 +4,8 @@ title: Yishun Primary School
 description: Do Our Best & Be The Best
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: This is the notification banner. Click <a
+  href="/announcements/">here</a> for annoucements
 sections:
   - hero:
       background: /images/Homepage/hero_banner_main_v9.gif
