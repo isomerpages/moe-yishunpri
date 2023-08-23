@@ -4,7 +4,9 @@ title: Yishun Primary School
 description: Do Our Best & Be The Best
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: No-visitation for Teachers' Day 2023. Click <a
+  href="/announcements/yishun-primary-school/teachers-day-updates">here</a> for
+  announcement.
 sections:
   - hero:
       background: /images/Homepage/hero_banner_main_v9.gif
