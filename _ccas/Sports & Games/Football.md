@@ -2,7 +2,7 @@
 title: Football
 permalink: /ccas/Sports-and-Games/football/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 Yishun Primary School’s Football CCA aims to develop discipline and work ethics in our players, enhancing their physical skills and mental health. Through the sport, our players also learn about sportsmanship and working together as a team.
 
@@ -25,4 +25,4 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrS8fExK-elqLODDT78TxKeiJBKsB4vOvpLmxr3OcVSiVqER5smAMWaH-SiACXa4HZWwah2imZ1L1j/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxYW2Vhs7cgBPamYdDh_8YbkuuX4rt1cdBSawtlmu5NwCOgHIcMrLnXOgI7R5I-eN9oLo0cmayKS2J/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
