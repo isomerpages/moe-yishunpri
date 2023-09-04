@@ -2,7 +2,7 @@
 title: Modern Dance
 permalink: /ccas/Visual-and-Performing-Arts/modern-dance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 Yishun Primary Modern Dance CCA aims to bring students who come from diverse backgrounds to work together to present a beautiful and synchronised performance. Through the practice sessions, students will learn contemporary dance and movement techniques, develop good teamwork and self-discipline. 
 Our dancers have performed at various external events such as Istana Open House on Labour Day (2019) and Singapore Youth Festival Arts Presentation (2022).
@@ -35,4 +35,4 @@ Streetbliss 2013 - Champions
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQvWOR7G52HvzjyTKIXq4S4vg8WxTzivBbqX9IMAkY-9xRI-Ys4DPgtni6rKJ94txDIN1DR7EB_Dk98/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9KMoZJhQxE2TlzwYLtHMFWf-7-Repy1ADKVbJSJueG85E65hm39_Ff1Wu-oWtwsFH6-7cmUa-mzJ5/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
