@@ -1,8 +1,8 @@
 ---
-title: Art &amp; Crafts
+title: Art & Crafts
 permalink: /ccas/Visual-and-Performing-Arts/art-and-crafts/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 The Art &amp; Crafts CCA serves as a platform for our students who have a passion for Visual Arts to showcase their artistic talents. Students are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes.
 
@@ -33,7 +33,7 @@ Through meaningful art-making processes, students develop their character and gr
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtRDfv4taA1-TFMECt88eaUpM5M508CxY2YzWotQxIHZHwCYtiBEfwfUkG7WMH4I5Po0Cfm27xeuXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ10VV7wNHHGb6CWX0Zt5V1H0DdXfO5so-Nwv4yT5uwnG4N79iDhE0w-I2RPLgIMgjS6x6UTQXjlGMq/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
 
 ##### **Our Art Club students and their Artworks**
 Our Art Club students experience pure joy and make wonderful discoveries. They are exposed to various forms and mediums in art such as drawing, painting, mixed media, 3D assemblage, collage as well as craft throughout the art-making processes.
