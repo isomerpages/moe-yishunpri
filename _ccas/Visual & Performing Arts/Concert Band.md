@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /ccas/Visual-and-Performing-Arts/concert-band/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 Yishun Primary Concert Band provides opportunities for our students to develop an appreciation of music, aim to enrich their lives through music. The band provides a supportive environment for our members to participate in a variety of local and international musical activities and competitions. Over the years, the band has been invited to perform at events such as the MOE Work Plan Seminar and National Day Observance Ceremony organised by MOE. To develop and build global awareness and cross-cultural skills in our band members, there are also opportunities for them to participate in immersion programmes in countries such as Hong Kong and Thailand.
 
@@ -34,7 +34,7 @@ Yishun Primary Concert Band provides opportunities for our students to develop a
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJL7GWCp6Zap1eCDFmhdhhwLKNbafxdqY77JJCxSW7pY4DcxjLqIiZmgLjEkjxZ8Gt-E953AFN4XC7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSloB9VVnbjh7PgimvRmrbZixgjyU4TsO6Iu-AtWVJ4Yby04kAHK4r3O81kdLWD6sdWIgXl56cKxnr5/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
 
 ##### **2022 Activities**
 Yishun Primary Concert Band participated in the Singapore Youth Festival Arts Presentation 2022 on 17 August. They participated in two categories, Flexible Band and Percussion Ensemble. The Flexible band performed When the Dendrobium Blooms by Satoshi Yagisawa. This song was specially commissioned for Yishun Primary School. The Percussion Ensemble performed Caprice by Shin-ichi Kaneda. Both groups of band members put up wonderful performances which captivated the attention of the audience.

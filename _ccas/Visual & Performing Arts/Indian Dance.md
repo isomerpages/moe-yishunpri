@@ -2,7 +2,7 @@
 title: Indian Dance
 permalink: /ccas/Visual-and-Performing-Arts/indian-dance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 The Indian Dance CCA in Yishun Primary school aims to develop an appreciation for Indian classical dance in our students.     
 
@@ -30,4 +30,4 @@ Our dancers have performed in various external events such as, the International
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSC7ELgx37Cmq8Dcp8DsdQSLWwfJGFlKT9-FuhBkXOiirxVjMNp514VusjzNflug7BvUEkluLYu2d_g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-ksiBnr8DRgkQzReqb6VaLq6TR2UsIPAbY7r84tCTFGpwscFleW8FjlYP_4j0SjzZvEDZkdqqGAdm/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>

@@ -19,4 +19,4 @@ Chess is a fun, creative and challenging strategic board game for all ages. As a
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMO9KzCTM5v_MnzfDgsM6LFLlPUgjSdLrmYb0Xw3TllLMsusUEIMRpxNqeThyTcCXB-DRHHtNKARSI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTd6tGgPcB8JhirhxN2Pv3TV5c8Etx7zOvOpx4V6V0SVyOOWcwJfRHjCnDItxi6AK3lPd8SJdgAiVwY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>

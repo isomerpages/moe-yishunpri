@@ -2,7 +2,7 @@
 title: Malay Dance
 permalink: /ccas/Visual-and-Performing-Arts/malay-dance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 The Malay Dance CCA aims to develop students’ appreciation and passion for the traditional Malay dance. Through the exposure of various Malay music and different dance genres, students will be able to cultivate their love and interest for the Malay culture and heritage. Students also develop poise, flexibility and coordination skills by learning the fundamental dance movements. 
 
@@ -27,4 +27,4 @@ Our dancers are given opportunities to perform at various platforms such as scho
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkqvZkKpvUObjHsW8DqFoYGy0-MCYoxuRoYvJEC9Um7655GsPg8B-LXihq6r5Qg04lc5nbKgQGo9kz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUqeZA39bCBHdCeniXLYky7Zg1sFS55rf9W2fLn3HkfY4Hu1AjMncElpWVGSoNW9lv1loJtp1tfMJ0/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>

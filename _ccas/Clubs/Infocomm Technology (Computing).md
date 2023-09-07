@@ -40,4 +40,4 @@ At Yishun Primary School ICT Club, we aim to develop future ready learners throu
 
 ##### **Photo Gallery**
 
-<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD-OqC_l6TwQL-Wvhz694DVpIcNLDU6b9QKOMMQFx66NpOVdyH0nrMsevZCYhZPNXGEoQDiDAmjHIf/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1Uko4NN2PBnB7Chi7rydTl5QO_OKO0kfpMI1oIO1xSH1M4QurLRXlqqAXA_ul6f2LoundJzc-rRHQ/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
