@@ -2,6 +2,7 @@ collections:
   mk-at-yps:
     output: true
     order:
+      - Our Events/.keep
       - Home.md
       - About Us/.keep
       - About Us/What MK Offers.md
