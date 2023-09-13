@@ -2,7 +2,6 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - Our Events/.keep
       - Home.md
       - About Us/.keep
       - About Us/What MK Offers.md
@@ -17,4 +16,5 @@ collections:
       - Our MK Experience/Our Events.md
       - Our MK Experience/Our Achievements.md
       - Our MK Experience/Our Collaborations.md
+      - Our Events/.keep
       - Our KCare Experience.md
