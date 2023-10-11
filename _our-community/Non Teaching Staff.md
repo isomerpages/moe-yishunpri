@@ -11,7 +11,6 @@ description: ""
 | Mr Saravanan s/o Sunthiramohan | Operations Manager | [saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
 | Mdm Rosalind Koh | Management Support Officer | [koh_mui_geok_rosalind@schools.gov.sg](mailto:koh_mui_geok_rosalind@schools.gov.sg) |
 | Mdm Tan Lay Peng | Corporate Support Officer | [tan_lay_peng_b@schools.gov.sg](mailto:tan_lay_peng_b@schools.gov.sg) |
-| Miss Nurhidayu Bte Mustafa | Administrative Executive | [nurhidayu_mustafa@schools.gov.sg](mailto:nurhidayu_mustafa@schools.gov.sg) |
 | Miss Juliana Bte Mohamad Sharif | Administrative Executive | [juliana_mohamad_sharif@schools.gov.sg](mailto:juliana_mohamad_sharif@schools.gov.sg) |
 | Miss Tan Yen Ling | Administrative Executive | [tan_yen_ling@schools.gov.sg](mailto:tan_yen_ling@schools.gov.sg) |
 | Mr Tan Teck Wei | ICT Associate | [tan_teck_wei@schools.gov.sg](mailto:tan_teck_wei@schools.gov.sg) |
