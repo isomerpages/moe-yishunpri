@@ -5,5 +5,8 @@ date: 2023-11-16
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
+<center>
+![](/images/Announcements/Yps/PAT2024.gif)
+</center>
