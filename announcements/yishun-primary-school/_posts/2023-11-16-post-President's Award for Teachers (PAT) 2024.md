@@ -8,5 +8,5 @@ image: ""
 variant: markdown
 ---
 <center>
-![](/images/Announcements/Yps/PAT2024.gif)
+<img src="/images/Announcements/Yps/PAT2024.gif">
 </center>
