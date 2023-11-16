@@ -8,5 +8,7 @@ image: ""
 variant: markdown
 ---
 <center>
+<a target="_blank" href="https://go.gov.sg/pat2024">
 <img src="/images/Announcements/Yps/PAT2024.gif">
+</a>
 </center>
