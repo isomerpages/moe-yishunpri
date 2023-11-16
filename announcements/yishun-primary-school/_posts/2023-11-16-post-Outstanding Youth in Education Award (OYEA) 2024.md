@@ -5,5 +5,8 @@ date: 2023-11-16
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
+<center>
+<img src="/images/Announcements/Yps/OYEA2024.jpg">
+</center>
