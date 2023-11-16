@@ -8,5 +8,7 @@ image: ""
 variant: markdown
 ---
 <center>
+<a target="_blank" href="https://go.gov.sg/oyea2024">
 <img src="/images/Announcements/Yps/OYEA2024.jpg">
+</a>
 </center>
