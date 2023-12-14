@@ -2,6 +2,7 @@
 title: Executive Committee
 permalink: /our-community/exco/
 description: ""
+variant: markdown
 ---
 ### **<center>School Leaders</center>**
 
@@ -11,7 +12,6 @@ description: ""
 | Vice-Principal<br>(Academic) | Mr Nicholas Tan Yew Lee<br>[Nicholas_TAN@schools.gov.sg](mailto:Nicholas_TAN@schools.gov.sg) |
 | Vice-Principal<br>(Academic) | Mdm Farlinah Supaah<br>[farlinah_supaah@schools.gov.sg](mailto:farlinah_supaah@schools.gov.sg) |
 | Vice-Principal<br>(Administration) | Mr Lee Han Keong<br>[lee_han_keong@schools.gov.sg](mailto:lee_han_keong@schools.gov.sg) |
-| | |
 
 ### **<center>Heads of Department</center>**
 
@@ -27,7 +27,6 @@ description: ""
 | Head of Department<br>Physical Education &amp; CCA | Mr Yamalasamy Shanmugiah<br>[yamalasamy_shanmugiah@schools.gov.sg](mailto:yamalasamy_shanmugiah@schools.gov.sg) |
 | Head of Department<br>Special Education Needs &amp; Educational Support | Mdm Kuek Ai Hsiang<br>[kuek_ai_hsiang@schools.gov.sg](mailto:kuek_ai_hsiang@schools.gov.sg) |
 | School Staff Developer | Mdm Ang Chai Lan, Carine<br>[ang_chai_lan@schools.gov.sg](mailto:ang_chai_lan@schools.gov.sg) |
-| | |
 
 ### **<center>Level &amp; Subject Heads</center>**
 
@@ -41,7 +40,6 @@ description: ""
 | Subject Head<br>Student Leadership (Internal) | Ms Joan Kam<br>[joan_kam_see_mun@schools.gov.sg](mailto:joan_kam_see_mun@schools.gov.sg) |
 | Level Head<br>Mathematics | Miss Bernice Cheng<br>[cheng_xinyi_bernice@schools.gov.sg](mailto:cheng_xinyi_bernice@schools.gov.sg) |
 | Level Head<br>Science | Mrs Eileen Lee<br>[ong_boon_ching_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
-| | |
 
 ### **<center>Year Heads &amp; Assistant Year Heads</center>**
 
@@ -53,7 +51,6 @@ description: ""
 | Assistant Year Head<br>(Primary 1 &amp; Primary 2) | Ms Yong Hui Wen<br>[yong_hui_wen@schools.gov.sg](mailto:yong_hui_wen@schools.gov.sg) |
 | Assistant Year Head<br>(Primary 3 &amp; Primary 4)<br>(Internal) | Mr V Ilanchezhiyan<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
 | Assistant Year Head<br>(Primary 5 &amp; Primary 6) | Ms Nirmala Arumugam<br>[nirmala_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg) |
-| | |
 
 ### **<center>School Admin Team</center>**
 
@@ -61,4 +58,3 @@ description: ""
 | :--------: | :--------: |
 | Administration Manager | Mr Lee Meng Hoe<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
 | Operations Manager | Mr Saravanan s/o Sunthiramohan<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
-| | |
