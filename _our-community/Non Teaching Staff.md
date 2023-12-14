@@ -2,6 +2,7 @@
 title: Non Teaching Staff
 permalink: /our-community/admin-staff/
 description: ""
+variant: markdown
 ---
 ### **<center>School Admin Team</center>**
 
@@ -14,7 +15,6 @@ description: ""
 | Miss Juliana Bte Mohamad Sharif | Administrative Executive | [juliana_mohamad_sharif@schools.gov.sg](mailto:juliana_mohamad_sharif@schools.gov.sg) |
 | Miss Tan Yen Ling | Administrative Executive | [tan_yen_ling@schools.gov.sg](mailto:tan_yen_ling@schools.gov.sg) |
 | Mr Tan Teck Wei | ICT Associate | [tan_teck_wei@schools.gov.sg](mailto:tan_teck_wei@schools.gov.sg) |
-| | |
 
 ### **<center>Support Staff</center>**
 
@@ -31,4 +31,3 @@ description: ""
 | Mdm Wong Kwee Fong | Operation Support Officer |
 | Mr Lim Jiew Wang | Operation Support Officer |
 | Mdm Leong Eek Ling, Eileen | Operation Support Officer (MK) |
-| | |
