@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-community/sac/
 description: ""
+variant: markdown
 ---
 <style>
 td, th {
@@ -12,16 +13,13 @@ td, th {
 | **Chairman** |
 | :--------: |
 | Mr Toh Ban Choon |
-| |
 
 | **Vice-Chairman** |
 | :--------: |
 | Mr Lim Wah Onn Marcus |
-| |
 
 | **Members** |
 | :--------: |
 | Mr Tan Yueh Phern |
 | Mr S Devendran |
 | Ms Lau Yoot Moey |
-| |
