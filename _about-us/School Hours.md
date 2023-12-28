@@ -18,12 +18,11 @@ variant: markdown
 
 ##### **Recess and Power Break**
 
-| | Recess | Power Break <br>(Any 15 min within the period) |
+| | Recess | Power Break |
 |:-----------:|:-----------------:|:---------------:|
-| Primary 1 | 9.00 am to 9.30 am   | 10.30 am to 11.00 am |
-| Primary 2 | 9.00 am to 9.30 am   | 11.00 am to 11.30 am |
-| Primary 3 | 9.30 am to 10.00 am  | 11.30 am to 12.00 pm |
-| Primary 4 | 10.00 am to 10.30 am | 12.00 pm to 12.30 pm |
-| Primary 5 | 10.30 am to 11.00 am | 8.30 am to 9.00 am |
-| Primary 6 | 10.30 am to 11.00 am | 8.30 am to 9.00 am |
-| Primary 6 | 11.00 am to 11.30 am | 9.00 am to 9.30 am |
+| Primary 1 | 9.00 am to 9.30 am   | 11.00 am to 11.30 am |
+| Primary 2 | 10.00 am to 10.30 am   | 8.30 am to 9.00 am |
+| Primary 3 | 10.00 am to 10.30 am  | 8.30 am to 9.00 am |
+| Primary 4 | 9.00 am to 9.30 am | 11.00 am to 11.30 am |
+| Primary 5 | 9.30 am am to 10.00 am | 11.30 am to 12.00 pm |
+| Primary 6 | 10.30 am to 11.00 am | 9.00 am to 9.30 am |
