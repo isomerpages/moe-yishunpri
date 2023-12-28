@@ -9,6 +9,7 @@ variant: markdown
 | Name | Designation | Email |
 | ----------------- | :------------------: | :-----------------: |
 | Mr Lee Meng Hoe | Administration Manager | [LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
+| Ms Wong Mei Ling | Administration Manager ||
 | Mr Saravanan s/o Sunthiramohan | Operations Manager | [saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
 | Mdm Rosalind Koh | Management Support Officer | [koh_mui_geok_rosalind@schools.gov.sg](mailto:koh_mui_geok_rosalind@schools.gov.sg) |
 | Mdm Tan Lay Peng | Corporate Support Officer | [tan_lay_peng_b@schools.gov.sg](mailto:tan_lay_peng_b@schools.gov.sg) |
