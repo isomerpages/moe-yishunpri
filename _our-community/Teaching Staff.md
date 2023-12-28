@@ -74,11 +74,12 @@ variant: markdown
 | Name | Email |
 |:-----------------:|:------------------:|
 | Mrs Kelly Tan Chin Choo | [tan_chin_choo_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg) |
-| Mrs Adelene Hong | [hong\_eng\_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg) |
-| Ms Chua Mei Ling | [chua_mei_ling_b@schools.gov.sg](mailto:chua_mei_ling_b@schools.gov.sg) |
-| Mrs Eileen Lee | [ong\_boon\_ching\_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
-| Mdm Nur Hamizah Bte Rosdin | [nur_hamizah_rosidin@schools.gov.sg](mailto:nur_hamizah_rosidin@schools.gov.sg) |
-| Miss Sandra sunarti Sulaiman <br>(SEN Officer) | [sandra\_sunarti\_sulaiman@schools.gov.sg](mailto:sandra_sunarti_sulaiman@schools.gov.sg) |
+| Mr Leong Weng Hong | [leong_weng_hong@schools.gov.sg](mailto:leong_weng_hong@schools.gov.sg) |
+| Mrs Eileen Lee | [ong_boon_ching_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
+| Mrs Adelene Hong | [hong_eng_leong@schools.gov.sg](mailto:hong_eng_leong@schools.gov.sg) |
+| Mr Vasudavan Pillai | [vasudavan_s_g_pillai@schools.gov.sg](mailto:vasudavan_s_g_pillai@schools.gov.sg) |
+| Mdm Noor Faranah Bte Mohamed Yatim | [noor_faranah_mohamed@schools.gov.sg](mailto:noor_faranah_mohamed@schools.gov.sg) |
+| Miss Sandra Sunarti Sulaiman <br>(SEN Officer) | [sandra\_sunarti\_sulaiman@schools.gov.sg](mailto:sandra_sunarti_sulaiman@schools.gov.sg) |
 | Mr Hamdan Bin Alias<br>(SEN Officer) | [hamdan\_alias@schools.gov.sg](mailto:hamdan_alias@moe.edu.sg) |
 | Ms Betty Chia Lee Lee<br>(SEN Officer) | [chia\_lee\_lee@schools.gov.sg](mailto:chia_lee_lee@schools.gov.sg) |
 | Ms Alissa Goh Yoke En<br>(SEN Officer) | [goh\_yoke\_en\_alissa@schools.gov.sg](mailto:goh_yoke_en_alissa@schools.gov.sg) |
