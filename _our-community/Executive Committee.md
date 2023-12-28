@@ -33,11 +33,10 @@ variant: markdown
 | Designation | Name |
 | :--------: | :--------: |
 | Subject Head<br>Tamil Language | Mdm Sivakami d/o Ratha<br>[sivakami_ratha@schools.gov.sg](mailto:sivakami_ratha@schools.gov.sg) |
-| Subject Head<br>Aesthetics (Internal) | Miss Lee Linghui Alcina<br>[lee_linghui_alcina@schools.gov.sg](mailto:lee_linghui_alcina@schools.gov.sg) |
+| Subject Head<br>Aesthetics | Miss Lee Linghui Alcina<br>[lee_linghui_alcina@schools.gov.sg](mailto:lee_linghui_alcina@schools.gov.sg) |
 | Subject Head<br>Student Well-Being (Internal) | Mdm Nurhayati Nasir<br>[nurhayati_nasir@schools.gov.sg](mailto:nurhayati_nasir@schools.gov.sg) |
-|Subject Head<br>Information, Communication &amp; Technology | Miss Roslyn Foong Pei Li<br>[roslyn_foong_pei_li@schools.gov.sg](mailto:roslyn_foong_pei_li@schools.gov.sg) |
 | Subject Head<br>Character &amp; Citizenship Education | Mdm Fauziah Alang Mohammad Rom<br>[fauziah_alang_mohammad_rom@schools.gov.sg](mailto:fauziah_alang_mohammad_rom@schools.gov.sg) |
-| Subject Head<br>Student Leadership (Internal) | Ms Joan Kam<br>[joan_kam_see_mun@schools.gov.sg](mailto:joan_kam_see_mun@schools.gov.sg) |
+| Level Head<br>English | Ms Joan Kam<br>[joan_kam_see_mun@schools.gov.sg](mailto:joan_kam_see_mun@schools.gov.sg) |
 | Level Head<br>Mathematics | Miss Bernice Cheng<br>[cheng_xinyi_bernice@schools.gov.sg](mailto:cheng_xinyi_bernice@schools.gov.sg) |
 | Level Head<br>Science | Mrs Eileen Lee<br>[ong_boon_ching_eileen@schools.gov.sg](mailto:ong_boon_ching_eileen@schools.gov.sg) |
 
@@ -45,11 +44,12 @@ variant: markdown
 
 | Designation | Name |
 | :--------: | :--------: |
-| Year Head<br>(Primary 1 &amp; Primary 2) | Mdm Tong Mun Hwee<br>[tong_mun_hwee@schools.gov.sg](mailto:tong_mun_hwee@schools.gov.sg) |
-|Year Head<br>(Primary 3 &amp; Primary 4) | Mrs Tan Chin Choo, Kelly<br>[tan_chin_choo_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg) |
-| Year Head<br>(Primary 5 &amp; Primary 6) |Mr Ang Liang Tien, Terrance<br>[ang_liang_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg) |
+|Year Head | Mrs Tan Chin Choo, Kelly<br>[tan_chin_choo_a@schools.gov.sg](mailto:tan_chin_choo_a@schools.gov.sg) |
+| Year Head<br>(Primary 1 to Primary 3) | Mdm Tong Mun Hwee<br>[tong_mun_hwee@schools.gov.sg](mailto:tong_mun_hwee@schools.gov.sg) |
+| Year Head<br>(Primary 4 to Primary 6) |Mr Ang Liang Tien, Terrance<br>[ang_liang_tien@schools.gov.sg](mailto:ang_liang_tien@schools.gov.sg) |
 | Assistant Year Head<br>(Primary 1 &amp; Primary 2) | Ms Yong Hui Wen<br>[yong_hui_wen@schools.gov.sg](mailto:yong_hui_wen@schools.gov.sg) |
-| Assistant Year Head<br>(Primary 3 &amp; Primary 4)<br>(Internal) | Mr V Ilanchezhiyan<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
+| Assistant Year Head<br>(Primary 3)<br>(Internal) | Miss Fam Xinru, Winnie<br>[fam_xinru_winnie@schools.gov.sg](mailto:fam_xinru_winnie@schools.gov.sg) |
+| Assistant Year Head<br>(Primary 4)<br>(Internal) | Mr V Ilanchezhiyan<br>[v_ilanchezhiyan@schools.gov.sg](mailto:v_ilanchezhiyan@schools.gov.sg) |
 | Assistant Year Head<br>(Primary 5 &amp; Primary 6) | Ms Nirmala Arumugam<br>[nirmala_arumugam@schools.gov.sg](mailto:nirmala_arumugam@schools.gov.sg) |
 
 ### **<center>School Admin Team</center>**
@@ -57,4 +57,5 @@ variant: markdown
 | Designation | Name |
 | :--------: | :--------: |
 | Administration Manager | Mr Lee Meng Hoe<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
+| Administration Manager | Ms Wong Mei Ling |
 | Operations Manager | Mr Saravanan s/o Sunthiramohan<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
