@@ -3,6 +3,7 @@ title: Our Fees
 permalink: /mk-at-yps/about-us/mk-fees/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 #### **MOE Kindergarten (MK) fees**
 The monthly fee for MK in 2023/2024 is:
@@ -10,7 +11,6 @@ The monthly fee for MK in 2023/2024 is:
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
 | $160.00 | $320.00 |
-| | |
 
 MK Fees are also payable during the June and December holidays. There are no additional out-of-pocket expenses for complimentary programmes such as field trips.
 
@@ -25,7 +25,6 @@ If you opt for our KCare services, the monthly fee for KCare @Yishun (2023) unde
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
 | $200.00<br>*(Fee after $150.00 basic subsidy)* | $350.00 |
-| | |
 
 KCare fees are:
 * Paid directly to Neighbourhood Care Services (NCS).
@@ -47,6 +46,5 @@ You can purchase the MK uniform from either <a href="https://beauvoix.com/presch
 | (TOP) **Polo T-Shirt** | $7.00 | $7.00 |
 | (BOTTOM) **Shorts for Boys** | $7.00 | $8.00 |
 | (BOTTOM) **Skorts for Girls** | $7.00 | $8.00 |
-| | | |
 
 We recommend that each child has at least three sets of uniform.

@@ -3,10 +3,11 @@ title: Triple P (Positive Parenting Programme)
 permalink: /our-community/parents/triple-p/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ##### **Triple P Publicity Video**
 
-Click this **<a href="https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view" target="_blank">link</a>** to watch the Triple P publicity video.  
+Click this&nbsp;**<a href="https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view" target="_blank">link</a>**&nbsp;to watch the Triple P publicity video.  
 
 ##### **Sign-up link for parents to indicate their interest:**
 Dear Parents,
@@ -27,7 +28,6 @@ Please note that invitation for 2023 seminars will be sent via the Parents Gatew
 | Seminar 1: March 21, 2023 |
 | Seminar 2: March 28, 2023 |
 | Seminar 3: April 4, 2023 |
-| |
 
 | |
 |:---------------------------------:|
@@ -36,7 +36,6 @@ Please note that invitation for 2023 seminars will be sent via the Parents Gatew
 | Seminar 1: June 4, 2023 |
 | Seminar 2: June 11, 2023 |
 | Seminar 3: June 18, 2023 |
-| |
 
 | |
 |:---------------------------------:|
@@ -45,7 +44,6 @@ Please note that invitation for 2023 seminars will be sent via the Parents Gatew
 | Seminar 1: June 9, 2023 |
 | Seminar 2: June 16, 2023 |
 | Seminar 3: June 23, 2023 |
-| |
 
 | |
 |:---------------------------------:|
