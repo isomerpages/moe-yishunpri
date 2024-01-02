@@ -2,27 +2,6 @@
 title: School Hours
 permalink: /about-us/school-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### **Single Session**
-
-| Curriculum Time | Time                |
-|:-----------------:|:--------------------:|
-| Mondays         | 7.30 am to 1.30 pm  |
-|   Tuesdays  | 7.30 am to 1.00 pm  |
-|  Wednesdays |  7.30 am to 1.30 pm |
-|   Thursdays |  7.30 am to 1.30pm  |
-| Fridays         | 7.30 am to 1.00 pm  |
-
-**Note:** From 2024, all students must be in the Hall or Classroom by **<u>7.30 am</u>** for the morning assembly.
-
-##### **Recess and Power Break**
-
-| | Recess | Power Break |
-|:-----------:|:-----------------:|:---------------:|
-| Primary 1 | 9.00 am to 9.30 am   | 11.00 am to 11.30 am |
-| Primary 2 | 10.00 am to 10.30 am   | 8.30 am to 9.00 am |
-| Primary 3 | 10.00 am to 10.30 am  | 8.30 am to 9.00 am |
-| Primary 4 | 9.00 am to 9.30 am | 11.00 am to 11.30 am |
-| Primary 5 | 9.30 am am to 10.00 am | 11.30 am to 12.00 pm |
-| Primary 6 | 10.30 am to 11.00 am | 9.00 am to 9.30 am |
+<h5><strong>Single Session</strong></h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Curriculum Time</p></th><th rowspan="1" colspan="1"><p>Time</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mondays</p></td><td rowspan="1" colspan="1"><p>7.30 a.m. to 1.30 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Tuesdays</p></td><td rowspan="1" colspan="1"><p>7.30 a.m. to 1.00 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Wednesdays</p></td><td rowspan="1" colspan="1"><p>7.30 a.m. to 1.30 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Thursdays</p></td><td rowspan="1" colspan="1"><p>7.30 a.m. to 1.30p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Fridays</p></td><td rowspan="1" colspan="1"><p>7.30 a.m. to 1.00 p.m.</p></td></tr></tbody></table><p><strong>Note:</strong> From 2024, all students must be in the Hall or Classroom by <strong><u>7.30 a.m.</u></strong> for the morning assembly.</p><h5><strong>Recess and Power Break</strong></h5><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p>Recess</p></th><th rowspan="1" colspan="1"><p>Power Break</p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1</p></td><td rowspan="1" colspan="1"><p>9.00 a.m. to 9.30 a.m.</p></td><td rowspan="1" colspan="1"><p>11.00 a.m. to 11.30 a.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 2</p></td><td rowspan="1" colspan="1"><p>10.00 a.m. to 10.30 a.m.</p></td><td rowspan="1" colspan="1"><p>8.30 a.m. to 9.00 a.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 3</p></td><td rowspan="1" colspan="1"><p>10.00 a.m. to 10.30 a.m.</p></td><td rowspan="1" colspan="1"><p>8.30 a.m. to 9.00 a.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 4</p></td><td rowspan="1" colspan="1"><p>9.00 a.m. to 9.30 a.m.</p></td><td rowspan="1" colspan="1"><p>11.00 a.m. to 11.30 a.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 5</p></td><td rowspan="1" colspan="1"><p>9.30 a.m. to 10.00 a.m.</p></td><td rowspan="1" colspan="1"><p>11.30 a.m. to 12.00 p.m.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 6</p></td><td rowspan="1" colspan="1"><p>10.30 a.m. to 11.00 a.m.</p></td><td rowspan="1" colspan="1"><p>9.00 a.m. to 9.30 a.m.</p></td></tr></tbody></table><p></p>
