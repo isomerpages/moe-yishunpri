@@ -24,5 +24,5 @@ variant: markdown
 | Primary 2 | 10.00 am to 10.30 am   | 8.30 am to 9.00 am |
 | Primary 3 | 10.00 am to 10.30 am  | 8.30 am to 9.00 am |
 | Primary 4 | 9.00 am to 9.30 am | 11.00 am to 11.30 am |
-| Primary 5 | 9.30 am am to 10.00 am | 11.30 am to 12.00 pm |
+| Primary 5 | 9.30 am to 10.00 am | 11.30 am to 12.00 pm |
 | Primary 6 | 10.30 am to 11.00 am | 9.00 am to 9.30 am |
