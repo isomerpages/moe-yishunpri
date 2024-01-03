@@ -2,33 +2,6 @@
 title: Non Teaching Staff
 permalink: /our-community/admin-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **<center>School Admin Team</center>**
-
-| Name | Designation | Email |
-| ----------------- | :------------------: | :-----------------: |
-| Mr Lee Meng Hoe | Administration Manager | [LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
-| Ms Wong Mei Ling | Administration Manager ||
-| Mr Saravanan s/o Sunthiramohan | Operations Manager | [saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
-| Mdm Rosalind Koh | Management Support Officer | [koh_mui_geok_rosalind@schools.gov.sg](mailto:koh_mui_geok_rosalind@schools.gov.sg) |
-| Mdm Tan Lay Peng | Corporate Support Officer | [tan_lay_peng_b@schools.gov.sg](mailto:tan_lay_peng_b@schools.gov.sg) |
-| Miss Juliana Bte Mohamad Sharif | Administrative Executive | [juliana_mohamad_sharif@schools.gov.sg](mailto:juliana_mohamad_sharif@schools.gov.sg) |
-| Miss Tan Yen Ling | Administrative Executive | [tan_yen_ling@schools.gov.sg](mailto:tan_yen_ling@schools.gov.sg) |
-| Mr Tan Teck Wei | ICT Associate | [tan_teck_wei@schools.gov.sg](mailto:tan_teck_wei@schools.gov.sg) |
-
-### **<center>Support Staff</center>**
-
-| Name | Designation |
-| :-----------------: | :------------------: |
-| Ms Zahirah Binte Zulkefli | Librarian |
-| Mdm Lui Lee Lian | Science Lab Technician |
-| Mdm Atikah Binte Ismail | Office Receptionist |
-| Mr Pek Jian Jie Jeffery | Desktop Engineer |
-| Mdm Nagalakshmi | Desktop Engineer |
-| Mr Chow Yew Meng | Operation Support |
-| Mdm Mariam Bee Bee | Operation Support Officer |
-| Mdm Rabiah Makmor | Operation Support Officer |
-| Mdm Wong Kwee Fong | Operation Support Officer |
-| Mr Lim Jiew Wang | Operation Support Officer |
-| Mdm Leong Eek Ling, Eileen | Operation Support Officer (MK) |
+<h3><strong>School Admin Team</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Email</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Lee Meng Hoe</p></td><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p><a href="mailto:LEE_Meng_Hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Meng_Hoe@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Pam Wong Mei Ling</p></td><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Saravanan s/o Sunthiramohan</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p><a href="mailto:saravanan_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saravanan_b@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Rosalind Koh</p></td><td rowspan="1" colspan="1"><p>Management Support Officer</p></td><td rowspan="1" colspan="1"><p><a href="mailto:koh_mui_geok_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mui_geok_rosalind@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Tan Lay Peng</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_lay_peng_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_peng_b@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Juliana Bte Mohamad Sharif</p></td><td rowspan="1" colspan="1"><p>Administrative Executive</p></td><td rowspan="1" colspan="1"><p><a href="mailto:juliana_mohamad_sharif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_mohamad_sharif@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Tan Yen Ling</p></td><td rowspan="1" colspan="1"><p>Administrative Executive</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_yen_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_ling@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Teck Wei</p></td><td rowspan="1" colspan="1"><p>ICT Associate</p></td><td rowspan="1" colspan="1"><p><a href="mailto:tan_teck_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_wei@schools.gov.sg</a></p></td></tr></tbody></table><h3><strong>Support Staff</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Zahirah Binte Zulkefli</p></td><td rowspan="1" colspan="1"><p>Librarian</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lui Lee Lian</p></td><td rowspan="1" colspan="1"><p>Science Lab Technician</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Atikah Binte Ismail</p></td><td rowspan="1" colspan="1"><p>Office Receptionist</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Pek Jian Jie Jeffery</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Nagalakshmi</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chow Yew Meng</p></td><td rowspan="1" colspan="1"><p>Operation Support</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Mariam Bee Bee</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Rabiah Makmor</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Wong Kwee Fong</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Lim Jiew Wang</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Leong Eek Ling, Eileen</p></td><td rowspan="1" colspan="1"><p>Operation Support Officer (MK)</p></td></tr></tbody></table><p></p>
