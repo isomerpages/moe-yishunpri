@@ -57,5 +57,5 @@ variant: markdown
 | Designation | Name |
 | :--------: | :--------: |
 | Administration Manager | Mr Lee Meng Hoe<br>[LEE_Meng_Hoe@schools.gov.sg](mailto:LEE_Meng_Hoe@schools.gov.sg) |
-| Administration Manager | Ms Wong Mei Ling |
+| Administration Manager | Ms Pam Wong Mei Ling |
 | Operations Manager | Mr Saravanan s/o Sunthiramohan<br>[saravanan_b@schools.gov.sg](mailto:saravanan_b@schools.gov.sg) |
