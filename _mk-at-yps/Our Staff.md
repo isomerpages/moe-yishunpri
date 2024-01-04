@@ -2,40 +2,6 @@
 title: Our Staff
 permalink: /mk-at-yps/mk-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/MK%20YPS/MK%20Staff/mk_staff_2023.png)
-
-### **<center>Centre Leader &amp; Admin Staff</center>**
-
-| Designation | Name |
-| :--------: | :--------: |
-| Centre Head | Ms Shalomi Shalini Rishaba Raj<br>[shalomi_shalini_rishaba_raj@moe.edu.sg](mailto:shalomi_shalini_rishaba_raj@moe.edu.sg) |
-
-### **<center>Teaching Staff<br>(English Language)</center>**
-
-| Class | Name |
-| :--------: | :--------: |
-| **Joy**<br>(AM) | Ms Siti Nurhazimah Binte Mohd Ebrahim<br>[siti_nurhazimah_mohd_ebrahim@moe.edu.sg](mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg) |
-| **Love**<br>(AM) | Mr Vishnu Ram Poobalasingam<br>[vishnu_ram_poobalasingam@moe.edu.sg](mailto:vishnu_ram_poobalasingam@moe.edu.sg) |
-| **Joy**<br>(PM) | Ms Nikki Sabrina Binte Jamaluddin<br>[nikki_sabrina_jamaluddin@moe.edu.sg](mailto:nikki_sabrina_jamaluddin@moe.edu.sg) |
-| **Love**<br>(PM) | Ms Aqilah Sharafanah Binte Samsudin<br>[aqilah_sharafanah_samsudin@moe.edu.sg](mailto:aqilah_sharafanah_samsudin@moe.edu.sg) |
-
-### **<center>Teaching Staff<br>(Chinese Language)</center>**
-
-| Class | Name |
-| :--------: | :--------: |
-| **Joy/Love**<br>(AM) | Mdm Lin Jin<br>[lin_jin@moe.edu.sg](mailto:lin_jin@moe.edu.sg) |
-| **Joy/Love**<br>(PM) | Mdm Zhang Yufen<br>[zhang_yufen@moe.edu.sg](mailto:zhang_yufen@moe.edu.sg)<br><br>Mdm Liu Hongmei<br>[liu_hongmei@moe.edu.sg](mailto:liu_hongmei@moe.edu.sg) |
-
-### **<center>Teaching Staff<br>(Tamil Language)</center>**
-
-| Class | Name |
-| :--------: | :--------: |
-| **Love &amp; Joy**<br>(AM/PM) | Ms Shamani Devi d/o Sangaran<br>[shamani_devi_sangaran@moe.edu.sg](mailto:shamani_devi_sangaran@moe.edu.sg) |
-
-### **<center>Teaching Staff<br>(Malay Language)</center>**
-
-| Class | Name |
-| :--------: | :--------: |
-| **Love &amp; Joy**<br>(AM/PM) | Ms Nadiah Liyana Binte Rohim<br>[nadiah_liyana_rohim@moe.edu.sg](mailto:nadiah_liyana_rohim@moe.edu.sg) |
+<h3><strong>Centre Leader &amp; Admin Staff</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p>Centre Head</p></td><td rowspan="1" colspan="1"><p>Ms Shalomi Shalini Rishaba Raj<br><a href="mailto:shalomi_shalini_rishaba_raj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shalomi_shalini_rishaba_raj@moe.edu.sg</a></p></td></tr></tbody></table><h3><strong>Teaching Staff<br>(English Language)</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Joy</strong><br>(AM)</p></td><td rowspan="1" colspan="1"><p>Ms Siti Nurhazimah Binte Mohd Ebrahim<br><a href="mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhazimah_mohd_ebrahim@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Love</strong><br>(AM)</p></td><td rowspan="1" colspan="1"><p>Mr Vishnu Ram Poobalasingam<br><a href="mailto:vishnu_ram_poobalasingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vishnu_ram_poobalasingam@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Joy</strong><br>(PM)</p></td><td rowspan="1" colspan="1"><p>Ms Nikki Sabrina Binte Jamaluddin<br><a href="mailto:nikki_sabrina_jamaluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nikki_sabrina_jamaluddin@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Love</strong><br>(PM)</p></td><td rowspan="1" colspan="1"><p>Ms Aqilah Sharafanah Binte Samsudin<br><a href="mailto:aqilah_sharafanah_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@moe.edu.sg</a></p></td></tr></tbody></table><h3><strong>Teaching Staff<br>(Chinese Language)</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Joy/Love</strong><br>(AM)</p></td><td rowspan="1" colspan="1"><p>Mdm Lin Jin<br><a href="mailto:lin_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jin@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Joy/Love</strong><br>(PM)</p></td><td rowspan="1" colspan="1"><p>Mdm Zhang Yufen<br><a href="mailto:zhang_yufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yufen@moe.edu.sg</a><br><br>Mdm Liu Hongmei<br><a href="mailto:liu_hongmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongmei@moe.edu.sg</a></p></td></tr></tbody></table><h3><strong>Teaching Staff<br>(Tamil Language)</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Love &amp; Joy</strong><br>(AM/PM)</p></td><td rowspan="1" colspan="1"><p>Ms Shamani Devi d/o Sangaran<br><a href="mailto:shamani_devi_sangaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamani_devi_sangaran@moe.edu.sg</a></p></td></tr></tbody></table><h3><strong>Teaching Staff<br>(Malay Language)</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Love &amp; Joy</strong><br>(AM/PM)</p></td><td rowspan="1" colspan="1"><p>Ms Nadiah Liyana Binte Rohim<br><a href="mailto:nadiah_liyana_rohim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_liyana_rohim@moe.edu.sg</a></p></td></tr></tbody></table><p></p>
