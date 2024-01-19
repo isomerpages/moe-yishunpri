@@ -7,14 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-![](/images/Announcements/Mk/Open_House_2023.png)
-
-Date : Saturday, 18th February 2023
-<br>Time : 9.00am to 1.00pm (Last walk-in @ 12.45pm)
-
-##### **Is Your Child Turning 5 In Year 2024?**
-Online registration for 2024 K1 admissions for both Open Admissions (OA) and Early Years Centre (EYC) children born between 2 Jan 2019 and 1 Jan 2020, will open from 17 February 2023 (Friday) 9.00am to 21 February 2023 (Tuesday) 4.00pm (Applicable to Singapore Citizen and Permanent Residents only).
-
-If you have missed the online registration exercise, please contact us directly or fill in our [MK@Yishun waitlist form](https://form.gov.sg/61c3c7951c62de001219aa38).
-
-For enquires or questions please email us at [mk_yishun@moe.edu.sg](mailto:mk_yishun@moe.edu.sg).
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Mk/Open_House_Poster_2024.jpg"></div><p></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuU3xOejeEcpEC-mL7tdYuY9AAzl_d4Y53hbxAuDlBZ8kP-Rywvpwm_UUYYIqg067blzuKvdhN_RDA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></div><p></p>
