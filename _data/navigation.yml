@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Community
+    collection: our-community
+  - title: YPS Experience
+    collection: yps-experience
+  - title: Our Achievements
+    collection: our-achievements
+  - title: MK@YPS
+    collection: mk-at-yps
+  - title: Have a Question?
+    url: https://ask.gov.sg/yps

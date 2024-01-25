@@ -1,0 +1,11 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Physical Education (PE).md
+      - Aesthetics.md
+      - Programme for Active Learning (PAL).md

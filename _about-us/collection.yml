@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Vision, Mission & Values.md
+      - School History.md
+      - School Song.md
+      - School Rules.md
+      - School Hours.md
+      - Services In School/.keep
+      - Services In School/School Attire.md
+      - Services In School/School Bookshop.md
+      - Services In School/School Bus Service.md
+      - Services In School/School Dental Clinic.md
+      - Services In School/School Healthy Set Meals.md
+      - Services In School/School Student Care Centre.md
+      - Calendar.md
