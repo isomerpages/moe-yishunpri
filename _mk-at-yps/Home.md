@@ -16,8 +16,6 @@ The teaching and learning philosophy of our MK Educators are guided by the Visio
 <br>
 <br>
 <br>
-#### **MK@Yishun Open House 2024**
-
 ![](/images/Announcements/Mk/Open_House_Poster_2024.jpg)
 
 #### **Cherished Moments at MK@Yishun**
