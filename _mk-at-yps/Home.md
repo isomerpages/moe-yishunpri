@@ -13,11 +13,3 @@ At MOE Kindergarten, we believe that children are curious, active, and competent
 The teaching and learning philosophy of our MK Educators are guided by the Vision Mission and Values of MOE Kindergarten.
 
 <img src="/images/MK%20YPS/Vision%20Mission%20Values/mk_vision_2021.jpg" alt="MK Brochure" style="float:left;margin-right:10px;width:256px;height:362px;"><img src="/images/MK%20YPS/Vision%20Mission%20Values/mk_mission_2021.jpg" alt="MK Brochure" style="float:left;margin-right:10px;width:256px;height:362px;"><img src="/images/MK%20YPS/Vision%20Mission%20Values/mk_values_2021.jpg" alt="MK Brochure" style="float:left;margin-right:10px;width:256px;height:362px;">
-<br>
-<br>
-<br>
-![](/images/Announcements/Mk/Open_House_Poster_2024.jpg)
-
-#### **Cherished Moments at MK@Yishun**
-
-<iframe height="455" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuU3xOejeEcpEC-mL7tdYuY9AAzl_d4Y53hbxAuDlBZ8kP-Rywvpwm_UUYYIqg067blzuKvdhN_RDA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
