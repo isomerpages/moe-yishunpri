@@ -2,7 +2,6 @@ collections:
   mk-at-yps:
     output: true
     order:
-      - MK Open House 2024.md
       - Home.md
       - About Us/.keep
       - About Us/What MK Offers.md
@@ -22,3 +21,4 @@ collections:
       - Our MK Events/Term 3.md
       - Our MK Events/Term 4.md
       - Our KCare Experience.md
+      - MK Open House 2024.md
