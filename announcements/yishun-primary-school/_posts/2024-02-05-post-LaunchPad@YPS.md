@@ -37,10 +37,21 @@ your learning:</p>
 <p>P5-P6 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1) To equip students with the mastery of practical digital skills for
+the future digital workplace.
+<br>2) To encourage students to be self-directed learners who take ownership
+of their learning.
+<br>3) To provide students with the opportunity to gain an international outlook
+with ICDL Asia Digital Challenge.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participate in the National Digital Explorer CERTIFY category.</p>
+<p>Students will:</p>
+<p>1) Be equipped with skills in the use of Office productivity applications
+(such as Word Processing, Spreadsheets and Presentation).</p>
+<p>2) Be certified based on the modules. Upon passing the modules, an internationally-recognised
+certificate (ICDL) will be issued to you.</p>
+<p>3) A diagnostic test will be conducted prior to the certification.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday, 7th February 2024</p>
@@ -55,10 +66,14 @@ your learning:</p>
 <p>P5-P6 Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>To provide students with the opportunity to:</p>
+<p>1) Participate in Math competitions organised by Secondary Schools.</p>
+<p>2) Apply a repertoire of strategies to solve problems that require higher
+order thinking skills.</p>
+<p>3) Develop confidence in the students in solving non-routine Math questions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Come and take part in the Math Olympiad organised by Secondary Schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, 12th February 2024</p>
