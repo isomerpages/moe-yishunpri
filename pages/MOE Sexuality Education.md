@@ -226,7 +226,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Did You Know? *</strong> 
+<p><strong>Did You Know?</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
