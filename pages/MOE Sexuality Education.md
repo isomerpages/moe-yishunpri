@@ -67,7 +67,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<p><strong><u>Sexuality Education Lessons</u></strong>
+<p><strong><u>Sexuality Education Lessons</u></strong> 
 <br>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
@@ -110,7 +110,7 @@ be taught in <strong><u>2024</u></strong>:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Did You Know?</strong>
+<p><strong>Did You Know?</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ own responses when they encounter pornography by applying the strategy
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Changes in Me</strong>
+<p><strong>The Changes in Me</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +147,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Keeping Myself Safe</strong>
+<p><strong>Keeping Myself Safe</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,7 +188,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Are We More Than Friends?<br>Lesson 1</strong>
+<p><strong>Are We More Than Friends?<br>Lesson 1</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +208,7 @@ healthy friendships with their circles of friends.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Are We More Than Friends?<br>Lesson 2</strong>
+<p><strong>Are We More Than Friends?<br>Lesson 2</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,7 +226,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Did You Know? *</strong>
+<p><strong>Did You Know? *</strong> 
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
