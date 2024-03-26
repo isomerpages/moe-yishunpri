@@ -3,20 +3,21 @@ title: Infocomm Technology (Computing)
 permalink: /ccas/clubs/ict-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 At Yishun Primary School ICT Club, we aim to develop future ready learners through fun and interactive activities. Through a variety of activities, our members learn basic coding and programming skills, and gaining computational and critical thinking skills during the process.
 
 ##### **Teachers-in-Charge**
 * Mr Vasanthavelan (I/C)(thandavamurthy_vasanthavelan@schools.gov.sg)
-* Miss Noor Faranah (2 I/C) (noor_faranah_mohamed@schools.gov.sg)
-* Mr Bronson Tan (tan_guan_sheng@schools.gov.sg)
+* Mr Anthony Tay Poh Hua (2 I/C) (anthony_tay_poh_hua@schools.gov.sg)
 * Mdm Nur Hamizah (Nur_Hamizah_Rosidin@schools.gov.sg)
-* Mr Anthony Tay Poh Hua (anthony_tay_poh_hua@schools.gov.sg)
-* Ms Roslyn Foong Pei Li (roslyn_foong_pei_li@schools.gov.sg)
+* Ms Wong Pei Fen (wong_pei_fen@schools.gov.sg)
+* Mdm Siti Karmila (siti_karmila_abu@schools.gov.sg)
+* Miss Noor Faranah (noor_faranah_mohamed@schools.gov.sg)
 * External Instructor
 
 ##### **Venues**
-* Computer Rooms 2 and 3    
+* Computer Rooms 1 and 2
 * Classroom F4-01
 
 ##### **Time and Day**
