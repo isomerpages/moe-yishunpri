@@ -3,6 +3,7 @@ title: Indian Dance
 permalink: /ccas/Visual-and-Performing-Arts/indian-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 The Indian Dance CCA in Yishun Primary school aims to develop an appreciation for Indian classical dance in our students.     
 
@@ -12,7 +13,7 @@ Our dancers have performed in various external events such as, the International
 
 ##### **Teachers-in-Charge**
 * Mdm Sathiya Kala (I/C) (sathiya_kala_ramasamy@schools.gov.sg)
-* Mdm Anita (2 I/C) (anita_kaur@schools.gov.sg)
+* Mdm Praveena (2 I/C) (praveena_raja_manickam@schools.gov.sg)
 * Mdm Sivakami (sivakami_ratha@schools.gov.sg)
 * External Instructor
 

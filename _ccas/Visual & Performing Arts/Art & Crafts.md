@@ -3,6 +3,7 @@ title: Art & Crafts
 permalink: /ccas/Visual-and-Performing-Arts/art-and-crafts/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 The Art &amp; Crafts CCA serves as a platform for our students who have a passion for Visual Arts to showcase their artistic talents. Students are able to explore with various mediums to create artistic works which express their ideas, imagination and reflections based on various themes.
 
@@ -11,14 +12,14 @@ To deepen their appreciation for Visual Arts, students are exposed to local and 
 Through meaningful art-making processes, students develop their character and grow in our school values such as care, gratitude, responsibility and resilience.
 
 ##### **Teachers-in-Charge**
-* Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
-* Miss Cher Xin Joo (cher_xin_joo@schools.gov.sg)
-* Mdm Debbie Cheong (cheong_hui_ting_debbie@schools.gov.sg)
+* Miss Roopini (I/C) (roopini_jaya_balan@schools.gov.sg)
+* Mdm Siti Amalina (2 I/C) (siti_amalina_mohamed_sai@schools.gov.sg)
 * Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)
-* Miss Roopini (roopini_jaya_balan@schools.gov.sg)
+* Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
+* Mdm Soh Hwee Ling (soh_hwee_ling@schools.gov.sg)
 
 ##### **Venue**
-* Art Rooms 1 &amp; 2    
+* Art Rooms   
 * Classrooms H2-06, H2-07
 
 ##### **Day and Time**

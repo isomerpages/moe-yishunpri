@@ -3,19 +3,19 @@ title: International Chess
 permalink: /ccas/clubs/chess-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 Chess is a fun, creative and challenging strategic board game for all ages. As a game of strategy, Chess promotes cognitive and critical thinking among the players as they analyze each move in the game. We aim to develop the players’ patience and tenacity while playing the game and also inculcate in them our school's core values of gratitude, care, resilience, respect, responsibility and integrity. gratitude, care, resilience, respect, responsibility and integrity.
 
 ##### **Teachers-in-Charge**
-* Mr Chou Ching Shan (I/C) (chou_ching_shan@schools.gov.sg)
-* Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)
-* Ms Nirmala Arumugam (nirmala_arumugam@schools.gov.sg)    
+* Mr Bronson Tan (I/C) (tan_guan_sheng@schools.gov.sg)
+* Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)  
 
 ##### **Venue**
 * Classrooms C3-04
 
 ##### **Time and Day**
-* Fridays, 2.00pm - 4.00pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### **Photo Gallery**
 

@@ -3,13 +3,13 @@ title: Football
 permalink: /ccas/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 Yishun Primary School’s Football CCA aims to develop discipline and work ethics in our players, enhancing their physical skills and mental health. Through the sport, our players also learn about sportsmanship and working together as a team.
 
 ##### **Teachers-in-Charge**
-* Mr Sheikh Omar (I/C) (sheikh_omar_mohamad@schools.gov.sg)
-* Mr Leong Weng Hong (2 I/C) (leong_weng_hong@schools.gov.sg)
-* Mr Bahar Ali Bin Sakor (bahar_ali_sakor@schools.gov.sg)
+* Mr Bahar Ali Bin Sakor (I/C) (bahar_ali_sakor@schools.gov.sg)
+* Mr Sheikh Omar (2 I/C) (sheikh_omar_mohamad@schools.gov.sg)
 * Mdm Isnarti Bte Ahmad Sani (isnarti_ahmad_sani@schools.gov.sg)
 * Mr Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * External Coach 1
