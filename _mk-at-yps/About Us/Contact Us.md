@@ -3,10 +3,11 @@ title: Contact Us
 permalink: /mk-at-yps/about-us/mk-contact/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 #### **For Registration**
 **<u>2024 Kindergarten 1 &amp; 2 admission</u>**
-<br>The MOE Kindergarten registration exercise for 2024 K1 admission is closed. If you wish to place your child in MK@Yishun, please submit the waitlist form and supporting documents via <a href="https://form.gov.sg/61c3c7951c62de001219aa38/" target="_blank">MK@Yishun waitlist form</a>.
+<br>The MOE Kindergarten registration exercise for 2024 K1 admission is closed. If you wish to place your child in MK@Yishun, please submit the waitlist form and supporting documents via <a href="https://go.gov.sg/yishunmkwaitlist" target="_blank">MK@Yishun waitlist form</a>.
 
 #### **Contact Us**
 **<u>MK-Related Matters</u>**
