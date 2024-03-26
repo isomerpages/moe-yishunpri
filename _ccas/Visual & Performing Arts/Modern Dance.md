@@ -13,7 +13,7 @@ We hope that talented and interested young dancers can join us in our dance jour
 ##### **Teachers-in-Charge**
 * Mrs Chloe Huang (I/C) (chloe_huang@schools.gov.sg)
 * Mdm Bai Hanbing (2 I/C) (bai_hanbing@schools.gov.sg)
-* Mr Vasudavan (vasudavan_s_g_pillai@schools.gov.sg)
+* Mr Vasudavan (Tuesdays) (vasudavan_s_g_pillai@schools.gov.sg)
 * Ms Nirmala (nirmala_arumugam@schools.gov.sg)
 * External Instructor
 
