@@ -20,6 +20,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lee Meng Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_meng_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meng_hoe@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Pam Wong Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
