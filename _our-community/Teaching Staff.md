@@ -613,15 +613,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Kelly Tan Chin Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_choo_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_choo_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Leong Weng Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -635,6 +626,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_boon_ching_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_boon_ching_eileen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_mei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_mei_ling_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -662,16 +662,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noor_faranah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_faranah_mohamed@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Sandra Sunarti Sulaiman
-<br>(SEN Officer)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sandra_sunarti_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sandra_sunarti_sulaiman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
