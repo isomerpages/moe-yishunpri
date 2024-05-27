@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Admin Team</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -17,18 +22,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Meng Hoe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_meng_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meng_hoe@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -68,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Yen Ling</p>
+<p>Ms Tan Yen Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -80,13 +73,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Juliana Bte Mohamad Sharif</p>
+<p>Ms Juliana Binte Mohamad Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_mohamad_sharif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_mohamad_sharif@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Syafiqah Binte Suhairi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syafiqah_suhairi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syafiqah_suhairi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -117,7 +122,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Support Staff</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
