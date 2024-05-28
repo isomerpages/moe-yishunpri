@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Leaders</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,7 +65,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Heads of Department</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -183,7 +191,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Level &amp; Subject Heads</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -273,7 +285,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Year Heads &amp; Assistant Year Heads</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -354,7 +370,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>School Admin Team</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -363,16 +383,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Meng Hoe
-<br><a href="mailto:LEE_Meng_Hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Meng_Hoe@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
