@@ -28,11 +28,12 @@ Yishun Primary Concert Band provides opportunities for our students to develop a
 * Fridays, 1.40pm - 4.40pm
 
 ##### **Achievements**
-*   **SYF 2018 Arts Presentation**<br>Certificate of Distinction
-*   **SYF 2016 Arts Presentation**<br>Certificate of Distinction
-*   **Singapore International Band Festival 2016**<br>Silver
-*   **SYF Arts Presentation 2014**<br>Certificate of Accomplishment
-*   **SYF Central Judging 2012**<br>Gold with Honours
+* **2024 SYF Arts Presentation** - Certificate of Distinction
+* **SYF 2018 Arts Presentation** - Certificate of Distinction
+* **SYF 2016 Arts Presentation** - Certificate of Distinction
+* **Singapore International Band Festival 2016** - Silver
+* **SYF Arts Presentation 2014** - Certificate of Accomplishment
+* **SYF Central Judging 2012** - Gold with Honours
 
 ##### **Photo Gallery**
 
