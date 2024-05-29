@@ -24,6 +24,7 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 <br>Note: School players will train on both Tuesdays and Fridays
 
 ##### **Achievements**
+* **National School Games 2024** - Top 4 in League 2
 
 ##### **Photo Gallery**
 
