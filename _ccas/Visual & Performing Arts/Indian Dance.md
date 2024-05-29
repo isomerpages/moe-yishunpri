@@ -25,10 +25,10 @@ Our dancers have performed in various external events such as, the International
 * Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
-* 
-* Certificate of Participation for 2022 SYE performance
-* Certificate of Distinction for 2018 SYF performance   
-* Certificate of Accomplishment for 2016 SYF performance
+* **2024 SYF Arts Presentation** - Certificate of Accomplishment
+* **2022 SYF Arts Presentation** - Certificate of Participation
+* **2018 SYF Arts Presentation** - Certificate of Distinction
+* **2016 SYF Arts Presentation** - Certificate of Accomplishment 
 
 ##### **Photo Gallery**
 
