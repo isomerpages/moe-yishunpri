@@ -34,7 +34,7 @@ Through meaningful art-making processes, students develop their character and gr
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ10VV7wNHHGb6CWX0Zt5V1H0DdXfO5so-Nwv4yT5uwnG4N79iDhE0w-I2RPLgIMgjS6x6UTQXjlGMq/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtRDfv4taA1-TFMECt88eaUpM5M508CxY2YzWotQxIHZHwCYtiBEfwfUkG7WMH4I5Po0Cfm27xeuXu/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
 
 ##### **Our Art Club students and their Artworks**
 Our Art Club students experience pure joy and make wonderful discoveries. They are exposed to various forms and mediums in art such as drawing, painting, mixed media, 3D assemblage, collage as well as craft throughout the art-making processes.
