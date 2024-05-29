@@ -30,4 +30,4 @@ With such exposure, we hope to develop our scouts into motivated, independent an
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0AUzMGQBatyO1YrTp06RcHC2zZh97DmIcWSkDqawg1CpxeW1CZRl_jwBrRyMaU5f7tLpdwetGBImX/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6BP9LBEIMqw8poi3BvMwYFvsKA9k1pFVT7STlWW7Yrl8tf6EWdb7-keS6tObdPCjFWnBpxZFYuSjj/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
