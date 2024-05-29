@@ -697,6 +697,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Alamelumangai Tanabal
+<br>(SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alamelumangai_tanabal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alamelumangai_tanabal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Loo Kailing Kathleen
 <br>(School Counsellor)</p>
 </td>

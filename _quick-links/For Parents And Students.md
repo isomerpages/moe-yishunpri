@@ -19,3 +19,7 @@ variant: markdown
 * <a href="https://www.myskillsfuture.gov.sg/" target="_blank">My Skills Future Portal</a>
 * <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON (Google Workspace)</a>
 * <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space (SLS)</a>
+
+##### **YPS Bulletin (e-Newsletter)**
+* <a href="https://file.for.edu.sg/yps-bulletin-2023-1.pdf" target="_blank"> 2023 Issue 1</a>
+* <a href="https://file.for.edu.sg/yps-bulletin-2024-2.pdf" target="_blank"> 2024 Issue 2</a>

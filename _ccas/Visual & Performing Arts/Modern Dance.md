@@ -26,15 +26,16 @@ We hope that talented and interested young dancers can join us in our dance jour
 * Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
-* Singapore Youth Festival Arts Presentation 2022
+* **2024 SYF Arts Presentation** - Certificate of Accomplishment
+* **2022 SYF Arts Presentation**
 * **2018 SYF Arts Presentation** - Certificate of Accomplishment
-* **2016 SYF Arts Presentation for Dance (International Dance Category)** – Distinction
+* **2016 SYF Arts Presentation for Dance (International Dance Category)** – Certificate of Distinction
 * **Danceworks 2016** – Champions, Best Anti-drug Theme Award.
-* **Danceworks 2015** -&nbsp;1st Runner up,&nbsp;Best Props Award &amp;&nbsp;Best Anti-drug Theme Award.
-* **Danceworks 2015** -&nbsp;1st Runner up,&nbsp;Best Props Award &amp;&nbsp;Best Anti-drug Theme Award.
-* **Danceworks 2014** - Merit Award &amp;&nbsp;Best Dancer Award   
-Streetbliss 2013 - Champions
+* **Danceworks 2015** - 1st Runner up, Best Props Award &amp; Best Anti-drug Theme Award.
+* **Danceworks 2015** - 1st Runner up, Best Props Award &amp; Best Anti-drug Theme Award.
+* **Danceworks 2014** - Merit Award &amp; Best Dancer Award   
+* **Streetbliss 2013** - Champions
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9KMoZJhQxE2TlzwYLtHMFWf-7-Repy1ADKVbJSJueG85E65hm39_Ff1Wu-oWtwsFH6-7cmUa-mzJ5/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvWOR7G52HvzjyTKIXq4S4vg8WxTzivBbqX9IMAkY-9xRI-Ys4DPgtni6rKJ94txDIN1DR7EB_Dk98/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>

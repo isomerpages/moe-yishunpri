@@ -24,10 +24,10 @@ With such exposure, we hope to develop our scouts into motivated, independent an
 * Tuesdays, 1.40pm - 3.40pm
 
 ##### **Achievements**
-* 9 recipients for Akela Award 2022
+* Akela Award Recipient 2023
+* Akela Award Recipient 2022
 * Frank Cooper Sands Gold Award since 2002 consecutively
-* Frank Cooper Sands Honours Penant Award in 2009
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0AUzMGQBatyO1YrTp06RcHC2zZh97DmIcWSkDqawg1CpxeW1CZRl_jwBrRyMaU5f7tLpdwetGBImX/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6BP9LBEIMqw8poi3BvMwYFvsKA9k1pFVT7STlWW7Yrl8tf6EWdb7-keS6tObdPCjFWnBpxZFYuSjj/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>

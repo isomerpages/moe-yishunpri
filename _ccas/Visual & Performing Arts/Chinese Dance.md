@@ -24,11 +24,12 @@ Our dancers have performed in various external events such as, Singapore Youth F
 * Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
+* **2024 SYF Arts Presentation** - Certificate of Accomplishment
 * **2022 SYF Arts Presentation**
-* **2018 SYF Arts Presentation**<br>Certificate of Accomplishment
-* **2016 SYF Arts Presentation**<br>Certificate of&nbsp;Accomplishment
-* **2014 SYF Arts Presentation**<br>Certificate of Distinction
+* **2018 SYF Arts Presentation** - Certificate of Accomplishment
+* **2016 SYF Arts Presentation** - Certificate of Accomplishment
+* **2014 SYF Arts Presentation** - Certificate of Distinction
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0vTfV8HU__zub45d8tciT-lomN1nnwCUH5ukXiKAaYf5F8lgbi_YeQGFkwHtFAdxsSBRg5R71_q4A/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9lDPdYENIFA3N_9f6ubTIKGNarWvELUsXGojy9ftD5ea-aCaQ7oyq6oElr1yJ_AB0sIrhCcPGNqMg/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
