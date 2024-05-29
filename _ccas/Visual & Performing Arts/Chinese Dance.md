@@ -31,4 +31,4 @@ Our dancers have performed in various external events such as, Singapore Youth F
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0vTfV8HU__zub45d8tciT-lomN1nnwCUH5ukXiKAaYf5F8lgbi_YeQGFkwHtFAdxsSBRg5R71_q4A/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9lDPdYENIFA3N_9f6ubTIKGNarWvELUsXGojy9ftD5ea-aCaQ7oyq6oElr1yJ_AB0sIrhCcPGNqMg/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
