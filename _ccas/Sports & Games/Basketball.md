@@ -3,6 +3,7 @@ title: Basketball
 permalink: /ccas/Sports-and-Games/basketball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 Yishun Primary Basketball CCA aims to equip our members with basketball skills and develop sportsmanship through the rigour of sports training and participation in competitions. Through training sessions, friendly matches and zonal competitions, our members picked up Basketball skills and developed the values of Respect and Resilience, and learned to collaborate and work in team.
 
@@ -30,4 +31,4 @@ Yishun Primary Basketball CCA aims to equip our members with basketball skills a
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz9Jxf4jUZ4kgjs3yRlHd3HitFoNNZPW86jpJgYARr8ondGoPsomY0hUjpc8wL2WZ7S1t8rjJKWT65/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2bThRRgHtGWf1R-_jfBnPufVVf4FCToFcPScYTRxz6xILmSfmFCMBL5ULtx_hEIyPUBBPSzcB0gbx/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
