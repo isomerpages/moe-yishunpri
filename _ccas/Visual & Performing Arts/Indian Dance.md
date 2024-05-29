@@ -31,4 +31,4 @@ Our dancers have performed in various external events such as, the International
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-ksiBnr8DRgkQzReqb6VaLq6TR2UsIPAbY7r84tCTFGpwscFleW8FjlYP_4j0SjzZvEDZkdqqGAdm/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSC7ELgx37Cmq8Dcp8DsdQSLWwfJGFlKT9-FuhBkXOiirxVjMNp514VusjzNflug7BvUEkluLYu2d_g/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
