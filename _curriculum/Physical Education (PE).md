@@ -27,14 +27,14 @@ To complement the PE curriculum, the department organises some key programmes:
 <br>
 <img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:450px;height:460px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills as they interact with one another and forge new bonds and friendships with their peers through their common shared experiences and goals. 
 
-Students engage in many interesting activities such as concrete art, longkang fishing and sensory trail.
+Students engage in many interesting activities such as concrete art, stream exploration and sensory trail.
 For many of our students, this may well be their first time stepping out of their comfort zones of their home and familiar environment to one where they were constantly challenged. The P5 OLE would be a memorable experience for all the students as they strengthen their friendships, care for and motivate each other throughout the camp.
 
 **<u>Healthy Lifestyle Week</u>**
 <br>
 The aim of Healthy Lifestyle Week is to promote awareness among students on the need to maintain a healthy lifestyle and provide a platform for participation in healthy lifestyle activities.
 During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities in school and answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  
-For the Primary 5 students, in collaboration with National Health Foundation (NHF), the school also introduces the Blood Pressure (BP) initiative, where every student is loaned out with a Blood pressure monitor to bring home for a week. The aim is for students and their family members to take responsibility and monitor their own health.
+For the Primary 5 students, in collaboration with Singapore Heart Foundation (SHF), the school also introduces the Blood Pressure (BP) initiative, where every student is loaned out with a Blood pressure monitor to bring home for a week. The aim is for students and their family members to take responsibility and monitor their own health.
 The school also collaborates with National Kidney Foundation (NKF) to create awareness on looking after their kidneys through the NKF ‘K-Force’ Bus where students board the exhibition bus to play and learn about the role of the kidneys and how to take care of them.
 Staying healthy is a choice. Let’s all work together to maintain a healthy lifestyle!
 
