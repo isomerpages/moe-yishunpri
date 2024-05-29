@@ -24,8 +24,9 @@ Our dancers are given opportunities to perform at various platforms such as scho
 * Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
-* Singapore Youth Festival Arts Presentation 2022
-* SYF Arts Presentation 2018 – Certificate of Accomplishment
+* **2024 SYF Arts Presentation** - Certificate of Distinction
+* **2022 SYF Arts Presentation**
+* **2018 SYF Arts Presentation** - Certificate of Accomplishment
 
 ##### **Photo Gallery**
 
