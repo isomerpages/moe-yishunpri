@@ -2,6 +2,7 @@
 title: Physical Education (PE)
 permalink: /curriculum/physical-education/
 description: ""
+variant: markdown
 ---
 ### **Vision**
 To equip students with physical skills, practices, and values to enjoy a lifetime of active and healthy living. 
@@ -9,21 +10,18 @@ To equip students with physical skills, practices, and values to enjoy a lifetim
 ### **Objectives**
 Enjoy and value the benefits of living an active and healthy life
 
-The Physical Education (PE) department provides a range of movement experiences to develop students' overall development, with a focus on fundamental motor skills in lower primary and more complex movements in upper primary. Students experience seven learning areas in PE, including athletics, dance, games and sports, gymnastics, outdoor education, physical health and fitness, and swimming.
+The Physical Education (PE) department provides a range of movement experiences to develop students' overall development, with a focus on fundamental motor skills in lower primary and more complex movements in upper primary. Students experience learning through the concept of movement, athletics, dance, games and sports, gymnastics, outdoor education, physical health and fitness safety, and swimming.
 
 ### **Key Approaches and Programmes**
-The PE curriculum at Yishun Primary provides students with the opportunities to:
-* acquire a range of motor skills
-* understand and apply movement concepts
-* demonstrate safe practices
-* display positive personal and social behaviour
-* acquire and maintain health-enhancing fitness
+The Goals of the PE curriculum at Yishun Primary are to foster students’:
+
+* <u>Movement Competence</u> - Students are competent and confident to participate in a range of physical and outdoor activities.
+* <u>Healthy Lifestyle Practices</u> - Students have a personal commitment to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.
+* <u>Safety Mindset</u> - Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.
+* <u>Core Values</u> - Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.
+* <u>Sense of Enjoyment</u> - Students enjoy and value physical activities and healthy living in a sustainable way.
 
 To complement the PE curriculum, the department organises some key programmes:
-
-**<u>Sports Fiesta</u>**
-<br>
-Our Primary 4 to Primary 6 students look forward to the Sports Fiesta where students challenge themselves to complete the various sporting activities and do their best. Students have a lot of fun while demonstrating sporting excellence.
 
 **<u>P5 Outdoor Learning Experience (OLE) Cohort Camp</u>**
 <br>
