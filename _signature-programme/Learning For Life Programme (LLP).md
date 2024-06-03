@@ -2,6 +2,7 @@
 title: Learning For Life Programme (LLP)
 permalink: /signature-programme/llp/
 description: ""
+variant: markdown
 ---
 Yishun Primary School’s LLP revolves around Performing Arts, which aligns with the school’s vision and mission. Our LLP is grounded on the belief that every student possesses the potential and drive for self-improvement to develop and expand their musical talents and abilities.
 
@@ -14,7 +15,7 @@ The LLP is structured in two tiers, providing a gradual acquisition of knowledge
 
 Our goal is to instil a life-long passion and involvement in the Performing Arts in our students by the end of their six years in primary school.
 
-*<center><img src="/images/Experience/Signature%20Programme/llp_02_v1.jpg" style="width:450px;height:339px">Through the Music Modular programme, Primary 5 students acquire skills and knowledge in Ukulele.</center>*
+*<center><img src="/images/Experience/Signature%20Programme/llp_05_v1.jpg" style="width:492px;height:528px">Our P1 Angklung modular programme allows students to appreciate the Indonesian culture and hone their instrument playing skills.</center>*
 
 *<center><img src="/images/Experience/Signature%20Programme/llp_03_v1.jpg" style="width:700px;height:319px">Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
 
