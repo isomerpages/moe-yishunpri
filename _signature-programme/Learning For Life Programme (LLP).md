@@ -4,16 +4,19 @@ permalink: /signature-programme/llp/
 description: ""
 variant: markdown
 ---
-Yishun Primary School’s LLP revolves around Performing Arts, which aligns with the school’s vision and mission. Our LLP is grounded on the belief that every student possesses the potential and drive for self-improvement to develop and expand their musical talents and abilities.
+#### Nurturing Confidence and Values Through the Arts
 
-![](/images/Experience/Signature%20Programme/llp_01_v1.JPG)
+The objective of our LLP is to build **confidence** for students to use music to **communicate** their thoughts and emotions and **connect** with others.
 
-The LLP is structured in two tiers, providing a gradual acquisition of knowledge and skills in performance arts.
+Our 2-tiered programme offers students opportunities to immerse themselves in the arts, broadening their experiences and encouraging them to take ownership of their learning. This approach helps students pursue their passions, deepen their skills and knowledge, and apply their learning while connecting with peers and the community.
 
-* Tier 1 programmes present students with opportunities to explore various musical experiences, discover their passion, and foster self-directed learning skills. As part of the digital musical curriculum, students particpate in modular programmes to learn six musical instruments such as Angklung and Cornet. Their musical experience is enriched through different programmes held during school assemblies and recesses.
-* Tier 2 programmes focuses on developing students’ talents and interests. Along with the acquisition of skills and knowledge, LLP also equips every student with 21st century competencies and reinforces the inculcation of school and universal values through platforms and opportunities such as Artist in Me, eModules, Competitions &amp; Performances and Enrichment Courses.
+**<u>Tier 1: Experience diversity through Music</u>**
 
-Our goal is to instil a life-long passion and involvement in the Performing Arts in our students by the end of their six years in primary school.
+In this tier, students are exposed to a wide range of art forms, cultures and traditions through assembly shows, modular programmes and learning journeys. These experiences promote a deeper understanding and appreciation of the world’s diversity. Additionally, in-class performances help students build confidence, express themselves and connect with their peers through music.
+
+**<u>Tier 2: Connecting and enriching community</u>**
+
+This tier caters to students with a strong passion or talent for music, who wish to use it as a tool to engage with and enrich the community. Our Artist in Me programme and partnerships with external organisations promote inclusivity by allowing students to gather with like-minded peers to perform and connect with the broader community through music.
 
 *<center><img src="/images/Experience/Signature%20Programme/llp_05_v1.jpg" style="width:492px;height:528px">Our P1 Angklung modular programme allows students to appreciate the Indonesian culture and hone their instrument playing skills.</center>*
 
