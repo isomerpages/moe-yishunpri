@@ -4,7 +4,7 @@ permalink: /signature-programme/llp/
 description: ""
 variant: markdown
 ---
-#### Nurturing Confidence and Values Through the Arts
+### **Nurturing Confidence and Values Through the Arts**
 
 The objective of our LLP is to build **confidence** for students to use music to **communicate** their thoughts and emotions and **connect** with others.
 
