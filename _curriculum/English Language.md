@@ -45,6 +45,10 @@ This year, our students have participated in the following programmes:
 | Primary 5 | IG Post Competition |
 | Primary 6 | To be carried out in semester 2 |
 
+<img src="/images/Experience/Curriculum/english_02_v1.jpg" style="width:397px;height:291px">
+
+*<center><img src="/images/Experience/Curriculum/english_01_v2.jpg" style="width:483px;height:363px">A P2 student holding up a Butterfly Kit (an initiative from the Science Department) which ties in with Stellar’s Big Book A Butterfly is Born.</center>*
+
 
 
 
