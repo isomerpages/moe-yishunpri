@@ -2,7 +2,28 @@
 title: English Language
 permalink: /curriculum/english/
 description: ""
+variant: markdown
 ---
+Yishun Primary’s English Department envisions that at the end of their primary school years, students will be empathetic and effective communicators of the English Language. To achieve this, we aim to develop students to be empathetic communicators, discerning readers and creative inquirers. Beginning from Primary 1, students will experience a student-centred curriculum that inspires students to develop a love for the language, participate in engaging activities at the classroom and school levels, and develop 21st century competencies and skills. At the same time, our school values will be inculcated and students are also encouraged to have a Growth Mindset. We hope that through these efforts, students will be engaged, take ownership of their learning and develop the right values in persevering when learning the language.
+
+#### **Learning Experience &amp; Approaches**
+
+**<u>STELLAR</u>**
+<br>
+The STELLAR 2.0 Programme acts as the core English curriculum for all primary levels in the school. It is an interactive literacy programme that fosters confidence in learning English using children’s literature.
+<br>
+<br>
+Amongst the many pedagogical strategies incorporated into the STELLAR curriculum are the Shared Book Approach (SBA), the Modified Language Experience Approach (MLEA) and Reading for Pleasure (through Extensive Reading). Using a rich variety of print and non-print resources, authentic contexts are provided to the students thus aiding the development of media and visual literacy skills.
+
+<img src="/images/Experience/Curriculum/english_01_v2.jpg" style="width:700px;height:258px">
+
+
+
+
+
+
+
+
 ### **Vision**
 
 To develop empathetic communicators, discerning readers, and creative inquirers.&nbsp;
