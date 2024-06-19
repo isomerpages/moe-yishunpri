@@ -15,8 +15,35 @@ The STELLAR 2.0 Programme acts as the core English curriculum for all primary le
 <br>
 Amongst the many pedagogical strategies incorporated into the STELLAR curriculum are the Shared Book Approach (SBA), the Modified Language Experience Approach (MLEA) and Reading for Pleasure (through Extensive Reading). Using a rich variety of print and non-print resources, authentic contexts are provided to the students thus aiding the development of media and visual literacy skills.
 
-<img src="/images/Experience/Curriculum/english_01_v2.jpg" style="width:483px;height:363px"><center><i>A P2 student holding up a Butterfly Kit (an initiative from the Science Department) which ties in with Stellar’s Big Book A Butterfly is Born.</i></center>
+*<center><img src="/images/Experience/Curriculum/english_01_v2.jpg" style="width:483px;height:363px">A P2 student holding up a Butterfly Kit (an initiative from the Science Department) which ties in with Stellar’s Big Book A Butterfly is Born.</center>*
 
+**<u>Library</u>**
+<br>
+Reading is essential for students in gaining knowledge and skills. At Yishun Primary School, we aim to cultivate a reading culture where students have access to books and develop a reading habit. Students are brought to the library fortnightly during their class library period. They would have the opportunity to explore the titles in the library and borrow these books for reading before the morning assembly or to read for leisure at home.
+<br>
+<br>
+The English Language Department plans a range of activities for the whole school. Some of these include:
+* Book Buzz sessions by NLB
+* Book Promotions
+* Book Reviews
+* Rewards for Top Borrowers  
+
+We hope that all students would love reading and reap its benefits.
+
+**<u>EL Celebration of Learning</u>**
+<br>
+The English Language Celebration of Learning is an annual event held and organised by the English Language Department to promote the effective use of the language, the love for reading and developing students’ communication skills (e21CC skills). Anchored on a Stellar unit or language skill, students are engaged in activities which develop the love for reading and cultivate a reading habit, develop and enhance their knowledge of language features, receptive skills (reading and viewing) and productive skills (writing and representing).
+<br>
+<br>
+This year, our students have participated in the following programmes:
+
+| Level | Programme Name |
+| :--------: | :--------: |
+| Primary 1 &amp; 2 | Poetry Recital |
+| Primary 3 | Animal Research |
+| Primary 4 | Investigative Journalism |
+| Primary 5 | IG Post Competition |
+| Primary 6 | To be carried out in semester 2 |
 
 
 
