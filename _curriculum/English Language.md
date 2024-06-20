@@ -37,7 +37,7 @@ The English Language Celebration of Learning is an annual event held and organis
 <br>
 This year, our students have participated in the following programmes:
 
-| Level | Programme Name |
+| Level | Activity |
 | :--------: | :--------: |
 | Primary 1 &amp; 2 | Poetry Recital |
 | Primary 3 | Animal Research |
@@ -49,7 +49,12 @@ This year, our students have participated in the following programmes:
 
 *<center><img src="/images/Experience/Curriculum/english_03_v1.png" style="width:553px;height:307px">Primary 1 &amp; 2 students performing at the Poetry Recital.</center>*
 
+*<center><img src="/images/Experience/Curriculum/english_04_v1.jpg" style="width:424px;height:553px">One of the top 3 most-voted entry for P3 Animal Research.</center>*
 
+#### **Programmes**
+
+**<u>Build Programmes</u>**
+<br>
 
 
 
