@@ -65,6 +65,21 @@ To instill the joy of learning in our students, the department is constantly tap
 | Mastering Punctuation | Primary 1 to Primary 6 |
 | Mastering Writing | Primary 1 to Primary 6 |
 
+**<u>Bloom Programmes</u>**
+<br>
+Recognising the talents of our students, the EL Bloom programmes stretch the potential of students who display the flair for the language. Students also represent the school in various national competitions where their language skills are put to the test. 
+
+| Programme | Level |
+| :--------: | :--------: |
+| Creative Writing | Primary 4 to Primary 5 |
+| Journalism &amp; Broadcasting | Primary 4 |
+
+| Competition | Level |
+| :--------: | :--------: |
+| Singapore Moo-O Awards | Primary 3 |
+
+We are proud to share that our P3 students have clinched the Bronze award for the 2024 Singapore Moo-O Awards!
+
 
 
 
