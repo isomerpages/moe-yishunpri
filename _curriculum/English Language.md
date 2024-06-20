@@ -55,6 +55,15 @@ This year, our students have participated in the following programmes:
 
 **<u>Build Programmes</u>**
 <br>
+To instill the joy of learning in our students, the department is constantly tapping on the spirit of inquiry and innovation amongst the teachers to bring about customised teaching approaches to cater to specific learning needs of our students. These programmes aim to support the students in acquiring and mastering language:
+
+| Programme | Level |
+| :--------: | :--------: |
+| We Can Read Phonics Programme | Primary 1 |
+| Mastering Oracy | Primary 2 to Primary 6 |
+| Mastering Grammar | Primary 1 to Primary 6 |
+| Mastering Punctuation | Primary 1 to Primary 6 |
+| Mastering Writing | Primary 1 to Primary 6 |
 
 
 
