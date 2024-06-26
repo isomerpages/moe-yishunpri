@@ -158,7 +158,11 @@ variant: tiptap
 <br><a href="mailto:sathiya_kala_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sathiya_kala_ramasamy@schools.gov.sg</a> 
 <br>
 <br>Mdm Cheong Hui Ting Debbie
-<br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a> 
+<br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Nina Salina
+<br><a href="mailto:nina_salina_suandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nina_salina_suandi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
