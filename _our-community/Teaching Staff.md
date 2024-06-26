@@ -255,6 +255,10 @@ variant: tiptap
 <br>Miss Fam Xinru Winnie
 <br><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mdm Kirenjit Kaur Gill
+<br><a href="mailto:kirenjit_kaur_gill@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kirenjit_kaur_gill@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -433,6 +437,10 @@ variant: tiptap
 <br>
 <br>Mr Ang Liang Tien, Terrance
 <br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Keith Toh Wai Woon
+<br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
