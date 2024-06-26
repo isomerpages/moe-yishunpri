@@ -564,6 +564,10 @@ variant: tiptap
 <br>Miss Kusumawati Bte Ahmad Dafir
 <br><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Lee Jiun Wei
+<br><a href="mailto:lee_jiun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiun_wei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
