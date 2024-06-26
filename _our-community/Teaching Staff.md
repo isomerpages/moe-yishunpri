@@ -159,9 +159,6 @@ variant: tiptap
 <br>
 <br>Mdm Cheong Hui Ting Debbie
 <br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a> 
-<br>
-<br>Mrs Sim Chee Kuan
-<br><a href="mailto:soh_hwee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hwee_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
