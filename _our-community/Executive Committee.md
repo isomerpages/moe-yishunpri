@@ -230,7 +230,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Student Well-Being (Internal)</p>
+<br>Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurhayati Nasir
@@ -347,8 +347,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 4)
-<br>(Internal)</p>
+<br>(Primary 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr V Ilanchezhiyan

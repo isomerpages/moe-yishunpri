@@ -158,10 +158,11 @@ variant: tiptap
 <br><a href="mailto:sathiya_kala_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sathiya_kala_ramasamy@schools.gov.sg</a> 
 <br>
 <br>Mdm Cheong Hui Ting Debbie
-<br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a> 
-<br>
-<br>Mrs Sim Chee Kuan
-<br><a href="mailto:soh_hwee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_hwee_ling@schools.gov.sg</a>
+<br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Nina Salina
+<br><a href="mailto:nina_salina_suandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nina_salina_suandi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -219,6 +220,10 @@ variant: tiptap
 <br>Miss Sim Sze Hua
 <br><a href="mailto:sim_sze_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sze_hua@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Miss Nurul Syamelia
+<br><a href="mailto:nurul_syamelia_rosmaizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_syamelia_rosmaizan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -249,6 +254,10 @@ variant: tiptap
 <br>
 <br>Miss Fam Xinru Winnie
 <br><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mdm Kirenjit Kaur Gill
+<br><a href="mailto:kirenjit_kaur_gill@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kirenjit_kaur_gill@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -429,6 +438,10 @@ variant: tiptap
 <br>Mr Ang Liang Tien, Terrance
 <br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Keith Toh Wai Woon
+<br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -533,6 +546,10 @@ variant: tiptap
 <br>Miss Lee Seow Yen Sandra
 <br><a href="mailto:lee_seow_yen_sandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seow_yen_sandra@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Ghanaprakasam S/O Subramaniam
+<br><a href="mailto:ghanaprakasam_subramanian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ghanaprakasam_subramanian@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -546,6 +563,10 @@ variant: tiptap
 <br>
 <br>Miss Kusumawati Bte Ahmad Dafir
 <br><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Lee Jiun Wei
+<br><a href="mailto:lee_jiun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiun_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
