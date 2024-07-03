@@ -14,3 +14,5 @@ As we embark on a new year, we would like to inform you on the following :
 | English Run 1 | **16, 23, 30 April 2024**<br>Tuesdays, 7.30pm-9pm |
 | Mandarin | **5, 12 19 July 2024**<br>Fridays, 7.30pm-9pm |
 | English Run 2 | **13, 20, 27 August 2024**<br>Tuesdays, 7.30pm-9pm |
+
+![](/images/Our%20Community/TripleP/TripleP_v1.jpg)
