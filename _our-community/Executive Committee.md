@@ -403,6 +403,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Kah Leong
+<br><a href="mailto:chew_kah_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kah_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
