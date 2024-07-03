@@ -634,15 +634,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Weng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leong_weng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_weng_hong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Eileen Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -674,15 +665,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vasudavan_s_g_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasudavan_s_g_pillai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Noor Faranah Bte Mohamed Yatim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:noor_faranah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_faranah_mohamed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
