@@ -228,6 +228,14 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Heng Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
