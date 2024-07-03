@@ -7,7 +7,7 @@ variant: markdown
 ---
 ##### **Triple P Publicity Video**
 
-Click this&nbsp;**<a href="https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view" target="_blank">link</a>**&nbsp;to watch the Triple P publicity video.  
+Click this **<a href="https://drive.google.com/file/d/1V2QPyqWz_czTYY3YUK4DyXp3lKi0tPSJ/view" target="_blank">link</a>** to watch the Triple P publicity video.  
 
 ##### **Sign-up link for parents to indicate their interest:**
 Dear Parents,
@@ -17,38 +17,12 @@ During your children’s growing up years, you may need some strategies to manag
 
 If you are interested in the programmes, please click on this <a href="https://tinyurl.com/thrivepspregistration" target="_blank">link</a> to register. 
 
-Please note that invitation for 2023 seminars will be sent via the Parents Gateway.
+As we embark on a new year, we would like to inform you on the following :
 
-##### **Triple 2023 Proposed Workshop**
+##### **Triple 2024 Proposed Workshop**
 
-| Triple P Level 2 - Seminar Series |
-|:---------------------------------:|
-| **Run 1 - English<br>All schools under FSC** |
-| **Date/Time: Tuesday (7.30pm-9pm)**   |
-| Seminar 1: March 21, 2023 |
-| Seminar 2: March 28, 2023 |
-| Seminar 3: April 4, 2023 |
-
-| |
-|:---------------------------------:|
-| **Run 2 - English<br>For Yishun Primary School Parents** |
-| **Date/Time: Tuesday (7.30pm-9pm)** |
-| Seminar 1: June 4, 2023 |
-| Seminar 2: June 11, 2023 |
-| Seminar 3: June 18, 2023 |
-
-| |
-|:---------------------------------:|
-| **Run 2 - Mandarin** |
-| **Date/Time: Friday (7.30pm-9pm)** |
-| Seminar 1: June 9, 2023 |
-| Seminar 2: June 16, 2023 |
-| Seminar 3: June 23, 2023 |
-
-| |
-|:---------------------------------:|
-| **Run 2 - English<br>Last English Seminar for 2023** |
-| **Date/Time: Tuesday (7.30pm-9pm)** |
-| Seminar 1: November 14, 2023 |
-| Seminar 2: November 21, 2023 |
-| Seminar 3: November 28, 2023 |
+| Seminar Run | Date &amp; Time |
+|:---------------------------------:|:---------------------------------:|
+| English Run 1 | **16, 23, 30 April 2024**<br>Tuesdays, 7.30pm-9pm |
+| Mandarin | **5, 12 19 July 2024**<br>Fridays, 7.30pm-9pm |
+| English Run 2 | **13, 20, 27 August 2024**<br>Tuesdays, 7.30pm-9pm |
