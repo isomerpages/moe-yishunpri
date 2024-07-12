@@ -162,7 +162,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mdm Nina Salina
-<br><a href="mailto:nina_salina_suandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nina_salina_suandi@moe.edu.sg</a>
+<br><a href="mailto:nina_salina_suandi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nina_salina_suandi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -177,6 +177,10 @@ variant: tiptap
 <br>
 <br>Miss Han Ying
 <br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Miss Wang Yi Ru
+<br><a href="mailto:wang_yi_ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yi_ru@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -222,7 +226,7 @@ variant: tiptap
 </p>
 <p></p>
 <p>Miss Nurul Syamelia
-<br><a href="mailto:nurul_syamelia_rosmaizan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_syamelia_rosmaizan@moe.edu.sg</a>
+<br><a href="mailto:nurul_syamelia_rosmaizan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_syamelia_rosmaizan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -362,6 +366,10 @@ variant: tiptap
 <br>
 <br>Mdm Nurhayati Nasir
 <br><a href="mailto:nurhayati_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_nasir@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Rick Ee Guan Ying
+<br><a href="mailto:rick_ee_guan_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rick_ee_guan_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -581,6 +589,10 @@ variant: tiptap
 <br>
 <br>Mr Yamalasamy
 <br><a href="mailto:yamalasamy_shanmugiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yamalasamy_shanmugiah@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Tan Yuan Yang
+<br><a href="mailto:tan_yuan_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yuan_yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
