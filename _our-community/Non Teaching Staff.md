@@ -73,18 +73,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yen Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yen_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Juliana Binte Mohamad Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,7 +213,7 @@ variant: tiptap
 <p>Mr Lim Heng Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operation Support</p>
 </td>
 </tr>
 </tbody>
