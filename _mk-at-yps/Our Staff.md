@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Teaching Staff<br>(English Language)</strong></h3>
+<h3><strong>Teaching Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Joy</strong>
+<p><strong>K1 Joy</strong>
 <br>(AM &amp; PM)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Love</strong>
+<p><strong>K1 Love</strong>
 <br>(AM &amp; PM)</p>
 </td>
 <td rowspan="1" colspan="1">
