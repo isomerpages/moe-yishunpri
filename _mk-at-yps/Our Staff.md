@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Teaching Staff</strong></h3>
+<h3><strong>Teaching Staff (K1)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Teaching Staff<br>(Chinese Language)</strong></h3>
+<h3><strong>Teaching Staff (K2)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,80 +93,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Joy/Love</strong>
-<br>(AM)</p>
+<p><strong>K2 Respect</strong>
+<br>(AM &amp; PM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Jin
+<p>Ms Nikki Sabrina Binte Jamaluddin
+<br><a href="mailto:Nikki_Sabrina_Jamaluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nikki_Sabrina_Jamaluddin@moe.edu.sg</a>
+<br>
+<br>Mdm Lin Jin
 <br><a href="mailto:lin_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Joy/Love</strong>
-<br>(PM)</p>
+<p><strong>K2 Courage</strong>
+<br>(AM &amp; PM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Yufen
-<br><a href="mailto:zhang_yufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yufen@moe.edu.sg</a>
+<p>Ms Aqilah Sharafanah Binte Samsudin
+<br><a href="mailto:aqilah_sharafanah_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@moe.edu.sg</a>
 <br>
-<br>Mdm Liu Hongmei
-<br><a href="mailto:liu_hongmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongmei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>Teaching Staff<br>(Tamil Language)</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Love &amp; Joy</strong>
-<br>(AM/PM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>Teaching Staff<br>(Malay Language)</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Love &amp; Joy</strong>
-<br>(AM/PM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nadiah Liyana Binte Rohim
-<br><a href="mailto:nadiah_liyana_rohim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_liyana_rohim@moe.edu.sg</a>
+<br>Mdm Zhang Yufen
+<br><a href="mailto:zhang_yufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yufen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
