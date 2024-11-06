@@ -23,3 +23,4 @@ variant: markdown
 ##### **YPS Bulletin (e-Newsletter)**
 * <a href="https://file.for.edu.sg/yps-bulletin-2023-1.pdf" target="_blank"> 2023 Issue 1</a>
 * <a href="https://file.for.edu.sg/yps-bulletin-2024-2.pdf" target="_blank"> 2024 Issue 2</a>
+* <a href="https://for.edu.sg/yps-bulletin-2024-3-interactive" target="_blank"> 2024 Issue 3</a>
