@@ -625,10 +625,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Lee</p>
+<p>Mdm Ong Boon Ching, Eileen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_boon_ching_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_boon_ching_eileen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Latifah Bte Mohamed Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:latifah_mohamed_hussain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latifah_mohamed_hussain@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fam Xinru Winnie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -643,16 +661,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Adelene Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hong_eng_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hong_eng_leong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vasudavan Pillai</p>
+<p>Mr Vasudavan s/o S G Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vasudavan_s_g_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasudavan_s_g_pillai@schools.gov.sg</a>
