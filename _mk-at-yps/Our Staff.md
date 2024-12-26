@@ -146,18 +146,81 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Liu Hongmei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Liu_Hongmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Hongmei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zhang Shangyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_shangyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_shangyu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Teaching Staff (Tamil Language)</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shamani Devi D/O Sangaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shamani_devi_sangaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamani_devi_sangaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Teaching Staff (Malay Language)</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nadiah Liyana Binte Rohim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nadiah_Liyana_Rohim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_Liyana_Rohim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Hibriyah Binte Amran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_hibriyah_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hibriyah_amran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
