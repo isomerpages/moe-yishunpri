@@ -270,15 +270,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Anthony Tay Poh Hua
-<br><a href="mailto:anthony_tay_poh_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anthony_tay_poh_hua@schools.gov.sg</a> 
+<p>Mr Toh Wai Woon Keith
+<br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
 <br>
-<br>Miss Fam Xinru Winnie
-<br><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mdm Kirenjit Kaur Gill
-<br><a href="mailto:kirenjit_kaur_gill@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kirenjit_kaur_gill@schools.gov.sg</a>
+<br>Mrs Ribut Bte Nawi
+<br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -288,14 +284,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Ji Song Lawrence
-<br><a href="mailto:teng_ji_song_lawrence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ji_song_lawrence@schools.gov.sg</a> 
+<p>Mdm Siti Karmila Binte Abu
+<br><a href="mailto:siti_karmila_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_karmila_abu@schools.gov.sg</a>
 <br>
-<br>Mrs Ribut
-<br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a> 
-<br>
-<br>Miss Wang Yunwen Valerie - Mrs Chong
-<br><a href="mailto:wang_yunwen_valerie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yunwen_valerie@schools.gov.sg</a>
+<br>Tan Guan Sheng Bronson
+<br><a href="mailto:tan_guan_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_guan_sheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -305,11 +298,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hamizah Bte Rosdin
-<br><a href="mailto:nur_hamizah_rosidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hamizah_rosidin@schools.gov.sg</a> 
+<p>Mr V Ilanchezhiyan
+<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 <br>
-<br>Mr Sahir Bin Mohamed Tauhid
-<br><a href="mailto:sahir_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sahir_abdullah@schools.gov.sg</a>
+<br>Serena Goh Yi Ting
+<br><a href="mailto:Serena_GOH_YI_TING@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Serena_goh_yi_ting@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -319,11 +312,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Zi Wei
-<br><a href="mailto:goh_zi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zi_wei@schools.gov.sg</a> 
+<p>Mr Bahar Ali Bin Sakor
+<br><a href="mailto:bahar_ali_sakor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bahar_ali_sakor@schools.gov.sg</a>
 <br>
-<br>Mdm Fauziah
-<br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
+<br>Mdm Chiang Te Hui
+<br><a href="mailto:chiang_te_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_te_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -333,11 +326,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm June Low Mun Ling
-<br><a href="mailto:june_low_mun_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">june_low_mun_ling@schools.gov.sg</a> 
+<p>Miss Siti Amalina Binte Mohamed Said
+<br><a href="mailto:siti_amalina_mohamed_sai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_amalina_mohamed_sai@schools.gov.sg</a>
 <br>
-<br>Mdm Isnarti Bte Ahmad Sani
-<br><a href="mailto:isnarti_ahmad_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isnarti_ahmad_sani@schools.gov.sg</a>
+<br>Mr Li Dahao, Daniel
+<br><a href="mailto:daniel_li_da_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_li_da_hao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
