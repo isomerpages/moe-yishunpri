@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Teaching Staff (K1)</strong></h3>
+<h3><strong>Teaching Staff (English)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,38 +40,60 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>K1 Joy</strong>
-<br>(AM &amp; PM)</p>
+<p>Aqilah Sharafanah Binte Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nurhazimah Binte Mohd Ebrahim
-<br><a href="mailto:siti_nurhazimah_mohd_ebrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhazimah_mohd_ebrahim@moe.edu.sg</a>
-<br>
-<br>Ms Shamani Devi d/o Sangaran
-<br><a href="mailto:shamani_devi_sangaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamani_devi_sangaran@moe.edu.sg</a>
+<p><a href="mailto:aqilah_sharafanah_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>K1 Love</strong>
-<br>(AM &amp; PM)</p>
+<p>Siti Nurhazimah Binte Mohd Ebrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Deena Nabilah Binte Nor'azali Rais
-<br><a href="mailto:Deena_Nabilah_Norazali_Rais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Deena_Nabilah_Norazali_Rais@moe.edu.sg</a>
-<br>
-<br>Mdm Liu Hongmei
-<br><a href="mailto:liu_hongmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hongmei@moe.edu.sg</a>
+<p><a href="mailto:Siti_Nurhazimah_Mohd_Ebrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nurhazimah_Mohd_Ebrahim@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
