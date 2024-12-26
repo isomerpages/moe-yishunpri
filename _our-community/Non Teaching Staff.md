@@ -85,18 +85,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Syafiqah Binte Suhairi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syafiqah_suhairi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syafiqah_suhairi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +201,15 @@ variant: tiptap
 <p>Mr Lim Heng Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support</p>
+<p>Operation Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hayati Binti Mohd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
 </td>
 </tr>
 </tbody>
