@@ -48,57 +48,70 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aqilah Sharafanah Binte Samsudin</p>
+<p>Ms Aqilah Sharafanah Binte Samsudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aqilah_sharafanah_samsudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@schools.gov.sg</a>
+<p><a href="mailto:aqilah_sharafanah_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Nurhazimah Binte Mohd Ebrahim</p>
+<p>Ms Siti Nurhazimah Binte Mohd Ebrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Nurhazimah_Mohd_Ebrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nurhazimah_Mohd_Ebrahim@schools.gov.sg</a>
+<p><a href="mailto:Siti_Nurhazimah_Mohd_Ebrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nurhazimah_Mohd_Ebrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nikki Sabrina Binte Jamaluddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Nikki_Sabrina_Jamaluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nikki_Sabrina_Jamaluddin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Deena Nabilah Binte Nor'azali Rais</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Deena_Nabilah_Norazali_Rais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Deena_Nabilah_Norazali_Rais@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nur Shaabrina Binte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_shaabrina_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shaabrina_roslan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms T Kasturi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:T_Kasturi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">T_Kasturi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Athirah Binte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_athirah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_athirah_abdul_rahman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3><strong>Teaching Staff (K2)</strong></h3>
+<h3><strong>Teaching Staff (Chinese Language)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -107,38 +120,44 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>K2 Respect</strong>
-<br>(AM &amp; PM)</p>
+<p>Mdm Zhang Yufen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nikki Sabrina Binte Jamaluddin
-<br><a href="mailto:Nikki_Sabrina_Jamaluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nikki_Sabrina_Jamaluddin@moe.edu.sg</a>
-<br>
-<br>Mdm Lin Jin
-<br><a href="mailto:lin_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jin@moe.edu.sg</a>
+<p><a href="mailto:Zhang_yufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_yufen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>K2 Courage</strong>
-<br>(AM &amp; PM)</p>
+<p>Mdm Lin Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Aqilah Sharafanah Binte Samsudin
-<br><a href="mailto:aqilah_sharafanah_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@moe.edu.sg</a>
-<br>
-<br>Mdm Zhang Yufen
-<br><a href="mailto:zhang_yufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yufen@moe.edu.sg</a>
+<p><a href="mailto:lin_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
