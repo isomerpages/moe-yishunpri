@@ -191,7 +191,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Guan Qinqin
+<br><a href="mailto:guan_qin_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_qin_qin@schools.gov.sg</a>
+<br>
+<br>Mdm Carine Ang Chai Lan
+<br><a href="mailto:ang_chai_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chai_lan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -200,11 +205,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Karmila
-<br><a href="mailto:siti_karmila_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_karmila_abu@schools.gov.sg</a> 
+<p>Miss Lee Linghui, Alcina
+<br><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
 <br>
-<br>Miss Phang Bi Yun
-<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+<br>Mdm Isnarti Bte Ahmad Sani
+<br><a href="mailto:isnarti_ahmad_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isnarti_ahmad_sani@schools.gov.sg</a>
+<br>
+<br>Miss Syahira Adila Binte Fazali
+<br><a href="mailto:Syahira_Adila_Fazali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Syahira_Adila_Fazali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -214,15 +222,28 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anita Kaur
-<br><a href="mailto:anita_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anita_kaur@schools.gov.sg</a> 
+<p>Mdm Maswati Binte Mohamed Nor
+<br><a href="mailto:Maswati_Mohamed_Nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maswati_Mohamed_Nor@schools.gov.sg</a>
 <br>
-<br>Miss Sim Sze Hua
-<br><a href="mailto:sim_sze_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sze_hua@schools.gov.sg</a>
+<br>Mdm Ling Li Huan Elyn
+<br><a href="mailto:ling_li_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_li_huan@schools.gov.sg</a>
+<br>
+<br>Mdm Lee Kim Kim
+<br><a href="mailto:lee_kim_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_kim@schools.gov.sg</a>
 </p>
-<p></p>
-<p>Miss Nurul Syamelia
-<br><a href="mailto:nurul_syamelia_rosmaizan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_syamelia_rosmaizan@schools.gov.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2 Harmony</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Praveena d/o Raja Manickam
+<br><a href="mailto:Praveena_Raja_Manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Praveena_Raja_Manickam@schools.gov.sg</a>
+<br>
+<br>Mdm Ng Chai Hong Lynne
+<br><a href="mailto:ng_chai_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chai_hong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
