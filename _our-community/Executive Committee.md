@@ -222,7 +222,7 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joan Kam
+<p>Miss Joan Kam
 <br><a href="mailto:joan_kam_see_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joan_kam_see_mun@schools.gov.sg</a>
 </p>
 </td>
