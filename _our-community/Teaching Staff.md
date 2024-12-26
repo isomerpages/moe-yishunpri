@@ -27,8 +27,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Bai Hanbing
 <br><a href="mailto:bai_hanbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_hanbing@schools.gov.sg</a>
-</p>
-<p>
+<br>
 <br>Mr Thandavamurthy Vasanthavelan
 <br><a href="mailto:thandavamurthy_vasanthavelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thandavamurthy_vasanthavelan@schools.gov.sg</a>
 </p>
