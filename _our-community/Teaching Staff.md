@@ -25,11 +25,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Ching Wen
-<br><a href="mailto:chew_ching_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_ching_wen@schools.gov.sg</a> 
-<br>
-<br>Mdm Wong Pei Fen
-<br><a href="mailto:wong_pei_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_pei_fen@schools.gov.sg</a>
+<p>Mdm Bai Hanbing
+<br><a href="mailto:bai_hanbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_hanbing@schools.gov.sg</a>
+</p>
+<p>
+<br>Mr Thandavamurthy Vasanthavelan
+<br><a href="mailto:thandavamurthy_vasanthavelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thandavamurthy_vasanthavelan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -39,11 +40,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Yaohua, David
-<br><a href="mailto:huang_yaohua_david@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yaohua_david@schools.gov.sg</a> 
+<p>Mdm Siti Wahida Binte Zainal Abidin
+<br><a href="mailto:siti_wahida@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_wahida@schools.gov.sg</a>
 <br>
-<br>Mdm Dewi Kartika
-<br><a href="mailto:dewi_kartika_sudirman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_kartika_sudirman@schools.gov.sg</a>
+<br>Mdm Fong Pui Shan
+<br><a href="mailto:fong_pui_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_pui_shan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -53,11 +54,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Gan Ke Ting
-<br><a href="mailto:gan_ke_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ke_ting@schools.gov.sg</a> 
+<p>Miss Cheng Xinyi, Bernice
+<br><a href="mailto:cheng_xinyi_bernice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_xinyi_bernice@schools.gov.sg</a>
 <br>
-<br>Mdm Tong Mun Hwee
-<br><a href="mailto:tong_mun_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mun_hwee@schools.gov.sg</a>
+<br>Mdm Goh Silk
+<br><a href="mailto:goh_silk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_silk@schools.gov.sg</a>
+<br>
+<br>Miss Han Ying
+<br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -67,11 +71,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Guan Qinqin
-<br><a href="mailto:guan_qin_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_qin_qin@schools.gov.sg</a> 
+<p>Mdm Seah Meng Hui Joanna
+<br><a href="mailto:seah_meng_hui_joanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_meng_hui_joanna@schools.gov.sg</a>
 <br>
-<br>Mdm Carine Ang
-<br><a href="mailto:ang_chai_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chai_lan@schools.gov.sg</a>
+<br>Mr Huang Yaohua, David
+<br><a href="mailto:huang_yaohua_david@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yaohua_david@schools.gov.sg</a>
+<br>
+<br>Ms Wang Yi Ru
+<br><a href="mailto:Wang_Yi_Ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yi_ru@schools.gov.sg</a>
 </p>
 </td>
 </tr>
