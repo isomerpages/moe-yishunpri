@@ -46,7 +46,7 @@ variant: tiptap
 <br>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Pei Li, Pamela
+<p>Miss Wong Pei Li, Pamela
 <br><a href="wong_pei_li_pamela@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_pei_li_pamela@schools.gov.sg</a>
 </p>
 </td>
@@ -115,44 +115,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tee Han Yun, Joel
-<br><a href="mailto:tee_han_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_han_yun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sahir Abdullah
-<br><a href="mailto:sahir_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sahir_abdullah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Steven Aw Kian Chang
-<br><a href="mailto:steven_aw_kian_chang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">steven_aw_kian_chang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
 <br>Information, Communication &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Valencia Lo
-<br><a href="mailto:valencia_thng_su_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valencia_thng_su_ying@schools.gov.sg</a>
+<p>Mr Ng Min Zhou Jonathan
+<br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
