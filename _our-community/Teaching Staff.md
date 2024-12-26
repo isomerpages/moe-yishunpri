@@ -539,11 +539,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhu Shengjie
-<br><a href="mailto:zhu_shengjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shengjie@schools.gov.sg</a> 
+<p>Mdm Kuek Ai Hsiang
+<br><a href="mailto:kuek_ai_hsiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuek_ai_hsiang@schools.gov.sg</a>
 <br>
-<br>Mr Tee Han Yun, Joel
-<br><a href="mailto:tee_han_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_han_yun@schools.gov.sg</a>
+<br>Mr Ghanaprakasam s/o Subramaniam
+<br><a href="mailto:ghanaprakasam_subramanian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ghanaprakasam_subramanian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -553,15 +553,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Kim Kim
-<br><a href="mailto:lee_kim_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_kim@schools.gov.sg</a> 
+<p>Mdm Anita Kaur
+<br><a href="mailto:anita_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anita_kaur@schools.gov.sg</a>
 <br>
-<br>Miss Lee Seow Yen Sandra
-<br><a href="mailto:lee_seow_yen_sandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seow_yen_sandra@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mr Ghanaprakasam S/O Subramaniam
-<br><a href="mailto:ghanaprakasam_subramanian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ghanaprakasam_subramanian@schools.gov.sg</a>
+<br>Mr Ang Liang Tien Terrance
+<br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -571,15 +567,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rekha
-<br><a href="mailto:rekha_mogana_sundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_mogana_sundram@schools.gov.sg</a> 
+<p>Miss Joan Kam See Mun
+<br><a href="mailto:joan_kam_see_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joan_kam_see_mun@schools.gov.sg</a>
 <br>
-<br>Miss Kusumawati Bte Ahmad Dafir
-<br><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mr Lee Jiun Wei
-<br><a href="mailto:lee_jiun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiun_wei@schools.gov.sg</a>
+<br>Mrs Ahrunhachelam Shanthi
+<br><a href="mailto:ahrunhachelam_shanthi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahrunhachelam_shanthi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -589,15 +581,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kuek Ai Hsiang
-<br><a href="mailto:kuek_ai_hsiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuek_ai_hsiang@schools.gov.sg</a> 
+<p>Mrs Huang-Giok Mei Charn Chloe
+<br><a href="mailto:chloe_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chloe_huang@schools.gov.sg</a>
 <br>
-<br>Mr Yamalasamy
-<br><a href="mailto:yamalasamy_shanmugiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yamalasamy_shanmugiah@schools.gov.sg</a>
-</p>
-<p></p>
-<p>Mr Tan Yuan Yang
-<br><a href="mailto:tan_yuan_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yuan_yang@schools.gov.sg</a>
+<br>Mr Sheikh Omar Bin Mohamad
+<br><a href="mailto:sheikh_omar_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_omar_mohamad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -607,28 +595,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nirmala Arumugam
-<br><a href="mailto:nirmala_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_arumugam@schools.gov.sg</a> 
+<p>Mdm Rekha d/o Mogana Sundram
+<br><a href="mailto:rekha_mogana_sundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rekha_mogana_sundram@schools.gov.sg</a>
 <br>
-<br>Mr Sheikh Omar Bin Mohamad
-<br><a href="mailto:sheikh_omar_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_omar_mohamad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 Integrity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Maisarah Binte Zainal Abiden
-<br><a href="mailto:maisarah_zainal_abiden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_zainal_abiden@schools.gov.sg</a> 
+<br>Mr Ng Min Zhou Jonathan
+<br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
 <br>
-<br>Mrs Mary Chen
-<br><a href="mailto:tong_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mary@schools.gov.sg</a> 
-<br>
-<br>Mrs Valencia Lo
-<br><a href="mailto:valencia_thng_su_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valencia_thng_su_ying@schools.gov.sg</a>
+<br>Mdm Zhu Shengjie
+<br><a href="mailto:zhu_shengjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shengjie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
