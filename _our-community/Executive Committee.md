@@ -35,8 +35,8 @@ variant: tiptap
 <br>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Tan Yew Lee
-<br><a href="mailto:Nicholas_TAN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nicholas_TAN@schools.gov.sg</a>
+<p>Mdm Farlinah Supaah</p>
+<p><a href="mailto:farlinah_supaah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farlinah_supaah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -46,9 +46,7 @@ variant: tiptap
 <br>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farlinah Supaah
-<br><a href="mailto:farlinah_supaah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farlinah_supaah@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
