@@ -129,8 +129,8 @@ variant: tiptap
 <br>Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yamalasamy Shanmugiah
-<br><a href="mailto:yamalasamy_shanmugiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yamalasamy_shanmugiah@schools.gov.sg</a>
+<p>Mdm Kwan Yin Teng Elsie
+<br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
