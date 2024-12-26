@@ -126,10 +126,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Physical Education &amp; CCA</p>
+<br>Physical Education, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kwan Yin Teng Elsie
+<p>Ms Elsie Kwan
 <br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
 </p>
 </td>
