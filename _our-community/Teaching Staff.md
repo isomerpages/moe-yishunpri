@@ -88,11 +88,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Linghui, Alcina
-<br><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a> 
+<p>Mdm Cheong Hui Ting Debbie
+<br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
 <br>
-<br>Mdm Seah Meng Hui Joanna
-<br><a href="mailto:seah_meng_hui_joanna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_meng_hui_joanna@schools.gov.sg</a>
+<br>Mdm Siti Nafizah Bte Abu Bakar
+<br><a href="mailto:siti_nafizah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nafizah_abu_bakar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -102,11 +102,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maswati Binte Mohamed Nor
-<br><a href="mailto:maswati_mohamed_nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maswati_mohamed_nor@schools.gov.sg</a> 
+<p>Mdm Sathiya kala d/o Ramasamy
+<br><a href="mailto:sathiya_kala_ramasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sathiya_kala_ramasamy@schools.gov.sg</a>
 <br>
-<br>Mrs Lynne Tok
-<br><a href="mailto:ng_chai_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chai_hong@schools.gov.sg</a>
+<br>Miss Zhuo Cangyuan
+<br><a href="mailto:zhuo_cangyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_cangyuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -116,11 +116,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Praveena d/o Raja Manickam
-<br><a href="mailto:praveena_raja_manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">praveena_raja_manickam@schools.gov.sg</a> 
+<p>Mdm Azura Bte Abu
+<br><a href="mailto:azura_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azura_abu@schools.gov.sg</a>
 <br>
-<br>Mdm Ling Li Huan
-<br><a href="mailto:ling_li_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_li_huan@schools.gov.sg</a>
+<br>Miss Cham Shi Hui Audrey
+<br><a href="mailto:Cham_Shi_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cham_Shi_Hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
