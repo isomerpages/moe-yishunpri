@@ -47,7 +47,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Wong Pei Li, Pamela
-<br><a href="wong_pei_li_pamela@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_pei_li_pamela@schools.gov.sg</a>
+<br><a href="mailto:wong_pei_li_pamela@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_pei_li_pamela@schools.gov.sg</a>
 </p>
 </td>
 </tr>
