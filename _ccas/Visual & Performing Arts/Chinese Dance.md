@@ -12,16 +12,15 @@ Our dancers have performed in various external events such as, Singapore Youth F
 ##### **Teachers-in-Charge**
 * Mdm Lee Kim Kim (I/C) (lee_kim_kim@schools.gov.sg)
 * Ms Han Ying (2 I/C) (han_ying_a@ schools.gov.sg)
-* Ms Guan Qinqin (guan_qin_qin@schools.gov.sg)
 * External Instructor
 
 ##### **Venue**
 * School Hall
-* Indoor Sports Hall Level 4 (Flexi Room 3)
+* Music Room 1
 
 ##### **Time and Days**
-* Tuesday, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesday, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
