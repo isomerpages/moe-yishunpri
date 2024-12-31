@@ -42,8 +42,7 @@ categories shown below. Click on the links to find out more about our CCAs.</p>
 <h4><strong>Clubs &amp; Societies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/ccas/clubs/el-club" rel="noopener noreferrer nofollow" target="_blank">English, Drama &amp; Debating</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/ccas/clubs/science-club" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
@@ -88,6 +87,10 @@ categories shown below. Click on the links to find out more about our CCAs.</p>
 </li>
 <li>
 <p><a href="/ccas/Visual-and-Performing-Arts/concert-band" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
+</p>
+</li>
+<li>
+<p><a href="/ccas/clubs/el-club" rel="noopener noreferrer nofollow" target="_blank">English, Drama &amp; Debating</a>
 </p>
 </li>
 <li>
