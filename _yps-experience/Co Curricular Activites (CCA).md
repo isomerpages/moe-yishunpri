@@ -42,9 +42,6 @@ categories shown below. Click on the links to find out more about our CCAs.</p>
 <h4><strong>Clubs &amp; Societies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
 <p><a href="/ccas/clubs/science-club" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
 </p>
 </li>
