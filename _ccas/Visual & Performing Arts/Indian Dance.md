@@ -14,15 +14,14 @@ Our dancers have performed in various external events such as, the International
 ##### **Teachers-in-Charge**
 * Mdm Sathiya Kala (I/C) (sathiya_kala_ramasamy@schools.gov.sg)
 * Mdm Praveena (2 I/C) (praveena_raja_manickam@schools.gov.sg)
-* Mdm Sivakami (sivakami_ratha@schools.gov.sg)
 * External Instructor
 
 ##### **Venue**
-* Multi-Purpose Room (Level 3)
+* Music Room 2
 
 ##### **Time and Days**
-* Tuesday, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesday, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
