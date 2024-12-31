@@ -8,15 +8,15 @@ variant: markdown
 Environmental Science aims to develop students into environmental champions, where they gain a global awareness of environmental issues, passionately encourage others to adopt environmentally-conscious practices and create solutions to real world environmental problems at a micro-level. Students will also have the opportunities to go for field trips, take part in enrichment programmes and  competitions as well as  participate in school outreach activities through Green Ambassadors training.
 
 ##### **Teachers-in-Charge**
-* Mrs Lim Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
-* Mdm Soh Whee Kheng (2 I/C) (soh_whee_kheng@schools.gov.sg)
-* Mdm Latifah Binte Mohamed Hussain (latifah_mohamed_hussain@schools.gov.sg)
+* Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
+* Mr Toh Wai Woon Keith (2 I/C) (toh_wai_woon@schools.gov.sg)
+* Mdm Nur Hamizah Bte Rosidin (Nur_Hamizah_Rosidin@schools.gov.sg)
 
 ##### **Venue**
 * Science Rooms
 
 ##### **Time and Day**
-* Fridays, 1.40pm - 3.40pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * **2021 National Youth Upcycling Movement (NYUM)** - Certificate of Accomplishment
