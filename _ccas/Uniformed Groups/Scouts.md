@@ -15,13 +15,14 @@ With such exposure, we hope to develop our scouts into motivated, independent an
 * Mr Masri Bin Kario (I/C) (masri_kario@schools.gov.sg)
 * Mrs Ahrunhachelam Shanthi (2 I/C) (ahrunhachelam_shanthi@schools.gov.sg)
 * Miss Kusumawati (kusumawati_ahmad_dafir@schools.gov.sg)
-* Mrs Liza Ng (fong_pui_shan@schools.gov.sg)
+* Serena Goh Yi Ting (Serena_goh_yi_ting@schools.gov.sg)
+* Mr Vasudavan s/o S G Pillai (vasudavan_s_g_pillai@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 4 (Flexi Room 2 &amp; 3)
 
 ##### **Time and Day**
-* Tuesdays, 1.40pm - 3.40pm
+* Tuesdays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * Akela Award Recipient 2023
