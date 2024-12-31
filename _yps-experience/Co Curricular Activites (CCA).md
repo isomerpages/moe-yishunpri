@@ -90,7 +90,7 @@ categories shown below. Click on the links to find out more about our CCAs.</p>
 </p>
 </li>
 <li>
-<p><a href="/ccas/clubs/el-club" rel="noopener noreferrer nofollow" target="_blank">English, Drama &amp; Debating</a>
+<p><a href="/ccas/visual-and-performing-arts/el-club/" rel="noopener noreferrer nofollow" target="_blank">English, Drama &amp; Debating</a>
 </p>
 </li>
 <li>
