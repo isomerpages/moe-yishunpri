@@ -287,7 +287,7 @@ variant: tiptap
 <p>Mdm Siti Karmila Binte Abu
 <br><a href="mailto:siti_karmila_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_karmila_abu@schools.gov.sg</a>
 <br>
-<br>Tan Guan Sheng Bronson
+<br>Mr Tan Guan Sheng Bronson
 <br><a href="mailto:tan_guan_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_guan_sheng@schools.gov.sg</a>
 </p>
 </td>
@@ -301,7 +301,7 @@ variant: tiptap
 <p>Mr V Ilanchezhiyan
 <br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 <br>
-<br>Serena Goh Yi Ting
+<br>Miss Serena Goh Yi Ting
 <br><a href="mailto:Serena_GOH_YI_TING@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Serena_goh_yi_ting@schools.gov.sg</a>
 </p>
 </td>
