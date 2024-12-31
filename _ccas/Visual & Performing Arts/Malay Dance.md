@@ -10,9 +10,8 @@ The Malay Dance CCA aims to develop students’ appreciation and passion for the
 Our dancers are given opportunities to perform at various platforms such as school events and competitions.
 
 ##### **Teachers-in-Charge**
-* Mdm Nurhayati (I/C) (nurhayati_nasir@schools.gov.sg)
-* Mdm Siti Nafizah Bte A Bakar (2 I/C) (siti_nafizah_abu_bakar@schools.gov.sg)
-* Mdm Dewi Kartika Binte Sudirman (dewi_kartika_sudirman@schools.gov.sg)
+* Mdm Siti Nafizah Bte A Bakar (I/C) (siti_nafizah_abu_bakar@schools.gov.sg)
+* Mdm Azura Bte Abu (2 I/C) (azura_abu@schools.gov.sg)
 * External Instructor
 
 ##### **Venue**
@@ -20,8 +19,8 @@ Our dancers are given opportunities to perform at various platforms such as scho
 * Indoor Sports Hall Level 5 (Teaching Lab)
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Distinction
