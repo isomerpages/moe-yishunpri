@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs/.keep
-      - Clubs/English, Drama & Debating.md
       - Clubs/Environmental Science.md
       - Clubs/Infocomm Technology (Computing).md
       - Clubs/International Chess.md
