@@ -1,8 +1,8 @@
 ---
 title: English, Drama & Debating
-permalink: /ccas/clubs/el-club/
+permalink: /ccas/visual-and-performing-arts/el-club/
 description: ""
-third_nav_title: Clubs
+third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
 In the EL, Drama & Debating Club, you will be equipped with the necessary skills to enable you to excel in debate, writing and drama. It is also involves the skills for writing and speaking. 
@@ -13,13 +13,14 @@ We also impart valuable life skills such as the ability to think clearly and spe
 * To excel confidently
 
 ##### **Teachers-in-Charge**  
-* Ms Chua Mei Ling (I/C) (chua_mei_ling_b@schools.gov.sg)
-* Mdm June Low (june_low_mun_ling@schools.gov.sg)
-* Mdm Anita Kaur (anita_kaur@schools.gov.sg)
+* Mdm June Low (I/C) (june_low_mun_ling@schools.gov.sg)
+* Mdm Kirenjit Kaur Gill (2 I/C) (kirenjit_kaur_gill@schools.gov.sg)
+* Mdm Cheong Hui Ting Debbie (cheong_hui_ting_debbie@schools.gov.sg)
+* External Instructor
 
 ##### **Venue**
 * Classroom C3-01
-* Library Stellar Room
+* Library STELLAR Room
 
 ##### **Time and Day**
-* Fridays, 1.40pm - 3.40pm
+* Fridays, 2.00pm - 4.00pm

@@ -11,9 +11,8 @@ Our dancers have performed at various external events such as Istana Open House 
 We hope that talented and interested young dancers can join us in our dance journey.
 
 ##### **Teachers-in-Charge**
-* Mrs Chloe Huang (I/C) (chloe_huang@schools.gov.sg)
-* Mdm Bai Hanbing (2 I/C) (bai_hanbing@schools.gov.sg)
-* Mr Vasudavan (Tuesdays) (vasudavan_s_g_pillai@schools.gov.sg)
+* Mrs Liza Ng (I/C) (fong_pui_shan@schools.gov.sg)
+* Mdm Dewi Kartika Bte Sudirman (2 I/C) (dewi_kartika_sudirman@schools.gov.sg)
 * Ms Nirmala (nirmala_arumugam@schools.gov.sg)
 * External Instructor
 
@@ -22,8 +21,8 @@ We hope that talented and interested young dancers can join us in our dance jour
 * Indoor Sports Hall Level 2 (Fitness Room)
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment

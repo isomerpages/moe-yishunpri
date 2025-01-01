@@ -218,6 +218,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Character &amp; Citizenship Education
+<br>(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Gan Ke Ting
+<br><a href="mailto:Gan_Ke_Ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Ke_Ting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Information, Communication &amp; Technology
+<br>(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Guan Sheng Bronson
+<br><a href="mailto:tan_guan_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_guan_sheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Student Management
+<br>(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Maswati Binte Mohamed Nor
+<br><a href="mailto:Maswati_Mohamed_Nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maswati_Mohamed_Nor@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Level Head
 <br>English</p>
 </td>

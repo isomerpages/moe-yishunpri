@@ -8,11 +8,14 @@ variant: markdown
 Yishun Primary Basketball CCA aims to equip our members with basketball skills and develop sportsmanship through the rigour of sports training and participation in competitions. Through training sessions, friendly matches and zonal competitions, our members picked up Basketball skills and developed the values of Respect and Resilience, and learned to collaborate and work in team.
 
 ##### **Teachers-in-Charge**
-* Miss Fam Xinru Winnie (I/C) (fam_xinru_winnie@schools.gov.sg)
-* Ms Tan Lian Kiah (2 I/C) (tan_lian_kiah@schools.gov.sg)
-* Mdm Valerie Wang (wang_yunwen_valerie@schools.gov.sg)
+* Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg)
+* Mr Ghanaprakasam s/o Subramaniam (ghanaprakasam_subramanian@schools.gov.sg)
 * Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
-* Mdm Fauziah Alang (fauziah_alang_mohammad_rom@schools.gov.sg)
+* Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg)
+* Miss Siti Amalina Binte Mohamed Said (siti_amalina_mohamed_sai@schools.gov.sg)
+* Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg)
+* Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg)
+* Miss Guan Qinqin (guan_qin_qin@schools.gov.sg)
 * External Coach 1
 * External Coach 2
 
@@ -20,8 +23,8 @@ Yishun Primary Basketball CCA aims to equip our members with basketball skills a
 * Indoor Sports Hall (ISH Level 1)
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 2.00pm - 4.00pm
+* Fridays, 2.00pm - 4.00pm
 
 ##### **Achievements**
 * **National School Games North Zone Senior Boy Division Basketball Championship 2022**<br>5th - 8th Placing
