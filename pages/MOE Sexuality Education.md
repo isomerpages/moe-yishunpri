@@ -4,7 +4,7 @@ permalink: /moe-sexuality-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>MOE Sexuality Education In Schools</strong></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -88,7 +88,13 @@ from sexuality-related risks.</p>
 <p>At Yishun Primary School, the following Sexuality Education lessons will
 be taught in <strong><u>2024</u></strong>:</p>
 <h4><strong>Primary 5</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -166,7 +172,13 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <h4><strong>Primary 6</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
