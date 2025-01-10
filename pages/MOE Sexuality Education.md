@@ -52,7 +52,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview Of Yishun Primary School's Sexuality Education Programme For 2024</strong></h4>
+<h4><strong>Overview of Yishun Primary School’s Sexuality Education Programme for 2025</strong></h4>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -67,7 +67,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<p><strong><u>Sexuality Education Lessons</u></strong> 
+<p></p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:
 <br>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
@@ -86,7 +87,7 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p>At Yishun Primary School, the following Sexuality Education lessons will
-be taught in <strong><u>2024</u></strong>:</p>
+be taught in <strong><u>2025</u></strong>:</p>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
