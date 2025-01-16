@@ -307,7 +307,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>(Primary 1 to Primary 2)</p>
+<br>(Primary 1 &amp; Primary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tong Mun Hwee
@@ -330,7 +330,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>(Primary 5 to Primary 6)</p>
+<br>(Primary 5 &amp; Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Liang Tien, Terrance
