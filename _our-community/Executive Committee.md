@@ -104,6 +104,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Eileen Lee
+<br><a href="mailto:ong_boon_ching_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_boon_ching_eileen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
 <br>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,8 +152,8 @@ variant: tiptap
 <br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Alang Mohammad Rom</p>
-<p><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
+<p>Mdm Fauziah Alang Mohammad Rom
+<br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -220,17 +231,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fauziah Alang Mohammad Rom
-<br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head
 <br>Character &amp; Citizenship Education
 <br>(Internal)</p>
 </td>
@@ -286,17 +286,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head
-<br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Eileen Lee
-<br><a href="mailto:ong_boon_ching_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_boon_ching_eileen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Year Heads &amp; Assistant Year Heads</strong></h3>
@@ -329,7 +318,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Year Head
 <br>(Primary 3 &amp; Primary 4)
-<br>(Internal)</p>
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yong Hui Wen
