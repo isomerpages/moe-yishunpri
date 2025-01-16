@@ -305,7 +305,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>(Primary 1 to Primary 3)</p>
+<br>(Primary 1 to Primary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tong Mun Hwee
@@ -316,7 +316,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>(Primary 4 to Primary 6)</p>
+<br>(Primary 3 &amp; Primary 4)
+<br>(Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yong Hui Wen
+<br><a href="mailto:yong_hui_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hui_wen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head
+<br>(Primary 5 to Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Liang Tien, Terrance
@@ -327,18 +339,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 1 &amp; Primary 2)</p>
+<br>(Primary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Hui Wen
-<br><a href="mailto:yong_hui_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hui_wen@schools.gov.sg</a>
+<p>Mr V Ilanchezhiyan
+<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 3)
+<br>(Primary 4)
 <br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -350,18 +362,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 4)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr V Ilanchezhiyan
-<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Primary 5 &amp; Primary 6)</p>
+<br>(Primary 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nirmala Arumugam
