@@ -137,6 +137,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
+<br>Character &amp; Citizenship Education
+<br>(Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fauziah Alang Mohammad Rom</p>
+<p><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
 <br>Special Education Needs &amp; Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
