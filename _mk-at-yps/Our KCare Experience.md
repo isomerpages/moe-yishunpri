@@ -2,6 +2,7 @@
 title: Our KCare Experience
 permalink: /mk-at-yps/mk-kcare-experience/
 description: ""
+variant: markdown
 ---
 #### **The KCare Environment**
 KCare provides care services, and **time** and **space** for children to **play, explore** and **discover** through **specially designed environments with carefully chosen resources**.
@@ -29,7 +30,7 @@ KCare provides care services, and **time** and **space** for children to **play,
 #### **A Typical Day**
 This is a sample timetable on what your child will do in a day if he/she takes up our Full Day Programme.
 
-![](/images/MK%20YPS/KCare%20Experience/kcare-timetable.png)
+![](/images/MK%20YPS/KCare%20Experience/kcare_timetable_updated.jpg)
 
 #### **Contact Us**
 
