@@ -14,7 +14,7 @@ We offer 4-hour single AM Session K1 and K2 programmes for children. You can cho
 
 MOE kindergarten follows MOE’s calendar of school term and school holidays.
 
-![](/images/MK%20YPS/About%20Us/mk_timetable_udpdated.jpg)
+![](/images/MK%20YPS/About%20Us/mk_timetable_udpdated_v2.jpg)
 
 #### **Kindergarten Care (KCare)**
 Kindergarten Care (KCare), provided by Neighbourhood Care Services (NCS) is available for parents who require a full-day service for your child who is enrolled in MOE Kindergarten (MK).
