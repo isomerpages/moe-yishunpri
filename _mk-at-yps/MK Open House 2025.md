@@ -4,7 +4,7 @@ permalink: /mk-at-yps/mk-open-house-2025/
 variant: markdown
 description: ""
 ---
-![](/images/Announcements/Mk/Open_House_Poster_2024.jpg)
+Coming soon...
 
 <iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRjvjT22_iBrOhQCE_8FNIjuY1Wvw-KTbiC5XWggmHWxAtK83zQ7fAOtL6NEs3hqAuhQx5E9k4nAtF/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
