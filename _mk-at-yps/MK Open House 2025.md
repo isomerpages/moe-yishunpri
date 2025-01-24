@@ -8,7 +8,7 @@ description: ""
 
 ![](/images/MK%20YPS/Open%20House/open_house_2025.jpg)
 
-<iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRjvjT22_iBrOhQCE_8FNIjuY1Wvw-KTbiC5XWggmHWxAtK83zQ7fAOtL6NEs3hqAuhQx5E9k4nAtF/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStwCyGjK54YdBXQpTUHU8CNP1WH4HoUmEQdxWMv0jIbeMjNre3lz9ESanC-scDc_MoXUTfkQh6DCom/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 #### **Cherished Moments at MK@Yishun**
