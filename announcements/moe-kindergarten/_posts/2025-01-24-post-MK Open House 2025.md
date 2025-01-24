@@ -7,4 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Mk/Open_House_Poster_2024.jpg"></div><p></p><h4><strong>Cherished Moments at MK@Yishun</strong></h4><div class="iframe-wrapper"><iframe height="455" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuU3xOejeEcpEC-mL7tdYuY9AAzl_d4Y53hbxAuDlBZ8kP-Rywvpwm_UUYYIqg067blzuKvdhN_RDA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></div><p></p>
+![](/images/MK%20YPS/Open%20House/open_house_2025.jpg)
+
+![](/images/MK%20YPS/Open%20House/open_house_2025.jpg)
+
+<iframe allowfullscreen="true" height="455" width="860" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStwCyGjK54YdBXQpTUHU8CNP1WH4HoUmEQdxWMv0jIbeMjNre3lz9ESanC-scDc_MoXUTfkQh6DCom/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
