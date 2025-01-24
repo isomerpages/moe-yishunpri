@@ -3,8 +3,9 @@ title: Our Environment
 permalink: /mk-at-yps/mk-yishun-experience/mk-environment/
 description: ""
 third_nav_title: Our MK Experience
+variant: markdown
 ---
-#### **Our K1 Classrooms**
+#### **Our Classrooms**
 
 ![](/images/MK%20YPS/The%20MK%20Experience/mk_environment_k1_class.png)
 
