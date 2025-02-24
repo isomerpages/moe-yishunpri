@@ -9,7 +9,7 @@ variant: markdown
 * <a href="https://ask.gov.sg/yps" target="_blank">AskGov@YPS</a>
 * <a href="https://file.for.edu.sg/yps-cw-safe-smart-online.pdf" target="_blank">Cyber Wellness Guide For Parents</a>
 * <a href="https://file.for.edu.sg/yps-cw-tip-sheet.pdf" target="_blank">Cyber Wellness Tip Sheet For Parents</a>
-* <a href="https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf" target="_blank">List of Approved Dictionaries for use in 2024 PSLE</a>
+* <a href="https://go.gov.sg/list-of-dictionaries-for-examination" target="_blank">List of Approved Dictionaries for use in 2025 PSLE</a>
 * [MOE Sexuality Education](/moe-sexuality-education)
 * [Services In School](/about-us/services-in-school/school-attire/)
 * <a href="https://go.gov.sg/ypshelpdesk" target="_blank">YPS ICT Helpdesk</a>
