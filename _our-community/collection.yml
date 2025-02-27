@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Executive Committee.md
+      - Teacher Leaders.md
       - Teaching Staff.md
       - Non Teaching Staff.md
       - School Advisory Committee.md
