@@ -2,8 +2,8 @@ collections:
   our-community:
     output: true
     order:
-      - Teacher Leaders.md
       - Executive Committee.md
+      - Teacher Leaders.md
       - Teaching Staff.md
       - Non Teaching Staff.md
       - School Advisory Committee.md
