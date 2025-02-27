@@ -16,10 +16,10 @@ td, th {
 
 | **Vice-Chairman** |
 | :--------: |
-| Mr Lim Wah Onn Marcus |
+| Mr Tan Yueh Phern |
 
 | **Members** |
 | :--------: |
-| Mr Tan Yueh Phern |
 | Mr S Devendran |
 | Ms Lau Yoot Moey |
+| Mr Toh Sze Wei |
