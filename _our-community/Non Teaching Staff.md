@@ -129,7 +129,7 @@ variant: tiptap
 <p>Ms Zahirah Binte Zulkefli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Librarian</p>
+<p>Library Assistant</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>Mdm Atikah Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ variant: tiptap
 <p>Mdm Mariam Bee Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>Mdm Rabiah Makmor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>Mdm Wong Kwee Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ variant: tiptap
 <p>Mr Lim Jiew Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ variant: tiptap
 <p>Mr Lim Heng Chye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ variant: tiptap
 <p>Mdm Hayati Binti Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 </tbody>
