@@ -8,7 +8,6 @@ variant: markdown
 At Yishun Primary School ICT Club, we aim to develop future ready learners through fun and interactive activities. Through a variety of activities, our members learn basic coding and programming skills, and gaining computational and critical thinking skills during the process.
 
 ##### **Teachers-in-Charge**
-* 
 * Mr Anthony Tay Poh Hua (I/C) (anthony_tay_poh_hua@schools.gov.sg)
 * Tan Guan Sheng Bronson (2 I/C) (tan_guan_sheng@schools.gov.sg)
 * Mdm Siti Karmila Binte Abu (siti_karmila_abu@schools.gov.sg)
@@ -18,12 +17,12 @@ At Yishun Primary School ICT Club, we aim to develop future ready learners throu
 * External Instructor
 
 ##### **Venues**
-* Computer Rooms 1 and 2
+* Computer Room 3
 * Classroom F4-01
 
 ##### **Time and Day**
-* Tuesdays, 2.00pm - 4.00pm (Primary 3)
-* Fridays, 2.00pm - 4.00pm (Primary 4 to 6)
+* Tuesdays, 1.40pm - 3.40pm (Primary 3)
+* Fridays, 1.40pm - 3.40pm (Primary 4 to 6)
 
 ##### **Achievements**
 * **Swift Explorers Singapore (SES) 2022**
