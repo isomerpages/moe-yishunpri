@@ -14,8 +14,8 @@ We also impart valuable life skills such as the ability to think clearly and spe
 
 ##### **Teachers-in-Charge**  
 * Mdm June Low (I/C) (june_low_mun_ling@schools.gov.sg)
-* Mdm Kirenjit Kaur Gill (2 I/C) (kirenjit_kaur_gill@schools.gov.sg)
-* Mdm Cheong Hui Ting Debbie (cheong_hui_ting_debbie@schools.gov.sg)
+* Mdm Cheong Hui Ting Debbie (2 I/C) (cheong_hui_ting_debbie@schools.gov.sg)
+* Mdm Anita Kaur (anita_kaur@schools.gov.sg)
 * External Instructor
 
 ##### **Venue**
@@ -23,4 +23,4 @@ We also impart valuable life skills such as the ability to think clearly and spe
 * Library STELLAR Room
 
 ##### **Time and Day**
-* Fridays, 2.00pm - 4.00pm
+* Fridays, 1.40pm - 3.40pm
