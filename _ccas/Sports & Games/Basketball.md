@@ -19,7 +19,7 @@ Yishun Primary Basketball CCA aims to equip our members with basketball skills a
 * External Coach 2
 
 ##### **Venue**
-* Indoor Sports Hall (ISH Level 1)
+* Indoor Sports Hall Level 1
 
 ##### **Time and Days**
 * Tuesdays, 1.40pm - 3.40pm
