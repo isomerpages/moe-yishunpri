@@ -14,6 +14,7 @@ Yishun Primary Concert Band provides opportunities for our students to develop a
 * Miss Bernice Cheng (cheng_xinyi_bernice@schools.gov.sg)
 * Miss Lee Linghui Alcina (lee_linghui_alcina@schools.gov.sg)
 * Miss Gan Ke Ting (gan_ke_ting@schools.gov.sg)
+* Mr Li Dahao, Daniel (daniel_li_da_hao@schools.gov.sg)
 * Band Instructor
 
 ##### **Venue**
@@ -22,7 +23,7 @@ Yishun Primary Concert Band provides opportunities for our students to develop a
 
 ##### **Time and Days**
 * Wednesdays, 2.00pm - 5.30pm
-* Fridays, 2.00pm - 5.00pm
+* Fridays, 1.40pm - 4.40pm
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Distinction
