@@ -9,10 +9,9 @@ Yishun Primary Basketball CCA aims to equip our members with basketball skills a
 
 ##### **Teachers-in-Charge**
 * Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg)
-* Mr Ghanaprakasam s/o Subramaniam (ghanaprakasam_subramanian@schools.gov.sg)
+* Mr Ghanaprakasam s/o Subramaniam (2 I/C) (ghanaprakasam_subramanian@schools.gov.sg)
 * Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
 * Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg)
-* Miss Siti Amalina Binte Mohamed Said (siti_amalina_mohamed_sai@schools.gov.sg)
 * Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg)
 * Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg)
 * Miss Guan Qinqin (guan_qin_qin@schools.gov.sg)
@@ -23,8 +22,8 @@ Yishun Primary Basketball CCA aims to equip our members with basketball skills a
 * Indoor Sports Hall (ISH Level 1)
 
 ##### **Time and Days**
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **National School Games North Zone Senior Boy Division Basketball Championship 2022**<br>5th - 8th Placing
