@@ -20,6 +20,7 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 
 ##### **Venue**
 * School Field
+* Indoor Sports Hall Level 6
 
 ##### **Time and Days**
 * Tuesdays, 1.40pm - 3.40pm
