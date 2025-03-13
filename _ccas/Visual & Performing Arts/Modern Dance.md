@@ -21,8 +21,8 @@ We hope that talented and interested young dancers can join us in our dance jour
 * Indoor Sports Hall Level 2 (Fitness Room)
 
 ##### **Time and Days**
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
