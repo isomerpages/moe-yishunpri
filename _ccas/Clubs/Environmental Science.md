@@ -9,14 +9,14 @@ Environmental Science aims to develop students into environmental champions, whe
 
 ##### **Teachers-in-Charge**
 * Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
-* Mr Toh Wai Woon Keith (2 I/C) (toh_wai_woon@schools.gov.sg)
-* Mdm Nur Hamizah Bte Rosidin (Nur_Hamizah_Rosidin@schools.gov.sg)
+* Mdm Nur Hamizah Bte Rosidin (2 I/C) (Nur_Hamizah_Rosidin@schools.gov.sg)
+* Ms Wang Yi Ru (Wang_Yi_Ru@schools.gov.sg)
 
 ##### **Venue**
 * Science Rooms
 
 ##### **Time and Day**
-* Fridays, 2.00pm - 4.00pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **2021 National Youth Upcycling Movement (NYUM)** - Certificate of Accomplishment
