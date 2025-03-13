@@ -9,20 +9,25 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 
 ##### **Teachers-in-Charge**
 * Mdm Isnarti Bte Ahmad Sani (I/C) (isnarti_ahmad_sani@schools.gov.sg)
-* Mr Bahar Ali Bin Sakor (2I/C) (bahar_ali_sakor@schools.gov.sg)
-* Mr Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
+* Mr Bahar Ali Bin Sakor (2 I/C) (bahar_ali_sakor@schools.gov.sg)
+* Mr V Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * Mr Sheikh Omar (sheikh_omar_mohamad@schools.gov.sg)
-* Mr Li Dahao, Daniel (daniel_li_da_hao@schools.gov.sg)
-* Mr Lee Jiun Wei (lee_jiun_wei@schools.gov.sg)
+* Miss Serena Goh Yi Ting (Serena_goh_yi_ting@schools.gov.sg)
+* Miss Syahira Adila Binte Fazali (Syahira_Adila_Fazali@schools.gov.sg)
 * External Coach 1
 * External Coach 2
+* External Coach 3
 
 ##### **Venue**
 * School Field
 
 ##### **Time and Days**
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
+
+##### **Time and Days (School Team)**
+* Tuesdays, 1.40pm - 4.00pm
+* Fridays, 1.40pm - 4.00pm
 
 ##### **Achievements**
 * **National School Games 2024** - Top 4 in League 2
