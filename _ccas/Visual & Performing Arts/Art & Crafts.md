@@ -14,16 +14,17 @@ Through meaningful art-making processes, students develop their character and gr
 ##### **Teachers-in-Charge**
 * Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
 * Mdm Goh Silk (2 I/C) (goh_silk@schools.gov.sg)
-* Mdm Anita Kaur (anita_kaur@schools.gov.sg)
+* Mdm Kirenjit Kaur Gill (kirenjit_kaur_gill@schools.gov.sg)
 * Mdm Siti Wahida Binte Zainal Abidin (siti_wahida@schools.gov.sg)
-* Mrs Ribut Bte Nawi (ribut_nawi@schools.gov.sg)
+* Mdm Monalisa Bte Mohamed Sudin (monalisa_mohamed_sudin@schools.gov.sg)
+* Miss Nata Aqilah Bte Rizal
 
 ##### **Venue**
 * Art Rooms   
 * Classrooms H2-06, H2-07
 
 ##### **Day and Time**
-* Tuesday, 2.00pm - 4.00pm
+* Tuesday, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **Singapore Youth Festival Exhibition 2021**
