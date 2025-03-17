@@ -81,6 +81,10 @@ and fulfilling life beyond their school years.</p>
 <h4><strong>Clubs &amp; Societies</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/ccas/clubs/el-club/" rel="noopener nofollow" target="_blank">English, Drama &amp; Debating</a>
+</p>
+</li>
+<li>
 <p><a href="/ccas/clubs/science-club" rel="noopener noreferrer nofollow" target="_blank">Environmental Science</a>
 </p>
 </li>
@@ -123,10 +127,6 @@ and fulfilling life beyond their school years.</p>
 </li>
 <li>
 <p><a href="/ccas/Visual-and-Performing-Arts/concert-band" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
-</p>
-</li>
-<li>
-<p><a href="/ccas/visual-and-performing-arts/el-club/" rel="noopener noreferrer nofollow" target="_blank">English, Drama &amp; Debating</a>
 </p>
 </li>
 <li>
