@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-Environmental Science aims to develop students into environmental champions, where they gain a global awareness of environmental issues, passionately encourage others to adopt environmentally-conscious practices and create solutions to real world environmental problems at a micro-level. Students will also have the opportunities to go for field trips, take part in enrichment programmes and  competitions as well as  participate in school outreach activities through Green Ambassadors training.
+Environmental Science empowers students to become environmental champions, fostering global awareness of pressing environmental issues. Through this journey, they inspire others to embrace eco-friendly practices and develop practical solutions to real-world challenges. Students will also enjoy exciting opportunities such as field trips, enrichment programs, competitions, and school outreach activities as part of their Green Ambassadors training.
 
 ##### **Teachers-in-Charge**
 * Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
