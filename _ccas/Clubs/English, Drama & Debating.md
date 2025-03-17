@@ -33,4 +33,4 @@ Come be a part of a vibrant community where creativity meets confidence!
 
 ##### **Photo Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPnkjizGLw-9FSHyljtDoySbR0tPBFen89fE62JayMmE4Y0JJryyW_a8fLXu_ITiRuaOk5IFSKgwYC/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCigd5P5aJsHgWc_sD6QNwshgA7UyuCXsYnaGZSGX2R78H3PzD-X3DN58FIO0luPHIhumA672i9qUa/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
