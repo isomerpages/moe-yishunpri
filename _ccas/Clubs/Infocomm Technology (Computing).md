@@ -14,15 +14,13 @@ At Yishun Primary School ICT Club, we aim to develop future ready learners throu
 * Mdm Sivakami d/o Ratha (sivakami_ratha@schools.gov.sg)
 * Mr Vasanthavelan (thandavamurthy_vasanthavelan@schools.gov.sg)
 * Ms Wong Pei Fen (wong_pei_fen@schools.gov.sg)
-* External Instructor
 
 ##### **Venues**
-* Computer Room 3
-* Classroom F4-01
+* Computer Rooms 1, 2 &amp; 3
 
 ##### **Time and Day**
-* Tuesdays, 1.40pm - 3.40pm (Primary 3)
-* Fridays, 1.40pm - 3.40pm (Primary 4 to 6)
+* Tuesdays, 1.40pm - 3.40pm
+* Fridays, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **Swift Explorers Singapore (SES) 2022**
