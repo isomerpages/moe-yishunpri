@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-Yishun Primary School’s Football CCA aims to develop discipline and work ethics in our players, enhancing their physical skills and mental health. Through the sport, our players also learn about sportsmanship and working together as a team.
+At Yishun Primary School, our Football Co-Curricular Activity (CCA) aims to equip our members with essential football skills while fostering a deep sense of sportsmanship. Through structured training sessions and active participation in competitions, our players develop technical proficiency, tactical awareness, and resilience.
+
+Beyond the game, our Football CCA instills the core values of excellence, respect, and friendship. Players learn the importance of discipline, commitment, and perseverance as they strive for excellence in both training and matches. They are encouraged to show respect—not only towards their teammates and coaches but also towards their opponents and officials. Through shared experiences on and off the field, strong friendships are forged, creating a supportive and inclusive team environment.
 
 ##### **Teachers-in-Charge**
 * Mdm Isnarti Bte Ahmad Sani (I/C) (isnarti_ahmad_sani@schools.gov.sg)
@@ -14,9 +16,6 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 * Mr Sheikh Omar (sheikh_omar_mohamad@schools.gov.sg)
 * Miss Serena Goh Yi Ting (Serena_goh_yi_ting@schools.gov.sg)
 * Miss Syahira Adila Binte Fazali (Syahira_Adila_Fazali@schools.gov.sg)
-* External Coach 1
-* External Coach 2
-* External Coach 3
 
 ##### **Venue**
 * School Field
@@ -26,12 +25,14 @@ Yishun Primary School’s Football CCA aims to develop discipline and work ethic
 * Tuesdays, 1.40pm - 3.40pm
 * Fridays, 1.40pm - 3.40pm
 
-##### **Time and Days (School Team)**
-* Tuesdays, 1.40pm - 4.00pm
-* Fridays, 1.40pm - 4.00pm
-
 ##### **Achievements**
-* **National School Games 2024** - Top 4 in League 2
+* **National School Games Senior Boys 2025** - Top 8 in League 2
+* **National School Games Senior Boys 2024** - 4th place in League 2
+* **National School Games Junior Boys 2024** - 2nd place in Tier 2
+* **Yishun Secondary School Invitational Football Carnival 2024** - 4th place
+* **Woodlands Secondary Football Fiesta 2024** - 2nd place
+* **National School Games Junior Boys 2023** - 1st place in Tier 3
+* **Yishun Secondary School Invitational Football Carnival 2023** - 1st Place
 
 ##### **Photo Gallery**
 
