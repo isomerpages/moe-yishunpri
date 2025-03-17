@@ -5,16 +5,13 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-Yishun Primary Modern Dance CCA aims to bring students who come from diverse backgrounds to work together to present a beautiful and synchronised performance. Through the practice sessions, students will learn contemporary dance and movement techniques, develop good teamwork and self-discipline. 
-Our dancers have performed at various external events such as Istana Open House on Labour Day (2019) and Singapore Youth Festival Arts Presentation (2022).
-
+Yishun Primary Modern Dance CCA aims to bring students who come from diverse backgrounds to work together to present a beautiful and synchronised performance. Through the practice sessions, students will learn contemporary dance and movement techniques, develop good teamwork and self-discipline. Our dancers have performed at various external events such as Istana Open House on Labour Day (2019) , Singapore Youth Festival Arts Presentation (2022, 2024) and Chong Pang National Day Dinner (2023, 2024). 
 We hope that talented and interested young dancers can join us in our dance journey.
 
 ##### **Teachers-in-Charge**
 * Mrs Liza Ng (I/C) (fong_pui_shan@schools.gov.sg)
 * Mdm Dewi Kartika Bte Sudirman (2 I/C) (dewi_kartika_sudirman@schools.gov.sg)
 * Ms Nirmala (nirmala_arumugam@schools.gov.sg)
-* External Instructor
 
 ##### **Venue**
 * Indoor Sports Hall Level 2 (Dance Studio)
