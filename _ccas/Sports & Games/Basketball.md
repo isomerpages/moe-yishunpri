@@ -5,18 +5,18 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-Yishun Primary Basketball CCA aims to equip our members with basketball skills and develop sportsmanship through the rigour of sports training and participation in competitions. Through training sessions, friendly matches and zonal competitions, our members picked up Basketball skills and developed the values of Respect and Resilience, and learned to collaborate and work in team.
+**Yishun Primary School Basketball CCA** aims to equip our members with essential basketball skills while fostering sportsmanship, teamwork, and resilience. Through structured training sessions, friendly matches, and participation in the National School Games, our members develop not only their technical abilities but also important values such as Respect and Resilience.
+
+This year, we are sending in four teams—Senior and Junior teams for both boys and girls—to represent our school in the National School Games. These experiences provide our players with valuable opportunities to apply their skills, challenge themselves, and grow in confidence as they compete at the national level.
 
 ##### **Teachers-in-Charge**
-* Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg)
-* Mr Ghanaprakasam s/o Subramaniam (2 I/C) (ghanaprakasam_subramanian@schools.gov.sg)
-* Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
-* Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg)
-* Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg)
-* Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg)
-* Miss Guan Qinqin (guan_qin_qin@schools.gov.sg)
-* External Coach 1
-* External Coach 2
+* Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg) (Tue)
+* Mr Ghanaprakasam s/o Subramaniam (2 I/C) (ghanaprakasam_subramanian@schools.gov.sg) (Fri)
+* Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg) (Tue)
+* Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg) (Fri)
+* Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg) (Tue)
+* Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg) (Tue)
+* Miss Guan Qinqin (guan_qin_qin@schools.gov.sg) (Fri)
 
 ##### **Venue**
 * Indoor Sports Hall Level 1
