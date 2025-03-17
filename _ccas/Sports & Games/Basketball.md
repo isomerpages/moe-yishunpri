@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-**Yishun Primary School Basketball CCA** aims to equip our members with essential basketball skills while fostering sportsmanship, teamwork, and resilience. Through structured training sessions, friendly matches, and participation in the National School Games, our members develop not only their technical abilities but also important values such as Respect and Resilience.
+Yishun Primary School Basketball CCA aims to equip our members with essential basketball skills while fostering sportsmanship, teamwork, and resilience. Through structured training sessions, friendly matches, and participation in the National School Games, our members develop not only their technical abilities but also important values such as Respect and Resilience.
 
 This year, we are sending in four teams—Senior and Junior teams for both boys and girls—to represent our school in the National School Games. These experiences provide our players with valuable opportunities to apply their skills, challenge themselves, and grow in confidence as they compete at the national level.
 
