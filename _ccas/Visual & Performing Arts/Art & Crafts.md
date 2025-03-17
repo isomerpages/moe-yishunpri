@@ -17,14 +17,14 @@ Through meaningful art-making processes, students develop their character and gr
 * Mdm Kirenjit Kaur Gill (kirenjit_kaur_gill@schools.gov.sg)
 * Mdm Siti Wahida Binte Zainal Abidin (siti_wahida@schools.gov.sg)
 * Mdm Monalisa Bte Mohamed Sudin (monalisa_mohamed_sudin@schools.gov.sg)
-* Miss Nata Aqilah Bte Rizal
+* Miss Nata Aqilah Bte Rizal (natasha_aqilah_rizal@schools.gov.sg)
 
 ##### **Venue**
 * Art Rooms   
 * Classrooms H2-06, H2-07
 
 ##### **Day and Time**
-* Tuesday, 1.40pm - 3.40pm
+* Tuesdays, 1.40pm - 3.40pm
 
 ##### **Achievements**
 * **Singapore Youth Festival Exhibition 2021**
