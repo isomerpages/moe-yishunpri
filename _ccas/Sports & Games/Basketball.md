@@ -10,13 +10,13 @@ Yishun Primary School Basketball CCA aims to equip our members with essential ba
 This year, we are sending in four teams—Senior and Junior teams for both boys and girls—to represent our school in the National School Games. These experiences provide our players with valuable opportunities to apply their skills, challenge themselves, and grow in confidence as they compete at the national level.
 
 ##### **Teachers-in-Charge**
-* Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg) (Tue)
-* Mr Ghanaprakasam s/o Subramaniam (2 I/C) (ghanaprakasam_subramanian@schools.gov.sg) (Fri)
-* Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg) (Tue)
-* Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg) (Fri)
-* Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg) (Tue)
-* Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg) (Tue)
-* Miss Guan Qinqin (guan_qin_qin@schools.gov.sg) (Fri)
+* Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg)
+* Mr Ghanaprakasam s/o Subramaniam (2 I/C) (ghanaprakasam_subramanian@schools.gov.sg)
+* Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
+* Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg)
+* Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg)
+* Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg)
+* Miss Guan Qinqin (guan_qin_qin@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 1
