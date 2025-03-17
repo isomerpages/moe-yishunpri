@@ -5,11 +5,16 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-Yishun Primary Scouts CCA provides a platform for self-development and self-discovery for our scouts. We aim to create a closely–knit group environment, which is engaging and developing Scouts holistically. We provide opportunities through games and activities for Scouts to develop their character and leadership skills. Our Scouts participate in community services, camps and competitions to interact and bond with Scouts from different schools.
+Yishun Primary Scouts CCA offers a vibrant platform for self-development and self-discovery, where Scouts grow in a closely-knit and engaging environment. Through exciting games and meaningful activities, our Scouts build character, develop leadership skills, and form lasting bonds.
 
-There is a progress and proficiency badge system for all three levels (Bronze, Silver and Gold Arrow) of Scouting to prepare them to take on the challenge of attaining the highest award of Scouting – the Akela Award. Our comprehensive scouting programmes have attributed the attainment of the Frank Cooper Sands Gold Award for the last 18 years consecutively and Honours Penant back in 2009.
+Our Scouts take part in community service projects, camps, and competitions, providing opportunities to connect with peers from other schools and broaden their experiences. To support their growth, we follow a structured progress and proficiency badge system across three levels — Bronze, Silver, and Gold Arrow — preparing Scouts to strive for the prestigious Chief Scout’s Award (Cub) formerly known as Akela Award.
 
-With such exposure, we hope to develop our scouts into motivated, independent and adaptable individuals who are able to maintain gracious relationships with others and be a contributing member of society.
+We take pride in our Scouts’ achievements, having earned the Frank Cooper Sands Gold Award for an impressive 18 consecutive years, along with the Honours Pennant in 2009.
+
+Through these rich experiences, we aim to nurture motivated, independent, and adaptable individuals who build gracious relationships and contribute positively to society.
+
+Join us on this exciting journey of adventure, learning, and growth!
+
 
 ##### **Teachers-in-Charge**
 * Mr Masri Bin Kario (I/C) (masri_kario@schools.gov.sg)
@@ -25,9 +30,10 @@ With such exposure, we hope to develop our scouts into motivated, independent an
 * Tuesdays, 1.40pm - 3.40pm
 
 ##### **Achievements**
-* Akela Award Recipient 2023
-* Akela Award Recipient 2022
-* Frank Cooper Sands Gold Award since 2002 consecutively
+* **Akela Award Recipient 2024** - 6 Awardees
+* **Akela Award Recipient 2023** - 11 Awardees
+* **Akela Award Recipient 2022** - 9 Awardees
+* Frank Cooper Sands Gold Award since 2002 - 2023
 
 ##### **Photo Gallery**
 
