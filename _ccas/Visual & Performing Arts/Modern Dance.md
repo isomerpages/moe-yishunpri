@@ -11,15 +11,15 @@ We hope that talented and interested young dancers can join us in our dance jour
 ##### **Teachers-in-Charge**
 * Mrs Liza Ng (I/C) (fong_pui_shan@schools.gov.sg)
 * Mdm Dewi Kartika Bte Sudirman (2 I/C) (dewi_kartika_sudirman@schools.gov.sg)
-* Ms Nirmala (nirmala_arumugam@schools.gov.sg)
+* Ms Nirmala d/o Arumugam (nirmala_arumugam@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 2 (Dance Studio)
 * Indoor Sports Hall Level 2 (Fitness Room)
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
