@@ -24,7 +24,7 @@ Through meaningful art-making processes, students develop their character and gr
 * Classrooms H2-06, H2-07
 
 ##### **Day and Time**
-* Tuesdays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **Singapore Youth Festival Exhibition 2021**
