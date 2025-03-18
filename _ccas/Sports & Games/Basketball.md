@@ -22,8 +22,8 @@ This year, we are sending in four teams—Senior and Junior teams for both boys 
 * Indoor Sports Hall Level 1
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **National School Games North Zone Senior Boy Division Basketball Championship 2022**<br>5th - 8th Placing
