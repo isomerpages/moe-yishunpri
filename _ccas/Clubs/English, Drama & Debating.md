@@ -21,7 +21,7 @@ Come be a part of a vibrant community where creativity meets confidence!
 
 
 ##### **Teachers-in-Charge**  
-* Mdm June Low (I/C)&nbsp;(june_low_mun_ling@schools.gov.sg)
+* Mdm June Low (I/C) (june_low_mun_ling@schools.gov.sg)
 * Mdm Cheong Hui Ting Debbie (2 I/C) (cheong_hui_ting_debbie@schools.gov.sg)
 * Mdm Anita Kaur (anita_kaur@schools.gov.sg)
 
@@ -29,7 +29,7 @@ Come be a part of a vibrant community where creativity meets confidence!
 * Classroom C3-01 &amp; C3-03
 
 ##### **Time and Day**
-* Fridays, 1.40pm - 3.40pm
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Photo Gallery**
 
