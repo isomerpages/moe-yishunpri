@@ -10,13 +10,13 @@ Chess is a fun, creative and challenging strategic board game for all ages. As a
 ##### **Teachers-in-Charge**
 * Mr Toh Wai Woon Keith (I/C) (toh_wai_woon@schools.gov.sg)
 * Miss Joan Kam See Mun (2 I/C) (joan_kam_see_mun@schools.gov.sg)
-* Mdm Yap Gek Jie (Yap_Gek_Jie@schools.gov.sg)
+* Mdm Yap Gek Jie (yap_gek_jie@schools.gov.sg)
 
 ##### **Venue**
 * Classrooms C3-04
 
 ##### **Time and Day**
-* Fridays, 1.40pm - 3.40pm
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Photo Gallery**
 
