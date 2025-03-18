@@ -14,16 +14,16 @@ Beyond the game, our Football CCA instills the core values of excellence, respec
 * Mr Bahar Ali Bin Sakor (2 I/C) (bahar_ali_sakor@schools.gov.sg)
 * Mr V Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * Mr Sheikh Omar (sheikh_omar_mohamad@schools.gov.sg)
-* Miss Serena Goh Yi Ting (Serena_goh_yi_ting@schools.gov.sg)
-* Miss Syahira Adila Binte Fazali (Syahira_Adila_Fazali@schools.gov.sg)
+* Miss Serena Goh Yi Ting (serena_goh_yi_ting@schools.gov.sg)
+* Miss Syahira Adila Binte Fazali (syahira_adila_fazali@schools.gov.sg)
 
 ##### **Venue**
 * School Field
 * Indoor Sports Hall Level 6
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **National School Games Senior Boys 2025** - Top 8 in League 2
