@@ -19,8 +19,8 @@ At Yishun Primary School ICT Club, we aim to develop future ready learners throu
 * Computer Rooms 1, 2 &amp; 3
 
 ##### **Time and Day**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **Swift Explorers Singapore (SES) 2022**
