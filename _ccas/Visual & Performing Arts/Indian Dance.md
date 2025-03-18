@@ -19,8 +19,8 @@ Our dancers have performed in various external events such as, the International
 * Music Room 2
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
