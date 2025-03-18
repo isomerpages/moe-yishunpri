@@ -17,8 +17,8 @@ Our dancers are given opportunities to perform at various platforms such as scho
 * Indoor Sports Hall Level 5 (Teaching Lab)
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Distinction
