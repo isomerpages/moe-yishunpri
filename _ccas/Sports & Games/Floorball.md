@@ -15,8 +15,8 @@ Yishun Primary Schoolâ€™s Floorball CCA is dedicated to developing our playersâ€
 * School Hall
 
 ##### **Time and Days**
-* Tuesdays, 1.40pm - 3.40pm
-* Fridays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Photo Gallery**
 
