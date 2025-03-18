@@ -9,7 +9,7 @@ Environmental Science empowers students to become environmental champions, foste
 
 ##### **Teachers-in-Charge**
 * Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
-* Mdm Nur Hamizah Bte Rosidin (2 I/C) (nur_Hamizah_Rosidin@schools.gov.sg)
+* Mdm Nur Hamizah Bte Rosidin (2 I/C) (nur_hamizah_Rosidin@schools.gov.sg)
 * Ms Wang Yi Ru (wang_yi_ru@schools.gov.sg)
 
 ##### **Venue**
