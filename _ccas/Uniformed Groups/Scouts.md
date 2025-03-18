@@ -27,7 +27,7 @@ Join us on this exciting journey of adventure, learning, and growth!
 * Indoor Sports Hall Level 4 (Flexi Room 2 &amp; 3)
 
 ##### **Time and Day**
-* Tuesdays, 1.40pm - 3.40pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **Akela Award Recipient 2024** - 6 Awardees
