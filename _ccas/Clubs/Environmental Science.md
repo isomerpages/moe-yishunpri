@@ -9,7 +9,7 @@ Environmental Science empowers students to become environmental champions, foste
 
 ##### **Teachers-in-Charge**
 * Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
-* Mdm Nur Hamizah Bte Rosidin (2 I/C) (nur_hamizah_Rosidin@schools.gov.sg)
+* Mdm Nur Hamizah Bte Rosidin (2 I/C) (nur_hamizah_rosidin@schools.gov.sg)
 * Ms Wang Yi Ru (wang_yi_ru@schools.gov.sg)
 
 ##### **Venue**
@@ -20,10 +20,6 @@ Environmental Science empowers students to become environmental champions, foste
 
 ##### **Achievements**
 * **2021 National Youth Upcycling Movement (NYUM)** - Certificate of Accomplishment
-* **2019 Elementz Science Project Competition and Exhibition** - Silver, Certificate of Commendation
-* **2019 National Youth Upcycling Movement (NYUM)** - Gold and Silver Awards
-* **2018 Elementz Science Project Competition and Exhibition** - Silver, Certificate of Commendation
-* **2018 National Youth Upcycling Movement (NYUM)** – 3 Silver Awards
 
 ##### **Photo Gallery**
 
