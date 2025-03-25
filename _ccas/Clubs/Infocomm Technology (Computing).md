@@ -9,7 +9,7 @@ At Yishun Primary School ICT Club, we aim to develop future ready learners throu
 
 ##### **Teachers-in-Charge**
 * Mr Anthony Tay Poh Hua (I/C) (anthony_tay_poh_hua@schools.gov.sg)
-* Tan Guan Sheng Bronson (2 I/C) (tan_guan_sheng@schools.gov.sg)
+* Mr Tan Guan Sheng Bronson (2 I/C) (tan_guan_sheng@schools.gov.sg)
 * Mdm Siti Karmila Binte Abu (siti_karmila_abu@schools.gov.sg)
 * Mdm Sivakami d/o Ratha (sivakami_ratha@schools.gov.sg)
 * Mr Vasanthavelan (thandavamurthy_vasanthavelan@schools.gov.sg)
