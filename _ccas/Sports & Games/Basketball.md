@@ -27,9 +27,6 @@ This year, we are sending in four teams—Senior and Junior teams for both boys 
 
 ##### **Achievements**
 * **National School Games North Zone Senior Boy Division Basketball Championship 2022**<br>5th - 8th Placing
-*  **National School Games Basketball 2019 (Junior Division)**
-<br>Tier 3 Team 1st
-* **Invitational 4v4 Basketball Tournament 2019**<br>Champions (Junior Boys), 1st Runner Up (Senior Boys)
 
 ##### **Photo Gallery**
 
