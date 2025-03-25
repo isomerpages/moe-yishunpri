@@ -23,7 +23,6 @@ Our dancers are given opportunities to perform at various platforms such as scho
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Distinction
 * **2022 SYF Arts Presentation**
-* **2018 SYF Arts Presentation** - Certificate of Accomplishment
 
 ##### **Photo Gallery**
 
