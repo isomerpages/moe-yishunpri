@@ -15,11 +15,6 @@ CCAs offer diverse and authentic opportunities for students to develop
 into caring, confident learners and leaders of character. Through these
 experiences, students cultivate values, good character, social-emotional
 competencies, and citizenship dispositions, reinforcing their overall development.</p>
-<p>CCAs enable students to discover their interests and talents while fostering
-friendships and social interactions among peers from diverse backgrounds.
-Whether volunteering in the community, supporting school events, competing
-in sports, or performing on stage, students engage in meaningful activities
-that deepen their learning and build essential life skills.</p>
 <p>Every student from Primary 3 to Primary 6 is strongly encouraged to participate
 in a CCA and benefit from it. To facilitate informed choices, our school
 organises CCA Experience sessions for Primary 3 students. During these
@@ -73,10 +68,6 @@ students for the future.</p>
 <p>A spirit of service to the community</p>
 </li>
 </ul>
-<p>At Yishun Primary School, we believe that a well-organized and implemented
-CCA programme can spark a lifelong love for a particular pursuit—be it
-in sports, the arts, or service to others—helping individuals lead a balanced
-and fulfilling life beyond their school years.</p>
 <p>Click on the links below to learn more about our CCAs!</p>
 <h4><strong>Clubs &amp; Societies</strong></h4>
 <ul data-tight="true" class="tight">
