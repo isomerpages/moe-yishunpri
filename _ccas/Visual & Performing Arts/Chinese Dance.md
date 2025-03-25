@@ -23,9 +23,6 @@ Our dancers have performed in various external events such as, Singapore Youth F
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
 * **2022 SYF Arts Presentation**
-* **2018 SYF Arts Presentation** - Certificate of Accomplishment
-* **2016 SYF Arts Presentation** - Certificate of Accomplishment
-* **2014 SYF Arts Presentation** - Certificate of Distinction
 
 ##### **Photo Gallery**
 
