@@ -31,13 +31,3 @@ The band actively participates in prestigious music events, such as the Singapor
 ##### **Photo Gallery**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJL7GWCp6Zap1eCDFmhdhhwLKNbafxdqY77JJCxSW7pY4DcxjLqIiZmgLjEkjxZ8Gt-E953AFN4XC7/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="860" height="455" allowfullscreen="true"></iframe>
-
-##### **2024 Activities**
-On 11 April 2024, the Yishun Primary School Concert Band participated in the Singapore Youth Festival (SYF) Arts Presentation. They performed the set piece, The Melting Pot, and their choice piece, Rising Above – A New Hope by Satoshi Yagisawa, a special commissioned piece for Yishun Primary School.
-
-Our band members delivered an outstanding performance that captivated the audience and received high praise from the judges. Their dedication and hard work were rewarded with a Certificate of Distinction. We are incredibly proud of their achievement! 
-
-##### **2023 Activities**
-Yishun Primary Concert Band participated in a Combined Concert named ‘La Famille De Musique II’ with Yuying Secondary School and Pasir Ris Secondary School on 1 Dec 2023. This concert provided a platform for the three school bands to explore and expand their creativity through putting up a varied repertoire of musical pieces.
-
-Our Band was honored to be invited to perform at the Sree Narayana Charity Dinner on the eve of National Day. This opportunity allowed our members to showcase their musical talents while contributing to a meaningful cause. Performing at such events helps our students gain confidence, build stage experience, and develop a sense of community involvement.
