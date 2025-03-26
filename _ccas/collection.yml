@@ -2,12 +2,14 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs/English, Drama & Debating.md
       - Clubs/.keep
       - Clubs/Environmental Science.md
       - Clubs/Infocomm Technology (Computing).md
       - Clubs/International Chess.md
       - Sports & Games/.keep
       - Sports & Games/Basketball.md
+      - Sports & Games/Floorball.md
       - Sports & Games/Football.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Scouts.md
@@ -15,7 +17,6 @@ collections:
       - Visual & Performing Arts/Art & Crafts.md
       - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/Concert Band.md
-      - Visual & Performing Arts/English, Drama & Debating.md
       - Visual & Performing Arts/Indian Dance.md
       - Visual & Performing Arts/Malay Dance.md
       - Visual & Performing Arts/Modern Dance.md

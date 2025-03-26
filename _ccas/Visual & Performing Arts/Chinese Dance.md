@@ -5,29 +5,24 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-Yishun Primary Chinese Dance aims to instil a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The students will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
+Yishun Primary Chinese Dance aims to instill a passion for Chinese Dance whilst building self-esteem and confidence in every dancer. The students will learn the fundamental skills of Chinese Dance and develop grace, flexibility and co-ordination. We also provide opportunities to perform in school events and competitions.
 
 Our dancers have performed in various external events such as, Singapore Youth Festival Arts Presentation, Chong Pang CC National Day Dinner.
 
 ##### **Teachers-in-Charge**
 * Mdm Lee Kim Kim (I/C) (lee_kim_kim@schools.gov.sg)
 * Ms Han Ying (2 I/C) (han_ying_a@ schools.gov.sg)
-* External Instructor
 
 ##### **Venue**
-* School Hall
 * Music Room 1
 
 ##### **Time and Days**
-* Tuesday, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
 * **2022 SYF Arts Presentation**
-* **2018 SYF Arts Presentation** - Certificate of Accomplishment
-* **2016 SYF Arts Presentation** - Certificate of Accomplishment
-* **2014 SYF Arts Presentation** - Certificate of Distinction
 
 ##### **Photo Gallery**
 

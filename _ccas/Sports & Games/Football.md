@@ -1,31 +1,38 @@
 ---
 title: Football
-permalink: /ccas/Sports-and-Games/football/
+permalink: /ccas/sports-and-games/football/
 description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-Yishun Primary School’s Football CCA aims to develop discipline and work ethics in our players, enhancing their physical skills and mental health. Through the sport, our players also learn about sportsmanship and working together as a team.
+At Yishun Primary School, our Football Co-Curricular Activity (CCA) aims to equip our members with essential football skills while fostering a deep sense of sportsmanship. Through structured training sessions and active participation in competitions, our players develop technical proficiency, tactical awareness, and resilience.
+
+Beyond the game, our Football CCA instills the core values of excellence, respect, and friendship. Players learn the importance of discipline, commitment, and perseverance as they strive for excellence in both training and matches. They are encouraged to show respect—not only towards their teammates and coaches but also towards their opponents and officials. Through shared experiences on and off the field, strong friendships are forged, creating a supportive and inclusive team environment.
 
 ##### **Teachers-in-Charge**
 * Mdm Isnarti Bte Ahmad Sani (I/C) (isnarti_ahmad_sani@schools.gov.sg)
-* Mr Bahar Ali Bin Sakor (2I/C) (bahar_ali_sakor@schools.gov.sg)
-* Mr Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
+* Mr Bahar Ali Bin Sakor (2 I/C) (bahar_ali_sakor@schools.gov.sg)
+* Mr V Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * Mr Sheikh Omar (sheikh_omar_mohamad@schools.gov.sg)
-* Mr Li Dahao, Daniel (daniel_li_da_hao@schools.gov.sg)
-* Mr Lee Jiun Wei (lee_jiun_wei@schools.gov.sg)
-* External Coach 1
-* External Coach 2
+* Miss Serena Goh Yi Ting (serena_goh_yi_ting@schools.gov.sg)
+* Miss Syahira Adila Binte Fazali (syahira_adila_fazali@schools.gov.sg)
 
 ##### **Venue**
 * School Field
+* Indoor Sports Hall Level 6
 
 ##### **Time and Days**
-* Tuesdays, 2.00pm - 4.00pm
-* Fridays, 2.00pm - 4.00pm
+* Tuesdays, 1.40 p.m. - 3.40 p.m.
+* Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
-* **National School Games 2024** - Top 4 in League 2
+* **National School Games Senior Boys 2025** - Top 8 in League 2
+* **National School Games Senior Boys 2024** - 4th place in League 2
+* **National School Games Junior Boys 2024** - 2nd place in Tier 2
+* **Yishun Secondary School Invitational Football Carnival 2024** - 4th place
+* **Woodlands Secondary Football Fiesta 2024** - 2nd place
+* **National School Games Junior Boys 2023** - 1st place in Tier 3
+* **Yishun Secondary School Invitational Football Carnival 2023** - 1st Place
 
 ##### **Photo Gallery**
 

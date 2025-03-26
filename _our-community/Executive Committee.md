@@ -367,7 +367,7 @@ variant: tiptap
 <br>(Primary 5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nirmala Arumugam
+<p>Ms Nirmala d/o Arumugam
 <br><a href="mailto:nirmala_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_arumugam@schools.gov.sg</a>
 </p>
 </td>
