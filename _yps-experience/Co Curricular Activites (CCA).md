@@ -91,11 +91,15 @@ students for the future.</p>
 <h4><strong>Sports &amp; Games</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/ccas/Sports-and-Games/basketball" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
+<p><a href="/ccas/sports-and-games/basketball" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
 </p>
 </li>
 <li>
-<p><a href="/ccas/Sports-and-Games/football" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><a href="/ccas/sports-and-games/floorball/" rel="noopener nofollow" target="_blank">Floorball</a>
+</p>
+</li>
+<li>
+<p><a href="/ccas/sports-and-games/football" rel="noopener noreferrer nofollow" target="_blank">Football</a>
 </p>
 </li>
 </ul>
