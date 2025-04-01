@@ -57,7 +57,7 @@ in four key areas—Safety, Learning, Environment, and Activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Open House Student Ambassadors (SA) Program</strong>
+<p><strong>Open House Student Ambassadors (SA) Programme</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
