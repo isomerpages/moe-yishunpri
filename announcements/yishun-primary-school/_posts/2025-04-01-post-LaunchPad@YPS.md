@@ -107,9 +107,9 @@ recess in Music Room 2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. Expand students’ geographical and cultural knowledge by learning about
-other countries, their culture, sporting achievements, and aquatic athletes.</p>
-<p>2. Provide an opportunity for students to interact with elite athletes
-from other countries through a virtual meet-and-greet session.</p>
+other countries and aquatic athletes.</p>
+<p>2. Provide opportunities for pupils to interact with elite athletes from
+other countries through a virtual meet-and-greet session.</p>
 <p>3. Offer first-hand experience in an international aquatic sporting event
 by cheering for athletes from various countries.</p>
 </td>
@@ -123,7 +123,7 @@ in teams to research a group of athletes from various countries.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Anti-Scam Awareness and ScamShield App </strong>
+<p><strong>Anti-Scam Awareness and ScamShield App</strong>
 </p>
 <p><strong>(SG60 CyberGuides)</strong>
 </p>
