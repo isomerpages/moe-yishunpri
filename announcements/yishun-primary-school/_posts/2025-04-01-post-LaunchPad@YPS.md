@@ -37,20 +37,41 @@ your learning:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Bookworm's Breakfast</strong>
+<p><strong>Our Yishun Voices – Students’ Suggestion Platform</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1-P6 students</p>
+<p>P3-P6 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To build confidence in public speaking and provide a platform for presenters
-to contribute to a good reading culture in school.</p>
+<p>1. Develop a sense of belonging to the school community.</p>
+<p>2. Motivate students to make a positive difference.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected students will present books during Bookworm's Breakfast sessions
-to promote the love for reading. The sessions will be held from 7.20am
-to 7.25am every Friday morning.</p>
+<p>This platform encourages students to share ideas for school improvement
+in four key areas—Safety, Learning, Environment, and Activities.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil (Ongoing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Open House Student Ambassadors (SA) Program</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-P6 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Develop leadership and communication skills.</p>
+<p>2. Represent Yishun Primary School with pride and confidence.</p>
+<p>3. Assist guests and showcase the school’s strengths.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected students will serve as Student Ambassadors during Yishun Primary
+Open House 2025, confidently representing Yishun Primary, assisting guests,
+and showcasing the school’s strengths.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil (Ongoing)</p>
@@ -65,59 +86,63 @@ to 7.25am every Friday morning.</p>
 <p>P1-P6 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) To promote and develop passion and talent in Art/Music.</p>
-<p>2) To develop confidence and self-directedness in students.</p>
-<p>3) To inculcate an appreciation for the Arts</p>
+<p>1. To provide opportunities for pupils to showcase their talent</p>
+<p>2.To develop confidence and self-directedness in pupils</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students with interest or talent in art and music are invited to showcase
-their talents during recess.</p>
+<p>Live performances will be held on selected Thursdays / Fridays during
+recess in Music Room 2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nil (Ongoing)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Feelings Farm (Theatre Play)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3-P6 Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1) To identify different feelings.</p>
-<p>2) To discover ways to regulate our emotions through compassion and patience.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will explore emotions through music, movement, and multimedia.
-They will also be able to understand and express feelings with compassion.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27th September 2024</p>
+<p>30th May 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Learn to Play Programme (Sport School)</strong>
+<p><strong>Adopt-A-Country by World Aquatics Championships</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5-P6</p>
+<p>P4-P6 Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1)Acquire basic and adapted shooting techniques</p>
-<p>2)Encourage students to take up shooting as a sport and pursue it further</p>
+<p>1. Expand students’ geographical and cultural knowledge by learning about
+other countries, their culture, sporting achievements, and aquatic athletes.</p>
+<p>2. Provide an opportunity for students to interact with elite athletes
+from other countries through a virtual meet-and-greet session.</p>
+<p>3. Offer first-hand experience in an international aquatic sporting event
+by cheering for athletes from various countries.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Sports School is offering Singaporean students a comprehensive
-Learn-To-Shoot (LTS) program, with the goal of inviting them to join the
-Academy in Secondary 1 for further development. Students will learn acquire
-basic and adapted shooting techniques in 6 sessions, with priority given
-to P5 and P6 students.</p>
+<p>Students will expand their geographical and cultural knowledge by collaborating
+in teams to research a group of athletes from various countries.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nil (Ongoing)</p>
+<p>9th April 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Anti-Scam Awareness and ScamShield App </strong>
+</p>
+<p><strong>(SG60 CyberGuides)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Equip students with the skills to educate seniors about scams and the
+ScamShield App.</p>
+<p>2. Develop future-ready and responsible digital citizens.</p>
+<p>3. Build students' confidence in communicating across different age groups.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will be equipped with digital skills to educate seniors about
+scams and the ScamShield App.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11th April 2025</p>
 </td>
 </tr>
 </tbody>
