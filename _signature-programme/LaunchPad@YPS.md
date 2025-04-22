@@ -2,6 +2,7 @@
 title: LaunchPad@YPS
 permalink: /signature-programme/elaunchpad/
 description: ""
+variant: markdown
 ---
 ![](/images/Experience/Signature%20Programme/launchpad_01_v1.jpg)
 
@@ -9,11 +10,27 @@ At LaunchPad@YPS, we believe in cultivating self-directed learning and ownership
 
 <img src="/images/Experience/Signature%20Programme/launchpad_02_v1.jpg" style="width:440px;height:344px; float: right">By allowing them the freedom to choose the programmes they wish to participate in, we are empowering them to take control of their own learning journey. This helps our students to develop greater self-awareness, as they identify their passions and strengths, and build self-confidence as they take charge of their learning. They also develop self-reflection skills as they evaluate their learning and progress, which in turn leads to continuous self-improvement.
 
-The range of activities offered at LaunchPad@YPS cuts across the cognitive, aesthetic, moral, physical, social and leadership (CAMPSL) student outcomes.
+The range of activities offered at LaunchPad@YPS cuts across the cognitive, aesthetic, moral, physical, social student outcomes.
 
-![](/images/Experience/Signature%20Programme/launchpad_03_v1.jpg)
+### **National Calligraphy Competition 2025**
+The National Calligraphy Competition organised yearly by Hong Wen School is an experience designed to cultivate an appreciation for Chinese culture through the timeless art of calligraphy. This competition aims to promote the beauty and precision of Chinese calligraphy while celebrating the rich traditions and festive seasons that shape Chinese heritage.
 
-![](/images/Experience/Signature%20Programme/launchpad_04_v1.jpg)
+![](/images/Experience/Signature%20Programme/launchpad_06_v1.jpg)
+
+### **Chingay NE 2025**
+Chingay NE 2025 is an enriching programme designed to deepen students' understanding and appreciation of Singapore’s diverse and vibrant heritage. Through immersive experiences, engaging activities, and exposure to a range of cultural performances, this programme aims to foster a deeper connection to the nation's rich history and traditions, while celebrating the artistic expressions that have shaped Singapore’s identity.
+
+![](/images/Experience/Signature%20Programme/launchpad_07_v1.jpg)
+
+![](/images/Experience/Signature%20Programme/launchpad_08_v1.png)
+
+### **The Secret of the Lost Pages**
+Step into a world where stories come alive, and every page holds a mystery waiting to be uncovered! The Secret of the Lost Pages is an interactive digital literacy program designed to spark a lifelong love for reading through immersive storytelling experiences. Using innovative ICT tools, students will sharpen their comprehension and critical thinking skills by analyzing plot developments, uncovering deeper meanings, and solving story-based challenges.
+
+![](/images/Experience/Signature%20Programme/launchpad_09_v1.jpg)
+
+### **Learning Journey to LKY Musical**
+Students with a deep appreciation for the Arts embarked on a meaningful learning journey to the LKY Musical, where they explored the remarkable legacy of Mr Lee Kuan Yew and his pivotal role in leading Singapore to independence.
 
 ![](/images/Experience/Signature%20Programme/launchpad_05_v1.jpg)
 
