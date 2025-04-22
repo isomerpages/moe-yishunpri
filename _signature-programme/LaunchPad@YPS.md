@@ -13,13 +13,11 @@ At LaunchPad@YPS, we believe in cultivating self-directed learning and ownership
 The range of activities offered at LaunchPad@YPS cuts across the cognitive, aesthetic, moral, physical, social student outcomes.
 
 ### **National Calligraphy Competition 2025**
-<br>
 The National Calligraphy Competition organised yearly by Hong Wen School is an experience designed to cultivate an appreciation for Chinese culture through the timeless art of calligraphy. This competition aims to promote the beauty and precision of Chinese calligraphy while celebrating the rich traditions and festive seasons that shape Chinese heritage.
 
 ![](/images/Experience/Signature%20Programme/launchpad_06_v1.jpg)
 
 ### **Chingay NE 2025**
-<br>
 Chingay NE 2025 is an enriching programme designed to deepen students' understanding and appreciation of Singapore’s diverse and vibrant heritage. Through immersive experiences, engaging activities, and exposure to a range of cultural performances, this programme aims to foster a deeper connection to the nation's rich history and traditions, while celebrating the artistic expressions that have shaped Singapore’s identity.
 
 ![](/images/Experience/Signature%20Programme/launchpad_07_v1.jpg)
@@ -27,13 +25,11 @@ Chingay NE 2025 is an enriching programme designed to deepen students' understan
 ![](/images/Experience/Signature%20Programme/launchpad_08_v1.png)
 
 ### **The Secret of the Lost Pages**
-<br>
 Step into a world where stories come alive, and every page holds a mystery waiting to be uncovered! The Secret of the Lost Pages is an interactive digital literacy program designed to spark a lifelong love for reading through immersive storytelling experiences. Using innovative ICT tools, students will sharpen their comprehension and critical thinking skills by analyzing plot developments, uncovering deeper meanings, and solving story-based challenges.
 
 ![](/images/Experience/Signature%20Programme/launchpad_09_v1.jpg)
 
 ### **Learning Journey to LKY Musical**
-<br>
 Students with a deep appreciation for the Arts embarked on a meaningful learning journey to the LKY Musical, where they explored the remarkable legacy of Mr Lee Kuan Yew and his pivotal role in leading Singapore to independence.
 
 ![](/images/Experience/Signature%20Programme/launchpad_05_v1.jpg)
