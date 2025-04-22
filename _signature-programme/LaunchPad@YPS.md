@@ -18,7 +18,23 @@ The National Calligraphy Competition organised yearly by Hong Wen School is an e
 
 ![](/images/Experience/Signature%20Programme/launchpad_06_v1.jpg)
 
-![](/images/Experience/Signature%20Programme/launchpad_04_v1.jpg)
+**<u>Chingay NE 2025</u>**
+<br>
+Chingay NE 2025 is an enriching programme designed to deepen students' understanding and appreciation of Singapore’s diverse and vibrant heritage. Through immersive experiences, engaging activities, and exposure to a range of cultural performances, this programme aims to foster a deeper connection to the nation's rich history and traditions, while celebrating the artistic expressions that have shaped Singapore’s identity.
+
+![](/images/Experience/Signature%20Programme/launchpad_07_v1.jpg)
+
+![](/images/Experience/Signature%20Programme/launchpad_08_v1.png)
+
+**<u>The Secret of the Lost Pages</u>**
+<br>
+Step into a world where stories come alive, and every page holds a mystery waiting to be uncovered! The Secret of the Lost Pages is an interactive digital literacy program designed to spark a lifelong love for reading through immersive storytelling experiences. Using innovative ICT tools, students will sharpen their comprehension and critical thinking skills by analyzing plot developments, uncovering deeper meanings, and solving story-based challenges.
+
+![](/images/Experience/Signature%20Programme/launchpad_09_v1.jpg)
+
+**<u>Learning Journey to LKY Musical</u>**
+<br>
+Students with a deep appreciation for the Arts embarked on a meaningful learning journey to the LKY Musical, where they explored the remarkable legacy of Mr Lee Kuan Yew and his pivotal role in leading Singapore to independence.
 
 ![](/images/Experience/Signature%20Programme/launchpad_05_v1.jpg)
 
