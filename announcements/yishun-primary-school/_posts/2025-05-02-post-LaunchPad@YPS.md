@@ -120,6 +120,27 @@ by showcasing student voices in the school’s handbook.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>P5 Singapore Science Olympiad 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Promote active interest in Science</p>
+<p>2. Introduce pupils to broad science themes in the areas of Biology, Chemistry
+and Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It aims at sparking students' interest in Science and introducing them
+to key themes in Biology, Chemistry, and Physics.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20th May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Artist in Me</strong>
 </p>
 </td>
