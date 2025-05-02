@@ -79,6 +79,27 @@ and showcasing the school’s strengths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Tamil Talent Quest</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-P6 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Develop leadership and communication skills.</p>
+<p>2. Represent Yishun Primary School with pride and confidence.</p>
+<p>3. Assist guests and showcase the school’s strengths.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil Talent Quest aims to give students a platform to express their ideas
+and cultural identity while building confidence in communication and writing.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Artist in Me</strong>
 </p>
 </td>
