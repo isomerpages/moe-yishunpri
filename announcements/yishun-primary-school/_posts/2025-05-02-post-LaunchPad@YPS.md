@@ -1,7 +1,7 @@
 ---
 title: LaunchPad@YPS
 permalink: /announcements/yishun-primary-school/launchpad/
-date: 2025-04-01
+date: 2025-05-02
 layout: post
 description: ""
 image: ""
@@ -79,6 +79,68 @@ and showcasing the school’s strengths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Tamil Talent Quest</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-P6 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Develop leadership and communication skills.</p>
+<p>2. Represent Yishun Primary School with pride and confidence.</p>
+<p>3. Assist guests and showcase the school’s strengths.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil Talent Quest aims to give students a platform to express their ideas
+and cultural identity while building confidence in communication and writing.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YPS Spirit Student Handbook 2026 - Poem submission</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Showcase our shared achievements and values that unite us.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It invites Primary 5 students to contribute poems that celebrate shared
+achievements and values. The aim is to foster a sense of unity and pride
+by showcasing student voices in the school’s handbook.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6th May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P5 Singapore Science Olympiad 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Promote active interest in Science</p>
+<p>2. Introduce pupils to broad science themes in the areas of Biology, Chemistry
+and Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It aims at sparking students' interest in Science and introducing them
+to key themes in Biology, Chemistry, and Physics.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20th May 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Artist in Me</strong>
 </p>
 </td>
@@ -95,54 +157,6 @@ recess in Music Room 2.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30th May 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Adopt-A-Country by World Aquatics Championships</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4-P6 Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Expand students’ geographical and cultural knowledge by learning about
-other countries and aquatic athletes.</p>
-<p>2. Provide opportunities for pupils to interact with elite athletes from
-other countries through a virtual meet-and-greet session.</p>
-<p>3. Offer first-hand experience in an international aquatic sporting event
-by cheering for athletes from various countries.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will expand their geographical and cultural knowledge by collaborating
-in teams to research a group of athletes from various countries.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9th April 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Anti-Scam Awareness and ScamShield App</strong>
-</p>
-<p><strong>(SG60 CyberGuides)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4-P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Equip students with the skills to educate seniors about scams and the
-ScamShield App.</p>
-<p>2. Develop future-ready and responsible digital citizens.</p>
-<p>3. Build students' confidence in communicating across different age groups.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will be equipped with digital skills to educate seniors about
-scams and the ScamShield App.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11th April 2025</p>
 </td>
 </tr>
 </tbody>
