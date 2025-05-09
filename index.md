@@ -5,7 +5,7 @@ description: Do Our Best & Be The Best
 image: /images/logo.png
 permalink: /
 notification: YPS Open Houe 2025 details released! Click <a
-  href="/announcements/yishun-primary-school/yps-open-house-2025/"> here</a> for
+  href="/announcements/yishun-primary-school/yps-open-house-2025/">here</a> for
   more details.
 sections:
   - hero:
