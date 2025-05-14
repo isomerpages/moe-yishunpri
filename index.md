@@ -4,7 +4,9 @@ title: Yishun Primary School
 description: Do Our Best & Be The Best
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: YPS Open House 2025 details released! Click <a
+  href="/announcements/yishun-primary-school/yps-open-house-2025/">here</a> for
+  more details.
 sections:
   - hero:
       background: /images/Homepage/hero_banner_main_v9.gif
