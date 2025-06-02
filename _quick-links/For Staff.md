@@ -32,4 +32,4 @@ variant: markdown
 * <a href="https://www.office.com/" target="_blank">Microsoft Office 365</a> (Requires VPN &amp; MIMS login)
 * <a href="https://intranet.moe.gov.sg/Pages/Home.aspx" target="_blank">MOE Intranet</a>
 * <a href="http://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a>
-* <a href="https://ssoe2.moe.edu.sg/" target="_blank">SSOE2 Portal</a>
+* <a href="https://go.gov.sg/yps-ssoe2-portal" target="_blank">SSOE2 Portal</a>
