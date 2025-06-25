@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Teck Wei Victor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teck_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rosalind Koh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +100,7 @@ variant: tiptap
 <p>Mdm Tan Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lay_peng_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_peng_b@schools.gov.sg</a>
@@ -97,14 +109,103 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Teck Wei</p>
+<p>Ms Elle Tan Lih Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>Adjunct Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_teck_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_wei@schools.gov.sg</a>
+<p><a href="mailto:tan_lih_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lih_fen@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Leng Leng, Dawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_leng_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_leng_leng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariam Bee Bee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rabiah Makmor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Kwee Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jiew Wang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Atikah Binte Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hayati Binti Mohd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Heng Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -126,10 +227,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zahirah Binte Zulkefli</p>
+<p>Mdm Siti Juliana Binte Mahmud</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
+<p>Receptionist</p>
 </td>
 </tr>
 <tr>
@@ -154,62 +255,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Atikah Binte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mariam Bee Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rabiah Makmor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Kwee Fong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Jiew Wang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Heng Chye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Hayati Binti Mohd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
 </td>
 </tr>
 </tbody>
