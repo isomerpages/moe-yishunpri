@@ -121,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Teck Wei</p>
+<p>Mr Tan Teck Wei Victor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
