@@ -88,7 +88,7 @@ variant: tiptap
 <p>Mdm Tan Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lay_peng_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_peng_b@schools.gov.sg</a>
@@ -97,10 +97,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Elle Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lih_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lih_fen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Teck Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_teck_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_wei@schools.gov.sg</a>
