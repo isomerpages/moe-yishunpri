@@ -61,6 +61,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Teck Wei Victor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_teck_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rosalind Koh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,18 +128,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_leng_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_leng_leng_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Teck Wei Victor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_teck_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
