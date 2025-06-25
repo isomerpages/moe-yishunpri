@@ -112,7 +112,7 @@ variant: tiptap
 <p>Ms Elle Tan Lih Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>Adjunct Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lih_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lih_fen@schools.gov.sg</a>
@@ -129,17 +129,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_leng_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_leng_leng_a@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Atikah Binte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -188,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Heng Chye</p>
+<p>Mdm Atikah Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -200,6 +189,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Hayati Binti Mohd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Heng Chye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -224,6 +224,14 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Juliana Binte Mahmud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
