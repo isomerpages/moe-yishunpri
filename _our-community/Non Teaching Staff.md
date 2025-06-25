@@ -97,13 +97,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elle Tan</p>
+<p>Ms Elle Tan Lih Fen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lih_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lih_fen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Leng Leng, Dawn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_leng_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_leng_leng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
