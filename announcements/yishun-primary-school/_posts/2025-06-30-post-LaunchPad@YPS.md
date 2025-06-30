@@ -136,6 +136,76 @@ will get to propagate and cultivate Nepenthes plants.</p>
 <p>4th-17th July 2025</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Anti-Scam Awareness and ScamShield App (SG60 Cyberguides)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4-P5 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. To equip students with the skills to educate seniors about scams and
+the ScamShield App.</p>
+<p>2. To develop future-ready and responsible digital citizens.</p>
+<p>3. To build students' confidence in communicating across different age
+groups.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It aims to empower students with the knowledge and skills to educate seniors
+about common scams and how to use the ScamShield App. Through this initiative,
+students grow into future-ready, responsible digital citizens while building
+confidence in communicating effectively across generations.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10th-17th July 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Chinese Cultural Calligraphy Enterprise (SCCCE) Art Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P6 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. To connect like-minded artists from Singapore and the region to support
+the 15th SCCCE Art Festival and Enterprise Forum</p>
+<p>2. To contribute one's creativity flair either via Visual Arts, Painting
+or Chinese Calligraphy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The SCCCE Art Competition is a platform that brings together like-minded
+artists from Singapore and beyond to celebrate. Students are invited to
+showcase their creative talents through Chinese calligraphy, fostering
+cultural exchange and artistic collaboration.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16th July 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KAO International Environment Painting Contest</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1-P6 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. To think about the enviroment and the future of the planet and express
+them as paintings</p>
+<p>2. To inspire people to take actions towards sustainable lifestyles</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It encourages children to reflect on environmental issues and envision
+a better future for the planet through creative expression.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31st July 2025</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
