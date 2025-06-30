@@ -57,90 +57,6 @@ in four key areas—Safety, Learning, Environment, and Activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Open House Student Ambassadors (SA) Programme</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4-P6 Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Develop leadership and communication skills.</p>
-<p>2. Represent Yishun Primary School with pride and confidence.</p>
-<p>3. Assist guests and showcase the school’s strengths.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected students will serve as Student Ambassadors during Yishun Primary
-Open House 2025, confidently representing Yishun Primary, assisting guests,
-and showcasing the school’s strengths.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil (Ongoing)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tamil Talent Quest</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4-P6 Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Develop leadership and communication skills.</p>
-<p>2. Represent Yishun Primary School with pride and confidence.</p>
-<p>3. Assist guests and showcase the school’s strengths.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tamil Talent Quest aims to give students a platform to express their ideas
-and cultural identity while building confidence in communication and writing.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd May 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YPS Spirit Student Handbook 2026 - Poem submission</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Showcase our shared achievements and values that unite us.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>It invites Primary 5 students to contribute poems that celebrate shared
-achievements and values. The aim is to foster a sense of unity and pride
-by showcasing student voices in the school’s handbook.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6th May 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P5 Singapore Science Olympiad 2025</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Promote active interest in Science</p>
-<p>2. Introduce pupils to broad science themes in the areas of Biology, Chemistry
-and Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>It aims at sparking students' interest in Science and introducing them
-to key themes in Biology, Chemistry, and Physics.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20th May 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Artist in Me</strong>
 </p>
 </td>
@@ -148,15 +64,76 @@ to key themes in Biology, Chemistry, and Physics.</p>
 <p>P1-P6 students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. To provide opportunities for pupils to showcase their talent</p>
-<p>2.To develop confidence and self-directedness in pupils</p>
+<p>1. To promote and develop passion and talent in Art/Music.</p>
+<p>2. To develop confidence and self-directedness in students.</p>
+<p>3. To inculcate an appreciation for the Arts.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Live performances will be held on selected Thursdays / Fridays during
-recess in Music Room 2.</p>
+<p>Live performances will be held on selected Thursdays/Fridays during recess
+in Music Room 2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30th May 2025</p>
+<p>Nil (Ongoing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Conversational Malay Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Non-Malay to learn about conversational Malay programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This Programme provides learners with an elementary understanding of a
+third language: Mandarin-speaking students will learn Malay.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil (Ongoing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Conversational Chinese Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For Non-Chinese to learn about conversational Chinese programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This Programme provides learners with an elementary understanding of a
+third language: Malay-speaking students will learn Chinese.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil (Ongoing)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Propagation and Cultivation of Tropical Nepenthes Plants &amp; Product-Making Workshop</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-P6 students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Label the parts of Nepenthes</p>
+<p>2. Describe the usage of Nepenthes</p>
+<p>3. List at least three carnivorous plants</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will learn about the parts and uses of nepenthes plants from
+the 2 online SLS modules. During the 2 face-to-face sessions, students
+will get to propagate and cultivate Nepenthes plants.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th-17th July 2025</p>
 </td>
 </tr>
 </tbody>
