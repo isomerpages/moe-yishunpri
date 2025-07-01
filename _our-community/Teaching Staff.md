@@ -681,7 +681,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Betty Chia Lee Lee
-<br>(SEN Officer)</p>
+<br>(Senior SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_lee_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_lee_lee@schools.gov.sg</a>
@@ -691,7 +691,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Alissa Goh Yoke En
-<br>(SEN Officer)</p>
+<br>(Senior SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_yoke_en_alissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yoke_en_alissa@schools.gov.sg</a>
