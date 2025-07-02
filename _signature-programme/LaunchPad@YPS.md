@@ -46,8 +46,6 @@ In this engaging and hands-on module, students will explore the fascinating worl
 
 ![](/images/Experience/Signature%20Programme/launchpad_11_v1.jpg)
 
-![](/images/Experience/Signature%20Programme/launchpad_12_v1.jpg)
-
 This creative and inspiring poetry workshop invites students to explore the expressive power of words. Students will begin by learning the key characteristics and writing techniques of poetry, such as rhythm, metaphor and structure, to enhance the impact of their writing. Through guided activities, students will use poetry to share their thoughts and emotions, while also developing a deeper appreciation for the beauty of language and the art of poetry.
 
 ### **World Aquatics Championships – Singapore 2025 (Adopt-A-Country)**
