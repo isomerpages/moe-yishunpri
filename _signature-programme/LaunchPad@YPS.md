@@ -35,3 +35,21 @@ Students with a deep appreciation for the Arts embarked on a meaningful learning
 ![](/images/Experience/Signature%20Programme/launchpad_05_v1.jpg)
 
 By exposing our students to a diverse range of internal and external programmes, we are catering cater to different interests and learning styles. When students are passionate about their learning, they are more likely to engage deeply and persistently in their pursuits, leading to greater achievement and personal fulfillment.
+
+### **Advanced Mushroom Cultivation Programme**
+
+![](/images/Experience/Signature%20Programme/launchpad_10_v1.jpg)
+
+In this engaging and hands-on module, students will explore the fascinating world of fungi, focusing on edible mushrooms. They will begin by identifying and understanding the essential environmental conditions needed for mushroom growth, including moisture, temperature, light, and substrate. Building on this knowledge, students will investigate the life cycle and cultivation process of edible mushrooms, tracing their development from spore to harvest while examining both traditional and modern growing methods. As part of their learning, students will apply their understanding through a practical activity where they create their own mushroom logs, encouraging creativity and promoting a deeper appreciation for sustainable food production.
+
+### **Chinese Poetry Workshop**
+
+![](/images/Experience/Signature%20Programme/launchpad_11_v1.jpg)
+
+This creative and inspiring poetry workshop invites students to explore the expressive power of words. Students will begin by learning the key characteristics and writing techniques of poetry, such as rhythm, metaphor and structure, to enhance the impact of their writing. Through guided activities, students will use poetry to share their thoughts and emotions, while also developing a deeper appreciation for the beauty of language and the art of poetry.
+
+### **World Aquatics Championships – Singapore 2025 (Adopt-A-Country)**
+
+![](/images/Experience/Signature%20Programme/launchpad_13_v1.jpg)
+
+This fun and engaging programme offers students a unique opportunity to expand their geographical and cultural understanding through the world of aquatic sports. Working in teams, students will explore various countries and their sporting traditions, while learning about different cultures and the achievements of top aquatic athletes from around the world.
