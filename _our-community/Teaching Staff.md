@@ -406,11 +406,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hamizah Bte Rosidin
-<br><a href="mailto:Nur_Hamizah_Rosidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hamizah_Rosidin@schools.gov.sg</a>
+<p>Miss Phang Bi Yun</p>
+<p><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
 <br>
 <br>Miss Tan Lian Kiah
 <br><a href="mailto:tan_lian_kiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lian_kiah@schools.gov.sg</a>
+<br>
+<br>Mr Luke Chandra Mohan
+<br><a href="mailto:luke_chandra_mohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luke_chandra_mohan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -420,10 +423,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Mdm Zhu Shengjie</p>
+<p><a href="mailto:zhu_shengjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shengjie@schools.gov.sg</a>
 <br>
 <br>Mdm Goh Zi Wei
 <br><a href="mailto:goh_zi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zi_wei@schools.gov.sg</a>
+<br>
+<br>Ms Soong Jing Min
+<br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -618,8 +625,7 @@ variant: tiptap
 <br>Mr Ng Min Zhou Jonathan
 <br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
 <br>
-<br>Mdm Zhu Shengjie
-<br><a href="mailto:zhu_shengjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shengjie@schools.gov.sg</a>
+<br>
 </p>
 </td>
 </tr>
