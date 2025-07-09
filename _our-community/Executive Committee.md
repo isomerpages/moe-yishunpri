@@ -104,12 +104,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Science
-<br>(Covering)</p>
+<br>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Lee
-<br><a href="mailto:ong_boon_ching_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_boon_ching_eileen@schools.gov.sg</a>
+<p>Mdm Efizah Bte Samat
+<br><a href="mailto:efizah_samat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">efizah_samat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
