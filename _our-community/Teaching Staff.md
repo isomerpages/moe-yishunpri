@@ -158,8 +158,8 @@ variant: tiptap
 <br>Mdm Wong Pei Fen
 <br><a href="mailto:Wong_Pei_Fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Pei_Fen@schools.gov.sg</a>
 <br>
-<br>Miss Phang Bi Yun
-<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+<br>Ms Thiviya Naidu A/P Rajaram Naidu
+<br><a href="mailto:thiviya_naidu_ap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thiviya_naidu_ap@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -188,6 +188,9 @@ variant: tiptap
 <br>
 <br>Mdm Tong Mun Hwee
 <br><a href="mailto:tong_mun_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mun_hwee@schools.gov.sg</a>
+<br>
+<br>Mdm Yao Lingling
+<br><a href="mailto:yao_lingling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yao_lingling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -219,6 +222,12 @@ variant: tiptap
 <br>
 <br>Miss Syahira Adila Binte Fazali
 <br><a href="mailto:Syahira_Adila_Fazali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Syahira_Adila_Fazali@schools.gov.sg</a>
+<br>
+<br>Mr Thandavamurthy Vasanthavelan</p>
+<p><a href="mailto:thandavamurthy_vasanthavelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thandavamurthy_vasanthavelan@schools.gov.sg</a>
+<br>
+<br>Mdm Wang Lei
+<br><a href="mailto:wang_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_lei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -233,9 +242,6 @@ variant: tiptap
 <br>
 <br>Mdm Ling Li Huan Elyn
 <br><a href="mailto:ling_li_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_li_huan@schools.gov.sg</a>
-<br>
-<br>Mdm Lee Kim Kim
-<br><a href="mailto:lee_kim_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
