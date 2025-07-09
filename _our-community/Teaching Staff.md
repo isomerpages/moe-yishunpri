@@ -28,8 +28,8 @@ variant: tiptap
 <p>Mdm Bai Hanbing
 <br><a href="mailto:bai_hanbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_hanbing@schools.gov.sg</a>
 <br>
-<br>Mr Thandavamurthy Vasanthavelan
-<br><a href="mailto:thandavamurthy_vasanthavelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thandavamurthy_vasanthavelan@schools.gov.sg</a>
+<br>Mdm Cheong Hui Ting Debbie</p>
+<p><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -78,6 +78,9 @@ variant: tiptap
 <br>
 <br>Ms Wang Yi Ru
 <br><a href="mailto:Wang_Yi_Ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yi_ru@schools.gov.sg</a>
+<br>
+<br>Ms Fam Xinru Winnie</p>
+<p><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -87,11 +90,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Hui Ting Debbie
-<br><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
+<p>Mdm Maisarah Binte Zainal Abiden</p>
+<p><a href="mailto:maisarah_zainal_abiden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_zainal_abiden@schools.gov.sg</a>
 <br>
 <br>Mdm Siti Nafizah Bte Abu Bakar
 <br><a href="mailto:siti_nafizah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nafizah_abu_bakar@schools.gov.sg</a>
+<br>
+<br>Mr Cheong Chee Foong
+<br><a href="mailto:cheong_chee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_chee_foong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -402,8 +408,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maisarah Binte Zainal Abiden
-<br><a href="mailto:maisarah_zainal_abiden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_zainal_abiden@schools.gov.sg</a>
+<p>
 <br>
 <br>Mdm Goh Zi Wei
 <br><a href="mailto:goh_zi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zi_wei@schools.gov.sg</a>
@@ -638,15 +643,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:latifah_mohamed_hussain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">latifah_mohamed_hussain@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fam Xinru Winnie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
