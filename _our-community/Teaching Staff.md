@@ -521,8 +521,8 @@ variant: tiptap
 <br>Mdm Sivakami d/o Ratha
 <br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
 <br>
-<br>Mr Tan Yuan Yang
-<br><a href="mailto:Tan_Yuan_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Yuan_Yang@schools.gov.sg</a>
+<br>Mr Lee Jiun Wei</p>
+<p><a href="mailto:Lee_Jiun_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jiun_Wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -535,8 +535,8 @@ variant: tiptap
 <p>Ms Nirmala d/o Arumugam
 <br><a href="mailto:nirmala_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_arumugam@schools.gov.sg</a>
 <br>
-<br>Mr Lee Jiun Wei
-<br><a href="mailto:Lee_Jiun_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jiun_Wei@schools.gov.sg</a>
+<br>Mr Heng Kai Le
+<br><a href="mailto:heng_kai_le@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_kai_le@schools.gov.sg</a>
 </p>
 </td>
 </tr>
