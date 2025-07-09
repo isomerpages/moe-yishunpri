@@ -287,6 +287,12 @@ variant: tiptap
 <br>
 <br>Mrs Ribut Bte Nawi
 <br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a>
+<br>
+<br>Mr Lim Zheng Quan Joel
+<br><a href="mailto:lim_zheng_quan_joel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zheng_quan_joel@schools.gov.sg</a>
+<br>
+<br>Mdm Lee Kim Kim</p>
+<p><a href="mailto:lee_kim_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
