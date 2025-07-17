@@ -351,18 +351,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 4)
-<br>(Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Fam Xinru, Winnie
-<br><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head
 <br>(Primary 5)</p>
 </td>
 <td rowspan="1" colspan="1">
