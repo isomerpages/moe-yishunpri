@@ -116,7 +116,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>Physical Education &amp; CCA</p>
+<br>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sheikh Omar Bin Mohamad
@@ -127,7 +127,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
-<br>Special Education Needs</p>
+<br>Special Educational Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seah Meng Hui Joanna
