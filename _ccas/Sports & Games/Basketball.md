@@ -13,7 +13,6 @@ This year, we are sending in four teams—Senior and Junior teams for both boys 
 * Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg)
 * Mr Ghanaprakasam s/o Subramaniam (2 I/C) (ghanaprakasam_subramanian@schools.gov.sg)
 * Mr Quek Xiang Jing (quek_xiang_jing@schools.gov.sg)
-* Mr Tan Yuan Yang (tan_yuan_yang@schools.gov.sg)
 * Miss Zhuo Cangyuan (zhuo_cangyuan@schools.gov.sg)
 * Miss Cham Shi Hui Audrey (cham_shi_hui@schools.gov.sg)
 * Miss Guan Qinqin (guan_qin_qin@schools.gov.sg)
