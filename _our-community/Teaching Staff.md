@@ -76,9 +76,6 @@ variant: tiptap
 <br>Mr Huang Yaohua, David
 <br><a href="mailto:huang_yaohua_david@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yaohua_david@schools.gov.sg</a>
 <br>
-<br>Ms Wang Yi Ru
-<br><a href="mailto:Wang_Yi_Ru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yi_ru@schools.gov.sg</a>
-<br>
 <br>Ms Fam Xinru Winnie</p>
 <p><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
@@ -219,9 +216,6 @@ variant: tiptap
 <br>
 <br>Mdm Isnarti Bte Ahmad Sani
 <br><a href="mailto:isnarti_ahmad_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isnarti_ahmad_sani@schools.gov.sg</a>
-<br>
-<br>Miss Syahira Adila Binte Fazali
-<br><a href="mailto:Syahira_Adila_Fazali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Syahira_Adila_Fazali@schools.gov.sg</a>
 <br>
 <br>Mr Thandavamurthy Vasanthavelan</p>
 <p><a href="mailto:thandavamurthy_vasanthavelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thandavamurthy_vasanthavelan@schools.gov.sg</a>
@@ -582,9 +576,6 @@ variant: tiptap
 <br>
 <br>Mr Ang Liang Tien Terrance
 <br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
-<br>
-<br>Miss Natasha Aqilah Binte Rizal
-<br><a href="mailto:natasha_aqilah_rizal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natasha_aqilah_rizal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -613,9 +604,6 @@ variant: tiptap
 <br>
 <br>Mr Sheikh Omar Bin Mohamad
 <br><a href="mailto:sheikh_omar_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_omar_mohamad@schools.gov.sg</a>
-<br>
-<br>Mr Tan Chu Hui
-<br><a href="mailto:tan_chu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chu_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -692,15 +680,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hamizah_rosidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hamizah_rosidin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yuan Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Yuan_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Yuan_Yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
