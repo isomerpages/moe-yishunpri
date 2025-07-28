@@ -15,7 +15,6 @@ Beyond the game, our Football CCA instills the core values of excellence, respec
 * Mr V Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
 * Mr Sheikh Omar (sheikh_omar_mohamad@schools.gov.sg)
 * Miss Serena Goh Yi Ting (serena_goh_yi_ting@schools.gov.sg)
-* Miss Syahira Adila Binte Fazali (syahira_adila_fazali@schools.gov.sg)
 
 ##### **Venue**
 * School Field
