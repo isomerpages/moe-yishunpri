@@ -21,7 +21,6 @@ Join us on this exciting journey of adventure, learning, and growth!
 * Mrs Ahrunhachelam Shanthi (2 I/C) (ahrunhachelam_shanthi@schools.gov.sg)
 * Miss Kusumawati (kusumawati_ahmad_dafir@schools.gov.sg)
 * Mr Vasudavan s/o S G Pillai (vasudavan_s_g_pillai@schools.gov.sg)
-* Mr Tan Chu Hui (tan_chu_hui@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 4 (Flexi Room 2 &amp; 3)
