@@ -8,7 +8,7 @@ variant: markdown
 * <a href="https://forms.moe.edu.sg/" target="_blank">All Ears</a>
 * <a href="https://go.gov.sg/ypsdept" target="_blank">Department Internal Quick Links</a> (Requires iCON Login)
 * <a href="https://go.gov.sg/eped-onestop" target="_blank">E-Pedagogy One-Stop Site by ETD</a>
-* <a href="https://yps.edupage.org/" target="_blank">EduPage Login (Timetable)</a>
+* <a href="https://yps.edupage.org/" target="_blank">EduPage Login</a> (Timetable Access)
 * <a href="https://go.gov.sg/ETDhelpdesk" target="_blank">ETD Helpdesk (Ask ETD)</a>
 * <a href="https://form.gov.sg/" target="_blank">FormSG</a>
 * <a href="https://for.edu.sg" target="_blank">ForEduSG</a> (URL Link Shortener Tool for Education Institutes)
