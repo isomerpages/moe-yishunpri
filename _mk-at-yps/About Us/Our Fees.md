@@ -6,7 +6,7 @@ third_nav_title: About Us
 variant: markdown
 ---
 #### **MOE Kindergarten (MK) fees**
-The monthly fee for MK in 2023/2024 is:
+The monthly fee for MK in 2024/2025 is:
 
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
@@ -20,7 +20,7 @@ MK Fees are also payable during the June and December holidays. There are no add
 ![](/images/MK%20YPS/About%20Us/mk_kifas_updated.jpg)
 
 #### **Kindergarten Care (KCare) fees**
-If you opt for our KCare services, the monthly fee for KCare @Yishun (2023) under Neighbourhood Care Services (NCS) is:
+If you opt for our KCare services, the monthly fee for KCare @Yishun (2025) under Neighbourhood Care Services (NCS) is:
 
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
