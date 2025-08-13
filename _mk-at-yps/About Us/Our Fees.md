@@ -6,7 +6,7 @@ third_nav_title: About Us
 variant: markdown
 ---
 #### **MOE Kindergarten (MK) fees**
-The monthly fee for MK in 2023/2024 is:
+The monthly fee for MK in 2024/2025 is:
 
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
