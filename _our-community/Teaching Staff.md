@@ -231,6 +231,10 @@ variant: tiptap
 <br>Mdm Ling Li Huan Elyn
 <br><a href="mailto:ling_li_huan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ling_li_huan@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Cheong Chee Foong</p>
+<p><a href="mailto:cheong_chee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_chee_foong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
