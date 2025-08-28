@@ -638,15 +638,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Boon Ching, Eileen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_boon_ching_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_boon_ching_eileen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chua Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -733,11 +724,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Deepa
-<br>(School Counsellor)</p>
+<p>Ms Quek Pei Qi Davynn</p>
+<p>(School Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deepa_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">deepa_a@schools.gov.sg</a>
+<p><a href="mailto:quek_pei_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_pei_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
