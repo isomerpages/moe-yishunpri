@@ -92,9 +92,6 @@ variant: tiptap
 <br>
 <br>Mdm Siti Nafizah Bte Abu Bakar
 <br><a href="mailto:siti_nafizah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nafizah_abu_bakar@schools.gov.sg</a>
-<br>
-<br>Mr Cheong Chee Foong
-<br><a href="mailto:cheong_chee_foong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_chee_foong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -154,9 +151,6 @@ variant: tiptap
 <br>
 <br>Mdm Wong Pei Fen
 <br><a href="mailto:Wong_Pei_Fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Pei_Fen@schools.gov.sg</a>
-<br>
-<br>Ms Thiviya Naidu A/P Rajaram Naidu
-<br><a href="mailto:thiviya_naidu_ap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thiviya_naidu_ap@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -186,8 +180,8 @@ variant: tiptap
 <br>Mdm Tong Mun Hwee
 <br><a href="mailto:tong_mun_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mun_hwee@schools.gov.sg</a>
 <br>
-<br>Mdm Yao Lingling
-<br><a href="mailto:yao_lingling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yao_lingling@schools.gov.sg</a>
+<br>Ms Ragshanaa d/o Raja Kannan</p>
+<p><a href="mailto:ragshanaa_raja_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ragshanaa_raja_kannan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
