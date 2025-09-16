@@ -2,18 +2,33 @@
 title: School Rules
 permalink: /about-us/school-rules/
 description: ""
+variant: markdown
 ---
-### **<center>General Rules</center>**
-1. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the pledge with the right fist placed over the heart.
-2. Students are to wear the prescribed school uniform and modification to the uniform **<u>is not allowed</u>**.
-3. Male students must be neat in appearance, clean-shaven and&nbsp;**<u>no facial hair is allowed</u>**.
-4. All students are not allowed to have in their possession of any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-5. Students must always be properly and neatly attired at all times.
-6. Students must be punctual and courteous at all times.
-7. Students are to take care of school property.
-8. Students must be well-behaved both within and outside the school.
-9. Students are not allowed to leave the school during school hours without permission.
-10. To avoid distractions from mobile devices, students are not encouraged to bring devices such as smartphones or smartwatches to school. If there is a need to bring such devices, they must be switched off and kept safely at all times. Students should only make urgent calls with their teachers' permission or supervision. All mobile devices should be kept before tests/examinations.
+### **<center>Our School Rules</center>**
+1.	All students are expected to demonstrate the GRIT values of Gratitude, Care, Respect, Responsibility, Resilience, and Integrity in their daily conduct and interactions.
+2.	All male students must be clean-shaven at all times. Moustache and beards are not allowed.
+3.	All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+4.	For the safety and security of all students, smart watches* are not allowed in school. Students are encouraged to wear a standard wrist watch.<br>**Smart watches with non-telecommunication features (e.g. POSB Smart Buddy Watch for contactless payments) are allowed.*
+5.	Students must treat all school property and facilities with care and respect, ensuring they are kept clean and undamaged.
+6.	Students must walk quietly in corridors and speak at appropriate volumes to maintain a conducive learning environment.
+7.	Students must demonstrate politeness and good manners in all interactions with teachers, staff, peers, and visitors.
+8.	Students must maintain a neat and tidy appearance that reflects respect for themselves and the learning environment.
+9.	Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.
+10.	Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
+11.	Students are strongly discouraged to bring mobile phones to school. If the mobile phones are brought to school, the phone must be switched off and kept in the school bags during curriculum hours and after-school programmes. This is to minimise disruptions to teaching and learning. Students are not allowed to use their mobile phones in school at all times. The school shall not bear any responsibility for the loss or damage of any mobile phones.
+12.	Students must form orderly queues and wait their turn patiently when required.
+13.	Students must remain within the school compound until official dismissal time and report to the General Office for approval before any early departure.
+14.	Students must arrive on time for all scheduled activities, lessons, and school events. 
+
+### **<center>Anti-Bullying Policy</center>**
+1. Bullying is defined as the deliberate and repeated behaviour that causes physical, emotional, or psychological harm. It involves misuse of power that occurs on:
+* school premises, 
+* during school-related activities (including online platforms) and 
+* outside of the school when it impacts the wellbeing of our students or the school environment.
+2. This school maintains a zero-tolerance approach to bullying in all its forms. Every member of our school community has the right to feel safe, respected, and valued. No one should be bullied, and no one should engage in bullying behaviour. 
+
+##### **Reporting Procedures**
+1. Students and parents may report bullying directly to teachers, counsellors, or school leaders. All reports will be taken seriously and treated confidentially.
 
 ### **<center>Attire for Students</center>**
 ##### **School Uniform**
@@ -65,15 +80,3 @@ description: ""
 6. Any other jewellery is not to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
 8. Only simple watches and spectacles frame (without fanciful designs) are allowed.
 9. Tinted or coloured spectacle lenses are not allowed.
-
-### **<center>Use of Mobile Devices</center>**
-1. Students are not encouraged to bring smartphones or smartwatches to school.
-2. If there is a need to bring a mobile device, it must be switched off and kept safely at all times.
-
-### **<center>Usage of phone within school compound</center>**
-1. Students can make phone calls only during dismissal time to arrange for family members to pick them up from school.
-2. Students can only make calls with teachers’ permission and supervision.
-
-### **<center>Possible consequences if students are found using mobile devices</center>**
-1. Teachers would remind students to put away the mobile devices.
-2. Teachers to inform parents that students are using mobile devices inappropriately.
