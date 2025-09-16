@@ -25,19 +25,10 @@ variant: markdown
 * school premises, 
 * during school-related activities (including online platforms) and 
 * outside of the school when it impacts the wellbeing of our students or the school environment.
-
-2. This school maintains a **zero-tolerance approach** to bullying in all its forms. Every member of our school community has the right to feel safe, respected, and valued. No one should be bullied, and no one should engage in bullying behaviour.
+2. This school maintains a zero-tolerance approach to bullying in all its forms. Every member of our school community has the right to feel safe, respected, and valued. No one should be bullied, and no one should engage in bullying behaviour. 
 
 ##### **Reporting Procedures**
 1. Students and parents may report bullying directly to teachers, counsellors, or school leaders. All reports will be taken seriously and treated confidentially.
-
-##### **Service Standards for Response Times**
-1. The school commits to the following response timeframes:
-* 3 Working Days: Acknowledgement of all feedback and replies to straightforward enquiries regarding bullying incidents will be provided within three school days of receipt.
-* 7 Working Days: Cases requiring investigation, including gathering statements and reviewing of evidence.
-* 21 Working Days: Complex cases involving detailed investigation, multiple parties and/or external agencies.
-
-2. In all cases, the reporting party will be kept informed of progress and any delays that may occur due to exceptional circumstances.
 
 ### **<center>Attire for Students</center>**
 ##### **School Uniform**
