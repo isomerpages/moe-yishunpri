@@ -6,7 +6,7 @@ description: ""
 ---
 ### **<center>Our Service Charter</center>**
 
-![](/images/About%20us/Commitment/moe_our_service_charter.png)
+![](/images/About%20us/Commitment/moe_our_service_charter_2.png)
 
 ### **<center>Our Service Standards</center>**
 ##### **Service Standards for Response Times**
