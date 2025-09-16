@@ -6,8 +6,7 @@ description: ""
 ---
 ### **<center>Our Service Charter</center>**
 
-![](/images/Our%20Community/PSG/yps_respecting_our_staff.png)
-
+![](/images/About%20us/Commitment/moe_our_service_charter.png)
 ### **<center>Our Service Standards</center>**
 ##### **Service Standards for Response Times**
 1. The school commits to the following response timeframes:
