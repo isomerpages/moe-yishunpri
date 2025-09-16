@@ -8,7 +8,7 @@ variant: markdown
 1.	All students are expected to demonstrate the GRIT values of Gratitude, Care, Respect, Responsibility, Resilience, and Integrity in their daily conduct and interactions.
 2.	All male students must be clean-shaven at all times. Moustache and beards are not allowed.
 3.	All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-4.	For the safety and security of all students, smart watches* are not allowed in school. Students are encouraged to wear a standard wrist watch. *Smart watches with non-telecommunication features (e.g. POSB Smart Buddy Watch for contactless payments) are allowed.
+4.	For the safety and security of all students, smart watches* are not allowed in school. Students are encouraged to wear a standard wrist watch.<br>**Smart watches with non-telecommunication features (e.g. POSB Smart Buddy Watch for contactless payments) are allowed.*
 5.	Students must treat all school property and facilities with care and respect, ensuring they are kept clean and undamaged.
 6.	Students must walk quietly in corridors and speak at appropriate volumes to maintain a conducive learning environment.
 7.	Students must demonstrate politeness and good manners in all interactions with teachers, staff, peers, and visitors.
