@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Commitment.md
       - Vision, Mission & Values.md
+      - Our Commitment.md
       - School History.md
       - School Song.md
       - School Rules.md
