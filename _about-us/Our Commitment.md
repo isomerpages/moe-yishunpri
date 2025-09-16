@@ -6,7 +6,7 @@ description: ""
 ---
 ### **<center>Our Service Charter</center>**
 
-![](/images/Our%20Community/PSG/yps_our_service_charter.png)
+![](/images/Our%20Community/PSG/yps_respecting_our_staff.png)
 
 ### **<center>Our Service Standards</center>**
 ##### **Service Standards for Response Times**
