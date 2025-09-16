@@ -80,15 +80,3 @@ variant: markdown
 6. Any other jewellery is not to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
 8. Only simple watches and spectacles frame (without fanciful designs) are allowed.
 9. Tinted or coloured spectacle lenses are not allowed.
-
-### **<center>Use of Mobile Devices</center>**
-1. Students are not encouraged to bring smartphones or smartwatches to school.
-2. If there is a need to bring a mobile device, it must be switched off and kept safely at all times.
-
-### **<center>Usage of phone within school compound</center>**
-1. Students can make phone calls only during dismissal time to arrange for family members to pick them up from school.
-2. Students can only make calls with teachers’ permission and supervision.
-
-### **<center>Possible consequences if students are found using mobile devices</center>**
-1. Teachers would remind students to put away the mobile devices.
-2. Teachers to inform parents that students are using mobile devices inappropriately.
