@@ -56,9 +56,9 @@ This fun and engaging programme offered students a unique opportunity to expand 
 ### **Propagation and Cultivation of Tropical Nepenthes Plants and Product-Making Workshop**
 Students embarked on an exciting journey into the world of carnivorous plants in this hands-on workshop. They explored the unique features of the Nepenthes pitcher plant, uncovered its fascinating roles in nature and culture, and discovered how these extraordinary plants adapt to survive. The workshop also highlighted other intriguing species, including the Venus flytrap, sundew, and bladderwort, inspiring curiosity and wonder about the natural world.
 
-![]()
+![](/images/Experience/Signature%20Programme/launchpad_14_v1.jpg)
 
 ### **Mathematics games and problem solving**
 Through this interactive learning experience, students reflected on how Mathematics connects to real-world situations. As they worked together in group activities, they recognised the importance of teamwork, collaboration, and communication in solving problems. By engaging with Mathematics puzzles and games, students not only strengthened their problem-solving skills but also appreciated the fun and creative side of Mathematics, gaining a deeper understanding of its relevance in everyday life.
 
-![]()
+![](/images/Experience/Signature%20Programme/launchpad_15_v1.jpg)
