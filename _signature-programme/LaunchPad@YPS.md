@@ -34,7 +34,6 @@ Students with a deep appreciation for the Arts embarked on a meaningful learning
 
 ![](/images/Experience/Signature%20Programme/launchpad_05_v1.jpg)
 
-By exposing our students to a diverse range of internal and external programmes, we are catering cater to different interests and learning styles. When students are passionate about their learning, they are more likely to engage deeply and persistently in their pursuits, leading to greater achievement and personal fulfillment.
 
 ### **Advanced Mushroom Cultivation Programme**
 
@@ -53,3 +52,13 @@ This creative and inspiring poetry workshop provided students with an opportunit
 ![](/images/Experience/Signature%20Programme/launchpad_13_v1.jpg)
 
 This fun and engaging programme offered students a unique opportunity to expand their geographical and cultural understanding through the world of aquatic sports. Working in teams, students explored various countries and their sporting traditions, while learning about different cultures and the achievements of top aquatic athletes from around the world.
+
+### **Propagation and Cultivation of Tropical Nepenthes Plants and Product-Making Workshop**
+Students embarked on an exciting journey into the world of carnivorous plants in this hands-on workshop. They explored the unique features of the Nepenthes pitcher plant, uncovered its fascinating roles in nature and culture, and discovered how these extraordinary plants adapt to survive. The workshop also highlighted other intriguing species, including the Venus flytrap, sundew, and bladderwort, inspiring curiosity and wonder about the natural world.
+
+![](/images/Experience/Signature%20Programme/launchpad_14_v1.jpg)
+
+### **Mathematics games and problem solving**
+Through this interactive learning experience, students reflected on how Mathematics connects to real-world situations. As they worked together in group activities, they recognised the importance of teamwork, collaboration, and communication in solving problems. By engaging with Mathematics puzzles and games, students not only strengthened their problem-solving skills but also appreciated the fun and creative side of Mathematics, gaining a deeper understanding of its relevance in everyday life.
+
+![](/images/Experience/Signature%20Programme/launchpad_15_v2.jpg)
