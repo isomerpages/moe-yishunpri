@@ -173,7 +173,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Chai Lan, Carine
+<p>Mdm Carine Ang
 <br><a href="mailto:ang_chai_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chai_lan@schools.gov.sg</a>
 </p>
 </td>
