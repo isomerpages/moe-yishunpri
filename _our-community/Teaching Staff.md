@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cheng Xinyi, Bernice
+<p>Miss Cheng Xinyi Bernice
 <br><a href="mailto:cheng_xinyi_bernice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_xinyi_bernice@schools.gov.sg</a>
 <br>
 <br>Mdm Goh Silk
