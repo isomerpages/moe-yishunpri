@@ -197,7 +197,7 @@ variant: tiptap
 <p>Miss Guan Qinqin
 <br><a href="mailto:guan_qin_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guan_qin_qin@schools.gov.sg</a>
 <br>
-<br>Mdm Carine Ang Chai Lan
+<br>Mdm Carine Ang
 <br><a href="mailto:ang_chai_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chai_lan@schools.gov.sg</a>
 </p>
 </td>
