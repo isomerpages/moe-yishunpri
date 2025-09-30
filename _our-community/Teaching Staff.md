@@ -665,6 +665,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Cheong Hui Ting Debbie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Keith Toh Wai Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Sandra Lee Seow Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_seow_yen_sandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seow_yen_sandra@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Linghui Alcina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hamdan Bin Alias
 <br>(SEN Officer)</p>
 </td>
