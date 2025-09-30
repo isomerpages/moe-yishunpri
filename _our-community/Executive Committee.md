@@ -96,7 +96,7 @@ variant: tiptap
 <br>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mary Chen
+<p>Mdm Mary Tong
 <br><a href="mailto:tong_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mary@schools.gov.sg</a>
 </p>
 </td>
