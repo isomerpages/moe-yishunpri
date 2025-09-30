@@ -46,7 +46,7 @@ variant: tiptap
 <br>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wong Pei Li, Pamela
+<p>Ms Wong Pei Li, Pamela
 <br><a href="mailto:wong_pei_li_pamela@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_pei_li_pamela@schools.gov.sg</a>
 </p>
 </td>
@@ -96,7 +96,7 @@ variant: tiptap
 <br>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mary Chen
+<p>Mdm Mary Tong
 <br><a href="mailto:tong_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mary@schools.gov.sg</a>
 </p>
 </td>
@@ -140,7 +140,7 @@ variant: tiptap
 <br>Physical Education, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elsie Kwan
+<p>Ms Elsie Kwan Yin Teng
 <br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
 </p>
 </td>
@@ -152,7 +152,7 @@ variant: tiptap
 <br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Alang Mohammad Rom
+<p>Mdm Fauziah Binte Alang Mohammad Rom
 <br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
 </p>
 </td>
@@ -173,7 +173,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Chai Lan, Carine
+<p>Mdm Carine Ang
 <br><a href="mailto:ang_chai_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chai_lan@schools.gov.sg</a>
 </p>
 </td>
@@ -223,7 +223,7 @@ variant: tiptap
 <br>Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhayati Nasir
+<p>Mdm Nurhayati Binte Nasir
 <br><a href="mailto:nurhayati_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_nasir@schools.gov.sg</a>
 </p>
 </td>
@@ -270,7 +270,7 @@ variant: tiptap
 <br>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Joan Kam
+<p>Miss Joan Kam See Mun
 <br><a href="mailto:joan_kam_see_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joan_kam_see_mun@schools.gov.sg</a>
 </p>
 </td>
@@ -281,7 +281,7 @@ variant: tiptap
 <br>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Bernice Cheng
+<p>Miss Cheng Xinyi Bernice
 <br><a href="mailto:cheng_xinyi_bernice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_xinyi_bernice@schools.gov.sg</a>
 </p>
 </td>
@@ -321,7 +321,7 @@ variant: tiptap
 <br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Hui Wen
+<p>Miss Yong Hui Wen
 <br><a href="mailto:yong_hui_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hui_wen@schools.gov.sg</a>
 </p>
 </td>
@@ -332,7 +332,7 @@ variant: tiptap
 <br>(Primary 5 &amp; Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Liang Tien, Terrance
+<p>Mr Ang Liang Tien Terrance
 <br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
 </p>
 </td>
@@ -354,7 +354,7 @@ variant: tiptap
 <br>(Primary 5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nirmala d/o Arumugam
+<p>Ms Nirmala Arumugam
 <br><a href="mailto:nirmala_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_arumugam@schools.gov.sg</a>
 </p>
 </td>
