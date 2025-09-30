@@ -140,7 +140,7 @@ variant: tiptap
 <br>Physical Education, CCA &amp; Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elsie Kwan
+<p>Ms Elsie Kwan Yin Teng
 <br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
 </p>
 </td>
@@ -152,7 +152,7 @@ variant: tiptap
 <br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Alang Mohammad Rom
+<p>Mdm Fauziah Binte Alang Mohammad Rom
 <br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
 </p>
 </td>
