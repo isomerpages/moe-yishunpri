@@ -208,10 +208,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Linghui, Alcina
-<br><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
-<br>
-<br>Mdm Isnarti Bte Ahmad Sani
+<p>Mdm Isnarti Bte Ahmad Sani
 <br><a href="mailto:isnarti_ahmad_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isnarti_ahmad_sani@schools.gov.sg</a>
 <br>
 <br>Mr Thandavamurthy Vasanthavelan
@@ -277,13 +274,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Wai Woon Keith
-<br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
-<br>
-<br>Mrs Ribut Bte Nawi
-<br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a>
-<br>
-<br>Mr Lim Zheng Quan Joel
+<p>Mr Lim Zheng Quan Joel
 <br><a href="mailto:lim_zheng_quan_joel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zheng_quan_joel@schools.gov.sg</a>
 <br>
 <br>Mdm Lee Kim Kim
@@ -510,10 +501,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Seow Yen Sandra
-<br><a href="mailto:lee_seow_yen_sandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seow_yen_sandra@schools.gov.sg</a>
-<br>
-<br>Mdm Sivakami d/o Ratha
+<p>Mdm Sivakami d/o Ratha
 <br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
 <br>
 <br>Mr Lee Jiun Wei
