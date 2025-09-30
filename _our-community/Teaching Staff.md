@@ -473,7 +473,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elsie Kwan
+<p>Ms Elsie Kwan Yin Teng
 <br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
 <br>
 <br>Miss Sim Sze Hua
