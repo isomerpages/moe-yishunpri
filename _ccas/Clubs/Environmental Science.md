@@ -19,6 +19,7 @@ Environmental Science empowers students to become environmental champions, foste
 
 ##### **Achievements**
 * **2021 National Youth Upcycling Movement (NYUM)** - Certificate of Accomplishment
+* **STEM Playground Challenge 2025** - Certificate of Participation
 
 ##### **Photo Gallery**
 
