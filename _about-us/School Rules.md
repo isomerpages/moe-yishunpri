@@ -80,3 +80,11 @@ variant: markdown
 6. Any other jewellery is not to be worn. (eg. Necklace, ring, anklet, bracelet etc.)
 8. Only simple watches and spectacles frame (without fanciful designs) are allowed.
 9. Tinted or coloured spectacle lenses are not allowed.
+
+### **<center>Acceptable Use Policy (AUP) for use of EdTech Resources</center>**
+##### **Purpose of the Acceptable Use Policy (AUP)**
+1. Technology is an essential part of learning in today’s world.
+2. This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.
+3. EdTech resources include the following, but are not limited to:<br>-	Learning devices (e.g. school devices)<br>- ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and 
+school internet networks.
+4. For more information, please refer to [Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)](https://go.gov.sg/cw-studentkitpri).
