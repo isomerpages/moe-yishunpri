@@ -88,3 +88,13 @@ variant: markdown
 3. EdTech resources include the following, but are not limited to:<br>-	Learning devices (e.g. school devices)<br>- ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON); and 
 school internet networks.
 4. For more information, please refer to [Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)](https://go.gov.sg/cw-studentkitpri).
+
+##### **General**
+1. You should not attempt to access data, system and information that you are not authorised to. 
+2.	You are reminded that the use of learning devices and school’s EdTech resources should solely be for the purpose of learning. 
+
+##### **Being a Responsible Digital Citizen**
+3.	You should interact with others in a respectful and responsible way. You should not post online remarks that are<br>- racially and/or religiously insensitive,<br>- vulgar and/or offensive, or<br>- hurtful to others.
+4.	You should not use any devices to<br>- store, modify, create or share content (e.g. documents, presentations, pictures and videos) that is inappropriate (e.g. indecent, pornographic, defamatory, hurtful to self or others).<br>- make threats, cause harassment or embarrassment, impersonate or intimidate others.
+5.	You should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).
+6. Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.
