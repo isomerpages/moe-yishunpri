@@ -107,3 +107,14 @@ school internet networks.
 1. You must ensure that you meet the minimum age requirement specified in each AI tool's age restrictions before using it.
 2. If the use of AI is permitted, you should acknowledge the use of AI in weighted assessments and homework as required.3 
 3. You are to practice academic integrity and be responsible for your own learning when using AI. Understand that you are ultimately short-changing yourself if you pass off other’s work as your own.
+
+##### **Staying Safe and Secure online**
+1. You should report any incidents (e.g. unusual device behaviour or inappropriate use of devices), to the school through your Form Teacher. 
+2. You are reminded to develop online safety habits. This includes not disclosing personal access credentials (e.g. MIMS password, PLD passcode, etc.), sensitive personal data (e.g. home address, passwords) online or on AI platforms, verifying credibility of online content before sharing, avoiding clicking on suspicious links or downloading unknown files, and being cautious when interacting with others online (e.g. on social media) by not engaging with strangers.
+3. You should exercise caution regarding the limitations of AI tools, including potential inaccuracies / fabricated responses, inherent biases and outdated information.
+
+##### **Digital Wellbeing and Balance**
+1. You are reminded to balance screentime with other activities including physical exercise and face-to-face social interactions. 
+2. You should avoid excessive use of your devices outside learning hours.
+3. You should take regular breaks to rest your eyes and mind.
+4. You are reminded to practice good sleep hygiene by not using your devices one hour before bedtime.
