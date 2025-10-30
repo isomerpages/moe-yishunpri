@@ -12,6 +12,7 @@ variant: markdown
 * <a href="/files/Others/List_of_Approved_Dictionaries_for_PSLE.pdf" target="_blank">List of Approved Dictionaries for use in 2025 PSLE</a>
 * [MOE Sexuality Education](/moe-sexuality-education)
 * [Services In School](/about-us/services-in-school/school-attire/)
+* <a href="/files/Others/yps_aup_20251029_v2.pdf" target="_blank">YPS Acceptable Use Policy for Use of EdTech Resources</a>
 * <a href="https://go.gov.sg/ypshelpdesk" target="_blank">YPS ICT Helpdesk</a>
 
 ##### **Useful Links for Students**
