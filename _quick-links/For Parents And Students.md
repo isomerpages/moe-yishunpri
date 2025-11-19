@@ -27,3 +27,4 @@ variant: markdown
 * <a href="https://file.for.edu.sg/yps-bulletin-2024-2.pdf" target="_blank"> 2024 Issue 2</a>
 * <a href="https://for.edu.sg/yps-bulletin-2024-3-interactive" target="_blank"> 2024 Issue 3</a>
 * <a href="https://for.edu.sg/yps-bulletin-2025-4-interactive" target="_blank"> 2025 Issue 4</a>
+* <a href="https://for.edu.sg/yps-bulletin-2025-5" target="_blank"> 2025 Issue 5</a>
