@@ -643,27 +643,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nur Hamizah Bte Rosdin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hamizah_rosidin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hamizah_rosidin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheong Hui Ting Debbie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_hui_ting_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hui_ting_debbie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -678,15 +661,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sandra Lee Seow Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_seow_yen_sandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seow_yen_sandra@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Lee Linghui Alcina</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -696,11 +670,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hamdan Bin Alias
-<br>(SEN Officer)</p>
+<p>Miss Kusumawati Bte Ahmad Dafir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hamdan_alias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamdan_alias@schools.gov.sg</a>
+<p><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Soh Whee Kheng Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh_whee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_whee_kheng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alissa Goh Yoke En
+<br>(Senior SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_yoke_en_alissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yoke_en_alissa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -716,11 +708,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alissa Goh Yoke En
-<br>(Senior SEN Officer)</p>
+<p>Mr Hamdan Bin Alias
+<br>(SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yoke_en_alissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yoke_en_alissa@schools.gov.sg</a>
+<p><a href="mailto:hamdan_alias@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamdan_alias@schools.gov.sg</a>
 </p>
 </td>
 </tr>
