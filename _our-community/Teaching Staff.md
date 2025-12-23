@@ -392,6 +392,9 @@ variant: tiptap
 <br>
 <br>Mr V Ilanchezhiyan
 <br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
+<br>
+<br>Ms Soong Jing Min
+<br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>
