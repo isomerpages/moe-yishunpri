@@ -64,7 +64,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>Heads of Department</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -181,7 +180,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>Level &amp; Subject Heads</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -301,7 +299,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>Year Heads &amp; Assistant Year Heads</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -387,7 +384,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>School Admin Team</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
