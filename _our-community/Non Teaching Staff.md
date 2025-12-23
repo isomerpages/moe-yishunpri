@@ -177,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Atikah Binte Ismail</p>
+<p>Mdm Hayati Binti Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hayati Binti Mohd</p>
+<p>Mdm Atikah Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -243,7 +243,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Eleanor Chow</p>
+<p>Ms Nur Suhaila Binte Ahmad Jupri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
