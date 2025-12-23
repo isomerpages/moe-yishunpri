@@ -64,6 +64,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Heads of Department</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -119,8 +120,8 @@ variant: tiptap
 <br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sivakami d/o Ratha</p>
-<p><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
+<p>Mdm Sivakami d/o Ratha
+<br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -180,6 +181,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Level &amp; Subject Heads</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -213,8 +215,8 @@ variant: tiptap
 <br>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohayah Binte Ya'acub</p>
-<p><a href="mailto:rohayah_yaacub@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohayah_yaacub@schools.gov.sg</a>
+<p>Mdm Rohayah Binte Ya'acub
+<br><a href="mailto:rohayah_yaacub@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohayah_yaacub@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -270,8 +272,8 @@ variant: tiptap
 <br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr V Ilanchezhiyan</p>
-<p><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
+<p>Mr V Ilanchezhiyan
+<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -299,6 +301,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Year Heads &amp; Assistant Year Heads</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -384,6 +387,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>School Admin Team</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
