@@ -445,28 +445,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Gratitude</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fauziah Binte Alang Mohammad Rom
-<br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
-<br>
-<br>Mr Quek Xiang Jing
-<br><a href="mailto:quek_xiang_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_xiang_jing@schools.gov.sg</a>
-<br>
-<br>Mdm Nurhayati binte Nasir
-<br><a href="mailto:nurhayati_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_nasir@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>5 Care</strong>
+<p><strong>5 Gratitude</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sim Sze Hua
-<br><a href="mailto:sim_sze_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sze_hua@schools.gov.sg</a>
+<p>Mdm Zhu Shengjie
+<br><a href="mailto:zhu_shengjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shengjie@schools.gov.sg</a>
+<br>
+<br>Mdm Kirenjit Kaur Gill
+<br><a href="mailto:kirenjit_kaur_gill@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kirenjit_kaur_gill@schools.gov.sg</a>
+<br>
+<br>Mr Neo Chow Wei Christopher
+<br><a href="mailto:neo_chow_wei_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chow_wei_christopher@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -476,11 +466,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mary Tong
-<br><a href="mailto:tong_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mary@schools.gov.sg</a>
+<p>Mdm Anita Kaur
+<br><a href="mailto:anita_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anita_kaur@schools.gov.sg</a>
 <br>
-<br>Miss Kusumawati Bte Ahmad Dafir
-<br><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
+<br>Miss Fatin Sakinah Binte Azizian
+<br><a href="mailto:fatin_sakinah_azizian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_sakinah_azizian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -490,8 +480,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sivakami d/o Ratha
-<br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
+<p>Mr Tan Guan Sheng Bronson
+<br><a href="mailto:tan_guan_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_guan_sheng@schools.gov.sg</a>
+<br>
+<br>Mrs Ribut Aziz
+<br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -501,11 +494,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nirmala d/o Arumugam
-<br><a href="mailto:nirmala_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_arumugam@schools.gov.sg</a>
+<p>Mr Ng Min Zhou Jonathan
+<br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
 <br>
-<br>Mr Heng Kai Le
-<br><a href="mailto:heng_kai_le@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_kai_le@schools.gov.sg</a>
+<br>Miss Han Ying
+<br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 Integrity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yang Binglin
+<br><a href="mailto:yang_binglin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_binglin@schools.gov.sg</a>
+<br>
+<br>Mdm Sivakami d/o Ratha
+<br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -543,10 +550,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anita Kaur
-<br><a href="mailto:anita_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anita_kaur@schools.gov.sg</a>
-<br>
-<br>Mr Ang Liang Tien Terrance
+<p>Mr Ang Liang Tien Terrance
 <br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
 </p>
 </td>
@@ -577,9 +581,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Min Zhou Jonathan
-<br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
