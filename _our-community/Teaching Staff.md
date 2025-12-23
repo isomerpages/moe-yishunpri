@@ -359,11 +359,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Monalisa Bte Mohamed Sudin
-<br><a href="mailto:monalisa_mohamed_sudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">monalisa_mohamed_sudin@schools.gov.sg</a>
+<p>Mdm Goh Zi Wei
+<br><a href="mailto:goh_zi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zi_wei@schools.gov.sg</a>
 <br>
-<br>Mdm Yap Gek Jie
-<br><a href="mailto:Yap_Gek_Jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Gek_Jie@schools.gov.sg</a>
+<br>Mr Lee Jiun Wei
+<br><a href="mailto:Lee_Jiun_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jiun_Wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -373,7 +373,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yap Gek Jie
+<br><a href="mailto:Yap_Gek_Jie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Gek_Jie@schools.gov.sg</a>
+<br>
+<br>Mdm Siti Karmila Binte Abu
+<br><a href="mailto:siti_karmila_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_karmila_abu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -382,8 +387,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Luke Chandra Mohan
-<br><a href="mailto:luke_chandra_mohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luke_chandra_mohan@schools.gov.sg</a>
+<p>Ms Elsie Kwan Yin Teng
+<br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
+<br>
+<br>Mr V Ilanchezhiyan
+<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -393,14 +401,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhu Shengjie
-<br><a href="mailto:zhu_shengjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhu_shengjie@schools.gov.sg</a>
+<p>Mr Bahar Ali Bin Sakor
+<br><a href="mailto:bahar_ali_sakor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bahar_ali_sakor@schools.gov.sg</a>
 <br>
-<br>Mdm Goh Zi Wei
-<br><a href="mailto:goh_zi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_zi_wei@schools.gov.sg</a>
-<br>
-<br>Ms Soong Jing Min
-<br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
+<br>Mdm Goh Silk
+<br><a href="mailto:goh_silk@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_silk@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -410,10 +415,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm June Low Mun Ling
-<br><a href="mailto:june_low_mun_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">june_low_mun_ling@schools.gov.sg</a>
+<p>Mdm Lim Poh Ling Katherine
+<br><a href="mailto:lim_poh_ling_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_ling_katherine@schools.gov.sg</a>
 <br>
-<br>
+<br>Mr Li Dahao, Daniel
+<br><a href="mailto:daniel_li_da_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_li_da_hao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -456,10 +462,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elsie Kwan Yin Teng
-<br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
-<br>
-<br>Miss Sim Sze Hua
+<p>Miss Sim Sze Hua
 <br><a href="mailto:sim_sze_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sze_hua@schools.gov.sg</a>
 </p>
 </td>
@@ -486,9 +489,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Sivakami d/o Ratha
 <br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
-<br>
-<br>Mr Lee Jiun Wei
-<br><a href="mailto:Lee_Jiun_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jiun_Wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
