@@ -210,7 +210,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<hr>
 <h3><strong>Support Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
