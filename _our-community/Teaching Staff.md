@@ -539,8 +539,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kuek Ai Hsiang
-<br><a href="mailto:kuek_ai_hsiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuek_ai_hsiang@schools.gov.sg</a>
+<p>Mdm Fauziah Binte Alang Mohammad Rom
+<br><a href="mailto:fauziah_alang_mohammad_rom@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_alang_mohammad_rom@schools.gov.sg</a>
+<br>
+<br>Mr Quek Xiang Jing
+<br><a href="mailto:quek_xiang_jing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_xiang_jing@schools.gov.sg</a>
+<br>
+<br>Mdm Nurhayati binte Nasir
+<br><a href="mailto:nurhayati_nasir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_nasir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -550,8 +556,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Liang Tien Terrance
-<br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
+<p>Mdm Maisarah Binte Zainal Abiden
+<br><a href="mailto:maisarah_zainal_abiden@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_zainal_abiden@schools.gov.sg</a>
+<br>
+<br>Miss Sim Sze Hua
+<br><a href="mailto:sim_sze_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sze_hua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -561,7 +570,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Mary Tong
+<br><a href="mailto:tong_mary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_mary@schools.gov.sg</a>
+<br>
+<br>Mdm Lee Kim Kim
+<br><a href="mailto:lee_kim_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_kim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -570,8 +584,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Huang-Giok Mei Charn Chloe
-<br><a href="mailto:chloe_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chloe_huang@schools.gov.sg</a>
+<p>Mdm Kuek Ai Hsiang
+<br><a href="mailto:kuek_ai_hsiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuek_ai_hsiang@schools.gov.sg</a>
+<br>
+<br>Mdm Monalisa Bte Mohamed Sudin
+<br><a href="mailto:monalisa_mohamed_sudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">monalisa_mohamed_sudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -581,7 +598,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nirmala d/o Arumugam
+<br><a href="mailto:nirmala_arumugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nirmala_arumugam@schools.gov.sg</a>
+<br>
+<br>Mr Heng Kai Le
+<br><a href="mailto:heng_kai_le@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_kai_le@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
