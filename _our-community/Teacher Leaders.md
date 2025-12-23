@@ -22,17 +22,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher
-<br>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Seow Yen Sandra
-<br><a href="mailto:lee_seow_yen_sandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_seow_yen_sandra@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher
 <br>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +55,28 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Mdm Anita Kaur
 <br><a href="mailto:anita_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anita_kaur@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Amalina Bte Mohd Said
+<br><a href="mailto:siti_amalina_mohamed_sai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_amalina_mohamed_sai@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Han Ying
+<br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
