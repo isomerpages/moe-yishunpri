@@ -119,6 +119,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Primary 2</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -237,6 +238,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Primary 3</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -338,6 +340,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Primary 4</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -428,6 +431,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Primary 5</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -518,6 +522,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Primary 6</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -608,6 +613,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><strong>Non-Form Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
