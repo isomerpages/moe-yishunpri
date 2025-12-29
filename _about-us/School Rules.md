@@ -21,7 +21,7 @@ variant: markdown
 14.	Students must arrive on time for all scheduled activities, lessons, and school events. 
 
 ### **<center>Anti-Bullying Policy</center>**
-1. Bullying is defined as the deliberate and repeated behaviour that causes physical, emotional, or psychological harm. It involves misuse of power that occurs on:
+1. Bullying is defined as the deliberate and repeated behaviour that causes physical, social, verbal or cyber harm. It involves misuse of power that occurs on:
 * school premises, 
 * during school-related activities (including online platforms) and 
 * outside of the school when it impacts the wellbeing of our students or the school environment.
