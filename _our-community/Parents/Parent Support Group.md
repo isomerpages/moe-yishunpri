@@ -8,6 +8,8 @@ variant: markdown
 ##### **Our Partners in Education**
 Our PSG plays a key role in supporting many of our school’s programmes and events. They devote quality time to give support to the teachers, all for the betterment of our children’s education journey.
 
+Our PSG activities are premised on the <a href="https://for.edu.sg/yps-school-home-partnership-guidelines" target="_blank">3Rs of engagement; Respectful Communication, Role Models and Real Connections</a>.
+
 ##### **Roles of YPS PSG**
 *   Facilitates communication among school and parents/community
 *   Serves as a communication channel for parents to provide constructive feedback on school programmes
