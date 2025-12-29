@@ -115,11 +115,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Mother Tongue Languages</p>
+<br>Mother Tongue Languages
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chiang Te Hui
-<br><a href="mailto:chiang_te_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_te_hui@schools.gov.sg</a>
+<p>Mdm Sivakami d/o Ratha
+<br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -148,8 +149,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Character &amp; Citizenship Education
-<br>(Covering)</p>
+<br>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Binte Alang Mohammad Rom
@@ -160,7 +160,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Special Education Needs &amp; Educational Support</p>
+<br>Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kuek Ai Hsiang
@@ -198,11 +198,23 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Tamil Language</p>
+<br>Chinese Language
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sivakami d/o Ratha
-<br><a href="mailto:sivakami_ratha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sivakami_ratha@schools.gov.sg</a>
+<p>Miss Sim Sze Hua
+<br><a href="mailto:sim_sze_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sze_hua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohayah Binte Ya'acub
+<br><a href="mailto:rohayah_yaacub@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rohayah_yaacub@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -255,12 +267,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Student Management
-<br>(Internal)</p>
+<br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maswati Binte Mohamed Nor
-<br><a href="mailto:Maswati_Mohamed_Nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maswati_Mohamed_Nor@schools.gov.sg</a>
+<p>Mr V Ilanchezhiyan
+<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -332,26 +343,38 @@ variant: tiptap
 <br>(Primary 5 &amp; Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Liang Tien Terrance
-<br><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_liang_tien@schools.gov.sg</a>
+<p>Mr Yang Binglin
+<br><a href="mailto:yang_binglin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_binglin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 3)</p>
+<br>(Primary 1 &amp; Primary 2)
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr V Ilanchezhiyan
-<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
+<p>Ms Fam Xinru Winnie
+<br><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 5)</p>
+<br>(Primary 3 &amp; Primary 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bahar Ali Bin Sakor
+<br><a href="mailto:bahar_ali_sakor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bahar_ali_sakor@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Primary 5 &amp; Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nirmala Arumugam
