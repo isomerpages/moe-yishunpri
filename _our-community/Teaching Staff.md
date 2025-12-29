@@ -44,6 +44,9 @@ variant: tiptap
 <br>
 <br>Mdm Wong Pei Fen
 <br><a href="mailto:Wong_Pei_Fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Pei_Fen@schools.gov.sg</a>
+<br>
+<br>Miss Nur Insyirah Binte Azhar
+<br><a href="mailto:nur_insyirah_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_insyirah_azhar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -58,6 +61,9 @@ variant: tiptap
 <br>
 <br>Miss Zhuo Cangyuan
 <br><a href="mailto:zhuo_cangyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_cangyuan@schools.gov.sg</a>
+<br>
+<br>Mr Prasath Narayanan
+<br><a href="mailto:prasath_narayanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prasath_narayanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
