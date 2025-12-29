@@ -160,7 +160,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Special Education Needs &amp; Educational Support</p>
+<br>Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kuek Ai Hsiang
