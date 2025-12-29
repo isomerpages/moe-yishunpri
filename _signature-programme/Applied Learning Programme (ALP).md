@@ -2,6 +2,7 @@
 title: Applied Learning Programme (ALP)
 permalink: /signature-programme/alp/
 description: ""
+variant: markdown
 ---
 ### **STEM (Sustainability)**
 Our ALP STEM (Sustainability) aims to connect academic knowledge and skills with real-world applications, while promoting sustainable practices and habits through our environmental education.
@@ -37,4 +38,4 @@ For example, in the ’Much-room for Investigation’ programme, the school inte
 
 **<u>Community</u>**
 <br>
-<img src="/images/Experience/Signature%20Programme/alp_06_v1.jpg" style="width:350px;height:238px; float: right">To extend the IBL to include elements of service learning, students grew spinach during social studies lessons via the Aeroponics system and donated the vegetables to the community fridge located at a neighbouring HDB block. This provide students with an opportunity to give back to the community.
+To extend the IBL to include elements of service learning, students grew spinach during social studies lessons via the Aeroponics system and donated the vegetables to the community fridge located at a neighbouring HDB block. This provide students with an opportunity to give back to the community.
