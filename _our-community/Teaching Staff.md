@@ -370,6 +370,9 @@ variant: tiptap
 <br>
 <br>Mr Lee Jiun Wei
 <br><a href="mailto:Lee_Jiun_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Jiun_Wei@schools.gov.sg</a>
+<br>
+<br>Miss Mandy Ng Si Zhen
+<br><a href="mailto:mandy_ng_si_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mandy_ng_si_zhen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -384,6 +387,9 @@ variant: tiptap
 <br>
 <br>Mdm Siti Karmila Binte Abu
 <br><a href="mailto:siti_karmila_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_karmila_abu@schools.gov.sg</a>
+<br>
+<br>Miss Tee Li Xuan
+<br><a href="mailto:tee_li_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_li_xuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
