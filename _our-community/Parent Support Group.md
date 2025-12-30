@@ -1,8 +1,7 @@
 ---
 title: Parent Support Group
-permalink: /our-community/parents/psg/
+permalink: /our-community/psg/
 description: ""
-third_nav_title: Parents
 variant: markdown
 ---
 ##### **Our Partners in Education**
