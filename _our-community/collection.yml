@@ -2,12 +2,12 @@ collections:
   our-community:
     output: true
     order:
-      - Parent Support Group.md
       - Executive Committee.md
       - Teacher Leaders.md
       - Teaching Staff.md
       - Non Teaching Staff.md
       - School Advisory Committee.md
+      - Parent Support Group.md
       - Parents/.keep
       - Parents/Triple P (Positive Parenting Programme).md
       - Alumni.md
