@@ -463,9 +463,6 @@ variant: tiptap
 <br>
 <br>Mdm Kirenjit Kaur Gill
 <br><a href="mailto:kirenjit_kaur_gill@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kirenjit_kaur_gill@schools.gov.sg</a>
-<br>
-<br>Mr Neo Chow Wei Christopher
-<br><a href="mailto:neo_chow_wei_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chow_wei_christopher@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -497,6 +494,9 @@ variant: tiptap
 <br>
 <br>Mrs Ribut Aziz
 <br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a>
+<br>
+<br>Mr Neo Chow Wei Christopher
+<br><a href="mailto:neo_chow_wei_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chow_wei_christopher@schools.gov.sg</a>
 </p>
 </td>
 </tr>
