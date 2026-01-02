@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Gratitude*</strong>
+<p><strong>1 Gratitude</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,9 +402,6 @@ variant: tiptap
 <p>Ms Elsie Kwan Yin Teng
 <br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
 <br>
-<br>Mr V Ilanchezhiyan
-<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
-<br>
 <br>Ms Soong Jing Min
 <br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
 </p>
@@ -430,8 +427,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Poh Ling Katherine
-<br><a href="mailto:lim_poh_ling_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_ling_katherine@schools.gov.sg</a>
+<p>Mr V Ilanchezhiyan
+<br><a href="mailto:v_ilanchezhiyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_ilanchezhiyan@schools.gov.sg</a>
 <br>
 <br>Mr Li Dahao, Daniel
 <br><a href="mailto:daniel_li_da_hao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_li_da_hao@schools.gov.sg</a>
@@ -483,6 +480,9 @@ variant: tiptap
 <br>
 <br>Miss Fatin Sakinah Binte Azizian
 <br><a href="mailto:fatin_sakinah_azizian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_sakinah_azizian@schools.gov.sg</a>
+<br>
+<br>Mdm Lim Poh Ling Katherine
+<br><a href="mailto:lim_poh_ling_katherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_ling_katherine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
