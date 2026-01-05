@@ -691,33 +691,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Liew Shaw Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_shaw_leong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Anandakumar Divyanandhini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anandakumar_divyanandhini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anandakumar_divyanandhini@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Stanley Wong Jun Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jun_kai_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jun_kai_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Alissa Goh Yoke En
 <br>(Senior SEN Officer)</p>
 </td>
