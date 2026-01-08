@@ -135,7 +135,7 @@ variant: tiptap
 <p>K2 Amethyst</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Shangyu
+<p>Ms Zhang Shangyu, Jade
 <br><a href="mailto:zhang_shangyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_shangyu@schools.gov.sg</a>
 </p>
 </td>
@@ -151,45 +151,40 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Staff</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Yufen</p>
+<p>K1 CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Zhang_yufen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_yufen@moe.edu.sg</a>
+<p>Mdm Zhang Yufen
+<br><a href="mailto:Zhang_yufen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_yufen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Jin</p>
+<p>K1 CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jin@moe.edu.sg</a>
+<p>Mdm Lin Jin
+<br><a href="mailto:lin_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_jin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Hongmei</p>
+<p>K2 CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Liu_Hongmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Hongmei@moe.edu.sg</a>
+<p>Mdm Liu Hongmei
+<br><a href="mailto:Liu_Hongmei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Hongmei@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -206,15 +201,16 @@ variant: tiptap
 <p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Staff</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shamani Devi D/O Sangaran</p>
+<p>K1 &amp; K2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shamani_devi_sangaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamani_devi_sangaran@moe.edu.sg</a>
+<p>Ms Shamani Devi D/O Sangaran
+<br><a href="mailto:shamani_devi_sangaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shamani_devi_sangaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -229,27 +225,49 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Staff</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah Liyana Binte Rohim</p>
+<p>Tadika1 Bunga Telang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nadiah_Liyana_Rohim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_Liyana_Rohim@moe.edu.sg</a>
+<p>Miss Nur Hibriyah Binte Amran
+<br><a href="mailto:nur_hibriyah_amran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hibriyah_amran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Hibriyah Binte Amran</p>
+<p>Tadika1 Matahari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hibriyah_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hibriyah_amran@moe.edu.sg</a>
+<p>Ms Nadiah Liyana Binte Rohim
+<br><a href="mailto:Nadiah_Liyana_Rohim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nadiah_Liyana_Rohim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tadika2 Mawar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Hibriyah Binte Amran
+<br><a href="mailto:nur_hibriyah_amran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hibriyah_amran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tadika2 Melur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Masturah Binte Yusoff
+<br><a href="mailto:masturah_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">masturah_yusoff@moe.edu.sg</a>
 </p>
 </td>
 </tr>
