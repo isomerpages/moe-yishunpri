@@ -12,6 +12,7 @@ Our dancers have performed in various external events such as, Singapore Youth F
 ##### **Teachers-in-Charge**
 * Mdm Lee Kim Kim (I/C) (lee_kim_kim@schools.gov.sg)
 * Ms Han Ying (2 I/C) (han_ying_a@ schools.gov.sg)
+* Mdm Yap Gek Jie (Yap_Gek_Jie@schools.gov.sg)
 
 ##### **Venue**
 * Music Room 1
