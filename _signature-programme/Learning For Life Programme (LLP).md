@@ -16,10 +16,10 @@ In this tier, students are exposed to a wide range of art forms, cultures and tr
 
 *<center><img src="/images/Experience/Signature%20Programme/llp_05_v1.jpg" style="width:492px;height:528px">Our P1 Angklung modular programme allows students to appreciate the Indonesian culture and hone their instrument playing skills.</center>*
 
-*<center><img src="/images/Experience/Signature%20Programme/llp_04_v1.jpg">Providing authentic learning experiences through learning journeys.</center>*
+*<center><img src="/images/Experience/Signature%20Programme/llp_06_v1.jpg">Our P3 cohort learning journeys provide authentic learning experiences through interactions with local artistes.</center>*
 
 **<u>Tier 2: Connecting and enriching community</u>**
 
 This tier caters to students with a strong passion or talent for music, who wish to use it as a tool to engage with and enrich the community. Our Artist in Me programme and partnerships with external organisations promote inclusivity by allowing students to gather with like-minded peers to perform and connect with the broader community through music.
 
-*<center><img src="/images/Experience/Signature%20Programme/llp_03_v1.jpg" style="width:700px;height:319px">Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
+*<center><img src="/images/Experience/Signature%20Programme/llp_07_v1.jpg" style="width:679px;height:902px"><img src="/images/Experience/Signature%20Programme/llp_08_v1.jpg" style="width:679px;height:902px">Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
