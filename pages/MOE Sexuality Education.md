@@ -153,12 +153,13 @@ be taught in <strong><u>2026</u></strong>:</p>
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -171,8 +172,9 @@ affected, even when one’s body is experiencing changes due to puberty.
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,10 +190,10 @@ own responses when they encounter pornography by applying the strategy <strong>�
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+and how to seek help for themselves and their friends.</p>
 <p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4 Week 8</p>
@@ -241,7 +243,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +259,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 8</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
