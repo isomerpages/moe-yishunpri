@@ -23,8 +23,7 @@ This year, we are sending in four teams—Senior and Junior teams for both boys 
 
 ##### **Time and Days**
 * Tuesdays (Primary 3 to 6), 1.40 p.m. - 3.40 p.m.
-* Tuesdays (School Team), 1.40 p.m. - 4.10 p.m.
-* Fridays (School Team), 1.40 p.m. - 4.10 p.m.
+* Tuesdays &amp; Fridays (School Team), 1.40 p.m. - 4.10 p.m.
 
 ##### **Achievements**
 * **National School Games North Zone Senior Boy Division Basketball Championship 2022**<br>5th - 8th Placing
