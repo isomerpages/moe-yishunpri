@@ -9,10 +9,10 @@ Environmental Science empowers students to become environmental champions, foste
 
 ##### **Teachers-in-Charge**
 * Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
-* Mdm Nur Hamizah Bte Rosidin (2 I/C) (nur_hamizah_rosidin@schools.gov.sg)
+* Mdm Lim Poh Ling Katherine (2 I/C) (lim_poh_ling_katherine@schools.gov.sg)
 
 ##### **Venue**
-* Science Rooms
+* Science Room
 
 ##### **Time and Day**
 * Fridays, 1.40 p.m. - 3.40 p.m.
