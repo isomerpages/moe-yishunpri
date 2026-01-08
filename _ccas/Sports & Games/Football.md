@@ -12,17 +12,20 @@ Beyond the game, our Football CCA instills the core values of excellence, respec
 ##### **Teachers-in-Charge**
 * Mdm Isnarti Bte Ahmad Sani (I/C) (isnarti_ahmad_sani@schools.gov.sg)
 * Mr Bahar Ali Bin Sakor (2 I/C) (bahar_ali_sakor@schools.gov.sg)
-* Mr V Ilanchezhiyan (v_ilanchezhiyan@schools.gov.sg)
-* Mr Sheikh Omar (sheikh_omar_mohamad@schools.gov.sg)
-* Miss Serena Goh Yi Ting (serena_goh_yi_ting@schools.gov.sg)
+* Mdm Rohayah Binte Ya'acub (rohayah_yaacub@schools.gov.sg)
+* Mr Sheikh Omar Bin Mohamad (sheikh_omar_mohamad@schools.gov.sg)
+* Mr Neo Chow Wei Christopher (neo_chow_wei_christopher@schools.gov.sg)
+* Mr Prasath Narayanan (prasath_narayanan@schools.gov.sg)
 
 ##### **Venue**
 * School Field
+* School Hall
 * Indoor Sports Hall Level 6
 
 ##### **Time and Days**
-* Tuesdays, 1.40 p.m. - 3.40 p.m.
-* Fridays, 1.40 p.m. - 3.40 p.m.
+* Tuesdays (Primary 3 &amp; 6), 1.40 p.m. - 3.40 p.m.
+* Fridays (Primary 4 &amp; 5), 1.40 p.m. - 3.40 p.m.
+* Tuesdays &amp; Fridays (School Team), 1.40 p.m. - 4.10 p.m.
 
 ##### **Achievements**
 * **National School Games Senior Boys 2025** - Top 8 in League 2
