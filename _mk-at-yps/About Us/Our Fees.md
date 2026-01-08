@@ -20,7 +20,7 @@ MK Fees are also payable during the June and December holidays. There are no add
 ![](/images/MK%20YPS/About%20Us/mk_kifas_updated.jpg)
 
 #### **Kindergarten Care (KCare) fees**
-If you opt for our KCare services, the monthly fee for KCare @Yishun (2025) under Neighbourhood Care Services (NCS) is:
+If you opt for our KCare services, the monthly fee for KCare @Yishun (2026) Commit Learning Schoolhouse (CLS) is:
 
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
