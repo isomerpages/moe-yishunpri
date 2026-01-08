@@ -35,5 +35,5 @@ This is a sample timetable on what your child will do in a day if he/she takes u
 #### **Contact Us**
 
 **<u>KCare-Related Matters</u>**
-<br>Tel: 9299 2610
-<br>Email: [YPS.KCare@gmail.com](mailto:YPS.KCare@gmail.com)
+<br>Tel: 8078 6796
+<br>Email: [admission_cls_yps_kcare@commitlearning.com.sg](mailto:admission_cls_yps_kcare@commitlearning.com.sg)
