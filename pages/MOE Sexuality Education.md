@@ -56,6 +56,7 @@ foundation for strong families);</p>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+<p></p>
 </li>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
@@ -63,18 +64,19 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<h4><strong>Overview of Yishun Primary School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>OVERVIEW OF YISHUN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science</p>
@@ -111,7 +113,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p>
 <br>At Yishun Primary School, the following Sexuality Education lessons will
-be taught in <strong><u>2025</u></strong>:</p>
+be taught in <strong><u>2026</u></strong>:</p>
 </li>
 </ol>
 <h4><strong>Primary 5</strong></h4>
