@@ -8,9 +8,9 @@ variant: markdown
 Chess is a fun, creative and challenging strategic board game for all ages. As a game of strategy, Chess promotes cognitive and critical thinking among the players as they analyze each move in the game. We aim to develop the players’ patience and tenacity while playing the game and also inculcate in them our school’s core values of gratitude, care, resilience, respect, responsibility and integrity. gratitude, care, resilience, respect, responsibility and integrity.
 
 ##### **Teachers-in-Charge**
-* Mr Toh Wai Woon Keith (I/C) (toh_wai_woon@schools.gov.sg)
-* Miss Joan Kam See Mun (2 I/C) (joan_kam_see_mun@schools.gov.sg)
-* Mdm Yap Gek Jie (yap_gek_jie@schools.gov.sg)
+* Mr Ghanaprakasam s/o Subramaniam (I/C) (ghanaprakasam_subramanian@schools.gov.sg)
+* Mr V Ilanchezhiyan (2 I/C) (v_ilanchezhiyan@schools.gov.sg)
+* Mr Keith Toh Wai Woon (toh_wai_woon@schools.gov.sg)
 
 ##### **Venue**
 * Classrooms C3-04
