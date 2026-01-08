@@ -28,17 +28,17 @@ Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/star
 #### **Pilot Programme to Increase MTL Exposure in MOE Kindergartens**
 To build a strong Mother Tongue Language (MTL) foundation and nurture children’s motivation to learn MTL, the Ministry of Education (MOE) has implemented a pilot programme to increase children’s exposure to MTL in selected MOE Kindergartens (MKs).
 
-<u>**What this means for your child (MK@Yishun, from 2026)**</u>
+**<u>What this means for your child (MK@Yishun, from 2026)</u>**
 <br>From 2026, MK@Yishun will be implementing this pilot programme for both K1 and K2. Under the programme, children will have an **additional 30 minutes of learning activities conducted in MTL**.
 
-<u>**What children will learn**</u>
+**<u>What children will learn</u>**
 <br>The programme continues to focus on developing children’s:
 * Listening and speaking skills
 * Early literacy skills
 
 These will be supported through age-appropriate resources and engaging activities.
 
-<u>**Through the programme, your child will:**</u>
+**<u>Through the programme, your child will:</u>**
 * Experience joy in learning and grow in confidence using MTL
 * Have more opportunities to learn and use MTL within and beyond school
 
