@@ -4,7 +4,11 @@ permalink: /mk-at-yps/mk-staff/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Centre Leader</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK YPS/MK Staff/mk_staff_photo_2025.jpg">
+</div>
+<h3><strong>Centre Leader &amp; Admin</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,7 +29,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shalomi Shalini Rishaba Raj
-<br><a href="mailto:shalomi_shalini_rishaba_raj@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shalomi_shalini_rishaba_raj@moe.edu.sg</a>
+<br><a href="mailto:shalomi_shalini_rishaba_raj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shalomi_shalini_rishaba_raj@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Juliana Binte Mohamad Sharif
+<br><a href="mailto:juliana_mohamad_sharif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_mohamad_sharif@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -40,72 +54,89 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Staff</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aqilah Sharafanah Binte Samsudin</p>
+<p>K1 Ruby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aqilah_sharafanah_samsudin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_sharafanah_samsudin@moe.edu.sg</a>
+<p>Ms Siti Nurhazimah Binte Mohd Ebrahim
+<br><a href="mailto:Siti_Nurhazimah_Mohd_Ebrahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nurhazimah_Mohd_Ebrahim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nurhazimah Binte Mohd Ebrahim</p>
+<p>K1 Opal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Nurhazimah_Mohd_Ebrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Nurhazimah_Mohd_Ebrahim@moe.edu.sg</a>
+<p>Ms Deena Nabilah Binte Nor'azali Rais
+<br><a href="mailto:Deena_Nabilah_Norazali_Rais@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Deena_Nabilah_Norazali_Rais@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nikki Sabrina Binte Jamaluddin</p>
+<p>K1 Saphire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nikki_Sabrina_Jamaluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Nikki_Sabrina_Jamaluddin@moe.edu.sg</a>
+<p>Ms Sunitaa Rajendraprasad
+<br><a href="mailto:Sunitaa_Rajendraprasad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sunitaa_Rajendraprasad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Deena Nabilah Binte Nor'azali Rais</p>
+<p>K1 Topaz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Deena_Nabilah_Norazali_Rais@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Deena_Nabilah_Norazali_Rais@moe.edu.sg</a>
+<p>Ms Nikki Sabrina Binte Jamaluddin
+<br><a href="mailto:Nikki_Sabrina_Jamaluddin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nikki_Sabrina_Jamaluddin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Shaabrina Binte Roslan</p>
+<p>K2 Pearl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_shaabrina_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shaabrina_roslan@moe.edu.sg</a>
+<p>Mdm Nurul Athirah Binte Abdul Rahman
+<br><a href="mailto:nurul_athirah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_athirah_abdul_rahman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms T Kasturi</p>
+<p>K2 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:T_Kasturi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">T_Kasturi@moe.edu.sg</a>
+<p>Ms Nur Shaabrina Binte Roslan
+<br><a href="mailto:nur_shaabrina_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_shaabrina_roslan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Athirah Binte Abdul Rahman</p>
+<p>K2 Diamond</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_athirah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_athirah_abdul_rahman@moe.edu.sg</a>
+<p>Ms T Kasturi
+<br><a href="mailto:T_Kasturi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">T_Kasturi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>K2 Amethyst</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Shangyu
+<br><a href="mailto:zhang_shangyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_shangyu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -155,11 +186,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Shangyu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_shangyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_shangyu@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
