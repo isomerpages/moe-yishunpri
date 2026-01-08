@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
+variant: markdown
 ---
 ### **Vision**
 
@@ -24,7 +25,7 @@ The Aesthetics department believes that the Arts play a vital role in shaping st
 <br>
 The Aesthetics department takes a holistic and student-centred approach to music education. Our curriculum is designed to develop a lifelong appreciation of music and nurture students' musical qualities. From P1 to P6, students participate in authentic musical experiences such as singing, playing instruments, and creative expression. With the integration of ICT tools, our digital music curriculum enhances students' skills and knowledge, providing them with a dynamic and engaging learning experience.
 
-![](/images/Experience/Curriculum/aesthetics-01-v1.jpg)
+<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThFUTRkdH7Ul3gsF5lXwnjYArLmxyqpDA37uZOf50ROVDl0WXm3YslPaXxJagN_u8dQABRK0fuHU_g/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **<u>Art Education</u>**
 <br>
@@ -32,4 +33,4 @@ The Art curriculum aims to develop active artists and informed audience members 
 
 Our Primary 4 students would participate in the National Gallery Museum-based Learning Journey to view local art while engaging in discussions using the 'See, Think, Wonder' thinking routine to develop their critical thinking skills.
 
-![](/images/Experience/Curriculum/aesthtetics_02_v1.jpg)
+<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWOT64NJLKR_4NKQ7MLsrHQjc3pdtbNe3ib83AWPYDe9R4Xqerg6hhXymd1h_Z0qT6lxNbpWz17_VB/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

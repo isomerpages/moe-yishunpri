@@ -14,10 +14,10 @@ Through meaningful art-making processes, students develop their character and gr
 ##### **Teachers-in-Charge**
 * Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
 * Mdm Goh Silk (2 I/C) (goh_silk@schools.gov.sg)
-* Mdm Kirenjit Kaur Gill (kirenjit_kaur_gill@schools.gov.sg)
+* Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)
+* Mdm Seah Meng Hui Joanna (seah_meng_hui_joanna@schools.gov.sg)
 * Mdm Siti Wahida Binte Zainal Abidin (siti_wahida@schools.gov.sg)
-* Mdm Monalisa Bte Mohamed Sudin (monalisa_mohamed_sudin@schools.gov.sg)
-* Miss Nata Aqilah Bte Rizal (natasha_aqilah_rizal@schools.gov.sg)
+* Miss Nur Insyirah Binte Azhar (nur_insyirah_azhar@schools.gov.sg)
 
 ##### **Venue**
 * Art Rooms   

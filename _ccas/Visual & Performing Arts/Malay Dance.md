@@ -12,6 +12,7 @@ Our dancers are given opportunities to perform at various platforms such as scho
 ##### **Teachers-in-Charge**
 * Mdm Siti Nafizah Bte A Bakar (I/C) (siti_nafizah_abu_bakar@schools.gov.sg)
 * Mdm Azura Bte Abu (2 I/C) (azura_abu@schools.gov.sg)
+* Miss Fatin Sakinah Binte Azizian (fatin_sakinah_azizian@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 5 (Teaching Lab)

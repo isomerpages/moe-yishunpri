@@ -3,6 +3,7 @@ title: Our Curriculum
 permalink: /mk-at-yps/mk-yishun-experience/mk-curriculum/
 description: ""
 third_nav_title: Our MK Experience
+variant: markdown
 ---
 Our curriculum is specially designed based on <a href="https://www.nel.moe.edu.sg/" target="_blank">MOE’s Nurturing Early Learners (NEL) Framework</a>.
 
@@ -23,6 +24,25 @@ Language learning is made fun for children through the use of a rich variety of 
 ![](/images/MK%20YPS/The%20MK%20Experience/mk_experience_starlight.jpg)
 
 Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank">here</a> to find out more about the Starlight programmes.
+
+#### **Pilot Programme to Increase MTL Exposure in MOE Kindergartens**
+To build a strong Mother Tongue Language (MTL) foundation and nurture children’s motivation to learn MTL, the Ministry of Education (MOE) has implemented a pilot programme to increase children’s exposure to MTL in selected MOE Kindergartens (MKs).
+
+**<u>What this means for your child (MK@Yishun, from 2026)</u>**
+<br>From 2026, MK@Yishun will be implementing this pilot programme for both K1 and K2. Under the programme, children will have an **additional 30 minutes of learning activities conducted in MTL**.
+
+**<u>What children will learn</u>**
+<br>The programme continues to focus on developing children’s:
+* Listening and speaking skills
+* Early literacy skills
+
+These will be supported through age-appropriate resources and engaging activities.
+
+**<u>Through the programme, your child will:</u>**
+* Experience joy in learning and grow in confidence using MTL
+* Have more opportunities to learn and use MTL within and beyond school
+
+
 
 #### **Weeks of Wonder (WoW) projects!**
 To deepen children’s learning, each term culminates in a WoW project. Children work together with their friends and teachers to investigate topics of their interest. Through the WoW projects, children experience the joy of self-motivated learning and find answers to their questions.

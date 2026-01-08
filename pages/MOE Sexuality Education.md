@@ -56,6 +56,7 @@ foundation for strong families);</p>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+<p></p>
 </li>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
@@ -63,18 +64,19 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <p></p>
-<h4><strong>Overview of Yishun Primary School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>OVERVIEW OF YISHUN PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Science</p>
@@ -111,7 +113,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p>
 <br>At Yishun Primary School, the following Sexuality Education lessons will
-be taught in <strong><u>2025</u></strong>:</p>
+be taught in <strong><u>2026</u></strong>:</p>
 </li>
 </ol>
 <h4><strong>Primary 5</strong></h4>
@@ -151,12 +153,13 @@ be taught in <strong><u>2025</u></strong>:</p>
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -169,8 +172,9 @@ affected, even when one’s body is experiencing changes due to puberty.
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,10 +190,10 @@ own responses when they encounter pornography by applying the strategy <strong>�
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
+and how to seek help for themselves and their friends.</p>
 <p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4 Week 8</p>
@@ -239,7 +243,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 10</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -255,7 +259,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 8</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -269,13 +273,13 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated&nbsp;to
-parents at the start of the year and is also downloadable <a href="/files/Forms/2025_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 31/01/2025.</p>
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="/files/Forms/2026_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 30/01/2026.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 62577461 or email to&nbsp;<a href="mailto:yps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yps@moe.edu.sg</a> for
+<p>Parents can contact the school at 62577461 or email to <a href="mailto:yps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>

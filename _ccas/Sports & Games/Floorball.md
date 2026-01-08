@@ -10,6 +10,7 @@ Yishun Primary Schoolâ€™s Floorball CCA is dedicated to developing our playersâ€
 ##### **Teachers-in-Charge**
 * Mr Lee Jiun Wei (I/C) (lee_jiun_wei@schools.gov.sg)
 * Miss Siti Amalina Binte Mohamed Said (2 I/C) (siti_amalina_mohamed_sai@schools.gov.sg)
+* Miss Serena Goh Yi Ting (Serena_goh_yi_ting@schools.gov.sg)
 
 ##### **Venue**
 * School Hall

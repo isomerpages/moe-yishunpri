@@ -6,7 +6,7 @@ third_nav_title: About Us
 variant: markdown
 ---
 #### **MOE Kindergarten (MK) fees**
-The monthly fee for MK in 2024/2025 is:
+The monthly fee for MK in 2026 is:
 
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
@@ -20,14 +20,14 @@ MK Fees are also payable during the June and December holidays. There are no add
 ![](/images/MK%20YPS/About%20Us/mk_kifas_updated.jpg)
 
 #### **Kindergarten Care (KCare) fees**
-If you opt for our KCare services, the monthly fee for KCare @Yishun (2025) under Neighbourhood Care Services (NCS) is:
+If you opt for our KCare services, the monthly fee for KCare @Yishun (2026) Commit Learning Schoolhouse (CLS) is:
 
 | Singapore Citizen | Singapore Permanent Resident |
 | :--------: | :--------: |
-| $210.00<br>*(Fee after $150.00 basic subsidy)* | $360.00 |
+| $200.00<br>*(Fee after $150.00 basic subsidy)* | $350.00 |
 
 KCare fees are:
-* Paid directly to Neighbourhood Care Services (NCS).
+* Paid directly to Commit Learning Schoolhouse (CLS).
 * Also payable during June and December holidays.
 
 Upon successful enrolment to KCare, the fees payable upfront are as follows,
@@ -35,8 +35,6 @@ Upon successful enrolment to KCare, the fees payable upfront are as follows,
 
 **<u>Additional KCare Subsidy</u>**
 <br>Additional subsidy is also provided for Singapore Citizens, and this is tiered according to income levels. You may use the <a href="https://moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" target="_blank">KCare Eligibility Calculator</a> on the MOE Internet to check whether your child is eligible for the additional KCare subsidy.
-
-![](/images/MK%20YPS/About%20Us/mk_kcare_subsidy.jpg)
 
 #### **MK Uniform**
 You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg/product-detail/moe-kindergarten/moe-kindergarten-mk-polo-t-shirt" target="_blank">Beau Voix Uniform</a> or <a href="https://jeepsinguniform.com/collections/moe-kindergarten-uniforms" target="_blank">Jeep Sing Fashion</a> at the following prices:
@@ -46,5 +44,3 @@ You can purchase the MK uniform from either <a href="https://www.beauvoix.com.sg
 | (TOP) **Polo T-Shirt** | $7.00 | $7.00 |
 | (BOTTOM) **Shorts for Boys** | $7.00 | $8.00 |
 | (BOTTOM) **Skorts for Girls** | $7.00 | $8.00 |
-
-We recommend that each child has at least three sets of uniform.

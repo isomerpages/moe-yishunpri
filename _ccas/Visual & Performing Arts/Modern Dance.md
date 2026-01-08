@@ -9,8 +9,8 @@ Yishun Primary Modern Dance CCA aims to bring students who come from diverse bac
 We hope that talented and interested young dancers can join us in our dance journey.
 
 ##### **Teachers-in-Charge**
-* Mrs Liza Ng (I/C) (fong_pui_shan@schools.gov.sg)
-* Mdm Dewi Kartika Bte Sudirman (2 I/C) (dewi_kartika_sudirman@schools.gov.sg)
+* Mdm Fong Pui Shan (I/C) (fong_pui_shan@schools.gov.sg)
+* Miss Guan Qinqin (2 I/C) (guan_qin_qin@schools.gov.sg)
 * Ms Nirmala d/o Arumugam (nirmala_arumugam@schools.gov.sg)
 
 ##### **Venue**

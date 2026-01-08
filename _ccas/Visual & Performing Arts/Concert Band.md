@@ -12,14 +12,15 @@ The band actively participates in prestigious music events, such as the Singapor
 ##### **Teachers-in-Charge**
 * Ms Sim Sze Hua (I/C) (sim_sze_hua@schools.gov.sg)
 * Mr Teng Ji Song Lawrence (2 I/C) (Teng_Ji_Song_Lawrence@schools.gov.sg)
-* Miss Bernice Cheng (cheng_xinyi_bernice@schools.gov.sg)
-* Miss Lee Linghui Alcina (lee_linghui_alcina@schools.gov.sg)
+* Miss Cham Shi Hui Audrey (Cham_Shi_Hui@schools.gov.sg)
+* Miss Cheng Xinyi Bernice (cheng_xinyi_bernice@schools.gov.sg)
 * Miss Gan Ke Ting (gan_ke_ting@schools.gov.sg)
 * Mr Li Dahao, Daniel (daniel_li_da_hao@schools.gov.sg)
+* Miss Tee Li Xuan (tee_li_xuan@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 4 (Band Room)
-* Classrooms C4-01, C4-04, D4-02 and D4-03
+* Classrooms C4-01, C4-04
 
 ##### **Time and Days**
 * Wednesdays, 2.00 p.m. - 5.30 p.m.
