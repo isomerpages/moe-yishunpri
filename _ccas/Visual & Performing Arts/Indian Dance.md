@@ -12,8 +12,9 @@ Through the practice sessions, students learn the basic steps of the Indian clas
 Our dancers have performed in various external events such as, the International Biology Olympiad 2012, SINDA Excellence Award 2012, National Arts Council’s Award ceremony 2014, International Conference of the world Association of Lesson Studies (WALS) 2012, National Day celebrations at Chong Pang CC and Singapore Youth Festival.
 
 ##### **Teachers-in-Charge**
-* Mdm Sathiya Kala (I/C) (sathiya_kala_ramasamy@schools.gov.sg)
+* Mdm Sathiya kala d/o Ramasamy (I/C) (sathiya_kala_ramasamy@schools.gov.sg)
 * Mdm Praveena (2 I/C) (praveena_raja_manickam@schools.gov.sg)
+* Ms Kaviarasi Sanggar (kaviarasi_sanggar@schools.gov.sg)
 
 ##### **Venue**
 * Music Room 2
