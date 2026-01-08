@@ -8,9 +8,13 @@ variant: markdown
 
 At LaunchPad@YPS, we believe in cultivating self-directed learning and ownership of learning among our students.
 
-<img src="/images/Experience/Signature%20Programme/launchpad_02_v1.jpg" style="width:440px;height:344px; float: right">By allowing them the freedom to choose the programmes they wish to participate in, we are empowering them to take control of their own learning journey. This helps our students to develop greater self-awareness, as they identify their passions and strengths, and build self-confidence as they take charge of their learning. They also develop self-reflection skills as they evaluate their learning and progress, which in turn leads to continuous self-improvement.
+By allowing them the freedom to choose the programmes they wish to participate in, we are empowering them to take control of their own learning journey. This helps our students to develop greater self-awareness, as they identify their passions and strengths, and build self-confidence as they take charge of their learning. They also develop self-reflection skills as they evaluate their learning and progress, which in turn leads to continuous self-improvement.
 
 The range of activities offered at LaunchPad@YPS cuts across the cognitive, aesthetic, moral, physical, social student outcomes.
+
+![](/images/Experience/Signature%20Programme/launchpad_16_v1.jpg)<i>Participants of World Aquatics Championships Singapore 2025 Initiative</i>
+
+![](/images/Experience/Signature%20Programme/launchpad_17_v1.jpg)<i>Participants of a Chinese language e-book competition</i>
 
 ### **National Calligraphy Competition 2025**
 The National Calligraphy Competition organised yearly by Hong Wen School is an experience designed to cultivate an appreciation for Chinese culture through the timeless art of calligraphy. This competition aims to promote the beauty and precision of Chinese calligraphy while celebrating the rich traditions and festive seasons that shape Chinese heritage.
