@@ -22,4 +22,4 @@ In this tier, students are exposed to a wide range of art forms, cultures and tr
 
 This tier caters to students with a strong passion or talent for music, who wish to use it as a tool to engage with and enrich the community. Our Artist in Me programme and partnerships with external organisations promote inclusivity by allowing students to gather with like-minded peers to perform and connect with the broader community through music.
 
-*<center><img src="/images/Experience/Signature%20Programme/llp_07_v1.jpg" style="width:679px;height:902px"><img src="/images/Experience/Signature%20Programme/llp_08_v1.jpg" style="width:679px;height:902px">Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
+*<center><img src="/images/Experience/Signature%20Programme/llp_07_v2.jpg">Students can showcase their talents during the ‘Artist in Me’ recess performances slots.</center>*
