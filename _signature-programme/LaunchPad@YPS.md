@@ -12,9 +12,9 @@ By allowing them the freedom to choose the programmes they wish to participate i
 
 The range of activities offered at LaunchPad@YPS cuts across the cognitive, aesthetic, moral, physical, social student outcomes.
 
-![](/images/Experience/Signature%20Programme/launchpad_16_v1.jpg)<i>Participants of World Aquatics Championships Singapore 2025 Initiative</i>
+*<center><img src="/images/Experience/Signature%20Programme/launchpad_16_v1.jpg">Participants of World Aquatics Championships Singapore 2025 Initiative.</center>*
 
-![](/images/Experience/Signature%20Programme/launchpad_17_v1.jpg)<i>Participants of a Chinese language e-book competition</i>
+*<center><img src="/images/Experience/Signature%20Programme/launchpad_17_v1.jpg">Participants of a Chinese language e-book competition.</center>*
 
 ### **National Calligraphy Competition 2025**
 The National Calligraphy Competition organised yearly by Hong Wen School is an experience designed to cultivate an appreciation for Chinese culture through the timeless art of calligraphy. This competition aims to promote the beauty and precision of Chinese calligraphy while celebrating the rich traditions and festive seasons that shape Chinese heritage.
