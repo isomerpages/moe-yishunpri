@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
+variant: markdown
 ---
 ### **Vision**
 
@@ -24,7 +25,7 @@ The Aesthetics department believes that the Arts play a vital role in shaping st
 <br>
 The Aesthetics department takes a holistic and student-centred approach to music education. Our curriculum is designed to develop a lifelong appreciation of music and nurture students' musical qualities. From P1 to P6, students participate in authentic musical experiences such as singing, playing instruments, and creative expression. With the integration of ICT tools, our digital music curriculum enhances students' skills and knowledge, providing them with a dynamic and engaging learning experience.
 
-![](/images/Experience/Curriculum/aesthetics-01-v1.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThFUTRkdH7Ul3gsF5lXwnjYArLmxyqpDA37uZOf50ROVDl0WXm3YslPaXxJagN_u8dQABRK0fuHU_g/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 **<u>Art Education</u>**
 <br>
