@@ -8,19 +8,19 @@ variant: markdown
 At Yishun Primary School ICT Club, we aim to develop future ready learners through fun and interactive activities. Through a variety of activities, our members learn basic coding and programming skills, and gaining computational and critical thinking skills during the process.
 
 ##### **Teachers-in-Charge**
-* Mr Anthony Tay Poh Hua (I/C) (anthony_tay_poh_hua@schools.gov.sg)
-* Mr Tan Guan Sheng Bronson (2 I/C) (tan_guan_sheng@schools.gov.sg)
-* Mdm Siti Karmila Binte Abu (siti_karmila_abu@schools.gov.sg)
-* Mdm Sivakami d/o Ratha (sivakami_ratha@schools.gov.sg)
-* Mr Vasanthavelan (thandavamurthy_vasanthavelan@schools.gov.sg)
-* Ms Wong Pei Fen (wong_pei_fen@schools.gov.sg)
+* Mr Tan Guan Sheng Bronson (I/C) (tan_guan_sheng@schools.gov.sg)
+* Mdm Siti Karmila Binte Abu (2 I/C) (siti_karmila_abu@schools.gov.sg)
+* Mr Anthony Tay Poh Hua (anthony_tay_poh_hua@schools.gov.sg)
+* Mr Thandavamurthy Vasanthavelan (thandavamurthy_vasanthavelan@schools.gov.sg)
+* Mdm Wong Pei Fen (Wong_Pei_Fen@schools.gov.sg)
+* Ms Soong Jing Min (soong_jing_min@schools.gov.sg)
 
 ##### **Venues**
 * Computer Rooms 1, 2 &amp; 3
 
 ##### **Time and Day**
-* Tuesdays, 1.40 p.m. - 3.40 p.m.
-* Fridays, 1.40 p.m. - 3.40 p.m.
+* Tuesdays (Primary 3), 1.40 p.m. - 3.40 p.m.
+* Fridays (Primary 4 to 6), 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **Swift Explorers Singapore (SES) 2022**
