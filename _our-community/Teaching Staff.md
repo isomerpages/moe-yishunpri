@@ -691,6 +691,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Kaviarasi Sanggar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kaviarasi_sanggar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kaviarasi_sanggar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Alissa Goh Yoke En
 <br>(Senior SEN Officer)</p>
 </td>
