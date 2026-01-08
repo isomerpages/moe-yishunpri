@@ -33,4 +33,4 @@ The Art curriculum aims to develop active artists and informed audience members 
 
 Our Primary 4 students would participate in the National Gallery Museum-based Learning Journey to view local art while engaging in discussions using the 'See, Think, Wonder' thinking routine to develop their critical thinking skills.
 
-![](/images/Experience/Curriculum/aesthtetics_02_v1.jpg)
+<iframe allowfullscreen="true" width="860" height="455" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWOT64NJLKR_4NKQ7MLsrHQjc3pdtbNe3ib83AWPYDe9R4Xqerg6hhXymd1h_Z0qT6lxNbpWz17_VB/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
