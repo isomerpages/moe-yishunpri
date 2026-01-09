@@ -10,7 +10,7 @@ We offer 4.5-hour  K1 and K2 programmes for children. You can choose from the fo
 
 | | |
 | :--------: | :--------: |
-| Morning (AM) Session | 8.00 am to 12.00 pm |
+| Morning (AM) Session | 8.00 am to 12.30 pm |
 
 MOE kindergarten follows MOE’s calendar of school term and school holidays.
 
