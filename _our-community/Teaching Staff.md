@@ -44,9 +44,6 @@ variant: tiptap
 <br>
 <br>Mdm Wong Pei Fen
 <br><a href="mailto:Wong_Pei_Fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Pei_Fen@schools.gov.sg</a>
-<br>
-<br>Miss Nur Insyirah Binte Azhar
-<br><a href="mailto:nur_insyirah_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_insyirah_azhar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -146,14 +143,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Phang Bi Yun
-<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
-<br>
-<br>Ms Praveena d/o Raja Manickam
+<p>Ms Praveena d/o Raja Manickam
 <br><a href="mailto:Praveena_Raja_Manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Praveena_Raja_Manickam@schools.gov.sg</a>
 <br>
 <br>Mdm Bai Hanbing
 <br><a href="mailto:bai_hanbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_hanbing@schools.gov.sg</a>
+<br>
+<br>Miss Nur Insyirah Binte Azhar
+<br><a href="mailto:nur_insyirah_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_insyirah_azhar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -695,6 +692,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kaviarasi_sanggar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kaviarasi_sanggar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Phang Bi Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
