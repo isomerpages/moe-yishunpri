@@ -47,7 +47,7 @@ These are some of the programmes our students will participate in:
 | Primary 6 | Comic Drawing |
 
 
-*<center><img src="/images/Experience/Curriculum/english_06_v1.jpg">Primary 1 &amp; 2 students performing at the Choral Recital</center>*
+*<center><img src="/images/Experience/Curriculum/english_06_v1.jpg" style="width:424px;height:553px">Primary 1 &amp; 2 students performing at the Choral Recital</center>*
 
 *<center><img src="/images/Experience/Curriculum/english_04_v1.jpg" style="width:424px;height:553px">One of the top 3 most-voted entries for P3 Animal Research</center>*
 
