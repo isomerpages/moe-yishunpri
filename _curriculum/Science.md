@@ -25,19 +25,19 @@ Such experiences allow students to make connection with concepts and skills lear
 
 1.  **SPARKLE Kits**<br>The school taps on the SPARKLE (Science Pack Activity Resource Kits for Learning) kits which are developed by the Ministry of Education (MOE) and Science Centre Singapore. The kits encourage students to explore and test their science ideas through lots of “hands-on, minds-on” activities accompanied with questions and discussion.
 
-**Insert Picture B,C and D**
+*<center><img src="/images/Experience/Curriculum/Science_02_bcd_v1.jpg"></center>*
 
 2.  **Science Kits**<br>The department curates lesson units that are paired with science kits to facilitate experiential learning. These resources provide students with the materials and guidance they need to conduct their own experiments and explore scientific concepts on their own. For example, at Primary 2, students are provided with butterfly kits as they learn about the life cycle of a butterfly, in collaboration with the English Department. This interdisciplinary approach allows students to strengthen both their scientific understanding and language skills. At Primary 5, students construct their own terrarium sets to observe the water cycle in action and understand its importance to living things and the environment around them.
 
-**Insert Picture E and F**
+*<center><img src="/images/Experience/Curriculum/Science_03_ef_v1.jpg"></center>*
     
 3.  **Urban Farming Curriculum**<br>The school also taps on an array of modern farming systems to engage students. At Primary 5, they experience first-hand the pollination and fertilization process as the school grows fruiting plants using the school’s in-house Nutrient Film Technique system. At Primary 6, they learn about energy transfer through the school’s integrated farming system (Aquaponics) where fish waste is utilized to grow vegetables. The system is also powered via solar panels.
 
-**Insert Picture G and H**
+*<center><img src="/images/Experience/Curriculum/Science_04_gh_v1.jpg"></center>*
 
 4.  **Plant Tissue Culture (PTC) Programme**<br>Unique to Yishun Primary is our Plant Tissue Culture Programme. Plant tissue culture is a collection of techniques used to maintain or grow plant cells, tissues or organs under sterile conditions. We are proud to be one of the few primary schools in Singapore to have PTC facilities in our school. At Primary 3, students learn to cultivate edible mushroom using compost generated from the school’s food waste programme. At Primary 5, they learn about the Science and art of Orchid Hybridisation. In fact, Dendrobium Yishun Primary School was a hybrid that was created by our very own students.
 
-**Insert Picture J**
+*<center><img src="/images/Experience/Curriculum/Science_05_j_v1.jpg"></center>*
 
 **<u>Science Enrichment Programme</u>**
 <br>
@@ -47,8 +47,8 @@ This programme aims to develop students’ interest and ability in Science throu
     
 2.  **E2K Science Programme**<br>This programme aims to instill a love for Science and foster the development of scientific inquiry process skills among participants. It seeks to nurture important e21CC such as critical thinking, and effective communication skills. Students learn Science by going through the same process that scientists use to generate knowledge, developing scientific thinking and reasoning, confidence, independence, scientific habits, attitudes, and dispositions.
 
-**Insert Picture K and L**
+*<center><img src="/images/Experience/Curriculum/Science_06_kl_v1.jpg"></center>*
 
 3.  **Science Competitions and Outreach Programmes**<br>Science competitions and outreach programmes are platforms for students to explore their interest in the subject by providing opportunities for them to demonstrate their knowledge and skills. It also provides students with the opportunity to collaborate and work in teams through hands-on learning activities.
 
-**Insert Picture M and N**
+*<center><img src="/images/Experience/Curriculum/Science_07_mn_v1.jpg"></center>*
