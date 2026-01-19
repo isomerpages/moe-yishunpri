@@ -22,7 +22,9 @@ The Mother Tongue Languages department has developed the 3C approach, which equi
 
 **<u>Mother Tongue Language Fortnight Programme</u>**
 <br>
-<img src="/images/Experience/Curriculum/mtl_02_v1.jpg" style="width:450px;height:416px; float: right">The Mother Tongue Language (MTL) Fortnight Programme aims to provide opportunities for our students to learn MTL and understand their own culture through active participation. A series of different ethnic activities during each festive period are planned to ignite the joy of learning MTL.
+The Mother Tongue Language (MTL) Fortnight Programme aims to provide opportunities for our students to learn MTL and understand their own culture through active participation. A series of different ethnic activities during each festive period are planned to ignite the joy of learning MTL.
+
+*<center><img src="/images/Experience/Curriculum/mtl_07_fortnight_v1.jpg"></center>*
 
 The first highlight of the year is the Chinese New Year celebration. All students are provided with authentic cultural appreciation experiences through exciting hall performances and subsequent class activities on the eve of Chinese New Year as well as during MTL lessons. 
 
