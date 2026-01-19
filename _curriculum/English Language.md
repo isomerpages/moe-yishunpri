@@ -51,7 +51,7 @@ These are some of the programmes our students will participate in:
 
 *<center><img src="/images/Experience/Curriculum/english_04_v1.jpg" style="width:424px;height:553px">One of the top 3 most-voted entries for P3 Animal Research</center>*
 **Insert Picture 5**
-*<center><img src="/images/Experience/Curriculum/english_08_v1.jpg" style="width:424px;height:553px">Students taking part in a Boccia activity, in line with the STELLAR Reader The Paralympic Games, to experience the challenges faced by Paralympic athletes while building teamwork, empathy and inclusivity.</center>*
+*<center><img src="/images/Experience/Curriculum/english_07_v1.jpg" style="width:424px;height:553px">Students taking part in a Boccia activity, in line with the STELLAR Reader The Paralympic Games, to experience the challenges faced by Paralympic athletes while building teamwork, empathy and inclusivity.</center>*
 
 #### **Programmes**
 
