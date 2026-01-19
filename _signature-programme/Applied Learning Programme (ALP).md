@@ -9,8 +9,7 @@ Our ALP STEM (Sustainability) aims to connect knowledge and skills with real-lif
 
 We emphasise the application of thinking skills and the integration of knowledge across subject disciplines, encouraging students to stretch their imaginations and apply what they learn in authentic contexts. Additionally, we provide students with a space where they can explore hands-on activities and apply their learned concepts and skills in real-world contexts.
 
-**Insert Picture P**
-![](/images/Experience/Signature%20Programme/alp_01_v1.jpg)
+![](/images/Experience/Signature%20Programme/alp_06_p_v1.png)
 
 The school integrates the learning of sustainability through the curriculum by making explicit connections between environment-related learning with real-life applications. Over the years, the school has built on a strong foundation by linking existing programmes with new offerings.
 
@@ -37,4 +36,4 @@ The programme allows students to learn how food waste from the school can be tur
 <br>
 During Social Studies lessons, students grew leafy vegetables without soil using aeroponics and hydroponics. They donated the vegetables to a community fridge at a nearby HDB block, learning how to care for others and give back to the community.
 
-**Insert Picture Q, R and S**
+![](/images/Experience/Signature%20Programme/alp_07_qrs_v1.jpg)
