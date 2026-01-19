@@ -14,7 +14,6 @@ The STELLAR 2.0 Programme acts as the core English curriculum for all primary le
 
 Amongst the many pedagogical strategies incorporated into the STELLAR curriculum are the Shared Book Approach (SBA), the Modified Language Experience Approach (MLEA) and Reading for Pleasure (through Extensive Reading). Using a rich variety of print and non-print resources, authentic contexts are provided to the students thus aiding the development of media and visual literacy skills.
 
-**Insert Picture 1**
 *<center><img src="/images/Experience/Curriculum/english_05_v1.jpg">Students extending their learning from the STELLAR Big Book Ants in a Hurry by observing ants with magnifying glasses, in collaboration with the Science Department.</center>*
 
 *<center><img src="/images/Experience/Curriculum/english_01_v2.jpg" style="width:483px;height:363px">A P2 student holding up a Butterfly Kit (an initiative from the Science Department) which ties in with Stellar’s Big Book A Butterfly is Born.</center>*
