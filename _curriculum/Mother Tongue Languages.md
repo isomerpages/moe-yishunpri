@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue/
 description: ""
+variant: markdown
 ---
 ### **Vision**
 
@@ -41,3 +42,7 @@ In SHARE, we encourage our students to write. We share our good stories written 
 The Mother Tongue Language department partners with schools in China, Brunei, and India to promotes cross-cultural communication and understanding equips students with the knowledge and skills they need to thrive in a globalized world, preparing them to be responsible, engaged, and respectful global citizens.
 
 ![](/images/Experience/Curriculum/mtl_04_v1.jpg)
+
+**<u>Immersion Programme</u>**
+<br>
+The Mother Tongue Language Department partners with schools in **China, Brunei and Malaysia** to promote cross-cultural communication and global awareness through meaningful language exchanges. In **2025, selected Primary 5 students also took part in a Physical Immersion Programme to Guangzhou, China**, where they learnt alongside overseas peers and experienced local culture first-hand. Together, these experiences nurture students to become **confident, culturally aware and globally minded learners**.
