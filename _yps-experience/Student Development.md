@@ -2,6 +2,7 @@
 title: Student Development
 permalink: /yps-experience/student-development/
 description: ""
+variant: markdown
 ---
 ### **Our Belief and Guiding Principles**
 
@@ -53,7 +54,7 @@ Yishun Primary School believes that every student has leadership potential, and 
 <br>
 The first level, Leading Self, is designed for all students and focuses on teaching them the essential Practices of Exemplary Leadership. All students undergo explicit teaching of the leadership practices over their 6 years to learn to manage themselves in a responsible way before they can lead and help others.
 
-*<center><img src="/images/Experience/Student%20Development/studentleader_02_v1.jpg" style="width:500px;height:371px">Students engaged in talks on leadership practices.</center>*
+*<center><img src="/images/Experience/Student%20Development/sd_01_v1.jpg" style="width:500px;height:371px">Students engaged in talks on leadership practices.</center>*
 
 **Level 2 – Leading Peers (Leadership Appointments in the Class Committee)**
 <br>
@@ -75,7 +76,7 @@ Student leaders are also offered various opportunities to showcase and develop t
 <br>
 The Student Leaders’ Investiture is held annually to recognise and affirm the efforts of our student leaders, and to formally introduce them to the school community. During the investiture, student leaders recite the Student Leaders’ Pledge as a promise to uphold the school values and commit to serving the school.
 
-*<center><img src="/images/Experience/Student%20Development/studentleader_05_v1.jpg" style="width:800px;height:532px">Student Leaders’ Investiture 2023</center>*
+*<center><img src="/images/Experience/Student%20Development/sd_04_v1.jpg">Student Leaders’ Investiture 2025</center>*
 
 **Prefectorial Executive Committee (EXCO)**
 <br>
