@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: markdown
 ---
-Yishun Primary School Basketball CCA aims to equip our members with essential basketball skills while fostering sportsmanship, teamwork, and resilience. Through structured training sessions, friendly matches, and participation in the National School Games, our members develop not only their technical abilities but also important values such as Respect and Resilience.
+Basketball CCA at Yishun Primary School aims to develop our students holistically through the sport of basketball. Through structured training sessions, students build strong fundamental skills while learning the importance of sportsmanship, teamwork, respect, and resilience.
 
-This year, we are sending in four teams—Senior and Junior teams for both boys and girls—to represent our school in the National School Games. These experiences provide our players with valuable opportunities to apply their skills, challenge themselves, and grow in confidence as they compete at the national level.
+Our players are given meaningful opportunities to apply their learning through friendly matches and competitions. This year, both our Senior Boys and Junior Boys teams will represent the school in the National School Games, where they are challenged to perform, persevere, and grow in confidence on a competitive platform.
+
+To further broaden their learning experiences, our students also participate in friendly matches with neighbouring schools and attend professional league games. These exposures help them deepen their understanding of the sport, appreciate high-level play, and be inspired to strive for excellence both on and off the court.
 
 ##### **Teachers-in-Charge**
 * Ms Tan Lian Kiah (I/C) (tan_lian_kiah@schools.gov.sg)
@@ -26,6 +28,8 @@ This year, we are sending in four teams—Senior and Junior teams for both boys 
 * Tuesdays &amp; Fridays (School Team), 1.40 p.m. - 4.10 p.m.
 
 ##### **Achievements**
+* **National School Games 2025 Senior Girls League 3**<br>4th Placing
+* **National School Games 2025 Junior boys League 3 Pool**<br>4th Placing
 * **National School Games North Zone Senior Boy Division Basketball Championship 2022**<br>5th - 8th Placing
 
 ##### **Photo Gallery**
