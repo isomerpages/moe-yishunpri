@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-Chess is a fun, creative and challenging strategic board game for all ages. As a game of strategy, Chess promotes cognitive and critical thinking among the players as they analyze each move in the game. We aim to develop the players’ patience and tenacity while playing the game and also inculcate in them our school’s core values of gratitude, care, resilience, respect, responsibility and integrity. gratitude, care, resilience, respect, responsibility and integrity.
+International Chess is a fun, creative and challenging strategic board game for all ages. As a strategy game, it promotes cognitive and critical thinking among the players as they analyze each move in the game. We aim to develop the players’ patience and tenacity while inculcating in them our school’s core values of resilience, respect and integrity. The skills learnt from playing chess can be applied across various aspects of life such as planning projects or finding solutions in challenging situations. We want to impart these valuable life skills among our students through our activities and programmes.
 
 ##### **Teachers-in-Charge**
 * Mr Ghanaprakasam s/o Subramaniam (I/C) (ghanaprakasam_subramanian@schools.gov.sg)
