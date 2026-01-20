@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-Yishun Primary School Concert Band (YPS Band) is a vibrant and disciplined performing group that nurtures students through music, character development and teamwork. Guided by our motto “One Band, One Sound”, our members learn that every individual matters and that excellence is achieved when we work together with respect, responsibility and resilience.
+**Yishun Primary School Concert Band (YPS Band)** is a vibrant and disciplined performing group that nurtures students through music, character development and teamwork. Guided by our motto **“One Band, One Sound”**, our members learn that every individual matters and that excellence is achieved when we work together with respect, responsibility and resilience.
 
-Through regular sectionals, full band practices and performances, students are trained to develop strong musical foundations, listening skills and ensemble awareness. Beyond technical skills, the Band also places strong emphasis on leadership, perseverance and confidence, helping students grow not just as musicians but as well-rounded individuals.
+Through regular sectionals, full band practices and performances, students are trained to develop strong musical foundations, listening skills and ensemble awareness. Beyond technical skills, the Band also places strong emphasis on **leadership, perseverance and confidence**, helping students grow not just as musicians but as well-rounded individuals.
+
+<center><img src="/images/CCA/Band/cca_band_01_v1.jpg"></center>
 
 ##### **Teachers-in-Charge**
 * Ms Sim Sze Hua (I/C) (sim_sze_hua@schools.gov.sg)
@@ -28,9 +30,10 @@ Through regular sectionals, full band practices and performances, students are t
 * Fridays, 1.40 p.m. - 4.40 p.m.
 
 ##### **Achievements**
-* **2025 NAtional Day Performance @ YPS**<br>In celebration of **National Day**, the **Yishun Primary School Concert Band** proudly performed a medley of familiar patriotic songs — “Home,” “Stand Up for Singapore,” “We Are Singapore,” and “Where I Belong.” Their lively and heartfelt performance filled the school with national pride and joy, uniting students and staff in the spirit of Singapore.
-* **2025 SYF Celebrations - Band Jamboree**<br>Yishun Primary School is proud to participate in the **Singapore Youth Festival (SYF) 2025 Celebrations – Band Jamboree** at the Esplanade. The event showcases talented school bands across Singapore, providing a vibrant platform for musical expression. Performing alongside other schools, our band members gain valuable experience, build camaraderie, and celebrate their passion for music.
-* **2024 SYF Arts Presentation** - Certificate of Distinction
+* **La Famille de Musique III 2025**<br>YPS Concert Band took part in **La Famille de Musique III**, a combined concert with the **Pasir Ris Secondary School Concert Band** and **Yuying Secondary School Concert Band**. This collaboration provided our students with a valuable opportunity to perform alongside older and more experienced musicians, deepening their musical understanding and confidence on stage.<br><center><img src="/images/CCA/Band/cca_band_05_v1.jpg"></center>
+* **2025 National Day Performance @ YPS**<br>In celebration of **National Day**, the **Yishun Primary School Concert Band** proudly performed a medley of familiar patriotic songs — “Home,” “Stand Up for Singapore,” “We Are Singapore,” and “Where I Belong.” Their lively and heartfelt performance filled the school with national pride and joy, uniting students and staff in the spirit of Singapore.<br><center><img src="/images/CCA/Band/cca_band_02_v1.jpg"></center>
+* **2025 SYF Celebrations - Band Jamboree**<br>Yishun Primary School is proud to participate in the **Singapore Youth Festival (SYF) 2025 Celebrations – Band Jamboree** at the Esplanade. The event showcases talented school bands across Singapore, providing a vibrant platform for musical expression. Performing alongside other schools, our band members gain valuable experience, build camaraderie, and celebrate their passion for music.<br><center><img src="/images/CCA/Band/cca_band_04_v2.jpg"></center>
+* **2024 SYF Arts Presentation** - Certificate of Distinction<br><center><img src="/images/CCA/Band/cca_band_06_v1.jpg"></center>
 
 ##### **Photo Gallery**
 
