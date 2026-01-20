@@ -5,16 +5,14 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-Yishun Primary Scouts CCA offers a vibrant platform for self-development and self-discovery, where Scouts grow in a closely-knit and engaging environment. Through exciting games and meaningful activities, our Scouts build character, develop leadership skills, and form lasting bonds.
+The Yishun Primary School Scouts CCA provides a dynamic and supportive platform for self-development and self-discovery, where Scouts grow within a close-knit and engaging environment. Through purposeful activities and engaging games, Scouts build strong characters, develop leadership competencies, and forge meaningful friendships.
 
-Our Scouts take part in community service projects, camps, and competitions, providing opportunities to connect with peers from other schools and broaden their experiences. To support their growth, we follow a structured progress and proficiency badge system across three levels — Bronze, Silver, and Gold Arrow — preparing Scouts to strive for the prestigious Chief Scout’s Award (Cub) formerly known as Akela Award.
+Scouts are actively involved in community service initiatives, camps, and competitions, offering valuable opportunities to collaborate with peers from other schools and broaden their perspectives. To support progressive development, the CCA adopts a structured proficiency and advancement framework across three levels; Bronze, Silver, and Gold Arrow. Guiding our Scouts towards attaining the prestigious Chief Scout’s Award (Cub) under the Primary School category.
 
-We take pride in our Scouts’ achievements, having earned the Frank Cooper Sands Gold Award for an impressive 18 consecutive years, along with the Honours Pennant in 2009.
+The CCA takes pride in its strong tradition of excellence, having been awarded the Frank Cooper Sands Gold Award (sustained).
 
-Through these rich experiences, we aim to nurture motivated, independent, and adaptable individuals who build gracious relationships and contribute positively to society.
-
-Join us on this exciting journey of adventure, learning, and growth!
-
+Through these enriching experiences, the Scouts CCA seeks to nurture motivated, independent, and adaptable individuals who build gracious relationships and contribute positively to the community.
+Join us on this exciting journey of adventure, learning, and growth.
 
 ##### **Teachers-in-Charge**
 * Mr Masri Bin Kario (I/C) (masri_kario@schools.gov.sg)
@@ -29,10 +27,11 @@ Join us on this exciting journey of adventure, learning, and growth!
 * Tuesdays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
+* **Akela Award Recipient 2024** - 9 Awardees
 * **Akela Award Recipient 2024** - 6 Awardees
 * **Akela Award Recipient 2023** - 11 Awardees
 * **Akela Award Recipient 2022** - 9 Awardees
-* Frank Cooper Sands Gold Award since 2002 - 2023
+* **Frank Cooper Sands Gold Award** - From 2002 to Incumbent
 
 ##### **Photo Gallery**
 
