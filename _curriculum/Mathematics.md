@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /curriculum/maths/
 description: ""
+variant: markdown
 ---
 ### **Vision**
 
@@ -11,7 +12,7 @@ To provide an engaging and authentic learning environment that cultivates resili
 
 * Foster interest in the subject and instil resilience in students
 * Integrate learning experiences and real-world applications to make learning Mathematics enjoyable, relevant, and meaningful.
-* Develop cognitive and metacognitive skills through problem solving. 
+* Develop cognitive and metacognitive skills through problem solving.
 
 In the learning of Mathematics, students engage in activities to explore and learn mathematical concepts and skills, individually and collaboratively. The use of concrete manipulatives help to develop concepts and build competencies such as spatial awareness, locomotor skills and other cognitive development. 
 
@@ -29,18 +30,9 @@ The Math Carnival offers our Primary 1 and Primary 2 students the opportunity to
 
 Students develop an appreciation for Mathematics beyond the classroom and textbooks and apply various thinking skills and heuristics to solve non-routine Mathematics problems and get their hands on concrete objects and pictorial representations to illustrate Mathematical concepts.
 
-<img src="/images/Experience/Curriculum/maths_02_v2.jpg" style="width:600px;height:450px">
+*<center><img src="/images/Experience/Curriculum/math_06_v1.jpg">Students working collaboratively</center>*
 
-*<center><img src="/images/Experience/Curriculum/maths_03_v1.jpg" style="width:500px;height:667px">Students working collaboratively</center>*
-
-
-**<u>Math &amp; Science Trail</u>**
-<br>
-Primary 3 students take part in an interdisciplinary Math and Science trail to take the application of Mathematics word problems and Science concepts outside of the classroom.&nbsp; This ICT-infused trail not only provides an opportunity for our students to relate knowledge gained in class to real-world phenomen. It also develops our students' social skills and promotes team-building.
-
-<img src="/images/Experience/Curriculum/maths_04_v1.jpg" style="width:380px;height:556px">
-
-*<center><img src="/images/Experience/Curriculum/maths_05_v1.jpg" style="width:500px;height:370px">Team-building through the Trail</center>*
+*<center><img src="/images/Experience/Curriculum/math_07_v1.jpg">Teamwork in action</center>*
 
 **<u>E2K (Mathematics)</u>**
 <br>
