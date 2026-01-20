@@ -11,14 +11,13 @@ In drama, you will learn key dramatisation techniques, including vocal projectio
 
 In writing, you will learn to create different types of stories, including scripts for performances and arguments for debates. You will practise organising ideas clearly, sharing them confidently and taking part in competitions.
 
-Beyond honing your craft, you will also develop valuable life skills, such as thinking critically and speaking with confidence.
-Opportunities in the Club:
+Beyond honing your craft, you will also develop valuable life skills, such as thinking critically and speaking with confidence. Opportunities in the Club:
+
 * Discover and develop your hidden talents
 * Perform in front of an audience
 * Work as a team to bring stories to life
 
 Come be a part of a vibrant community where creativity meets confidence!
-
 
 ##### **Teachers-in-Charge**  
 * Mdm Anita Kaur (I/C) (anita_kaur@schools.gov.sg)
@@ -27,7 +26,7 @@ Come be a part of a vibrant community where creativity meets confidence!
 * Mdm Liz Alfreda Selamat (liz_alfreda_selamat@schools.gov.sg)
 
 ##### **Venue**
-* Classroom C3-01 &amp; C3-03
+* School Library
 
 ##### **Time and Day**
 * Tuesdays, 1.40 p.m. - 3.40 p.m.
