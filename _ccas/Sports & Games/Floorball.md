@@ -5,7 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Sports & Games
 ---
-Yishun Primary School’s Floorball CCA is dedicated to developing our players’ technical skills, tactical awareness, and strong mentality. We aim to instill resilience and confidence by empowering our players to embrace challenges with determination. Through disciplined training and teamwork, our players cultivate sportsmanship and a commitment to continuous improvement, striving to be the best that they can be.
+**Building Skill, Character, and Confidence through Floorball**
+
+Yishun Primary School’s Floorball CCA is dedicated to developing our players’ technical skills, tactical awareness, and mental strength. Through consistent training and regular practice, our students have remained committed to the sport and shown steady improvement in their performance. We aim to instill resilience and confidence by encouraging our players to embrace challenges with determination. Guided by disciplined training and strong teamwork, our players develop sportsmanship and a mindset of continuous improvement as they strive to be the best they can be.
 
 ##### **Teachers-in-Charge**
 * Mr Lee Jiun Wei (I/C) (lee_jiun_wei@schools.gov.sg)
