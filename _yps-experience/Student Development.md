@@ -60,7 +60,7 @@ The first level, Leading Self, is designed for all students and focuses on teach
 <br>
 At Yishun Primary, every student gets the opportunity to be a leader and will get to serve in the Class Committee. Students undergo role-specific training via SLS. Leadership appointments are rotated every semester for Primary 2 to 5 students to provide students with a range of leadership experiences.
 
-*<center><img src="/images/Experience/Student%20Development/studentleader_03_v1.jpg" style="width:500px;height:376px">Leaders in the class committee pledge their commitment in serving their duties in class.</center>*
+*<center><img src="/images/Experience/Student%20Development/sd_02_v1.jpg" style="width:500px;height:376px">Leaders in the class committee pledge their commitment in serving their duties in class.</center>*
 
 **Level 3 – Leading Leaders (Student Leaders)**
 <br>
