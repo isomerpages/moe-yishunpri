@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Clubs
 variant: markdown
 ---
-At Yishun Primary School ICT Club, we aim to develop future ready learners through fun and interactive activities. Through a variety of activities, our members learn basic coding and programming skills, and gaining computational and critical thinking skills during the process.
+**Empowering Future Creators at Yishun Primary ICT Club**
+
+At the Yishun Primary School’s ICT Club, we don’t just use technology, we create it. Our mission is to nurture future-ready learners by turning curiosity into innovation. Through hands-on exploration, our members dive into the world of coding and programming, bringing their ideas to life on screen.
+
+With the addition of 3D printing and design, students now have the power to transform digital concepts into physical reality. Along this journey, members develop essential computational thinking and critical problem-solving skills, preparing them to lead in an ever-evolving digital landscape.
 
 ##### **Teachers-in-Charge**
 * Mr Tan Guan Sheng Bronson (I/C) (tan_guan_sheng@schools.gov.sg)
@@ -23,19 +27,7 @@ At Yishun Primary School ICT Club, we aim to develop future ready learners throu
 * Fridays (Primary 4 to 6), 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
-* **Swift Explorers Singapore (SES) 2022**
-<br>Two teams consisting of 9members (Infocomm Technology CCA ) participated in the Swift Explorers Singapore (SES) 2022. They used resources from Apple and were supported by training from Tinkercademy, an Apple Professional Learning Partner. The trainer had designed the National Digital Explorer learning experience, which was aligned to the Ministry of Education’s EdTech Plan.
-<br>Hosted on SLS, the lesson package enables students to learn at their own pace. To further enrich their learning experience, students attended a virtual coding workshop to learn how to create their own virtual world.
-
-* **Pei Hwa Virtual Hackathon 2022**
-<br>Yishun Primary School was shortlisted for the Finals and the Team emerged and received the ‘Best in Presentation’ title  in Pei Hwa Virtual Hackathon, 2022!
-<br>Congratulations to Anggun Shaista Binte Ahmad (6 RE), Ethan Yeo Jun Wei (6 RE), Jayabalan Narain Ram (6 RT) and Lim Chun Kiat, Elliot (6 RE) for winning the ‘Best in Presentation’ Title, under the guidance of Mr Vasanthavelan and Ms Roslyn Foong.
-<br>The theme for this year is ‘Embrace Mental Fortitude: Strengthening Mental Wellness of Individuals in Schools’. Participants are to develop and showcase their Micro:bit innovations that could support schools in managing/tackling mental health issues. YPS Team decided to design a Mental Wellness Band, which aimed to help students to cope with stress during the pandemic. The Mental Wellness Band is programmed to provide timely reminders for students to take breaks from work, and encourage them to move around to maintain physical health through game play features on the band.
-
-* **Pei Hwa Virtual Hackathon 2021**
-<br>Yishun Primary School’s Team emerged as **Champions** in Pei Hwa Virtual Hackathon, 2021!
-<br>Congratulations to Raveendar Prasanna (6 RY), Kuah Yi Ru (6 RY), Arulalan Devanarayanan (6 RY) and Alice Lee Jia Ming (6 RE) for winning the Championships, under the guidance of Mr Vasanthavelan and Ms Roslyn Foong.
-<br>The theme for this year was "Covid-ence: Confidently Living Life Fighting COVID-19". Students have to develop and showcase their Micro:bit innovations that could support societies in managing / tackling a pandemic. YPS Team decided to design an automated mask dispenser because it is beneficial for the community during the pandemic. The competition was conducted online and via Zoom with participants and their Teachers-in-Charge from their respective schools.
+* **National Primary Game Creation Competition (NPGCC) 2025**<br>The Annual NPGCC, is centered around the theme ‘Greening the Red Dot: Building a city in nature and a resilient future’, in alignment with the GreenPlan SG initiative. This competition serves as a platform for primary school pupils to showcase their ingenuity and commitment to environmental sustainability through the creation of games. The NPGCC 2025 aims to inspire young minds to explore innovative ways to nurture our natural environment and build a resilient future for generations to come.
 
 ##### **Photo Gallery**
 
