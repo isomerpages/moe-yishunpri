@@ -7,7 +7,7 @@ variant: markdown
 ---
 The Yishun Primary School Scouts CCA provides a dynamic and supportive platform for self-development and self-discovery, where Scouts grow within a close-knit and engaging environment. Through purposeful activities and engaging games, Scouts build strong characters, develop leadership competencies, and forge meaningful friendships.
 
-Scouts are actively involved in community service initiatives, camps, and competitions, offering valuable opportunities to collaborate with peers from other schools and broaden their perspectives. To support progressive development, the CCA adopts a structured proficiency and advancement framework across three levels; Bronze, Silver, and Gold Arrow. Guiding our Scouts towards attaining the prestigious Chief Scout’s Award (Cub) under the Primary School category.
+Scouts are actively involved in community service initiatives, camps, and competitions, offering valuable opportunities to collaborate with peers from other schools and broaden their perspectives. To support progressive development, the CCA adopts a structured proficiency and advancement framework across three levels; Bronze, Silver, and Gold Arrow, to guide our Scouts towards attaining the prestigious Chief Scout’s Award (Cub) under the Primary School category.
 
 The CCA takes pride in its strong tradition of excellence, having been awarded the Frank Cooper Sands Gold Award (sustained).
 
