@@ -5,12 +5,12 @@ description: ""
 variant: markdown
 ---
 ### **Vision**
-To equip students with physical skills, practices, and values to enjoy a lifetime of active and healthy living. 
+To equip students with physical skills, practices, and values to enjoy a lifetime of active and healthy living.
 
 ### **Objectives**
 Enjoy and value the benefits of living an active and healthy life
 
-The Physical Education (PE) department provides a range of movement experiences to develop students' overall development, with a focus on fundamental motor skills in lower primary and more complex movements in upper primary. Students experience learning through the concept of movement, athletics, dance, games and sports, gymnastics, outdoor education, physical health and fitness safety, and swimming.
+The Physical Education (PE) department provides a range of movement experiences to develop students’ overall development, with a focus on fundamental motor skills in lower primary and more complex movements in upper primary. Students experience learning through the concept of movement, athletics, dance, games and sports, gymnastics, outdoor education, physical health and fitness safety, and swimming.
 
 ### **Key Approaches and Programmes**
 The Goals of the PE curriculum at Yishun Primary are to foster students’:
@@ -25,10 +25,9 @@ To complement the PE curriculum, the department organises some key programmes:
 
 **<u>P5 Outdoor Learning Experience (OLE) Cohort Camp</u>**
 <br>
-<img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:450px;height:460px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills as they interact with one another and forge new bonds and friendships with their peers through their common shared experiences and goals. 
+<img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:450px;height:460px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills. Through a carefully curated programme of outdoor and team-based activities, students developed important life skills such as self-reliance, teamwork, and responsible decision-making. They learned to consider the impact of their actions on themselves and others, while building positive relationships with peers. The camp also provided platforms for students to demonstrate leadership, collaborate effectively, and work towards common goals.
 
-Students engage in many interesting activities such as concrete art, stream exploration and sensory trail.
-For many of our students, this may well be their first time stepping out of their comfort zones of their home and familiar environment to one where they were constantly challenged. The P5 OLE would be a memorable experience for all the students as they strengthen their friendships, care for and motivate each other throughout the camp.
+Students were introduced to practical outdoor skills, including basic navigation and a range of teambuilding challenges. Safety awareness was consistently emphasised, ensuring that students learned to manage risks responsibly while stepping out of their comfort zones.
 
 **<u>Healthy Lifestyle Week</u>**
 <br>
