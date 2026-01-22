@@ -25,9 +25,11 @@ To complement the PE curriculum, the department organises some key programmes:
 
 **<u>P5 Outdoor Learning Experience (OLE) Cohort Camp</u>**
 <br>
-<img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:450px;height:460px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills. Through a carefully curated programme of outdoor and team-based activities, students developed important life skills such as self-reliance, teamwork, and responsible decision-making. They learned to consider the impact of their actions on themselves and others, while building positive relationships with peers. The camp also provided platforms for students to demonstrate leadership, collaborate effectively, and work towards common goals.
+The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills. Through a carefully curated programme of outdoor and team-based activities, students developed important life skills such as self-reliance, teamwork, and responsible decision-making. They learned to consider the impact of their actions on themselves and others, while building positive relationships with peers. The camp also provided platforms for students to demonstrate leadership, collaborate effectively, and work towards common goals.
 
 Students were introduced to practical outdoor skills, including basic navigation and a range of teambuilding challenges. Safety awareness was consistently emphasised, ensuring that students learned to manage risks responsibly while stepping out of their comfort zones.
+
+*<center><img src="/images/Experience/Curriculum/pe_03_v1.jpg">2025 Primary 5 OLE</center>*
 
 **<u>Healthy Lifestyle Week</u>**
 <br>
