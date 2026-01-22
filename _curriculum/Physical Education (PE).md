@@ -34,3 +34,7 @@ Students were introduced to practical outdoor skills, including basic navigation
 **<u>Healthy Lifestyle Week</u>**
 <br>
 The year-long activities are aimed at creating opportunities and platforms for students to learn and practice healthy living. These activities include Recess Play, Sports Education Programmes, ACES Day, Children’s Day Carnival, Inter-class games amongst others. The Department works with stakeholders such as the Singapore Heart Foundation (SHF), to promote heart health and to adopt lifelong healthy habits.
+
+![](/images/Experience/Curriculum/pe_04_v1.jpg)
+
+![](/images/Experience/Curriculum/pe_05_v1.jpg)
