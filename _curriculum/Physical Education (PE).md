@@ -31,7 +31,7 @@ Students were introduced to practical outdoor skills, including basic navigation
 
 *<center><img src="/images/Experience/Curriculum/pe_03_v1.jpg">2025 Primary 5 OLE</center>*
 
-**<u>Healthy Lifestyle Week</u>**
+**<u>Healthy Lifestyle Promotion</u>**
 <br>
 The year-long activities are aimed at creating opportunities and platforms for students to learn and practice healthy living. These activities include Recess Play, Sports Education Programmes, ACES Day, Children’s Day Carnival, Inter-class games amongst others. The Department works with stakeholders such as the Singapore Heart Foundation (SHF), to promote heart health and to adopt lifelong healthy habits.
 
