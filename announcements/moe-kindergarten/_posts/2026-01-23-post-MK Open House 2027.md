@@ -7,4 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Coming soon...</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026.jpg">
+</div>
+<p></p>
