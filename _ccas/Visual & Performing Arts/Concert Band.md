@@ -5,14 +5,17 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
-Yishun Primary Concert Band provides opportunities for students to develop an appreciation of music and enrich their lives through it. The band fosters a supportive environment for members to participate in various local and international musical activities and competitions. Over the years, it has been invited to perform at events such as the MOE Work Plan Seminar and the National Day Observance Ceremony organized by MOE. To build global awareness and cross-cultural skills, members also have opportunities to join immersion programs in countries like Hong Kong and Thailand.
+**Yishun Primary School Concert Band (YPS Band)** is a vibrant and disciplined performing group that nurtures students through music, character development and teamwork. Guided by our motto **“One Band, One Sound”**, our members learn that every individual matters and that excellence is achieved when we work together with respect, responsibility and resilience.
 
-The band actively participates in prestigious music events, such as the Singapore Youth Festival Arts Presentation, where members showcased their talent in the Flexible Band and Percussion Ensemble categories. Notably, the Flexible Band performed When the Dendrobium Blooms by Satoshi Yagisawa, a piece specially commissioned for Yishun Primary School, while the Percussion Ensemble performed Caprice by Shin-ichi Kaneda, both delivering captivating performances. Additionally, seven YPS band students took part in the WBAS Youth Band Festival, a four-day event featuring rehearsals, workshops, and team-building activities, fostering musical excellence and friendship.
+Through regular sectionals, full band practices and performances, students are trained to develop strong musical foundations, listening skills and ensemble awareness. Beyond technical skills, the Band also places strong emphasis on **leadership, perseverance and confidence**, helping students grow not just as musicians but as well-rounded individuals.
+
+<center><img src="/images/CCA/Band/cca_band_01_v1.jpg"></center>
 
 ##### **Teachers-in-Charge**
 * Ms Sim Sze Hua (I/C) (sim_sze_hua@schools.gov.sg)
 * Mr Teng Ji Song Lawrence (2 I/C) (Teng_Ji_Song_Lawrence@schools.gov.sg)
 * Miss Cham Shi Hui Audrey (Cham_Shi_Hui@schools.gov.sg)
+* Ms Alcina Lee (lee_linghui_alcina@schools.gov.sg)
 * Miss Cheng Xinyi Bernice (cheng_xinyi_bernice@schools.gov.sg)
 * Miss Gan Ke Ting (gan_ke_ting@schools.gov.sg)
 * Mr Li Dahao, Daniel (daniel_li_da_hao@schools.gov.sg)
@@ -27,9 +30,10 @@ The band actively participates in prestigious music events, such as the Singapor
 * Fridays, 1.40 p.m. - 4.40 p.m.
 
 ##### **Achievements**
-* **2025 NAtional Day Performance @ YPS**<br>In celebration of **National Day**, the **Yishun Primary School Concert Band** proudly performed a medley of familiar patriotic songs — “Home,” “Stand Up for Singapore,” “We Are Singapore,” and “Where I Belong.” Their lively and heartfelt performance filled the school with national pride and joy, uniting students and staff in the spirit of Singapore.
-* **2025 SYF Celebrations - Band Jamboree**<br>Yishun Primary School is proud to participate in the **Singapore Youth Festival (SYF) 2025 Celebrations – Band Jamboree** at the Esplanade. The event showcases talented school bands across Singapore, providing a vibrant platform for musical expression. Performing alongside other schools, our band members gain valuable experience, build camaraderie, and celebrate their passion for music.
-* **2024 SYF Arts Presentation** - Certificate of Distinction
+* **La Famille de Musique III 2025**<br>YPS Concert Band took part in **La Famille de Musique III**, a combined concert with the **Pasir Ris Secondary School Concert Band** and **Yuying Secondary School Concert Band**. This collaboration provided our students with a valuable opportunity to perform alongside older and more experienced musicians, deepening their musical understanding and confidence on stage.<br><center><img src="/images/CCA/Band/cca_band_05_v1.jpg"></center>
+* **2025 National Day Performance @ YPS**<br>In celebration of **National Day**, the **Yishun Primary School Concert Band** proudly performed a medley of familiar patriotic songs — “Home,” “Stand Up for Singapore,” “We Are Singapore,” and “Where I Belong.” Their lively and heartfelt performance filled the school with national pride and joy, uniting students and staff in the spirit of Singapore.<br><center><img src="/images/CCA/Band/cca_band_02_v1.jpg"></center>
+* **2025 SYF Celebrations - Band Jamboree**<br>Yishun Primary School is proud to participate in the **Singapore Youth Festival (SYF) 2025 Celebrations – Band Jamboree** at the Esplanade. The event showcases talented school bands across Singapore, providing a vibrant platform for musical expression. Performing alongside other schools, our band members gain valuable experience, build camaraderie, and celebrate their passion for music.<br><center><img src="/images/CCA/Band/cca_band_04_v2.jpg"></center>
+* **2024 SYF Arts Presentation** - Certificate of Distinction<br><center><img src="/images/CCA/Band/cca_band_06_v1.jpg"></center>
 
 ##### **Photo Gallery**
 

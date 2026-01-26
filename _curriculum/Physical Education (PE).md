@@ -5,12 +5,12 @@ description: ""
 variant: markdown
 ---
 ### **Vision**
-To equip students with physical skills, practices, and values to enjoy a lifetime of active and healthy living. 
+To equip students with physical skills, practices, and values to enjoy a lifetime of active and healthy living.
 
 ### **Objectives**
 Enjoy and value the benefits of living an active and healthy life
 
-The Physical Education (PE) department provides a range of movement experiences to develop students' overall development, with a focus on fundamental motor skills in lower primary and more complex movements in upper primary. Students experience learning through the concept of movement, athletics, dance, games and sports, gymnastics, outdoor education, physical health and fitness safety, and swimming.
+The Physical Education (PE) department provides a range of movement experiences to develop students’ overall development, with a focus on fundamental motor skills in lower primary and more complex movements in upper primary. Students experience learning through the concept of movement, athletics, dance, games and sports, gymnastics, outdoor education, physical health and fitness safety, and swimming.
 
 ### **Key Approaches and Programmes**
 The Goals of the PE curriculum at Yishun Primary are to foster students’:
@@ -25,17 +25,16 @@ To complement the PE curriculum, the department organises some key programmes:
 
 **<u>P5 Outdoor Learning Experience (OLE) Cohort Camp</u>**
 <br>
-<img src="/images/Experience/Curriculum/pe_01_v1.jpg" style="width:450px;height:460px; float: right">The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills as they interact with one another and forge new bonds and friendships with their peers through their common shared experiences and goals. 
+The OLE serves as a platform for our students to develop character, social-emotional competencies and leadership skills. Through a carefully curated programme of outdoor and team-based activities, students developed important life skills such as self-reliance, teamwork, and responsible decision-making. They learned to consider the impact of their actions on themselves and others, while building positive relationships with peers. The camp also provided platforms for students to demonstrate leadership, collaborate effectively, and work towards common goals.
 
-Students engage in many interesting activities such as concrete art, stream exploration and sensory trail.
-For many of our students, this may well be their first time stepping out of their comfort zones of their home and familiar environment to one where they were constantly challenged. The P5 OLE would be a memorable experience for all the students as they strengthen their friendships, care for and motivate each other throughout the camp.
+Students were introduced to practical outdoor skills, including basic navigation and a range of teambuilding challenges. Safety awareness was consistently emphasised, ensuring that students learned to manage risks responsibly while stepping out of their comfort zones.
 
-**<u>Healthy Lifestyle Week</u>**
+*<center><img src="/images/Experience/Curriculum/pe_03_v1.jpg">2025 Primary 5 OLE</center>*
+
+**<u>Healthy Lifestyle Promotion</u>**
 <br>
-The aim of Healthy Lifestyle Week is to promote awareness among students on the need to maintain a healthy lifestyle and provide a platform for participation in healthy lifestyle activities.
-During the Healthy Lifestyle Week, students are encouraged to participate in a variety of physical activities in school and answer simple quizzes on maintaining a healthy lifestyle. All these activities served to increase the awareness that staying healthy can be fun.  
-For the Primary 5 students, in collaboration with Singapore Heart Foundation (SHF), the school also introduces the Blood Pressure (BP) initiative, where every student is loaned out with a Blood pressure monitor to bring home for a week. The aim is for students and their family members to take responsibility and monitor their own health.
-The school also collaborates with National Kidney Foundation (NKF) to create awareness on looking after their kidneys through the NKF ‘K-Force’ Bus where students board the exhibition bus to play and learn about the role of the kidneys and how to take care of them.
-Staying healthy is a choice. Let’s all work together to maintain a healthy lifestyle!
+The year-long activities are aimed at creating opportunities and platforms for students to learn and practice healthy living. These activities include Recess Play, Sports Education Programmes, ACES Day, Children’s Day Carnival, Inter-class games amongst others. The Department works with stakeholders such as the Singapore Heart Foundation (SHF), to promote heart health and to adopt lifelong healthy habits.
 
-![](/images/Experience/Curriculum/pe_02_v1.jpg)
+![](/images/Experience/Curriculum/pe_04_v1.jpg)
+
+![](/images/Experience/Curriculum/pe_05_v1.jpg)
