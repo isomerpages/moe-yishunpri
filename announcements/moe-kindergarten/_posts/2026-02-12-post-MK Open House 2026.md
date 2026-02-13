@@ -9,7 +9,8 @@ variant: markdown
 ---
 ### **<center>We look forward to welcoming you! Open House registration details will be released on 13th February 2026.</center>**
 
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026.jpg">
-</div>
-<p></p>
+
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026_01.jpg">
+<br>
+<br>
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026_02.jpg">
