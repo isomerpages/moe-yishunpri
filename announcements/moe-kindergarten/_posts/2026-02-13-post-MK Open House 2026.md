@@ -29,4 +29,4 @@ We look forward to welcoming you and your family.
 <img style="width: 80%" height="auto" width="80%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026_01.jpg">
 <br>
 <br>
-<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026_02.jpg">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/Announcements/Mk/mk_open_house_poster_2026_02_v2.jpg">
