@@ -7,6 +7,57 @@ description: ""
 image: ""
 variant: markdown
 ---
+#### **Hear From Our MK@Yishun Community**
+
+Choosing a preschool is one of the most important decisions a family makes. Beyond curriculum and facilities, parents seek assurance — that their child will grow in confidence, feel supported, and be well-prepared for Primary School.
+
+In this special video series, our MK@Yishun community shares their authentic experiences — through the voices of parents, children and teachers.
+
+#### **Voices of Our Parents**
+
+Our parents reflect on their children’s learning journeys and the growth they witnessed over time, including:
+
+#### **Growing confidence and independence**
+
+Support for children who were shy or less independent
+
+#### **Mother Tongue development**
+
+Strong communication and partnership with teachers
+
+#### **Preparation for Primary School**
+
+Support during the first days of school
+
+**<u>Watch the videos:</u>**
+
+* [What Surprised You About Your Child’s Learning &amp; Growth?](https://tinyurl.com/Growth-MK)
+* [Supporting Children Who Are Shy or Less Independent](https://tinyurl.com/Support-MK)
+* [Communication &amp; Partnership Between Teachers and Parents](https://tinyurl.com/Partnership-MK)
+* [Mother Tongue Development](https://tinyurl.com/MotherTongue-MK)
+* [Primary School Readiness](https://tinyurl.com/Readiness-MK)
+* [First Day of School Support](https://tinyurl.com/FirstDay-MK)
+* [Why Parents Chose MK@Yishun](https://tinyurl.com/ChooseYishun-MK)
+
+#### **Voices of Our Children**
+
+Hear directly from our children as they share what makes their days meaningful and joyful at MK@Yishun.
+
+* [A Day in My Life at MK@Yishun](https://tinyurl.com/A-day-in-my-life-MK)
+* [Reasons Why We Love MK@YS](https://tinyurl.com/Why-we-love-MK)
+
+#### **A Letter from Our Teachers**
+
+Behind every confident child is a dedicated educator.
+
+In this heartfelt message, our teachers share their commitment to nurturing each child with care, intention, and a deep belief in their potential.
+
+https://tinyurl.com/Messages-from-teachers
+
+We extend our sincere appreciation to the parents who generously contributed their time and voices to this series. Your trust and partnership mean a great deal to us.
+
+#### **MK@Yishun — A strong start you can count on**
+
 If your child will be entering K1 in 2027, we warmly invite you to join us at our Open House on 7 March, 8.00am – 12.30pm.
 
 Come and discover where your child’s learning journey begins.
