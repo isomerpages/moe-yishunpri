@@ -22,7 +22,7 @@ At MK@Yishun, we believe in giving every child a strong and confident start to t
 
 A strong start you can count on.
 
-To register, please scan the QR code below or click [here](https://mkyishun-openhouse2026.app.entry.gov.sg/form/eec5e5db-60ed-4fad-8f04-e5f3f52948bb). 
+To register, please scan the QR code below or click <a href="https://mkyishun-openhouse2026.app.entry.gov.sg/form/eec5e5db-60ed-4fad-8f04-e5f3f52948bb" target="_blank">here</a>. 
 
 We look forward to welcoming you and your family.
 
@@ -52,13 +52,13 @@ Support during the first days of school
 
 **<u>Watch the videos:</u>**
 
-* [What Surprised You About Your Child’s Learning &amp; Growth?](https://tinyurl.com/Growth-MK)
-* [Supporting Children Who Are Shy or Less Independent](https://tinyurl.com/Support-MK)
-* [Communication &amp; Partnership Between Teachers and Parents](https://tinyurl.com/Partnership-MK)
-* [Mother Tongue Development](https://tinyurl.com/MotherTongue-MK)
-* [Primary School Readiness](https://tinyurl.com/Readiness-MK)
-* [First Day of School Support](https://tinyurl.com/FirstDay-MK)
-* [Why Parents Chose MK@Yishun](https://tinyurl.com/ChooseYishun-MK)
+* <a href="https://tinyurl.com/Growth-MK" target="_blank">What Surprised You About Your Child’s Learning &amp; Growth?</a>
+* <a href="https://tinyurl.com/Support-MK" target="_blank">Supporting Children Who Are Shy or Less Independent</a>
+* <a href="https://tinyurl.com/Partnership-MK" target="_blank">Communication &amp; Partnership Between Teachers and Parents</a>
+* <a href="https://tinyurl.com/MotherTongue-MK" target="_blank">Mother Tongue Development</a>
+* <a href="https://tinyurl.com/Readiness-MK" target="_blank">Primary School Readiness</a>
+* <a href="https://tinyurl.com/FirstDay-MK" target="_blank">First Day of School Support</a>
+* <a href="https://tinyurl.com/ChooseYishun-MK" target="_blank">Why Parents Chose MK@Yishun</a>[]()
 
 #### **Voices of Our Children**
 
