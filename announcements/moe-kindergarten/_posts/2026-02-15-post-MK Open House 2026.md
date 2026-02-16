@@ -58,14 +58,14 @@ Support during the first days of school
 * <a href="https://tinyurl.com/MotherTongue-MK" target="_blank">Mother Tongue Development</a>
 * <a href="https://tinyurl.com/Readiness-MK" target="_blank">Primary School Readiness</a>
 * <a href="https://tinyurl.com/FirstDay-MK" target="_blank">First Day of School Support</a>
-* <a href="https://tinyurl.com/ChooseYishun-MK" target="_blank">Why Parents Chose MK@Yishun</a>[]()
+* <a href="https://tinyurl.com/ChooseYishun-MK" target="_blank">Why Parents Chose MK@Yishun</a>
 
 #### **Voices of Our Children**
 
 Hear directly from our children as they share what makes their days meaningful and joyful at MK@Yishun.
 
-* [A Day in My Life at MK@Yishun](https://tinyurl.com/A-day-in-my-life-MK)
-* [Reasons Why We Love MK@YS](https://tinyurl.com/Why-we-love-MK)
+* <a href="https://tinyurl.com/A-day-in-my-life-MK" target="_blank">A Day in My Life at MK@Yishun</a>
+* <a href="https://tinyurl.com/Why-we-love-MK" target="_blank">Reasons Why We Love MK@Yishun</a>
 
 #### **A Letter from Our Teachers**
 
@@ -73,7 +73,7 @@ Behind every confident child is a dedicated educator.
 
 In this heartfelt message, our teachers share their commitment to nurturing each child with care, intention, and a deep belief in their potential.
 
-[Messages from Teachers](https://tinyurl.com/Messages-from-teachers)
+<a href="https://tinyurl.com/Messages-from-teachers" target="_blank">Messages from Teachers</a>
 
 We extend our sincere appreciation to the parents who generously contributed their time and voices to this series. Your trust and partnership mean a great deal to us.
 
