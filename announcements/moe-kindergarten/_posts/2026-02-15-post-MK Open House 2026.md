@@ -73,7 +73,7 @@ Behind every confident child is a dedicated educator.
 
 In this heartfelt message, our teachers share their commitment to nurturing each child with care, intention, and a deep belief in their potential.
 
-https://tinyurl.com/Messages-from-teachers
+[https://tinyurl.com/Messages-from-teachers](https://tinyurl.com/Messages-from-teachers)
 
 We extend our sincere appreciation to the parents who generously contributed their time and voices to this series. Your trust and partnership mean a great deal to us.
 
