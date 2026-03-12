@@ -25,7 +25,7 @@ Such experiences allow students to make connection with concepts and skills lear
 
 1.  **SPARKLE Kits**<br>The school taps on the SPARKLE (Science Pack Activity Resource Kits for Learning) kits which are developed by the Ministry of Education (MOE) and Science Centre Singapore. The kits encourage students to explore and test their science ideas through lots of “hands-on, minds-on” activities accompanied with questions and discussion.
 
-*<center><img src="/images/Experience/Curriculum/Science_02_bcd_v1.jpg"></center>*
+*<center><img src="/images/Experience/Curriculum/Science_02_bcd_v2.jpg"></center>*
 
 2.  **Science Kits**<br>The department curates lesson units that are paired with science kits to facilitate experiential learning. These resources provide students with the materials and guidance they need to conduct their own experiments and explore scientific concepts on their own. For example, at Primary 2, students are provided with butterfly kits as they learn about the life cycle of a butterfly, in collaboration with the English Department. This interdisciplinary approach allows students to strengthen both their scientific understanding and language skills. At Primary 5, students construct their own terrarium sets to observe the water cycle in action and understand its importance to living things and the environment around them.
 
@@ -51,4 +51,4 @@ This programme aims to develop students’ interest and ability in Science throu
 
 3.  **Science Competitions and Outreach Programmes**<br>Science competitions and outreach programmes are platforms for students to explore their interest in the subject by providing opportunities for them to demonstrate their knowledge and skills. It also provides students with the opportunity to collaborate and work in teams through hands-on learning activities.
 
-*<center><img src="/images/Experience/Curriculum/Science_07_mn_v1.jpg"></center>*
+*<center><img src="/images/Experience/Curriculum/Science_07_mn_v2.jpg"></center>*
