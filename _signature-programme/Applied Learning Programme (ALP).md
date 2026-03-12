@@ -36,4 +36,4 @@ The programme allows students to learn how food waste from the school can be tur
 <br>
 During Social Studies lessons, students grew leafy vegetables without soil using aeroponics and hydroponics. They donated the vegetables to a community fridge at a nearby HDB block, learning how to care for others and give back to the community.
 
-![](/images/Experience/Signature%20Programme/alp_07_qrs_v2.jpg)
+![](/images/Experience/Signature%20Programme/alp_07_qrs_v3.jpg)
