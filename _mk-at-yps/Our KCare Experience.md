@@ -37,5 +37,6 @@ This is a sample timetable on what your child will do in a day if he/she takes u
 #### **Contact Us**
 
 **<u>KCare-Related Matters</u>**
+<br>**Commit Learning School House**
 <br>Tel: 8078 6796
 <br>Email: [admission_cls_yps_kcare@commitlearning.com.sg](mailto:admission_cls_yps_kcare@commitlearning.com.sg)

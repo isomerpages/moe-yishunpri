@@ -8,7 +8,7 @@ variant: markdown
 **Commit Learning School House**
 <br>**Senior Centre Head**
 <br>Name: Ms Susan Thng
-<br>Contact: 8078 6796
+<br>Contact: 8947 9516
 <br>Email: [admission_cls_yps@commitlearning.com.sg](mailto:admission_cls_yps@commitlearning.com.sg)
 
 **Operating Hours (Mondays to Fridays)**
