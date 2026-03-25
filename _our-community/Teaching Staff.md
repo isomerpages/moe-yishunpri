@@ -646,6 +646,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Vasudavan s/o S G Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vasudavan_s_g_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasudavan_s_g_pillai@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Praveena d/o Raja Manickam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -655,10 +664,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vasudavan s/o S G Pillai</p>
+<p>Miss Kusumawati Bte Ahmad Dafir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vasudavan_s_g_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasudavan_s_g_pillai@schools.gov.sg</a>
+<p><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -673,10 +682,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Kusumawati Bte Ahmad Dafir</p>
+<p>Miss Anandakumar Divyanandhini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
+<p><a href="mailto:anandakumar_divyanandhini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anandakumar_divyanandhini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
