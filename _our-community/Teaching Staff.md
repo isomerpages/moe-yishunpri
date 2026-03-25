@@ -643,10 +643,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Mei Ling</p>
+<p>Ms Praveena d/o Raja Manickam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_mei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_mei_ling_b@schools.gov.sg</a>
+<p><a href="mailto:Praveena_Raja_Manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Praveena_Raja_Manickam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
