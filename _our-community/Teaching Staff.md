@@ -294,6 +294,9 @@ variant: tiptap
 <br>
 <br>Mr Sheikh Omar Bin Mohamad
 <br><a href="mailto:sheikh_omar_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_omar_mohamad@schools.gov.sg</a>
+<br>
+<br>Miss Kusumawati Bte Ahmad Dafir
+<br><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -656,15 +659,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vasudavan_s_g_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasudavan_s_g_pillai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Kusumawati Bte Ahmad Dafir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kusumawati_ahmad_dafir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kusumawati_ahmad_dafir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
