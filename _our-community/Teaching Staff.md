@@ -404,6 +404,9 @@ variant: tiptap
 <br>
 <br>Ms Soong Jing Min
 <br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
+<br>
+<br>Miss Lee Linghui Alcina
+<br><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -653,15 +656,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vasudavan_s_g_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vasudavan_s_g_pillai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Linghui Alcina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
