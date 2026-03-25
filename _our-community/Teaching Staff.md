@@ -511,6 +511,9 @@ variant: tiptap
 <br>
 <br>Miss Han Ying
 <br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
+<br>
+<br>Mr Liew Shaw Leong
+<br><a href="mailto:liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_shaw_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
