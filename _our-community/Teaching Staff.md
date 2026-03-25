@@ -143,14 +143,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Praveena d/o Raja Manickam
-<br><a href="mailto:Praveena_Raja_Manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Praveena_Raja_Manickam@schools.gov.sg</a>
-<br>
-<br>Mdm Bai Hanbing
+<p>Mdm Bai Hanbing
 <br><a href="mailto:bai_hanbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_hanbing@schools.gov.sg</a>
 <br>
 <br>Miss Nur Insyirah Binte Azhar
 <br><a href="mailto:nur_insyirah_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_insyirah_azhar@schools.gov.sg</a>
+<br>
+<br>Mr Stanley Wong Jun Kai
+<br><a href="mailto:wong_jun_kai_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jun_kai_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
