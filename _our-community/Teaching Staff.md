@@ -320,8 +320,11 @@ variant: tiptap
 <p>Mr Ghanaprakasam s/o Subramaniam
 <br><a href="mailto:ghanaprakasam_subramanian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ghanaprakasam_subramanian@schools.gov.sg</a>
 <br>
-<br>Mr Kwek Yao Chie
-<br><a href="mailto:kwek_yao_chie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_yao_chie@schools.gov.sg</a>
+<br>Miss Phang Bi Yun
+<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+<br>
+<br>Mr Keith Toh Wai Woon
+<br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -652,15 +655,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Keith Toh Wai Woon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Lee Linghui Alcina</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -692,15 +686,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kaviarasi_sanggar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kaviarasi_sanggar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Phang Bi Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
