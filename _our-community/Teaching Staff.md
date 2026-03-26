@@ -143,14 +143,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Praveena d/o Raja Manickam
-<br><a href="mailto:Praveena_Raja_Manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Praveena_Raja_Manickam@schools.gov.sg</a>
-<br>
-<br>Mdm Bai Hanbing
+<p>Mdm Bai Hanbing
 <br><a href="mailto:bai_hanbing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bai_hanbing@schools.gov.sg</a>
 <br>
 <br>Miss Nur Insyirah Binte Azhar
 <br><a href="mailto:nur_insyirah_azhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_insyirah_azhar@schools.gov.sg</a>
+<br>
+<br>Mr Stanley Wong Jun Kai
+<br><a href="mailto:wong_jun_kai_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jun_kai_b@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -294,6 +294,9 @@ variant: tiptap
 <br>
 <br>Mr Sheikh Omar Bin Mohamad
 <br><a href="mailto:sheikh_omar_mohamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sheikh_omar_mohamad@schools.gov.sg</a>
+<br>
+<br>Ms Kaviarasi Sanggar
+<br><a href="mailto:kaviarasi_sanggar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kaviarasi_sanggar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -320,8 +323,11 @@ variant: tiptap
 <p>Mr Ghanaprakasam s/o Subramaniam
 <br><a href="mailto:ghanaprakasam_subramanian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ghanaprakasam_subramanian@schools.gov.sg</a>
 <br>
-<br>Mr Kwek Yao Chie
-<br><a href="mailto:kwek_yao_chie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwek_yao_chie@schools.gov.sg</a>
+<br>Miss Phang Bi Yun
+<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+<br>
+<br>Mr Keith Toh Wai Woon
+<br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -401,6 +407,9 @@ variant: tiptap
 <br>
 <br>Ms Soong Jing Min
 <br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
+<br>
+<br>Miss Lee Linghui Alcina
+<br><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -508,6 +517,9 @@ variant: tiptap
 <br>
 <br>Miss Han Ying
 <br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
+<br>
+<br>Mr Dylan Liew Shaw Leong
+<br><a href="mailto:liew_shaw_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_shaw_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -634,15 +646,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Mei Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_mei_ling_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_mei_ling_b@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Vasudavan s/o S G Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -652,19 +655,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Keith Toh Wai Woon</p>
+<p>Ms Praveena d/o Raja Manickam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Lee Linghui Alcina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_linghui_alcina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_linghui_alcina@schools.gov.sg</a>
+<p><a href="mailto:Praveena_Raja_Manickam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Praveena_Raja_Manickam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -688,19 +682,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kaviarasi Sanggar</p>
+<p>Miss Anandakumar Divyanandhini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kaviarasi_sanggar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kaviarasi_sanggar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Phang Bi Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+<p><a href="mailto:anandakumar_divyanandhini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anandakumar_divyanandhini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
