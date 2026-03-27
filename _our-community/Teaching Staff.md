@@ -323,9 +323,6 @@ variant: tiptap
 <p>Mr Ghanaprakasam s/o Subramaniam
 <br><a href="mailto:ghanaprakasam_subramanian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ghanaprakasam_subramanian@schools.gov.sg</a>
 <br>
-<br>Miss Phang Bi Yun
-<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
-<br>
 <br>Mr Keith Toh Wai Woon
 <br><a href="mailto:toh_wai_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_wai_woon@schools.gov.sg</a>
 </p>
@@ -337,7 +334,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Anthony Tay Poh Hua
+<p>Miss Phang Bi Yun
+<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+<br>
+<br>Mr Anthony Tay Poh Hua
 <br><a href="mailto:anthony_tay_poh_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anthony_tay_poh_hua@schools.gov.sg</a>
 <br>
 <br>Mdm Isnarti Bte Ahmad Sani
