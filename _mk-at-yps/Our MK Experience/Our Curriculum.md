@@ -13,7 +13,7 @@ It comprises of 2 flagship programmes, the **HI-Light Programme** and **Starligh
 **<u>Holistic development through an Integrated approach to learning</u>**
 <br>The HI-Light Programme supports the holistic development of children through an integrated approach to learning. It ignites the joy of learning in children. As children learn holistically from their experiences and do not compartmentalise what they learn, the learning experiences in the HI-Light Programme are planned as a whole to help children make sense of the world around them.
 
-Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light" target="_blank">here</a> to know more about Hi-light programme!
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/hi-light" target="_blank">here</a> to know more about Hi-light programme!
 
 ![](/images/MK%20YPS/The%20MK%20Experience/mk_experience_hi_light.jpg)
 
@@ -23,7 +23,7 @@ Language learning is made fun for children through the use of a rich variety of 
 
 ![](/images/MK%20YPS/The%20MK%20Experience/mk_experience_starlight.jpg)
 
-Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight" target="_blank">here</a> to find out more about the Starlight programmes.
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/starlight" target="_blank">here</a> to find out more about the Starlight programmes.
 
 #### **Pilot Programme to Increase MTL Exposure in MOE Kindergartens**
 To build a strong Mother Tongue Language (MTL) foundation and nurture children’s motivation to learn MTL, the Ministry of Education (MOE) has implemented a pilot programme to increase children’s exposure to MTL in selected MOE Kindergartens (MKs).
@@ -54,7 +54,7 @@ These experiences seek to:
 
 ![](/images/MK%20YPS/The%20MK%20Experience/mk_experience_wow.jpg)
 
-Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/weeks-of-wonder" target="_blank">here</a> to find out more about the WOW project!
+Click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum-and-learning-environment/curriculum/weeks-of-wonder" target="_blank">here</a> to find out more about the WOW project!
 
 #### **MOE KINDERGARTEN BROCHURES**
 <img src="/images/MK%20YPS/The%20MK%20Experience/MK_Brochure.png" alt="MK Brochure" style="float:left;margin-right:25px;width:250px;height:353px;">Available in English and the 3 Mother Tongue Languages. Download a copy and share it with your family and friends!
