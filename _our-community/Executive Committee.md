@@ -255,8 +255,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Information, Communication &amp; Technology
-<br>(Internal)</p>
+<br>Information, Communication &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Guan Sheng Bronson
@@ -363,7 +362,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Primary 3 &amp; Primary 4)</p>
+<br>(Primary 3 &amp; Primary 4)
+<br>(Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bahar Ali Bin Sakor
