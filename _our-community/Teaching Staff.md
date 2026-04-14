@@ -334,7 +334,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Phang Bi Yun
+<p>Mr Ng Min Zhou Jonathan
+<br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
+<br>
+<br>Miss Phang Bi Yun
 <br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
 <br>
 <br>Mr Anthony Tay Poh Hua
@@ -512,10 +515,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Min Zhou Jonathan
-<br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
-<br>
-<br>Miss Han Ying
+<p>Miss Han Ying
 <br><a href="mailto:han_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">han_ying_a@schools.gov.sg</a>
 <br>
 <br>Mr Dylan Liew Shaw Leong
