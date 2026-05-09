@@ -32,7 +32,7 @@ programmes</p>
 <h4><strong>Special Programme Highlights</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Discovery Walk (Hall)</strong>  <strong>Walk-in only.</strong> Sessions
+<p><strong>Ready to Learn! - A Day in the Life of a P1 Student Discovery Walk (Hall)</strong>  <strong>Walk-in only.</strong> Sessions
 run every 15 minutes.</p>
 </li>
 <li>
