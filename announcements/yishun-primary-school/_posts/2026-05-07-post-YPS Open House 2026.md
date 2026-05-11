@@ -41,7 +41,7 @@ programmes</p>
 </ul>
 </li>
 <li>
-<p><strong>School Leaders (SL) Outreach (PAL Room)</strong>
+<p><strong>Meet &amp; Connect with School Leaders (PAL Room) </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
