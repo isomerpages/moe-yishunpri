@@ -340,9 +340,6 @@ variant: tiptap
 <br>Miss Phang Bi Yun
 <br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
 <br>
-<br>Mr Anthony Tay Poh Hua
-<br><a href="mailto:anthony_tay_poh_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anthony_tay_poh_hua@schools.gov.sg</a>
-<br>
 <br>Mdm Isnarti Bte Ahmad Sani
 <br><a href="mailto:isnarti_ahmad_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isnarti_ahmad_sani@schools.gov.sg</a>
 </p>
