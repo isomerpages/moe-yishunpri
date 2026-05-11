@@ -32,8 +32,13 @@ programmes</p>
 <h4><strong>Special Programme Highlights</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Ready to Learn! - A Day in the Life of a P1 Student Discovery Walk (Hall)</strong>  <strong>Walk-in only.</strong> Sessions
-run every 15 minutes.</p>
+<p><strong>Ready to Learn! - A Day in the Life of a P1 Student (Discovery Walk at the School Hall)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Walk-in only.</strong> Sessions run every 15 minutes.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>School Leaders (SL) Outreach (PAL Room)</strong>
