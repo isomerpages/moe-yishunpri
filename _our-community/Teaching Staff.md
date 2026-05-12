@@ -44,6 +44,9 @@ variant: tiptap
 <br>
 <br>Mdm Wong Pei Fen
 <br><a href="mailto:Wong_Pei_Fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Pei_Fen@schools.gov.sg</a>
+<br>
+<br>Miss Anandakumar Divyanandhini
+<br><a href="mailto:anandakumar_divyanandhini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anandakumar_divyanandhini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -674,15 +677,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_whee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_whee_kheng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Anandakumar Divyanandhini</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anandakumar_divyanandhini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anandakumar_divyanandhini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
