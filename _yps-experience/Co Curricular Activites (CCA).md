@@ -4,9 +4,6 @@ permalink: /yps-experience/cca/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Experience/Cca/cca_02_v1.jpg">
-</div>
 <p><strong><u>Co-Curricular Activities (CCA) at Yishun Primary School</u></strong>
 </p>
 <p>At Yishun Primary School, Co-Curricular Activities (CCAs) play a vital
