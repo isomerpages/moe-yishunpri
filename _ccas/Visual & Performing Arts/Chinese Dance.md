@@ -22,6 +22,7 @@ Our dancers have performed in various external events such as, Singapore Youth F
 * Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
+* **2026 Singapore Youth Festival** - Certificate of Accomplishment
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
 * **2022 SYF Arts Presentation**
 
