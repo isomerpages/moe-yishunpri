@@ -22,6 +22,7 @@ We hope that talented and interested young dancers can join us in our dance jour
 * Fridays, 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
+* **2026 Singapore Youth Festival** - Certificate of Distinction
 * **2024 SYF Arts Presentation** - Certificate of Accomplishment
 * **2022 SYF Arts Presentation**
 
