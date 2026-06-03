@@ -277,17 +277,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Level Head
-<br>English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Joan Kam See Mun
-<br><a href="mailto:joan_kam_see_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joan_kam_see_mun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head
 <br>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
