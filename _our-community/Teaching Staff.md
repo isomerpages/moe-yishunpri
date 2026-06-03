@@ -39,10 +39,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Joan Kam See Mun
-<br><a href="mailto:joan_kam_see_mun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joan_kam_see_mun@schools.gov.sg</a>
-<br>
-<br>Mdm Wong Pei Fen
+<p>Mdm Wong Pei Fen
 <br><a href="mailto:Wong_Pei_Fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wong_Pei_Fen@schools.gov.sg</a>
 <br>
 <br>Miss Anandakumar Divyanandhini
@@ -61,9 +58,6 @@ variant: tiptap
 <br>
 <br>Miss Zhuo Cangyuan
 <br><a href="mailto:zhuo_cangyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_cangyuan@schools.gov.sg</a>
-<br>
-<br>Mr Prasath Narayanan
-<br><a href="mailto:prasath_narayanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prasath_narayanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
