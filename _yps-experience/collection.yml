@@ -2,6 +2,7 @@ collections:
   yps-experience:
     output: true
     order:
+      - YPS Discipline Policy 2.md
       - The YPS Experience.md
       - Curriculum.md
       - Student Development.md
