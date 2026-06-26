@@ -314,10 +314,7 @@ informing parents at the earliest opportunity</p>
 </tr>
 </tbody>
 </table>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences for Minor Offences</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Consequences for Minor Offences</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -342,19 +339,31 @@ informing parents at the earliest opportunity</p>
 <p>First-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suspension of Recess Play; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Suspension of Recess Play; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Corrective Work; <strong><u>and/or</u></strong>
+</li>
+<li>
+<p>Corrective Work; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflection Essays; <strong><u>and/or</u></strong>
+</li>
+<li>
+<p>Reflection Essays; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Behavioural Contract; <strong><u>and/or</u></strong>
+</li>
+<li>
+<p>Behavioural Contract; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research &amp; Presentation to class
-on harms caused; <strong><u>and/or</u></strong>
+</li>
+<li>
+<p>Research &amp; Presentation to class on harms caused; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade adjustment (where
-relevant)</p>
+</li>
+<li>
+<p>Conduct Grade adjustment (where relevant)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -364,10 +373,16 @@ relevant)</p>
 <td rowspan="2" colspan="1">
 <p><strong>&nbsp;</strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ineligibility for Scholarships/Awards,
-Leadership Appointments, Overseas Trips, School Team Representation; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ineligibility for Scholarships/Awards, Leadership Appointments, Overseas
+Trips, School Team Representation; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade adjustment</p>
+</li>
+<li>
+<p>Conduct Grade adjustment</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -377,13 +392,7 @@ Leadership Appointments, Overseas Trips, School Team Representation; <strong><u>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consequences for Serious and Very Serious Offences</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<h4><strong>Consequences for Serious and Very Serious Offences</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -409,26 +418,33 @@ Leadership Appointments, Overseas Trips, School Team Representation; <strong><u>
 <p>First-time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 to 3 days of detention <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>suspension; <strong><u>and/or</u></strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 stroke of the cane (for upper
-primary and older boys only, with aggravating factors)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u> </strong>conduct
-grade adjustment</p>
+</li>
+<li>
+<p>1 stroke of the cane (for upper primary and older boys only, with aggravating
+factors)</p>
+</li>
+<li>
+<p><strong><u>AND</u> </strong>conduct grade adjustment</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3&nbsp; to&nbsp;
-5&nbsp; days&nbsp; of&nbsp; detention&nbsp; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of&nbsp;detention&nbsp; <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>suspension; <strong><u>and/or</u></strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes
-of the cane (for upper primary and older boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u> </strong>conduct
-grade adjustment (no better than ‘Fair’)</p>
-<p>•​</p>
+</li>
+<li>
+<p>Up to 2 strokes of the cane (for upper primary and older boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u> </strong>conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -436,12 +452,15 @@ grade adjustment (no better than ‘Fair’)</p>
 <p>Second- time offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 to 5 days of detention <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention <strong><u>and/or</u></strong>
 </p>
+</li>
+</ul>
 <p>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 2 strokes of the cane (for
-upper primary and older boys only)</p>
+<p>Up to 2 strokes of the cane (for upper primary and older boys only)</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u> </strong>conduct
 grade adjustment (no better than ‘Fair’)</p>
 </td>
