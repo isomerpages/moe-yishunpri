@@ -716,6 +716,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Nur Aisyah Binte Mohamed Sinwan
+<br>(SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_aisyah_mohamed_sinwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisyah_mohamed_sinwan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Loo Kailing Kathleen
 <br>(School Counsellor)</p>
 </td>
