@@ -2,9 +2,9 @@ collections:
   yps-experience:
     output: true
     order:
+      - YPS Discipline Policy.md
       - The YPS Experience.md
       - Curriculum.md
       - Student Development.md
       - Signature Programmes.md
       - Co Curricular Activites (CCA).md
-      - YPS Discipline Policy.md
