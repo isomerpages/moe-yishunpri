@@ -454,28 +454,30 @@ factors)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>3 to 5 days of detention <strong><u>and/or</u></strong>
+<p>3 to 5 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
 </p>
 </li>
-</ul>
-<p>suspension; <strong><u>and/or</u></strong>
-</p>
+<li>
 <p>Up to 2 strokes of the cane (for upper primary and older boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u> </strong>conduct
-grade adjustment (no better than ‘Fair’)</p>
+</li>
+<li>
+<p><strong><u>AND</u> </strong>conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-days&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-detention</p>
-<p><strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to&nbsp;14&nbsp;days&nbsp;of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for
-upper primary and older boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>conduct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-adjustment (‘Poor’)</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for upper primary and older boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u>&nbsp;</strong>conduct&nbsp;grade&nbsp;adjustment (‘Poor’)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
