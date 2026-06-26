@@ -485,67 +485,88 @@ factors)</p>
 <p>Subsequent offenders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5 to 14 days of detention <strong><u>and/or</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or </u></strong>suspension; <strong><u>and/or</u></strong>
 </p>
-<p>suspension; <strong><u>and/or</u></strong>
-</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Up to 3 strokes of the cane (for
-upper primary and older boys only)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>AND</u>&nbsp;&nbsp;&nbsp;&nbsp; </strong>conduct
-grade&nbsp;&nbsp; adjustment (‘Poor’)</p>
+</li>
+<li>
+<p>Up to 3 strokes of the cane (for upper primary and older boys only)</p>
+</li>
+<li>
+<p><strong><u>AND</u>&nbsp;</strong>conduct grade&nbsp;&nbsp; adjustment
+(‘Poor’)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>• ​</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><em>Note: Schools have the autonomy to add other school-based consequences based on their assessment of each case.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How Parents Can Support</strong>
-</p>
+<h4><strong>How Parents Can Support</strong></h4>
 <p>Parents play an important role in reinforcing positive behaviour. The
 school values open communication and partnership with parents, especially
 when concerns arise. Parents will be informed of significant or repeated
 incidents and are encouraged to work closely with the school to support
 their child.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Talk regularly </strong>with
-your child about school experiences and friendships.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Teach respectful behaviour </strong>and
-reinforce healthy digital habits at home.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Monitor </strong>your child’s
-online and offline interactions and activities.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Share concerns promptly </strong>with
-your child’s Form Teacher or Year Head.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Work collaboratively </strong>with
-school on agreed interventions.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Model positive behaviour </strong>in
-your own interactions, such as being calm and respectful in communications.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Use 'teachable moments' </strong>in
-your daily interactions with your child to explain why certain conduct
-is inappropriate.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Reinforce school values </strong>(i.e.
-Gratitude, Care, Resilience, Respect, Responsibility and Integrity) in
-daily interactions and conversations with your child.</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Get in Touch</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Talk regularly </strong>with your child about school experiences
+and friendships.</p>
+</li>
+<li>
+<p><strong>Teach respectful behaviour </strong>and reinforce healthy digital
+habits at home.</p>
+</li>
+<li>
+<p><strong>Monitor </strong>your child’s online and offline interactions
+and activities.</p>
+</li>
+<li>
+<p><strong>Share concerns promptly </strong>with your child’s Form Teacher
+or Year Head.</p>
+</li>
+<li>
+<p><strong>Work collaboratively </strong>with school on agreed interventions.</p>
+</li>
+<li>
+<p><strong>Model positive behaviour </strong>in your own interactions, such
+as being calm and respectful in communications.</p>
+</li>
+<li>
+<p><strong>Use 'teachable moments' </strong>in your daily interactions with
+your child to explain why certain conduct is inappropriate.</p>
+</li>
+<li>
+<p><strong>Reinforce school values </strong>(i.e. Gratitude, Care, Resilience,
+Respect, Responsibility and Integrity) in daily interactions and conversations
+with your child.</p>
+</li>
+</ul>
+<h4><strong>Get in Touch</strong></h4>
 <p>We are here to listen and help. If you would like to bring an incident
 to our attention, you can reach out to us via any of the following methods:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Call: <u>+65 6257 7461</u>
+<ul data-tight="true" class="tight">
+<li>
+<p>Call: <u>+65 6257 7461</u>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:yps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yps@moe.edu.sg</a>
+</li>
+<li>
+<p>Email: <a href="mailto:yps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yps@moe.edu.sg</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online reporting form: <a href="https://form.gov.sg/69f967545809219b29cdd10b" rel="noopener noreferrer nofollow" target="_blank">YPS Care Link</a>
+</li>
+<li>
+<p>Online reporting form: <a href="https://go.gov.sg/yps-care-link" rel="noopener noreferrer nofollow" target="_blank">YPS Care Link</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inform any staff member</p>
+</li>
+<li>
+<p>Inform any staff member</p>
+</li>
+</ul>
 <p>We review this policy regularly to make sure it continues to serve our
 school community well. Your feedback and suggestions are always welcome.</p>
 <p><strong><em>Together, we shape our students’ character, strengthen relationships, and build caring communities.</em></strong>
