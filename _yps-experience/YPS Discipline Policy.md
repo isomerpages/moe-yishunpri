@@ -31,3 +31,13 @@ We want parents and students to feel comfortable coming to us with any concerns.
 * Direct reporting to any staff member
 * Online confidential reporting form
 * Parent contact with teachers/school leaders
+
+##### **4.	How We Respond**
+* **Immediate physical and psychological safety** measures for all students involved
+* **Prompt investigation** and timely updates, subject to case complexity
+* **Safety plans** for affected students
+* **Consequences** focusing on learning prosocial skills and restorative practices.
+* **Restorative support** including school counselling, external referrals and community resources
+* **Partnership with parents** throughout the process, including informing parents at the earliest opportunity
+
+##### **5.	An offence is considered serious when a student:**
