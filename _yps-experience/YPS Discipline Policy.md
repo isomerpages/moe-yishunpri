@@ -41,3 +41,7 @@ We want parents and students to feel comfortable coming to us with any concerns.
 * **Partnership with parents** throughout the process, including informing parents at the earliest opportunity
 
 ##### **5.	An offence is considered serious when a student:**
+* causes serious harm and/or disruption to self, whether physical, psychological or social; and/or
+* causes serious harm and/or disruption to others, whether physical, psychological or social; and/or
+* causes serious damage to property or resources; and/or
+* shows defiance against authorities
