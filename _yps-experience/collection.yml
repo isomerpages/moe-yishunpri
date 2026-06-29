@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The YPS Experience.md
+      - YPS Discipline Policy.md
       - Curriculum.md
       - Student Development.md
       - Signature Programmes.md

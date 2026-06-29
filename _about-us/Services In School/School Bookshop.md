@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Services In School
 variant: markdown
 ---
-**Overseas Associates (Pte) Limited**
-<br>Contact Person: Ms Yeo
-<br>Contact Number: 63826789 (Ext. 208)
-<br>Operating Hours (Monday to Friday): 8.30am to 3.30pm
+**BL Marketing (Pte) Limited**
+<br>Contact Person: Ms Bernice Lee
+<br>Contact Number: 6284 8785
+<br>Operating Hours (Monday to Friday): 8.00am to 3.30pm
