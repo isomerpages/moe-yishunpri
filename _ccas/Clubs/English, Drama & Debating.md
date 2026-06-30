@@ -22,7 +22,6 @@ Come be a part of a vibrant community where creativity meets confidence!
 ##### **Teachers-in-Charge**  
 * Mdm Anita Kaur (I/C) (anita_kaur@schools.gov.sg)
 * Mdm Kirenjit Kaur Gill (2 I/C) (kirenjit_kaur_gill@schools.gov.sg)
-* Miss Joan Kam See Mun (joan_kam_see_mun@schools.gov.sg)
 * Mdm Liz Alfreda Selamat (liz_alfreda_selamat@schools.gov.sg)
 
 ##### **Venue**
