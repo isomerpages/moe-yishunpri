@@ -24,8 +24,9 @@ To further broaden their learning experiences, our students also participate in 
 * Indoor Sports Hall Level 1
 
 ##### **Time and Days**
-* Tuesdays (Primary 3 to 6), 1.40 p.m. - 3.40 p.m.
-* Tuesdays &amp; Fridays (School Team), 1.40 p.m. - 4.10 p.m.
+* Tuesdays &amp; Fridays (Core Team), 1.40 p.m. - 4.10 p.m.
+* Tuesdays (Development Team, Primary 4 to 6), 1.40 p.m. - 3.40 p.m.
+* Fridays (Development Team, Primary 3), 1.40 p.m. - 3.40 p.m.
 
 ##### **Achievements**
 * **National School Games 2025 Senior Girls League 3**<br>4th Placing
