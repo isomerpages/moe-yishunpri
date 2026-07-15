@@ -237,7 +237,7 @@ informing parents at the earliest opportunity</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Dishonesty</p>
+<p>Dishonest Behaviour</p>
 </li>
 </ul>
 </td>
