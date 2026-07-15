@@ -318,13 +318,8 @@ informing parents at the earliest opportunity</p>
 </tr>
 </tbody>
 </table>
-<p>We adopt an educative and restorative approach to student behaviour. We
-look at each incident holistically, seeking to understand the circumstances,
-the needs of those involved, and the impact of the behaviour. In addition
-to appropriate consequences as shared below, we will provide students with
-structured opportunities to reflect on their actions, take responsibility,
-repair relationships where needed, and develop the skills to make better
-choices in the future.</p>
+<p><strong>We adopt an educative and restorative approach to student behaviour. We look at each incident holistically, seeking to understand the circumstances, the needs of those involved, and the impact of the behaviour. In addition to appropriate consequences as shared below, we will provide students with structured opportunities to reflect on their actions, take responsibility, repair relationships where needed, and develop the skills to make better choices in the future.</strong>
+</p>
 <h4><strong>Consequences for Minor Offences</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
