@@ -235,7 +235,11 @@ informing parents at the earliest opportunity</p>
 <p>Integrity &amp; Ethics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dishonest Behaviour</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -314,6 +318,8 @@ informing parents at the earliest opportunity</p>
 </tr>
 </tbody>
 </table>
+<p><strong>We adopt an educative and restorative approach to student behaviour. We look at each incident holistically, seeking to understand the circumstances, the needs of those involved, and the impact of the behaviour. In addition to appropriate consequences as shared below, we will provide students with structured opportunities to reflect on their actions, take responsibility, repair relationships where needed, and develop the skills to make better choices in the future.</strong>
+</p>
 <h4><strong>Consequences for Minor Offences</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -505,8 +511,7 @@ factors)</p>
 </tr>
 </tbody>
 </table>
-<p><em>Note: Schools have the autonomy to add other school-based consequences based on their assessment of each case.</em>
-</p>
+<p></p>
 <h4><strong>How Parents Can Support</strong></h4>
 <p>Parents play an important role in reinforcing positive behaviour. The
 school values open communication and partnership with parents, especially
