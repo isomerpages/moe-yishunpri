@@ -3,12 +3,13 @@ title: School Dental Clinic
 permalink: /about-us/services-in-school/school-dental-clinic/
 description: ""
 third_nav_title: Services In School
+variant: markdown
 ---
 **Open on Alternate Weekly Basis**
 
 **Operating Hours:**
-<br>Monday to Thursday: 8.00am - 12.30pm, 1.30pm - 5.30pm
-<br>Friday: 8.00am - 12.30pm, 1.30pm - 5.00pm
+<br>Monday, Wednesday, Friday: 8.00am - 5.00pm
+<br>Tuesday, Thursday: 8.00am - 5.30pm
  
 Contact Person: Ms Ada Goh, Dental Therapist
 <br>Contact Number: 8764 5397
