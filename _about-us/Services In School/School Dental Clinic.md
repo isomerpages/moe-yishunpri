@@ -9,7 +9,7 @@ variant: markdown
 
 **Operating Hours:**
 <br>Monday, Wednesday, Friday: 8.00am - 5.00pm
-<br>tuesday, Thursday: 8.00am - 5.30pm
+<br>Tuesday, Thursday: 8.00am - 5.30pm
  
 Contact Person: Ms Ada Goh, Dental Therapist
 <br>Contact Number: 8764 5397
