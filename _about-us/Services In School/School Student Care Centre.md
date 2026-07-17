@@ -6,8 +6,6 @@ third_nav_title: Services In School
 variant: markdown
 ---
 **Commit Learning School House**
-<br>**Senior Centre Head**
-<br>Name: Ms Susan Thng
 <br>Contact: 8947 9516
 <br>Email: [admission_cls_yps@commitlearning.com.sg](mailto:admission_cls_yps@commitlearning.com.sg)
 
