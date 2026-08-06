@@ -6,8 +6,8 @@ third_nav_title: Services In School
 variant: markdown
 ---
 **Commit Learning School House**
-<br>Name: Syazren Manisha
-<br>Contact: 8816 1206
+<br>Name: Priya
+<br>Contact: 8947 9516
 <br>Email: [admission_cls_yps@commitlearning.com.sg](mailto:admission_cls_yps@commitlearning.com.sg)
 
 **Operating Hours (Mondays to Fridays)**
