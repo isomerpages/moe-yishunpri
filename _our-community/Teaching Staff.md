@@ -45,6 +45,10 @@ variant: tiptap
 <br>Miss Anandakumar Divyanandhini
 <br><a href="mailto:anandakumar_divyanandhini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anandakumar_divyanandhini@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mdm Nurul Athirah Binte Abdul Rahman
+<br><a href="mailto:nurul_athirah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_athirah_abdul_rahman@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,6 +62,10 @@ variant: tiptap
 <br>
 <br>Miss Zhuo Cangyuan
 <br><a href="mailto:zhuo_cangyuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_cangyuan@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Miss Syaqiria Haziqah Binte Samad
+<br><a href="mailto:syaqiria_haziqah_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syaqiria_haziqah_samad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -205,6 +213,10 @@ variant: tiptap
 <br>Ms Fam Xinru Winnie
 <br><a href="mailto:fam_xinru_winnie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fam_xinru_winnie@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Mukuntan s/o Muruganantham
+<br><a href="mailto:mukuntan_muruganantham@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mukuntan_muruganantham@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -334,9 +346,6 @@ variant: tiptap
 <p>Mr Ng Min Zhou Jonathan
 <br><a href="mailto:ng_min_zhou_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_min_zhou_jonathan@schools.gov.sg</a>
 <br>
-<br>Miss Phang Bi Yun
-<br><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
-<br>
 <br>Mdm Isnarti Bte Ahmad Sani
 <br><a href="mailto:isnarti_ahmad_sani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">isnarti_ahmad_sani@schools.gov.sg</a>
 </p>
@@ -387,9 +396,6 @@ variant: tiptap
 <br>
 <br>Mdm Siti Karmila Binte Abu
 <br><a href="mailto:siti_karmila_abu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_karmila_abu@schools.gov.sg</a>
-<br>
-<br>Miss Tee Li Xuan
-<br><a href="mailto:tee_li_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_li_xuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -399,10 +405,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elsie Kwan Yin Teng
-<br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
-<br>
-<br>Ms Soong Jing Min
+<p>Ms Soong Jing Min
 <br><a href="mailto:soong_jing_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soong_jing_min@schools.gov.sg</a>
 <br>
 <br>Miss Lee Linghui Alcina
@@ -497,9 +500,6 @@ variant: tiptap
 <br>
 <br>Mrs Ribut Aziz
 <br><a href="mailto:ribut_nawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ribut_nawi@schools.gov.sg</a>
-<br>
-<br>Mr Neo Chow Wei Christopher
-<br><a href="mailto:neo_chow_wei_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chow_wei_christopher@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -591,6 +591,10 @@ variant: tiptap
 <br>Mdm Lee Kim Kim
 <br><a href="mailto:lee_kim_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kim_kim@schools.gov.sg</a>
 </p>
+<p></p>
+<p>Mr Neo Chow Wei Christopher
+<br><a href="mailto:neo_chow_wei_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chow_wei_christopher@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -676,6 +680,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Phang Bi Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phang_bi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_bi_yun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Alissa Goh Yoke En
 <br>(Senior SEN Officer)</p>
 </td>
@@ -731,16 +744,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loo_kailing_kathleen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_kailing_kathleen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Quek Pei Qi Davynn
-<br>(School Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_pei_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_pei_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
