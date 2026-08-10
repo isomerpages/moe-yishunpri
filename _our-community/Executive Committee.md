@@ -138,17 +138,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>Physical Education, CCA &amp; Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Elsie Kwan Yin Teng
-<br><a href="mailto:kwan_yin_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yin_teng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
 <br>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
