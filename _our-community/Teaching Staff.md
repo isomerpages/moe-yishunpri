@@ -734,16 +734,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Quek Pei Qi Davynn
-<br>(School Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_pei_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_pei_qi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
