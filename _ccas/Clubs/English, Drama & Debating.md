@@ -23,6 +23,7 @@ Come be a part of a vibrant community where creativity meets confidence!
 * Mdm Anita Kaur (I/C) (anita_kaur@schools.gov.sg)
 * Mdm Kirenjit Kaur Gill (2 I/C) (kirenjit_kaur_gill@schools.gov.sg)
 * Mdm Liz Alfreda Selamat (liz_alfreda_selamat@schools.gov.sg)
+* Mdm Nur Atiqah Binte Md Komari (Nur_Atiqah_Md_Komari@schools.gov.sg)
 
 ##### **Venue**
 * School Library
