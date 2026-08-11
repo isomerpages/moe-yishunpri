@@ -12,6 +12,7 @@ We hope that talented and interested young dancers can join us in our dance jour
 * Mdm Fong Pui Shan (I/C) (fong_pui_shan@schools.gov.sg)
 * Miss Guan Qinqin (2 I/C) (guan_qin_qin@schools.gov.sg)
 * Ms Nirmala d/o Arumugam (nirmala_arumugam@schools.gov.sg)
+* Mdm Wong Pei Fen (Wong_Pei_Fen@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 2 (Dance Studio)
