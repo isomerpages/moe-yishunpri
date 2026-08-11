@@ -10,12 +10,12 @@ At Yishun Primary School, our Football Co-Curricular Activity (CCA) aims to equi
 Beyond the game, our Football CCA instills the core values of excellence, respect, and friendship. Players learn the importance of discipline, commitment, and perseverance as they strive for excellence in both training and matches. They are encouraged to show respect—not only towards their teammates and coaches but also towards their opponents and officials. Through shared experiences on and off the field, strong friendships are forged, creating a supportive and inclusive team environment.
 
 ##### **Teachers-in-Charge**
-* Mdm Isnarti Bte Ahmad Sani (I/C) (isnarti_ahmad_sani@schools.gov.sg)
+* Mr Sheikh Omar Bin Mohamad (I/C) (sheikh_omar_mohamad@schools.gov.sg)
 * Mr Bahar Ali Bin Sakor (2 I/C) (bahar_ali_sakor@schools.gov.sg)
+* Mdm Isnarti Bte Ahmad Sani (isnarti_ahmad_sani@schools.gov.sg)
 * Mdm Rohayah Binte Ya'acub (rohayah_yaacub@schools.gov.sg)
-* Mr Sheikh Omar Bin Mohamad (sheikh_omar_mohamad@schools.gov.sg)
 * Mr Neo Chow Wei Christopher (neo_chow_wei_christopher@schools.gov.sg)
-* Mr Prasath Narayanan (prasath_narayanan@schools.gov.sg)
+* Mr Stanley Wong Jun Kai (wong_jun_kai_b@schools.gov.sg)
 
 ##### **Venue**
 * School Field
