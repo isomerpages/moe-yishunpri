@@ -16,7 +16,6 @@ With the addition of 3D printing and design, students now have the power to tran
 * Mdm Siti Karmila Binte Abu (2 I/C) (siti_karmila_abu@schools.gov.sg)
 * Mr Anthony Tay Poh Hua (anthony_tay_poh_hua@schools.gov.sg)
 * Mr Thandavamurthy Vasanthavelan (thandavamurthy_vasanthavelan@schools.gov.sg)
-* Mdm Wong Pei Fen (Wong_Pei_Fen@schools.gov.sg)
 * Ms Soong Jing Min (soong_jing_min@schools.gov.sg)
 
 ##### **Venues**
