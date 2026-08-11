@@ -17,7 +17,6 @@ To further broaden their learning experiences, our students also participate in 
 * Ms Fam Xinru Winnie (fam_xinru_winnie@schools.gov.sg)
 * Mr Heng Kai Le (heng_kai_le@schools.gov.sg)
 * Mdm Maswati Binte Mohamed Nor (Maswati_Mohamed_Nor@schools.gov.sg)
-* Mr Kwek Yao Chie (kwek_yao_chie@schools.gov.sg)
 * Miss Peh Shi Qi (peh_shi_qi@schools.gov.sg)
 
 ##### **Venue**

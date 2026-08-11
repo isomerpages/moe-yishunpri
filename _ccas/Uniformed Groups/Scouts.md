@@ -17,8 +17,9 @@ Join us on this exciting journey of adventure, learning, and growth.
 ##### **Teachers-in-Charge**
 * Mr Masri Bin Kario (I/C) (masri_kario@schools.gov.sg)
 * Mrs Ahrunhachelam Shanthi (2 I/C) (ahrunhachelam_shanthi@schools.gov.sg)
-* Miss Mandy Ng Si Zhen (mandy_ng_si_zhen@schools.gov.sg)
-* Mr Vasudavan s/o S G Pillai (vasudavan_s_g_pillai@schools.gov.sg)
+* Mr Dylan Liew Shaw Leong (liew_shaw_leong@schools.gov.sg)
+* Miss Anandakumar Divyanandhini (anandakumar_divyanandhini@schools.gov.sg)
+* Miss Kusumawati Bte Ahmad Dafir (kusumawati_ahmad_dafir@schools.gov.sg)
 
 ##### **Venue**
 * Indoor Sports Hall Level 4 (Flexi Room 2 &amp; 3)
