@@ -13,8 +13,9 @@ Our dancers have performed in various external events such as, the International
 
 ##### **Teachers-in-Charge**
 * Mdm Sathiya kala d/o Ramasamy (I/C) (sathiya_kala_ramasamy@schools.gov.sg)
-* Mdm Praveena (2 I/C) (praveena_raja_manickam@schools.gov.sg)
-* Ms Kaviarasi Sanggar (kaviarasi_sanggar@schools.gov.sg)
+* Ms Kaviarasi Sanggar (2 I/C) (kaviarasi_sanggar@schools.gov.sg)
+* Mdm Praveena (praveena_raja_manickam@schools.gov.sg)
+* 
 
 ##### **Venue**
 * Music Room 2
