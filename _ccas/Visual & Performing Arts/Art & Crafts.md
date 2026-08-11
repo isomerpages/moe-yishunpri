@@ -12,12 +12,12 @@ To deepen their appreciation for Visual Arts, students are exposed to local and 
 Through meaningful art-making processes, students develop their character and grow in our school values such as care, gratitude, responsibility and resilience.
 
 ##### **Teachers-in-Charge**
-* Miss Phang Bi Yun (I/C) (phang_bi_yun@schools.gov.sg)
-* Mdm Goh Silk (2 I/C) (goh_silk@schools.gov.sg)
-* Mrs Ribut Aziz (ribut_nawi@schools.gov.sg)
+* Mdm Goh Silk (I/C) (goh_silk@schools.gov.sg)
+* Mrs Ribut Aziz (2 I/C) (ribut_nawi@schools.gov.sg)
 * Mdm Seah Meng Hui Joanna (seah_meng_hui_joanna@schools.gov.sg)
 * Mdm Siti Wahida Binte Zainal Abidin (siti_wahida@schools.gov.sg)
 * Miss Nur Insyirah Binte Azhar (nur_insyirah_azhar@schools.gov.sg)
+* Miss Syaqiria Haziqah Binte Samad (syaqiria_haziqah_samad@schools.gov.sg)
 
 ##### **Venue**
 * Art Rooms   
