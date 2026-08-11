@@ -10,6 +10,7 @@ Environmental Science empowers students to become environmental champions, foste
 ##### **Teachers-in-Charge**
 * Mdm Goh Zi Wei (I/C) (goh_zi_wei@schools.gov.sg)
 * Mdm Lim Poh Ling Katherine (2 I/C) (lim_poh_ling_katherine@schools.gov.sg)
+* Mr Teng Ji Song Lawrence (Teng_Ji_Song_Lawrence@schools.gov.sg)
 
 ##### **Venue**
 * Science Room
