@@ -10,7 +10,7 @@ International Chess is a fun, creative and challenging strategic board game for 
 ##### **Teachers-in-Charge**
 * Mr Ghanaprakasam s/o Subramaniam (I/C) (ghanaprakasam_subramanian@schools.gov.sg)
 * Mr V Ilanchezhiyan (2 I/C) (v_ilanchezhiyan@schools.gov.sg)
-* Mr Keith Toh Wai Woon (toh_wai_woon@schools.gov.sg)
+* Mdm Nurul Athirah Binte Abdul Rahman (nurul_athirah_abdul_rahman@schools.gov.sg)
 
 ##### **Venue**
 * Classrooms C3-04
