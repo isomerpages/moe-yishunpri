@@ -215,7 +215,7 @@ informing parents at the earliest opportunity</p>
 <p>Open deﬁance</p>
 </li>
 <li>
-<p>Disruptive behaviour</p>
+<p>Disruptive / inappropriate behaviour</p>
 </li>
 </ul>
 </td>
@@ -226,6 +226,9 @@ informing parents at the earliest opportunity</p>
 </li>
 <li>
 <p>Possession of weapons</p>
+</li>
+<li>
+<p>Sexual misconduct</p>
 </li>
 </ul>
 </td>
