@@ -102,16 +102,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>K2 Pearl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Athirah Binte Abdul Rahman
-<br><a href="mailto:nurul_athirah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_athirah_abdul_rahman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>K2 Emerald</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,6 +127,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Zhang Shangyu, Jade
 <br><a href="mailto:zhang_shangyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_shangyu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Bhavani D/O Rajendran
+<br><a href="mailto:bhavani_rajandran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bhavani_rajandran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -184,6 +184,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Liu Hongmei
 <br><a href="mailto:Liu_Hongmei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liu_Hongmei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Chunxue
+<br><a href="mailto:Wang_Chunxue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chunxue@schools.gov.sg</a>
 </p>
 </td>
 </tr>
