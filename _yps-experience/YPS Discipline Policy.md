@@ -144,7 +144,14 @@ informing parents at the earliest opportunity</p>
 <p>Attendance &amp; Accountability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Skipping classes, which may result in late coming</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Latecoming</p>
+</li>
+<li>
+<p>Skipping classes</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
