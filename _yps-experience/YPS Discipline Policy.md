@@ -401,7 +401,7 @@ Trips, School Team Representation; <strong><u>and/or</u></strong>
 </tr>
 </tbody>
 </table>
-<h4><strong>Consequences for Serious and Very Serious Offences</strong></h4>
+<h4><strong>Consequences for *Serious and Very Serious Offences</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -514,7 +514,8 @@ factors)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>*Students who commit serious offences or a very serious offence would not be nominated for bursaries, awards, and scholarships. Leadership positions may also be suspended or revoked. However, this does not affect future years, and students are encouraged to continue to learn and improve on their conduct.</em>
+</p>
 <h4><strong>How Parents Can Support</strong></h4>
 <p>Parents play an important role in reinforcing positive behaviour. The
 school values open communication and partnership with parents, especially
