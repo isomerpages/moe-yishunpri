@@ -521,7 +521,7 @@ factors)</p>
 </tr>
 </tbody>
 </table>
-<p><em>*Students who commit serious offences or a very serious offence would not be nominated for bursaries, awards, and scholarships. Leadership positions may also be suspended or revoked. However, this does not affect future years, and students are encouraged to continue to learn and improve on their conduct.</em>
+<p><em>*Students who commit serious offences or a very serious offence would not be eligible for character-based bursaries, awards, and scholarships. Leadership positions may also be suspended or revoked. However, this does not affect future years, and students are encouraged to continue to learn and improve on their conduct.</em>
 </p>
 <h4><strong>How Parents Can Support</strong></h4>
 <p>Parents play an important role in reinforcing positive behaviour. The
